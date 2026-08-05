@@ -933,10 +933,39 @@ function automaticTickerPosts() {
       id: `result-${matchIdentity(match)}`,
       team: 'WYNIK',
       text: `${match.team1} ${match.score1}:${match.score2} ${match.team2}`,
+      seriesTeams: [match.team1, match.team2],
+      seriesDate: match.timestamp ? new Date(match.timestamp).toISOString().slice(0, 10) : '',
       url: String(match.source || '').startsWith('leaguepedia')
         ? 'https://lol.fandom.com/wiki/Rift_Legends/2026_Season/Summer_Split'
         : 'https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds'
     }));
+}
+
+function tickerSeriesKey(post) {
+  if (!Array.isArray(post?.seriesTeams) || post.seriesTeams.length < 2) return '';
+  return `${matchPairKey(post.seriesTeams[0], post.seriesTeams[1])}|${post.seriesDate || ''}`;
+}
+
+function seriesTickerPosts() {
+  const results = automaticTickerPosts();
+  const mvpPosts = manualTickerPosts.filter(post => String(post.team).toUpperCase() === 'MVP');
+  const usedMvpIds = new Set();
+  const posts = [];
+
+  results.forEach(result => {
+    posts.push(result);
+    const resultKey = tickerSeriesKey(result);
+    const mvp = mvpPosts.find(post => !usedMvpIds.has(post.id) && tickerSeriesKey(post) === resultKey);
+    if (!mvp) return;
+    usedMvpIds.add(mvp.id);
+    posts.push({ ...mvp, team: 'MVP SERII' });
+  });
+
+  manualTickerPosts
+    .filter(post => !['WYNIK', 'MVP'].includes(String(post.team).toUpperCase()))
+    .forEach(post => posts.push(post));
+
+  return posts;
 }
 
 function tickerMatchTime(timestamp) {
@@ -1002,8 +1031,7 @@ function contextTickerPosts() {
 function renderTickerContent() {
   if (!tickerTrack) return false;
   const posts = [
-    ...automaticTickerPosts(),
-    ...manualTickerPosts.filter(post => String(post.team).toUpperCase() !== 'WYNIK'),
+    ...seriesTickerPosts(),
     ...contextTickerPosts()
   ];
   const uniquePosts = [...new Map(posts.map(post => [`${post.team}|${post.text}`, post])).values()];
