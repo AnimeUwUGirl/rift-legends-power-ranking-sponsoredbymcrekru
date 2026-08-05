@@ -127,7 +127,7 @@ button { font: inherit; color: inherit; }
 .ranking-last-series { color:#c5cbd7; font-size:.67rem; }
 .ranking-last-series.empty { color:#626a7c; }
 .ranking-rating { font-size:1.7rem; font-weight:950; letter-spacing:-.05em; text-align:right; }
-.ranking-movement { text-align:right; font-size:.6rem; font-weight:850; }
+.ranking-movement { text-align:right; font-size:.74rem; line-height:1.15; font-weight:950; }
 .ranking-movement.up { color:var(--green); }
 .ranking-movement.down { color:#ff6b83; }
 .ranking-movement.stable { color:#7f8798; }
@@ -323,7 +323,7 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
   .ranking-team-cell h3 { font-size:.8rem; line-height:1.15; }
   .ranking-team-cell small { font-size:.47rem; }
   .ranking-rating { font-size:1.3rem; }
-  .ranking-movement { font-size:.5rem; }
+  .ranking-movement { font-size:.64rem; }
   .team-grid { grid-template-columns:1fr; }
   .changelog-entry { grid-template-columns:1fr auto; gap:10px 16px; }
   .changelog-copy { grid-column:1/-1; }
