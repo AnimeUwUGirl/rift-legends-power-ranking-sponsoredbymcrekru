@@ -1016,15 +1016,6 @@ function contextTickerPosts() {
     url: '#matches'
   }));
 
-  if (!liveMatch && data.broadcasts) {
-    posts.push({
-      id: 'broadcast-nervarien',
-      team: 'TRANSMISJA',
-      text: 'Nervarien · YouTube i Twitch',
-      url: data.broadcasts.youtubeChannel
-    });
-  }
-
   return posts;
 }
 
