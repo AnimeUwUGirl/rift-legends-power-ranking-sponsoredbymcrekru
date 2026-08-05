@@ -747,21 +747,63 @@ function activeScheduleRound() {
   return scheduleRounds.find(round => now <= new Date(round.end).getTime())?.id || scheduleRounds.at(-1).id;
 }
 
+function rankingSeriesSummary(teamName) {
+  const key = teamMatchKey(teamName);
+  const matches = uniqueCompletedMatches()
+    .filter(match => [teamMatchKey(match.team1), teamMatchKey(match.team2)].includes(key))
+    .sort((a, b) => (a.timestamp || 0) - (b.timestamp || 0));
+  let wins = 0;
+  let losses = 0;
+
+  matches.forEach(match => {
+    const firstTeam = teamMatchKey(match.team1) === key;
+    const scored = firstTeam ? match.score1 : match.score2;
+    const conceded = firstTeam ? match.score2 : match.score1;
+    if (scored > conceded) wins += 1;
+    if (scored < conceded) losses += 1;
+  });
+
+  const last = matches.at(-1);
+  if (!last) return { record: '0-0', last: 'Pierwszy mecz przed drużyną', empty: true };
+  const firstTeam = teamMatchKey(last.team1) === key;
+  const scored = firstTeam ? last.score1 : last.score2;
+  const conceded = firstTeam ? last.score2 : last.score1;
+  const opponent = canonicalTeamName(firstTeam ? last.team2 : last.team1);
+  return { record: `${wins}-${losses}`, last: `${scored}:${conceded} vs ${opponent}`, empty: false };
+}
+
+function rankingMovement(team) {
+  if (team.trendLabel) return team.trendLabel;
+  return String(team.trend || '0') === '0' ? 'BEZ ZMIAN' : String(team.trend);
+}
+
+function rankingMovementClass(team) {
+  const trend = String(team.trend || '');
+  if (trend.includes('↑') || team.autoDelta > 0.05) return 'up';
+  if (trend.includes('↓') || team.autoDelta < -0.05) return 'down';
+  return 'stable';
+}
+
 function renderRanking() {
-  rankingList.innerHTML = rankedTeams().map(team => `
-    <article class="ranking-row ${team.state} ${team.autoMatches ? (team.autoDelta >= 0 ? 'auto-gain' : 'auto-loss') : ''}" style="--accent:${team.accent}" data-team="${team.rank}" tabindex="0" role="button" aria-label="Otwórz porównanie składu ${esc(team.name)}">
-      <div class="rank-number">${String(team.rank).padStart(2,'0')}</div>
-      ${teamLogo(team)}
-      <div class="team-main">
-        <div class="team-title-line"><h3>${esc(team.name)}</h3><time class="team-updated" datetime="${esc(team.updated)}">akt. ${esc(formatTeamDate(team.updated))}</time></div>
-        <div class="ranking-change-summary">${esc(rosterChangeText(team))} · ${esc(team.previousLabel)} → SUMMER</div>
-        ${team.autoLast ? `<div class="auto-note"><span>OSTATNI MECZ</span>${esc(team.autoLast.score)} z ${esc(team.autoLast.opponent)}</div>` : ''}
-      </div>
-      <div class="trend-pill"><b>${esc(team.trend)}</b><span>${esc(team.trendLabel)}</span></div>
-      ${scoreMarkup(team, true)}
-      <div class="row-arrow">→</div>
-    </article>
-  `).join('');
+  rankingList.innerHTML = rankedTeams().map(team => {
+    const series = rankingSeriesSummary(team.name);
+    return `
+      <article class="ranking-row ${team.state}" style="--accent:${team.accent}" data-team="${team.rank}" tabindex="0" role="button" aria-label="Otwórz porównanie składu ${esc(team.name)}">
+        <div class="rank-number">${String(team.rank).padStart(2,'0')}</div>
+        <div class="ranking-team-cell">
+          ${teamLogo(team)}
+          <div>
+            <h3>${esc(team.name)}</h3>
+            <small>${esc(rosterChangeText(team))} · akt. ${esc(formatTeamDate(team.updated))}</small>
+          </div>
+        </div>
+        <div class="ranking-record">${esc(series.record)}</div>
+        <div class="ranking-last-series ${series.empty ? 'empty' : ''}">${esc(series.last)}</div>
+        <div class="ranking-rating">${team.score == null ? 'NR' : esc(team.score)}</div>
+        <div class="ranking-movement ${rankingMovementClass(team)}">${esc(rankingMovement(team))}</div>
+      </article>
+    `;
+  }).join('');
 }
 
 function renderTeams() {
