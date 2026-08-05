@@ -9,7 +9,7 @@
   --purple-2: #b38aff;
   --green: #46d6a5;
   --yellow: #f6c453;
-  --max: 1240px;
+  --max: 1500px;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
