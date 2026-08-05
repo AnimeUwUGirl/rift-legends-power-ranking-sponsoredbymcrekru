@@ -752,15 +752,15 @@ function rankingSeriesSummary(teamName) {
   const matches = uniqueCompletedMatches()
     .filter(match => [teamMatchKey(match.team1), teamMatchKey(match.team2)].includes(key))
     .sort((a, b) => (a.timestamp || 0) - (b.timestamp || 0));
-  let wins = 0;
-  let losses = 0;
+  let mapWins = 0;
+  let mapLosses = 0;
 
   matches.forEach(match => {
     const firstTeam = teamMatchKey(match.team1) === key;
     const scored = firstTeam ? match.score1 : match.score2;
     const conceded = firstTeam ? match.score2 : match.score1;
-    if (scored > conceded) wins += 1;
-    if (scored < conceded) losses += 1;
+    mapWins += scored;
+    mapLosses += conceded;
   });
 
   const last = matches.at(-1);
@@ -769,7 +769,7 @@ function rankingSeriesSummary(teamName) {
   const scored = firstTeam ? last.score1 : last.score2;
   const conceded = firstTeam ? last.score2 : last.score1;
   const opponent = canonicalTeamName(firstTeam ? last.team2 : last.team1);
-  return { record: `${wins}-${losses}`, last: `${scored}:${conceded} vs ${opponent}`, empty: false };
+  return { record: `${mapWins}-${mapLosses}`, last: `${scored}:${conceded} vs ${opponent}`, empty: false };
 }
 
 function rankingMovement(team) {
