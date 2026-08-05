@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#090b12" />
+  <meta name="description" content="Niezależny ranking drużyn Rift Legends na split Summer 2026." />
+  <link rel="canonical" href="https://riftpower.pl/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="pl_PL" />
+  <meta property="og:title" content="Rift Power | Ranking Summer 2026" />
+  <meta property="og:description" content="Niezależny ranking drużyn Rift Legends na split Summer 2026." />
+  <meta property="og:url" content="https://riftpower.pl/" />
+  <title>Rift Power | Ranking Summer 2026</title>
+  <link rel="stylesheet" href="styles.css?v=20260805-7" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Rift Legends Power Ranking, strona główna">
+      <span class="brand-mark brand-logo"><img src="assets/riftpower-logo.webp" alt="" /></span>
+      <span class="brand-copy">
+        <strong>POWER RANKING</strong>
+        <small>RIFT LEGENDS</small>
+      </span>
+    </a>
+
+    <button class="menu-toggle" id="menuToggle" aria-label="Otwórz menu" aria-expanded="false">☰</button>
+    <nav id="siteNav" aria-label="Główna nawigacja">
+      <a href="#ranking">Ranking</a>
+        <a href="#matches">Mecze</a>
+        <a href="#teams">Drużyny</a>
+        <a href="#sources">Źródła</a>
+        <a href="#archive">Zmiany</a>
+    </nav>
+
+    <div class="header-badge"><span></span> SUMMER 2026</div>
+  </header>
+
+  <main id="top">
+    <section class="hero section-shell">
+      <div class="hero-copy">
+        <div class="eyebrow">RIFT LEGENDS · SUMMER 2026</div>
+        <h1>Rift Legends<br><em>Power Ranking</em></h1>
+        <p class="hero-lead">To nie jest tabela ligowa. Układamy drużyny według tego, jak wyglądają teraz, i poprawiamy ranking po zakończonych seriach.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#ranking">Ranking</a>
+          <a class="button ghost" href="#methodology">Zasady</a>
+        </div>
+        <div class="hero-meta">
+          <span><b>Ostatnia aktualizacja</b> <span id="heroUpdatedAt">4 sierpnia 2026</span></span>
+          <span><b>Edycja</b> <span id="heroEdition">Summer trwa</span></span>
+          <span><b>Skala</b> od 0 do 100</span>
+        </div>
+      </div>
+
+    </section>
+
+    <section class="ticker" aria-label="Aktualności meczowe Rift Legends">
+      <div class="ticker-label">NA BIEŻĄCO</div>
+      <div class="ticker-window" id="tickerWindow" title="Przeciągnij myszką, aby przewinąć">
+        <div class="ticker-track">
+          <div class="ticker-group">
+            <a class="ticker-item" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>DOCISK 0:2 Anonymo Esports</span></a>
+            <a class="ticker-item" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>LODIS 2:0 Barcząca Esports</span></a>
+            <a class="ticker-item" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Shibi · KDA 5/1/12 · KP 77,3%</span></a>
+            <a class="ticker-item" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Czekolad · KDA 6/2/12 · KP 75%</span></a>
+          </div>
+          <div class="ticker-group" aria-hidden="true">
+            <a class="ticker-item" tabindex="-1" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>DOCISK 0:2 Anonymo Esports</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>LODIS 2:0 Barcząca Esports</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Shibi · KDA 5/1/12 · KP 77,3%</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Czekolad · KDA 6/2/12 · KP 75%</span></a>
+          </div>
+          <div class="ticker-group" aria-hidden="true">
+            <a class="ticker-item" tabindex="-1" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>DOCISK 0:2 Anonymo Esports</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds" target="_blank" rel="noreferrer noopener"><b>WYNIK</b><span>LODIS 2:0 Barcząca Esports</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Shibi · KDA 5/1/12 · KP 77,3%</span></a>
+            <a class="ticker-item" tabindex="-1" href="https://x.com/RiftLegendsPL" target="_blank" rel="noreferrer noopener"><b>MVP</b><span>Czekolad · KDA 6/2/12 · KP 75%</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell section-block" id="ranking">
+      <div class="section-heading">
+        <div>
+          <h2>Ranking</h2>
+        </div>
+        <div class="legend">
+          <span class="ranking-live-status" id="rankingLiveStatus">RANKING STARTOWY</span>
+        </div>
+      </div>
+
+      <div class="ranking-list" id="rankingList"></div>
+    </section>
+
+    <section class="section-shell section-block" id="matches">
+      <div class="section-heading compact">
+        <div>
+          <h2>Mecze</h2>
+        </div>
+        <p>Terminarz Summer 2026 i ostatnie wyniki.</p>
+      </div>
+
+      <div class="matches-layout">
+        <article class="schedule-card">
+          <div class="matches-card-head">
+            <h3>Najbliższe mecze</h3>
+            <span class="sync-status" id="syncStatus">20 SPOTKAŃ · AKTUALIZACJA</span>
+          </div>
+          <div class="broadcast-bar" id="broadcastBar" aria-label="Oficjalna transmisja"></div>
+          <div class="schedule-tabs" id="scheduleTabs" role="tablist" aria-label="Rundy sezonu zasadniczego"></div>
+          <div class="schedule-panel" id="schedulePanel"></div>
+          <div class="schedule-footer">
+            <div class="phase-strip" aria-label="Terminy kolejnych etapów">
+              <div><small>GAUNTLET</small><b>1 do 4 września</b></div>
+              <div><small>PLAYOFFS</small><b>8 i 9 września</b></div>
+              <div><small>PÓŁFINAŁ</small><b>10 września</b></div>
+              <div><small>FINAŁ</small><b>19 września</b></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="results-card">
+          <div class="matches-card-head">
+            <h3>Ostatnie wyniki</h3>
+            <span id="resultsLabel">SPRING PLAYOFFS</span>
+          </div>
+          <div class="results-list" id="resultsList"></div>
+          <a class="results-source" id="resultsSource" href="https://lol.fandom.com/wiki/Rift_Legends/2026_Season/Spring_Playoffs" target="_blank" rel="noreferrer noopener">Leaguepedia ↗</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-shell section-block" id="teams">
+      <div class="section-heading compact">
+        <div>
+          <h2>Drużyny</h2>
+        </div>
+        <p>Kliknij drużynę, żeby porównać skład ze Spring i Summer.</p>
+      </div>
+      <div class="team-grid" id="teamGrid"></div>
+    </section>
+
+    <section class="section-shell section-block split-layout" id="methodology">
+      <div class="method-copy">
+        <h2>Zasady rankingu</h2>
+        <p>Na początku ustawiliśmy drużyny na podstawie składów. Teraz kolejność zmieniają wyniki Summer.</p>
+        <ul class="method-rules">
+          <li><span>1</span>Po wygranej drużyna dostaje punkty, po porażce je traci.</li>
+          <li><span>2</span>Za 2:0 wpada więcej punktów niż za 2:1.</li>
+          <li><span>3</span>Wygrana z wyżej notowaną ekipą znaczy więcej.</li>
+        </ul>
+      </div>
+      <div class="weight-card" id="weightCard"></div>
+    </section>
+
+    <section class="section-shell section-block" id="sources">
+      <div class="section-heading compact">
+        <div>
+          <h2>Źródła</h2>
+        </div>
+        <p>Składy sprawdzamy w Leaguepedii. Wyniki bierzemy z LoL Esports i GOL.GG.</p>
+      </div>
+      <div class="source-grid" id="sourceGrid"></div>
+    </section>
+
+    <section class="section-shell section-block" id="archive">
+      <div class="section-heading compact">
+        <div>
+          <h2>Ostatnie zmiany</h2>
+        </div>
+        <p>Krótki zapis tego, co ostatnio poprawiliśmy lub dodaliśmy.</p>
+      </div>
+      <div class="changelog-list">
+        <article class="changelog-entry">
+          <time datetime="2026-08-05">05.08.2026</time>
+          <div class="changelog-copy">
+            <h3>Wyniki i pasek „Na bieżąco”</h3>
+            <ul>
+              <li>Dodano wynik DOCISK 0:2 Anonymo i MVP Shibiego.</li>
+              <li>Wyniki zakończonych serii trafiają do paska automatycznie.</li>
+              <li>Poprawiono liczenie serii LODIS i zapętlenie paska.</li>
+              <li>Dodano oficjalne logo UP2UMEDIA Cebulaki.</li>
+              <li>Rozbudowano pasek o najbliższe mecze, lidera i transmisję.</li>
+            </ul>
+          </div>
+          <span class="changelog-status">NAJNOWSZA</span>
+        </article>
+        <article class="changelog-entry">
+          <time datetime="2026-08-04">04.08.2026</time>
+          <div class="changelog-copy">
+            <h3>Start rankingu Summer 2026</h3>
+            <ul>
+              <li>Opublikowano pierwszy ranking po potwierdzeniu składów.</li>
+              <li>Dodano terminarz, porównanie składów i źródła danych.</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="footer-brand"><span class="brand-mark small brand-logo"><img src="assets/riftpower-logo.webp" alt="" /></span><strong>POWER RANKING</strong></div>
+    <p>Niezależny projekt społecznościowy. Nie jest oficjalnym serwisem Riot Games ani organizatora Rift Legends. League of Legends i powiązane znaki są własnością Riot Games.</p>
+  </footer>
+
+  <dialog class="team-modal" id="teamModal">
+    <button class="modal-close" id="modalClose" aria-label="Zamknij">×</button>
+    <div id="modalContent"></div>
+  </dialog>
+
+    <script src="data.js?v=20260805-6"></script>
+    <script src="app.js?v=20260805-10"></script>
+</body>
+</html>
