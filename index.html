@@ -12,7 +12,7 @@
   <meta property="og:description" content="Niezależny ranking drużyn Rift Legends na split Summer 2026." />
   <meta property="og:url" content="https://riftpower.pl/" />
   <title>Rift Power | Ranking Summer 2026</title>
-  <link rel="stylesheet" href="styles.css?v=20260805-9" />
+  <link rel="stylesheet" href="styles.css?v=20260805-12" />
 </head>
 <body>
   <header class="site-header">
@@ -91,7 +91,17 @@
         </div>
       </div>
 
-      <div class="ranking-list" id="rankingList"></div>
+      <div class="ranking-table">
+        <div class="ranking-table-head" aria-hidden="true">
+          <span>Pozycja</span>
+          <span>Drużyna</span>
+          <span>Bilans</span>
+          <span>Ostatnia seria</span>
+          <span>Ocena</span>
+          <span>Zmiana</span>
+        </div>
+        <div class="ranking-list" id="rankingList"></div>
+      </div>
     </section>
 
     <section class="section-shell section-block" id="matches">
@@ -176,10 +186,10 @@
         <article class="changelog-entry">
           <time datetime="2026-08-05">05.08.2026</time>
           <div class="changelog-copy">
-            <h3>Wyniki i pasek „Na bieżąco”</h3>
+            <h3>Wyniki i ranking</h3>
             <ul>
               <li>Dodano automatyczne wyniki oraz informacje o MVP.</li>
-              <li>Poprawiono pasek i liczenie zakończonych serii.</li>
+              <li>Przebudowano ranking na zwarty układ tabelaryczny.</li>
               <li>Dodano oficjalne logo UP2UMEDIA Cebulaki.</li>
             </ul>
           </div>
@@ -210,7 +220,7 @@
     <div id="modalContent"></div>
   </dialog>
 
-    <script src="data.js?v=20260805-6"></script>
-    <script src="app.js?v=20260805-15"></script>
+    <script src="data.js?v=20260805-7"></script>
+    <script src="app.js?v=20260805-17"></script>
 </body>
 </html>
