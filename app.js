@@ -940,12 +940,21 @@ function automaticTickerPosts() {
 }
 
 function tickerMatchTime(timestamp) {
-  return new Intl.DateTimeFormat('pl-PL', {
-    day: 'numeric',
-    month: 'short',
+  const date = new Date(timestamp);
+  const today = new Date();
+  const time = new Intl.DateTimeFormat('pl-PL', {
     hour: '2-digit',
     minute: '2-digit'
-  }).format(new Date(timestamp));
+  }).format(date);
+  const isToday = date.getFullYear() === today.getFullYear()
+    && date.getMonth() === today.getMonth()
+    && date.getDate() === today.getDate();
+  if (isToday) return `dzisiaj, ${time}`;
+  const day = new Intl.DateTimeFormat('pl-PL', {
+    day: 'numeric',
+    month: 'short'
+  }).format(date);
+  return `${day}, ${time}`;
 }
 
 function contextTickerPosts() {
@@ -969,24 +978,14 @@ function contextTickerPosts() {
     .map(match => ({ team1: match[0], team2: match[2], timestamp: new Date(match[3]).getTime() }))
     .filter(match => match.timestamp > now && !fixtureResult(match.team1, match.team2))
     .sort((a, b) => a.timestamp - b.timestamp)
-    .slice(0, 2);
+    .slice(0, 1);
 
-  upcoming.forEach((match, index) => posts.push({
+  upcoming.forEach(match => posts.push({
     id: `upcoming-${match.team1}-${match.team2}-${match.timestamp}`,
-    team: index === 0 ? 'NASTĘPNY MECZ' : 'TERMINARZ',
+    team: 'NASTĘPNY MECZ',
     text: `${match.team1} vs ${match.team2} · ${tickerMatchTime(match.timestamp)}`,
     url: '#matches'
   }));
-
-  const leader = rankedTeams()[0];
-  if (leader) {
-    posts.push({
-      id: `leader-${leader.name}-${leader.score}`,
-      team: 'RANKING',
-      text: `Lider: ${leader.short} · ocena ${leader.score}`,
-      url: '#ranking'
-    });
-  }
 
   if (!liveMatch && data.broadcasts) {
     posts.push({
