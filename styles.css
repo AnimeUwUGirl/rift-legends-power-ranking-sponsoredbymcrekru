@@ -65,12 +65,12 @@ button { font: inherit; color: inherit; }
 .header-badge span { width:7px; height:7px; border-radius:50%; background:var(--green); }
 .menu-toggle { display: none; background: transparent; border: 0; font-size: 1.35rem; }
 
-.hero { min-height:460px; display:flex; align-items:center; padding-top:50px; padding-bottom:50px; }
+.hero { min-height:250px; display:flex; align-items:center; padding-top:28px; padding-bottom:28px; }
 .hero-copy { max-width:1050px; }
-.hero h1 { font-size: clamp(3.4rem, 6vw, 6.2rem); line-height: .94; letter-spacing: -.06em; margin: 19px 0 24px; text-transform: uppercase; }
+.hero h1 { font-size: clamp(2.7rem, 4.4vw, 4.35rem); line-height: .94; letter-spacing: -.055em; margin: 10px 0 14px; text-transform: uppercase; }
 .hero h1 em { font-style: normal; color: var(--purple-2); }
-.hero-lead { color: #aeb5c5; max-width: 650px; font-size: 1.06rem; }
-.hero-actions { display:flex; gap:12px; margin: 30px 0 38px; }
+.hero-lead { color: #aeb5c5; max-width: 760px; font-size: .92rem; }
+.hero-actions { display:flex; gap:10px; margin: 17px 0 20px; }
 .button { padding: 12px 18px; border-radius: 10px; font-weight: 800; font-size: .83rem; border: 1px solid var(--line); transition: .2s ease; }
 .button.primary { background: var(--text); color: #090b12; }
 .button.primary:hover { background:#dfe3eb; }
@@ -289,7 +289,7 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
   .site-header nav.open { display:flex; }
   .header-badge { display:none; }
   .menu-toggle { display:block; justify-self:end; }
-  .hero { padding-top:70px; }
+  .hero { padding-top:38px; }
   .team-grid { grid-template-columns:repeat(2,1fr); }
   .split-layout { grid-template-columns:1fr; gap:30px; }
   .ranking-row { grid-template-columns:50px 48px minmax(0,1fr) 86px 24px; }
@@ -301,8 +301,8 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
   .section-shell { width:min(calc(100% - 24px),var(--max)); }
   .site-header { padding-inline:12px; }
   .brand-copy small { display:none; }
-  .hero { padding-top:46px; min-height:unset; }
-  .hero h1 { font-size:3.45rem; }
+  .hero { padding-top:30px; padding-bottom:30px; min-height:unset; }
+  .hero h1 { font-size:2.85rem; }
   .hero-meta { gap:15px; }
   .hero-actions { flex-wrap:wrap; }
   .ticker { min-height:46px; }
