@@ -223,6 +223,11 @@ button { font: inherit; color: inherit; }
 .result-team.right { text-align:right; }
 .result-score { min-width:54px; text-align:center; padding:7px 5px; border-radius:3px; background:#111622; font-size:.88rem; font-weight:950; letter-spacing:.07em; }
 .result-meta { grid-column:1/-1; margin-top:-5px; text-align:center; color:var(--muted); font-size:.57rem; letter-spacing:.08em; text-transform:uppercase; }
+.result-mvp { grid-column:1/-1; display:flex; align-items:baseline; justify-content:center; gap:7px; margin-top:-3px; color:#d9ddea; font-size:.62rem; line-height:1.25; text-decoration:none; }
+.result-mvp strong { color:#9dffdc; font-size:.58rem; letter-spacing:.12em; }
+.result-mvp span { font-weight:900; }
+.result-mvp small { color:#8f97aa; font-size:.55rem; font-weight:750; }
+a.result-mvp:hover span { color:white; }
 .results-source { display:block; padding:12px 18px; border-top:1px solid var(--line); color:#9480c7; text-align:right; font-size:.55rem; font-weight:800; }
 .results-source:hover { color:#c9b5ff; }
 
@@ -360,4 +365,4 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
 .source-card p { grid-column:1; color:var(--muted); font-size:.55rem; margin:0; }
 .source-arrow { grid-column:2; grid-row:1/3; color:#8992a5; font-size:.85rem; }
 @media (max-width:980px){ .matches-layout{grid-template-columns:1fr;} }
-@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.broadcast-bar{align-items:flex-start;flex-direction:column}.broadcast-actions{justify-content:flex-start}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }
+@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.result-mvp{flex-wrap:wrap;gap:4px 7px}.result-mvp small{flex-basis:100%;text-align:center}.broadcast-bar{align-items:flex-start;flex-direction:column}.broadcast-actions{justify-content:flex-start}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }

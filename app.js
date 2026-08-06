@@ -153,6 +153,7 @@ const summerStartTimestamp = Date.parse('2026-08-04T00:00:00Z');
 const summerEndTimestamp = Date.parse('2026-09-20T23:59:59Z');
 let automaticMatches = [...confirmedSummerResults];
 let automaticResultsSource = 'lolesports-confirmed';
+let mvpFeed = [];
 let selectedScheduleRound = 1;
 const powerWeights = { roster: .30, results: .20, opposition: .15, synergy: .15, form: .10, series: .10 };
 const rankingBaseLabel = data.meta.label;
@@ -452,13 +453,53 @@ function resultMeta(match) {
   return `${match.round || 'Summer 2026'} · ${date}`;
 }
 
+function mvpForMatch(match) {
+  if (!match.timestamp) return null;
+  const matchTeams = new Set([teamMatchKey(match.team1), teamMatchKey(match.team2)]);
+  const matchStart = Number(match.timestamp);
+  const maximumDelay = 8 * 60 * 60 * 1000;
+
+  return mvpFeed
+    .map(post => {
+      const player = post?.extracted?.player;
+      const playerKey = teamNameKey(player);
+      const team = data.teams.find(candidate => candidate.roster.some(nick => teamNameKey(nick) === playerKey));
+      const publishedAt = Date.parse(post.createdAt) || 0;
+      return { post, team, publishedAt, delay: publishedAt - matchStart };
+    })
+    .filter(item => item.team
+      && matchTeams.has(teamMatchKey(item.team.name))
+      && item.delay >= 0
+      && item.delay <= maximumDelay)
+    .sort((a, b) => a.delay - b.delay)[0]?.post || null;
+}
+
+function resultMvpMarkup(post) {
+  if (!post?.extracted?.player) return '';
+  const stats = [];
+  if (post.extracted.kda) stats.push(`KDA ${post.extracted.kda}`);
+  if (Number.isFinite(Number(post.extracted.kp))) {
+    const kp = Number(post.extracted.kp).toLocaleString('pl-PL', { maximumFractionDigits: 1 });
+    stats.push(`KP ${kp}%`);
+  }
+  const safeUrl = /^https:\/\/x\.com\/RiftLegendsPL\/status\/\d+$/i.test(String(post.url || ''))
+    ? String(post.url)
+    : '';
+  const content = `<strong>MVP</strong><span>${esc(post.extracted.player)}</span>${stats.length ? `<small>${esc(stats.join(' · '))}</small>` : ''}`;
+  return safeUrl
+    ? `<a class="result-mvp" href="${esc(safeUrl)}" target="_blank" rel="noreferrer noopener">${content}</a>`
+    : `<span class="result-mvp">${content}</span>`;
+}
+
 function renderResults() {
   if (!resultsList || !resultsLabel || !resultsSource) return;
   const summerResults = automaticMatches
     .filter(isCompletedMatch)
     .sort((a, b) => b.timestamp - a.timestamp)
     .slice(0, 4);
-  const rows = summerResults.length ? summerResults.map(match => ({ ...match, meta: resultMeta(match) })) : fallbackResults;
+  const rows = summerResults.length
+    ? summerResults.map(match => ({ ...match, meta: resultMeta(match), mvp: mvpForMatch(match) }))
+    : fallbackResults;
 
   const officialResults = summerResults.some(match => String(match.source).startsWith('lolesports'));
   resultsLabel.textContent = summerResults.length ? 'WYNIKI SUMMER 2026' : 'SPRING PLAYOFFS';
@@ -475,8 +516,24 @@ function renderResults() {
     <div class="result-row">
       <span class="result-team">${esc(row.team1)}</span><strong class="result-score">${row.score1}:${row.score2}</strong><span class="result-team right">${esc(row.team2)}</span>
       <span class="result-meta">${esc(row.meta)}</span>
+      ${resultMvpMarkup(row.mvp)}
     </div>
   `).join('');
+}
+
+async function refreshMvpFeed() {
+  try {
+    const response = await fetch(`x-feed.json?v=${Date.now()}`, {
+      cache: 'no-store',
+      credentials: 'omit'
+    });
+    if (!response.ok) throw new Error(`MVP HTTP ${response.status}`);
+    const payload = await response.json();
+    mvpFeed = Array.isArray(payload?.posts)
+      ? payload.posts.filter(post => post?.kind === 'mvp' && post?.createdAt && post?.extracted?.player)
+      : [];
+    renderResults();
+  } catch {}
 }
 
 function setSyncStatus(mode, text, explanation) {
@@ -1124,7 +1181,9 @@ renderSources();
 renderSchedule(activeScheduleRound());
 renderResults();
 renderBroadcast();
+refreshMvpFeed();
 setInterval(renderBroadcast, 60000);
+setInterval(refreshMvpFeed, 5 * 60 * 1000);
 refreshMatchResults();
 setInterval(refreshMatchResults, 60000);
 
