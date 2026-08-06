@@ -19,7 +19,7 @@ from urllib.request import Request, urlopen
 API_BASE = "https://api.x.com/2"
 ACCOUNT = os.environ.get("X_ACCOUNT", "RiftLegendsPL").lstrip("@")
 OUTPUT_PATH = Path(os.environ.get("X_FEED_PATH", "x-feed.json"))
-MAX_STORED_POSTS = 25
+MAX_STORED_POSTS = 75
 OCR_VERSION = 2
 USER_AGENT = "RiftPower/1.0 (+https://riftpower.pl)"
 
@@ -35,6 +35,7 @@ def load_state() -> dict[str, Any]:
             "userId": "",
             "lastSeenId": "",
             "updatedAt": None,
+            "backfillComplete": False,
             "posts": [],
         }
 
@@ -45,6 +46,7 @@ def load_state() -> dict[str, Any]:
     state.setdefault("userId", "")
     state.setdefault("lastSeenId", "")
     state.setdefault("updatedAt", None)
+    state.setdefault("backfillComplete", False)
     state.setdefault("posts", [])
     return state
 
@@ -94,9 +96,16 @@ def get_user_id(token: str) -> str:
     return user_id
 
 
-def get_new_posts(token: str, user_id: str, since_id: str) -> dict[str, Any]:
+def get_posts(
+    token: str,
+    user_id: str,
+    *,
+    since_id: str = "",
+    until_id: str = "",
+    max_results: int = 5,
+) -> dict[str, Any]:
     params = {
-        "max_results": "5",
+        "max_results": str(max_results),
         "exclude": "retweets,replies",
         "tweet.fields": "created_at,attachments",
         "expansions": "attachments.media_keys",
@@ -104,6 +113,8 @@ def get_new_posts(token: str, user_id: str, since_id: str) -> dict[str, Any]:
     }
     if since_id:
         params["since_id"] = since_id
+    if until_id:
+        params["until_id"] = until_id
     return api_get(token, f"/users/{quote(user_id)}/tweets", params)
 
 
@@ -277,11 +288,12 @@ def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) 
     text = str(post.get("text", ""))
     media_keys = post.get("attachments", {}).get("media_keys", [])
     media_items = [media_by_key[key] for key in media_keys if key in media_by_key]
+    should_read_image = bool(re.search(r"\bMVP\b|🏆", text, flags=re.IGNORECASE))
 
     ocr_parts: list[str] = []
     ocr_errors: list[str] = []
     for media in media_items:
-        if media.get("type") != "photo" or not media.get("url"):
+        if not should_read_image or media.get("type") != "photo" or not media.get("url"):
             continue
         try:
             ocr_text = run_ocr(str(media["url"]))
@@ -358,11 +370,30 @@ def main() -> None:
         state["userId"] = get_user_id(token)
         changed = True
 
-    payload = get_new_posts(token, str(state["userId"]), str(state["lastSeenId"]))
-    fetched_posts = payload.get("data") or []
+    payload = get_posts(token, str(state["userId"]), since_id=str(state["lastSeenId"]))
+    fetched_posts = list(payload.get("data") or [])
+    fetched_media = list(payload.get("includes", {}).get("media", []))
+
+    if not state.get("backfillComplete"):
+        known_ids = [str(post.get("id", "")) for post in state["posts"]]
+        known_ids.extend(str(post.get("id", "")) for post in fetched_posts)
+        numeric_ids = [post_id for post_id in known_ids if post_id.isdigit()]
+        if numeric_ids:
+            until_id = str(min(map(int, numeric_ids)) - 1)
+            older_payload = get_posts(
+                token,
+                str(state["userId"]),
+                until_id=until_id,
+                max_results=50,
+            )
+            fetched_posts.extend(older_payload.get("data") or [])
+            fetched_media.extend(older_payload.get("includes", {}).get("media", []))
+        state["backfillComplete"] = True
+        changed = True
+
     media_by_key = {
         str(media["media_key"]): media
-        for media in payload.get("includes", {}).get("media", [])
+        for media in fetched_media
         if media.get("media_key")
     }
 
