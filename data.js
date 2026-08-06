@@ -14,18 +14,9 @@ window.RL_DATA = {
     { label: "Nervarien", url: "https://www.youtube.com/@nervarien", note: "transmisje" }
   ],
   broadcasts: {
-    youtubeLive: "https://www.youtube.com/watch?v=WFGNForUKn0",
     youtubeChannel: "https://www.youtube.com/@nervarien",
     twitch: "https://www.twitch.tv/nervarien"
   },
-  weights: [
-    { label: "Skład", value: 30, note: "poziom i doświadczenie zawodników" },
-    { label: "Wyniki", value: 20, note: "ostatnie oficjalne serie" },
-    { label: "Przeciwnicy", value: 15, note: "siła rozegranych rywali" },
-    { label: "Zgranie", value: 15, note: "ciągłość i współpraca składu" },
-    { label: "Forma", value: 10, note: "ostatnie występy" },
-    { label: "Długie serie", value: 10, note: "gra w BO3 i BO5" }
-  ],
   teams: [
     {
       rank: 2,
@@ -33,7 +24,7 @@ window.RL_DATA = {
       short: "BOMBA",
       mark: "BT",
       logo: "assets/bomba-team.webp",
-      score: 90,
+      score: 84,
       trend: "↓1",
       trendLabel: "",
       tier: "S",
@@ -48,11 +39,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["frajgo", "Guli", "Mrozku", "Odi11", "minemaciek"],
-      previousExtras: ["LeQu"],
       previousStaff: ["Maquk", "Dylan"],
       staff: ["Maquk", "behave", "Dylan"],
-      spring: "2. miejsce · Spring Playoffs 2026",
-      metrics: { roster: 86, results: 92, opposition: 90, synergy: 92, form: 88, series: 92 }
+      spring: "2. miejsce · Spring Playoffs 2026"
     },
     {
       rank: 1,
@@ -60,7 +49,7 @@ window.RL_DATA = {
       short: "devils.one",
       mark: "DV1",
       logo: "assets/devils-one-instreamly.webp",
-      score: 92,
+      score: 86,
       trend: "↑1",
       trendLabel: "NOWY LIDER",
       tier: "S",
@@ -75,11 +64,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["Goldmen", "belit", "fantomisto", "Faetski", "Calmsky"],
-      previousExtras: [],
       previousStaff: ["Pavelov", "grzybarez"],
       staff: ["DzikDzikowski"],
-      spring: "7. miejsce · Spring Split 2026",
-      metrics: { roster: 98, results: 90, opposition: 92, synergy: 78, form: 93, series: 96 }
+      spring: "7. miejsce · Spring Split 2026"
     },
     {
       rank: 3,
@@ -87,7 +74,7 @@ window.RL_DATA = {
       short: "LODIS",
       mark: "LOD",
       logo: "assets/lodis.webp",
-      score: 88,
+      score: 82,
       trend: "0",
       trendLabel: "",
       tier: "A+",
@@ -102,11 +89,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["Blesia", "Kokos", "lee sang", "Klorell", "Robertoos"],
-      previousExtras: ["Syrpy"],
       previousStaff: ["Crystalerr"],
       staff: ["TTobias"],
-      spring: "6. miejsce · Spring Split 2026",
-      metrics: { roster: 96, results: 86, opposition: 88, synergy: 72, form: 88, series: 90 }
+      spring: "6. miejsce · Spring Split 2026"
     },
     {
       rank: 4,
@@ -114,11 +99,11 @@ window.RL_DATA = {
       short: "Forsaken",
       mark: "FSK",
       logo: "assets/forsaken.webp",
-      score: 87,
+      score: 80,
       trend: "0",
       trendLabel: "",
-      tier: "A+",
-      state: "hot",
+      tier: "A",
+      state: "stable",
       accent: "#9b6cff",
       rosterStatus: "Oficjalnie zgłoszony",
       rosterStatusType: "official",
@@ -129,11 +114,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["iBo", "XnS", "Decay", "Scorth", "Lucker"],
-      previousExtras: ["Kiuske"],
       previousStaff: ["astr0less", "Gilius"],
       staff: ["Nice Guy Ben"],
-      spring: "1. miejsce · Spring Playoffs 2026",
-      metrics: { roster: 92, results: 87, opposition: 89, synergy: 70, form: 86, series: 91 }
+      spring: "1. miejsce · Spring Playoffs 2026"
     },
     {
       rank: 6,
@@ -141,7 +124,7 @@ window.RL_DATA = {
       short: "DOCISK",
       mark: "DOC",
       logo: "assets/docisk.webp",
-      score: 69,
+      score: 76,
       trend: "↓1",
       trendLabel: "",
       tier: "B",
@@ -156,11 +139,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["PmK", "FullClear", "Birkyy", "Anyone", "kubagoat"],
-      previousExtras: [],
       previousStaff: ["Pokson", "Lantern"],
       staff: ["Pokson", "Lantern"],
-      spring: "5. miejsce · Spring Split 2026",
-      metrics: { roster: 72, results: 67, opposition: 69, synergy: 65, form: 67, series: 69 }
+      spring: "5. miejsce · Spring Split 2026"
     },
     {
       rank: 5,
@@ -168,7 +149,7 @@ window.RL_DATA = {
       short: "Anonymo",
       mark: "ANO",
       logo: "assets/anonymo-esports.webp",
-      score: 72,
+      score: 78,
       trend: "↑1",
       trendLabel: "",
       tier: "B",
@@ -183,11 +164,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["HeSSZero", "Joki37", "Sobek", "ejsner", "Raxxo"],
-      previousExtras: [],
       previousStaff: ["Valuta", "R4T"],
       staff: ["Valuta", "R4T"],
-      spring: "4. miejsce · Spring Playoffs 2026",
-      metrics: { roster: 73, results: 72, opposition: 74, synergy: 68, form: 69, series: 72 }
+      spring: "4. miejsce · Spring Playoffs 2026"
     },
     {
       rank: 7,
@@ -195,7 +174,7 @@ window.RL_DATA = {
       short: "Barcząca",
       mark: "BAR",
       logo: "assets/barczaca-esports.webp",
-      score: 65,
+      score: 74,
       trend: "0",
       trendLabel: "",
       tier: "C",
@@ -210,11 +189,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["Agresivoo", "mikusik", "Tenshi", "Woolite", "Jactroll"],
-      previousExtras: ["Artoria"],
       previousStaff: ["Shoopiltee", "Chizuoku"],
       staff: ["Shoopiltee", "Periq", "Balu"],
-      spring: "3. miejsce · Spring Playoffs 2026",
-      metrics: { roster: 70, results: 65, opposition: 72, synergy: 48, form: 65, series: 68 }
+      spring: "3. miejsce · Spring Playoffs 2026"
     },
     {
       rank: 8,
@@ -223,7 +200,7 @@ window.RL_DATA = {
       mark: "UP2U",
       logo: "assets/up2umedia-cebulaki.webp",
       logoInvert: true,
-      score: 62,
+      score: 72,
       trend: "0",
       trendLabel: "BEZ ZMIAN",
       tier: "C",
@@ -238,12 +215,9 @@ window.RL_DATA = {
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "OPEN QUALIFIER 2",
       previousRoster: ["Hatsu", "Sojo", "Salaterka", "Lothen", "Gniotek"],
-      previousExtras: [],
-      extraPlayers: ["caromii"],
       previousStaff: ["Valuta", "R4T"],
       staff: ["Kaczy102"],
-      spring: "1. miejsce · Summer Promotion 2026",
-      metrics: { roster: 58, results: 68, opposition: 48, synergy: 72, form: 69, series: 58 }
+      spring: "1. miejsce · Summer Promotion 2026"
     }
   ]
 };

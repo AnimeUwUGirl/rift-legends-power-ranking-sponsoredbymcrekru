@@ -12,7 +12,7 @@
   <meta property="og:description" content="Niezależny ranking drużyn Rift Legends na split Summer 2026." />
   <meta property="og:url" content="https://riftpower.pl/" />
   <title>Rift Power | Ranking Summer 2026</title>
-  <link rel="stylesheet" href="styles.css?v=20260806-18" />
+  <link rel="stylesheet" href="styles.css?v=20260806-19" />
 </head>
 <body>
   <header class="site-header">
@@ -82,7 +82,7 @@
           <span>Tier</span>
           <span>Bilans map</span>
           <span>Ostatnia seria</span>
-          <span>Ocena</span>
+          <span>Pkt Elo</span>
           <span>Zmiana</span>
         </div>
         <div class="ranking-list" id="rankingList"></div>
@@ -135,17 +135,17 @@
       <div class="team-grid" id="teamGrid"></div>
     </section>
 
-    <section class="section-shell section-block split-layout" id="methodology">
+    <section class="section-shell section-block" id="methodology">
       <div class="method-copy">
-        <h2>Zasady rankingu</h2>
-        <p>Na początku ustawiliśmy drużyny na podstawie składów. Teraz kolejność zmieniają wyniki Summer.</p>
+        <h2>Zasady Elo</h2>
+        <p>Ranking liczymy po zakończeniu całej serii. Pierwsza tabela Summer zaczęła się od 86, 84, 82, 80, 78, 76, 74 i 72 punktów.</p>
         <ul class="method-rules">
-          <li><span>1</span>Po wygranej drużyna dostaje punkty, po porażce je traci.</li>
-          <li><span>2</span>Za 2:0 wpada więcej punktów niż za 2:1.</li>
-          <li><span>3</span>Wygrana z wyżej notowaną ekipą znaczy więcej.</li>
+          <li><span>1</span>Zwycięzca dostaje dokładnie tyle punktów, ile traci przegrany.</li>
+          <li><span>2</span>Wygrana z wyżej ocenianą drużyną daje więcej punktów.</li>
+          <li><span>3</span>Wynik 2:0 ma mnożnik 1,25. Wynik 2:1 liczymy bez mnożnika.</li>
+          <li><span>4</span>MVP, KDA i zmiany składu nie wpływają na Elo. Liczą się tylko wyniki serii.</li>
         </ul>
       </div>
-      <div class="weight-card" id="weightCard"></div>
     </section>
 
     <section class="section-shell section-block" id="sources">
@@ -169,7 +169,8 @@
     <div id="modalContent"></div>
   </dialog>
 
-    <script src="data.js?v=20260806-12"></script>
-    <script src="app.js?v=20260806-23"></script>
+    <script src="data.js?v=20260806-14"></script>
+    <script src="ranking.js?v=20260806-1"></script>
+    <script src="app.js?v=20260806-25"></script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 const data = window.RL_DATA;
+const rankingEngine = window.RL_RANKING;
 const rankingList = document.querySelector('#rankingList');
 const teamGrid = document.querySelector('#teamGrid');
-const weightCard = document.querySelector('#weightCard');
 const modal = document.querySelector('#teamModal');
 const modalContent = document.querySelector('#modalContent');
 const modalClose = document.querySelector('#modalClose');
@@ -132,19 +132,60 @@ const fallbackResults = [
   { team1: 'BOMBA Team', score1: 3, score2: 0, team2: 'Anonymo Esports', meta: 'Pierwsza runda' }
 ];
 
-const confirmedSummerResults = [{
-  id: '117009042046526506',
-  team1: 'LODIS',
-  team2: 'Barcząca Esports',
-  score1: 2,
-  score2: 0,
-  winner: 1,
-  date: '2026-08-04T15:00:00Z',
-  timestamp: Date.parse('2026-08-04T15:00:00Z'),
-  round: 'Runda 1',
-  bestOf: 3,
-  source: 'lolesports-confirmed'
-}];
+const confirmedSummerResults = [
+  {
+    id: '117009042046526506',
+    team1: 'LODIS',
+    team2: 'Barcząca Esports',
+    score1: 2,
+    score2: 0,
+    winner: 1,
+    date: '2026-08-04T15:00:00Z',
+    timestamp: Date.parse('2026-08-04T15:00:00Z'),
+    round: 'Runda 1',
+    bestOf: 3,
+    source: 'lolesports-confirmed'
+  },
+  {
+    id: 'confirmed-2026-08-04-docisk-anonymo',
+    team1: 'DOCISK',
+    team2: 'Anonymo Esports',
+    score1: 0,
+    score2: 2,
+    winner: 2,
+    date: '2026-08-04T17:00:00Z',
+    timestamp: Date.parse('2026-08-04T17:00:00Z'),
+    round: 'Runda 1',
+    bestOf: 3,
+    source: 'lolesports-confirmed'
+  },
+  {
+    id: 'confirmed-2026-08-05-up2u-forsaken',
+    team1: 'UP2UMEDIA Cebulaki',
+    team2: 'Forsaken',
+    score1: 1,
+    score2: 2,
+    winner: 2,
+    date: '2026-08-05T15:00:00Z',
+    timestamp: Date.parse('2026-08-05T15:00:00Z'),
+    round: 'Runda 1',
+    bestOf: 3,
+    source: 'lolesports-confirmed'
+  },
+  {
+    id: 'confirmed-2026-08-05-bomba-devils',
+    team1: 'BOMBA Team',
+    team2: 'devils.one inStreamly',
+    score1: 1,
+    score2: 2,
+    winner: 2,
+    date: '2026-08-05T17:00:00Z',
+    timestamp: Date.parse('2026-08-05T17:00:00Z'),
+    round: 'Runda 1',
+    bestOf: 3,
+    source: 'lolesports-confirmed'
+  }
+];
 const resultsCacheKey = 'rift-legends-summer-results-v2';
 const lolEsportsScheduleUrl = 'https://esports-api.lolesports.com/persisted/gw/getSchedule';
 const lolEsportsPublicKey = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z';
@@ -178,7 +219,6 @@ const confirmedMvpPosts = [
 ];
 let mvpFeed = [...confirmedMvpPosts];
 let selectedScheduleRound = 1;
-const powerWeights = { roster: .30, results: .20, opposition: .15, synergy: .15, form: .10, series: .10 };
 const tierColors = Object.freeze({
   S: '#ff5b78',
   'A+': '#7ca8ff',
@@ -194,8 +234,7 @@ const rankingBaseline = new Map(data.teams.map(team => [team.name, {
   trendLabel: team.trendLabel,
   tier: team.tier,
   state: team.state,
-  updated: team.updated,
-  metrics: { ...team.metrics }
+  updated: team.updated
 }]));
 
 function teamNameKey(value) {
@@ -334,35 +373,25 @@ function roundOne(value) {
 
 function signedPower(value) {
   const rounded = roundOne(value);
-  return `${rounded > 0 ? '+' : ''}${rounded.toFixed(1)}`;
+  const formatted = rounded.toLocaleString('pl-PL', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  return `${rounded > 0 ? '+' : ''}${formatted}`;
 }
 
-function calculatedPower(metrics) {
-  return Object.entries(powerWeights).reduce((sum, [key, weight]) => sum + (Number(metrics[key]) || 0) * weight, 0);
+function formatElo(value) {
+  return Number(value).toLocaleString('pl-PL', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 }
 
 function tierForScore(score) {
-  if (score >= 90) return 'S';
-  if (score >= 84) return 'A+';
-  if (score >= 76) return 'A';
-  if (score >= 68) return 'B';
-  if (score >= 60) return 'C';
-  return 'D';
+  return rankingEngine.tierForScore(score);
 }
 
 function stateForScore(score) {
-  if (score >= 84) return 'hot';
-  if (score >= 68) return 'stable';
-  return 'unknown';
+  return rankingEngine.stateForScore(score);
 }
 
 function rankingTeam(value) {
   const key = teamMatchKey(value);
   return data.teams.find(team => teamMatchKey(team.name) === key || teamMatchKey(team.short) === key);
-}
-
-function changeMetric(team, key, amount) {
-  team.metrics[key] = roundOne(clamp(team.metrics[key] + amount, 0, 100));
 }
 
 function uniqueCompletedMatches() {
@@ -388,11 +417,9 @@ function applyAutomaticRanking() {
     team.tier = base.tier;
     team.state = base.state;
     team.updated = base.updated;
-    team.metrics = { ...base.metrics };
     team.autoMatches = 0;
     team.autoDelta = 0;
     team.autoLast = null;
-    team.exactPower = calculatedPower(team.metrics);
   });
 
   const matches = uniqueCompletedMatches();
@@ -407,29 +434,15 @@ function applyAutomaticRanking() {
     const loser = team1Won ? team2 : team1;
     const winnerGames = team1Won ? match.score1 : match.score2;
     const loserGames = team1Won ? match.score2 : match.score1;
-    const winnerBefore = calculatedPower(winner.metrics);
-    const loserBefore = calculatedPower(loser.metrics);
-    const sweep = loserGames === 0;
-    const seriesShift = sweep ? 4 : 2;
-    const winnerOppositionShift = clamp(1 + (loserBefore - 70) / 7, 1, 4);
-    const loserOppositionShift = clamp(1 + (80 - winnerBefore) / 6, 1, 4);
-
-    changeMetric(winner, 'results', 4);
-    changeMetric(winner, 'opposition', winnerOppositionShift);
-    changeMetric(winner, 'form', 3);
-    changeMetric(winner, 'series', seriesShift);
-    changeMetric(loser, 'results', -3);
-    changeMetric(loser, 'opposition', -loserOppositionShift);
-    changeMetric(loser, 'form', -3);
-    changeMetric(loser, 'series', -seriesShift);
+    const eloResult = rankingEngine.applySeries(winner.score, loser.score, loserGames);
+    winner.score = eloResult.winner;
+    loser.score = eloResult.loser;
 
     const matchDate = match.timestamp ? new Date(match.timestamp).toISOString().slice(0, 10) : null;
-    const winnerAfter = calculatedPower(winner.metrics);
-    const loserAfter = calculatedPower(loser.metrics);
     winner.autoMatches += 1;
     loser.autoMatches += 1;
-    winner.autoLast = { opponent: loser.short, score: `${winnerGames}:${loserGames}`, impact: roundOne(winnerAfter - winnerBefore), date: matchDate };
-    loser.autoLast = { opponent: winner.short, score: `${loserGames}:${winnerGames}`, impact: roundOne(loserAfter - loserBefore), date: matchDate };
+    winner.autoLast = { opponent: loser.short, score: `${winnerGames}:${loserGames}`, impact: eloResult.delta, date: matchDate };
+    loser.autoLast = { opponent: winner.short, score: `${loserGames}:${winnerGames}`, impact: -eloResult.delta, date: matchDate };
     if (matchDate) {
       winner.updated = matchDate;
       loser.updated = matchDate;
@@ -438,17 +451,14 @@ function applyAutomaticRanking() {
 
   data.teams.forEach(team => {
     const base = rankingBaseline.get(team.name);
-    team.exactPower = roundOne(calculatedPower(team.metrics));
-    team.score = Math.round(team.exactPower);
-    team.autoDelta = roundOne(team.exactPower - calculatedPower(base.metrics));
-    if (team.autoMatches) {
-      team.tier = tierForScore(team.exactPower);
-      team.state = stateForScore(team.exactPower);
-    }
+    team.score = rankingEngine.roundOne(team.score);
+    team.autoDelta = rankingEngine.roundOne(team.score - base.score);
+    team.tier = tierForScore(team.score);
+    team.state = stateForScore(team.score);
   });
 
   [...data.teams]
-    .sort((a, b) => b.exactPower - a.exactPower || rankingBaseline.get(a.name).rank - rankingBaseline.get(b.name).rank)
+    .sort((a, b) => b.score - a.score || rankingBaseline.get(a.name).rank - rankingBaseline.get(b.name).rank)
     .forEach((team, index) => {
       team.rank = index + 1;
       team.rankDelta = rankingBaseline.get(team.name).rank - team.rank;
@@ -456,11 +466,11 @@ function applyAutomaticRanking() {
 
   data.meta.label = matches.length ? 'Aktualny ranking' : rankingBaseLabel;
   if (rankingLiveStatus) {
-    const matchWord = matches.length === 1 ? 'MECZU' : 'MECZACH';
-    rankingLiveStatus.textContent = matches.length ? `RANKING PO ${matches.length} ${matchWord}` : 'RANKING STARTOWY';
+    const seriesWord = matches.length === 1 ? 'SERII' : 'SERIACH';
+    rankingLiveStatus.textContent = matches.length ? `RANKING PO ${matches.length} ${seriesWord}` : 'RANKING STARTOWY';
     rankingLiveStatus.className = `ranking-live-status ${matches.length ? 'live' : ''}`;
     rankingLiveStatus.title = matches.length
-      ? 'Ranking uwzględnia zakończone mecze Summer'
+      ? 'Ranking uwzględnia zakończone serie Summer'
       : 'Ranking przed pierwszym wynikiem Summer';
   }
   if (heroEdition) heroEdition.textContent = matches.length ? 'Summer trwa' : 'Przed sezonem';
@@ -716,8 +726,8 @@ async function refreshMatchResults() {
 }
 
 function scoreMarkup(team, compact = false) {
-  if (team.score == null) return `<div class="score ${compact ? 'compact' : ''}"><strong>NR</strong><span>BEZ OCENY</span></div>`;
-  return `<div class="score ${compact ? 'compact' : ''}"><strong>${team.score}</strong><span>OCENA</span></div>`;
+  if (team.score == null) return `<div class="score ${compact ? 'compact' : ''}"><strong>NR</strong><span>PKT ELO</span></div>`;
+  return `<div class="score ${compact ? 'compact' : ''}"><strong>${formatElo(team.score)}</strong><span>PKT ELO</span></div>`;
 }
 
 function teamLogo(team, size = '') {
@@ -796,17 +806,14 @@ function renderBroadcast() {
     ? new Intl.DateTimeFormat('pl-PL', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' }).format(new Date(next.startTime))
     : '';
   const title = live?.title || (next ? `${next.title} · ${nextDate}` : 'Aktualnie nic nie jest transmitowane');
-  const youtubeUrl = live ? broadcast.youtubeLive : broadcast.youtubeChannel;
-
   broadcastBar.innerHTML = `
     <div class="broadcast-copy">
       <span class="broadcast-status ${live ? 'live' : ''}"><i></i>${esc(status)}</span>
       <strong>${esc(title)}</strong>
     </div>
     <div class="broadcast-actions">
-      <a class="broadcast-link primary" href="${esc(youtubeUrl)}" target="_blank" rel="noreferrer noopener">${live ? 'YouTube na żywo' : 'Kanał YouTube'}</a>
+      <a class="broadcast-link primary" href="${esc(broadcast.youtubeChannel)}" target="_blank" rel="noreferrer noopener">Kanał YouTube</a>
       <a class="broadcast-link" href="${esc(broadcast.twitch)}" target="_blank" rel="noreferrer noopener">Twitch</a>
-      ${live ? `<a class="broadcast-link" href="${esc(broadcast.youtubeChannel)}" target="_blank" rel="noreferrer noopener">Kanał YouTube</a>` : ''}
     </div>
   `;
 }
@@ -877,13 +884,13 @@ function rankingSeriesSummary(teamName) {
 
 function rankingRatingChange(team) {
   const baseline = rankingBaseline.get(team.name);
-  return Math.round((team.score ?? baseline.score) - baseline.score);
+  return roundOne((team.score ?? baseline.score) - baseline.score);
 }
 
 function rankingMovementMarkup(team) {
   const ratingChange = rankingRatingChange(team);
   const ratingClass = ratingChange > 0 ? 'up' : ratingChange < 0 ? 'down' : 'stable';
-  const ratingText = ratingChange > 0 ? `+${ratingChange}` : String(ratingChange);
+  const ratingText = signedPower(ratingChange);
   const positionChange = Number(team.rankDelta || 0);
   const positionMarkup = positionChange
     ? `<span class="rank-shift ${positionChange > 0 ? 'up' : 'down'}">${positionChange > 0 ? '↑' : '↓'}${Math.abs(positionChange)}</span>`
@@ -907,8 +914,8 @@ function renderRanking() {
         <div class="ranking-tier" data-tier="${esc(team.tier)}">${esc(team.tier)}</div>
         <div class="ranking-record">${esc(series.record)}</div>
         <div class="ranking-last-series ${series.empty ? 'empty' : ''}">${esc(series.last)}</div>
-        <div class="ranking-rating">${team.score == null ? 'NR' : esc(team.score)}</div>
-        <div class="ranking-movement" aria-label="Zmiana oceny i pozycji">${rankingMovementMarkup(team)}</div>
+        <div class="ranking-rating">${team.score == null ? 'NR' : esc(formatElo(team.score))}</div>
+        <div class="ranking-movement" aria-label="Zmiana Elo i pozycji">${rankingMovementMarkup(team)}</div>
       </article>
     `;
   }).join('');
@@ -917,7 +924,7 @@ function renderRanking() {
 function renderTeams() {
   teamGrid.innerHTML = rankedTeams().map(team => `
     <button class="team-card" style="--accent:${teamTierColor(team)}" data-tier="${esc(team.tier)}" data-team="${team.rank}">
-      <div class="team-card-top"><span>#${team.rank}</span><span class="team-card-tier">TIER ${esc(team.tier)}</span><span>${team.score ?? 'NR'}</span></div>
+      <div class="team-card-top"><span>#${team.rank}</span><span class="team-card-tier">TIER ${esc(team.tier)}</span><span>${team.score == null ? 'NR' : esc(formatElo(team.score))}</span></div>
       <div class="team-card-verify">${rosterStatus(team)}<time class="card-updated" datetime="${esc(team.updated)}">akt. ${esc(formatTeamDate(team.updated))}</time></div>
       ${teamLogo(team, 'medium')}
       <h3>${esc(team.short)}</h3>
@@ -931,31 +938,10 @@ function renderTeams() {
   `).join('');
 }
 
-function renderWeights() {
-  weightCard.innerHTML = `
-    <div class="weight-title"><span>PUNKTACJA</span><b>100</b></div>
-    ${data.weights.map(w => `
-      <div class="weight-row">
-        <div class="weight-label"><b>${esc(w.label)}</b><span>${esc(w.note)}</span></div>
-        <div class="weight-value">${w.value}%</div>
-        <div class="weight-bar"><i style="width:${w.value * 3.15}%"></i></div>
-      </div>
-    `).join('')}
-  `;
-}
-
 function openTeam(rank) {
   const team = data.teams.find(t => t.rank === Number(rank));
   if (!team) return;
   modal.style.setProperty('--accent', teamTierColor(team));
-  const metrics = [
-    ['Skład', team.metrics.roster],
-    ['Ostatnie wyniki', team.metrics.results],
-    ['Siła przeciwników', team.metrics.opposition],
-    ['Synergia', team.metrics.synergy],
-    ['Forma', team.metrics.form],
-    ['BO3 / BO5', team.metrics.series]
-  ];
   modalContent.innerHTML = `
     <div class="modal-hero">
       <div class="modal-rank">#${String(team.rank).padStart(2,'0')}</div>
@@ -964,8 +950,8 @@ function openTeam(rank) {
     </div>
     ${team.autoLast ? `
       <div class="modal-auto-summary">
-        <span>OSTATNI MECZ</span>
-        <p>${esc(team.autoLast.score)} z ${esc(team.autoLast.opponent)}. Zmiana oceny: ${esc(signedPower(team.autoLast.impact))}.</p>
+        <span>OSTATNIA SERIA</span>
+        <p>${esc(team.autoLast.score)} z ${esc(team.autoLast.opponent)}. Zmiana Elo: ${esc(signedPower(team.autoLast.impact))}.</p>
       </div>
     ` : ''}
     <div class="modal-grid">
@@ -974,13 +960,6 @@ function openTeam(rank) {
         <div class="modal-compare-head"><span>${esc(team.previousLabel)}</span><span>SUMMER</span></div>
         <div class="modal-compare-list">${rosterComparisonRows(team)}</div>
         ${peopleComparison('TRENERZY', team.previousStaff, team.staff)}
-        ${peopleComparison('INNI ZAWODNICY', team.previousExtras, team.extraPlayers)}
-      </div>
-      <div class="metric-panel">
-        <h3>Składniki oceny</h3>
-        ${metrics.map(([label,value]) => `
-          <div class="metric-row"><div><b>${label}</b><span>${value ? value : 'brak'}</span></div><div class="metric-track"><i style="width:${value}%"></i></div></div>
-        `).join('')}
       </div>
     </div>
   `;
@@ -1231,7 +1210,6 @@ function renderSources() {
 applyAutomaticRanking();
 renderRanking();
 renderTeams();
-renderWeights();
 renderSources();
 renderSchedule(activeScheduleRound());
 renderResults();
