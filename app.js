@@ -153,9 +153,39 @@ const summerStartTimestamp = Date.parse('2026-08-04T00:00:00Z');
 const summerEndTimestamp = Date.parse('2026-09-20T23:59:59Z');
 let automaticMatches = [...confirmedSummerResults];
 let automaticResultsSource = 'lolesports-confirmed';
-let mvpFeed = [];
+const confirmedMvpPosts = [
+  {
+    id: '2084692887292244244',
+    url: 'https://x.com/RiftLegendsPL/status/2084692887292244244',
+    createdAt: '2026-08-04T17:28:00Z',
+    kind: 'mvp',
+    extracted: { player: 'Czekolad', kda: '6/2/12', kp: 75, gold: 13062 }
+  },
+  {
+    id: '2084723086620774411',
+    url: 'https://x.com/RiftLegendsPL/status/2084723086620774411',
+    createdAt: '2026-08-04T19:28:00Z',
+    kind: 'mvp',
+    extracted: { player: 'shibi', kda: '5/1/12', kp: 77.3, gold: 13557 }
+  },
+  {
+    id: '2085061371763249601',
+    url: 'https://x.com/RiftLegendsPL/status/2085061371763249601',
+    createdAt: '2026-08-05T17:52:00Z',
+    kind: 'mvp',
+    extracted: { player: 'Decay', kda: '11/1/5', kp: 59.3, gold: 11379 }
+  }
+];
+let mvpFeed = [...confirmedMvpPosts];
 let selectedScheduleRound = 1;
 const powerWeights = { roster: .30, results: .20, opposition: .15, synergy: .15, form: .10, series: .10 };
+const tierColors = Object.freeze({
+  S: '#ff5b78',
+  'A+': '#7ca8ff',
+  A: '#62a9ff',
+  B: '#46d6a5',
+  C: '#f5b942'
+});
 const rankingBaseLabel = data.meta.label;
 const rankingBaseline = new Map(data.teams.map(team => [team.name, {
   rank: team.rank,
@@ -174,6 +204,14 @@ function teamNameKey(value) {
     .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '');
+}
+
+function teamTierColor(team) {
+  return tierColors[team?.tier] || '#8d95a7';
+}
+
+function mvpPostKey(post) {
+  return String(post?.id || String(post?.url || '').match(/status\/(\d+)/)?.[1] || '');
 }
 
 function teamMatchKey(value) {
@@ -529,9 +567,26 @@ async function refreshMvpFeed() {
     });
     if (!response.ok) throw new Error(`MVP HTTP ${response.status}`);
     const payload = await response.json();
-    mvpFeed = Array.isArray(payload?.posts)
+    const incomingPosts = Array.isArray(payload?.posts)
       ? payload.posts.filter(post => post?.kind === 'mvp' && post?.createdAt && post?.extracted?.player)
       : [];
+    const mergedPosts = new Map(confirmedMvpPosts.map(post => [mvpPostKey(post), post]));
+    incomingPosts.forEach(post => {
+      const key = mvpPostKey(post);
+      if (!key) return;
+      const confirmed = mergedPosts.get(key);
+      const extracted = Object.fromEntries(Object.entries(post.extracted || {})
+        .filter(([, value]) => value !== null && value !== undefined && value !== ''));
+      mergedPosts.set(key, {
+        ...confirmed,
+        ...post,
+        id: key,
+        url: post.url || confirmed?.url,
+        createdAt: post.createdAt || confirmed?.createdAt,
+        extracted: { ...(confirmed?.extracted || {}), ...extracted }
+      });
+    });
+    mvpFeed = [...mergedPosts.values()];
     renderResults();
   } catch {}
 }
@@ -669,7 +724,7 @@ function teamLogo(team, size = '') {
   const content = team.logo
     ? `<img class="${team.logoInvert ? 'logo-invert' : ''}" src="${esc(team.logo)}" alt="" decoding="async">`
     : `<span>${esc(team.mark)}</span>`;
-  return `<div class="team-logo ${size}" style="--accent:${team.accent}">${content}</div>`;
+  return `<div class="team-logo ${size}" style="--accent:${teamTierColor(team)}">${content}</div>`;
 }
 
 function rosterStatus(team) {
@@ -840,7 +895,7 @@ function renderRanking() {
   rankingList.innerHTML = rankedTeams().map(team => {
     const series = rankingSeriesSummary(team.name);
     return `
-      <article class="ranking-row ${team.state}" style="--accent:${team.accent}" data-team="${team.rank}" tabindex="0" role="button" aria-label="Otwórz porównanie składu ${esc(team.name)}">
+      <article class="ranking-row ${team.state}" style="--accent:${teamTierColor(team)}" data-team="${team.rank}" tabindex="0" role="button" aria-label="Otwórz porównanie składu ${esc(team.name)}">
         <div class="rank-number">${String(team.rank).padStart(2,'0')}</div>
         <div class="ranking-team-cell">
           ${teamLogo(team)}
@@ -861,8 +916,8 @@ function renderRanking() {
 
 function renderTeams() {
   teamGrid.innerHTML = rankedTeams().map(team => `
-    <button class="team-card" style="--accent:${team.accent}" data-team="${team.rank}">
-      <div class="team-card-top"><span>#${team.rank}</span><span>${team.score ?? 'NR'}</span></div>
+    <button class="team-card" style="--accent:${teamTierColor(team)}" data-tier="${esc(team.tier)}" data-team="${team.rank}">
+      <div class="team-card-top"><span>#${team.rank}</span><span class="team-card-tier">TIER ${esc(team.tier)}</span><span>${team.score ?? 'NR'}</span></div>
       <div class="team-card-verify">${rosterStatus(team)}<time class="card-updated" datetime="${esc(team.updated)}">akt. ${esc(formatTeamDate(team.updated))}</time></div>
       ${teamLogo(team, 'medium')}
       <h3>${esc(team.short)}</h3>
@@ -892,7 +947,7 @@ function renderWeights() {
 function openTeam(rank) {
   const team = data.teams.find(t => t.rank === Number(rank));
   if (!team) return;
-  modal.style.setProperty('--accent', team.accent);
+  modal.style.setProperty('--accent', teamTierColor(team));
   const metrics = [
     ['Skład', team.metrics.roster],
     ['Ostatnie wyniki', team.metrics.results],
