@@ -2,7 +2,7 @@
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
   "lastSeenId": "2085109536851886216",
-  "updatedAt": "2026-08-06T05:06:38Z",
+  "updatedAt": "2026-08-06T05:19:39Z",
   "posts": [
     {
       "id": "2085109536851886216",
@@ -48,11 +48,12 @@
       "extracted": {
         "player": "iwanan",
         "playerHandle": "iwananlol",
-        "kda": null,
-        "kp": null,
-        "gold": null
+        "kda": "4/0/16",
+        "kp": 58.8,
+        "gold": 9676
       },
-      "ocrText": "”\" MIVT ae\n\nVIV\n\nIlwanan\n\ninStreamly\n\nMIE\n\n~\n\n4/O0/1G_ 58.8%\n\n9676\n\nNMI\n\nHO ti @\n\nSe ]\n\nWW,\n\nirozku\n\nBRET\n\nBY, Ecenos\n\n| GD\n\n= @e"
+      "ocrText": "”\" MIVT ae\n\nVIV\n\nIlwanan\n\ninStreamly\n\nMIE\n\n~\n\n4/O0/1G_ 58.8%\n\n9676\n\nNMI\n\nHO ti @\n\nSe ]\n\nWW,\n\nirozku\n\nBRET\n\nBY, Ecenos\n\n| GD\n\n= @e\n\n+ +\n\nIVIN/T os\nae oe '\nMiViee 7\nNIV d J ae = ,\nivi\" =\nE inStreamiy mi EE S\nRA VAP -\n\\ ~a",
+      "ocrVersion": 2
     },
     {
       "id": "2085105860770926929",
