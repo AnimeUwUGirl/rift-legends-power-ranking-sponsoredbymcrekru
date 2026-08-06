@@ -133,10 +133,11 @@ button { font: inherit; color: inherit; }
 .ranking-last-series { color:#c5cbd7; font-size:.67rem; }
 .ranking-last-series.empty { color:#626a7c; }
 .ranking-rating { font-size:1.7rem; font-weight:950; letter-spacing:-.05em; text-align:right; }
-.ranking-movement { text-align:right; font-size:.74rem; line-height:1.15; font-weight:950; }
-.ranking-movement.up { color:var(--green); }
-.ranking-movement.down { color:#ff6b83; }
-.ranking-movement.stable { color:#7f8798; }
+.ranking-movement { display:flex; justify-content:flex-end; align-items:center; gap:8px; text-align:right; font-size:.8rem; line-height:1.15; font-weight:950; }
+.ranking-movement .up { color:var(--green); }
+.ranking-movement .down { color:#ff6b83; }
+.ranking-movement .stable { color:#7f8798; }
+.rank-shift { min-width:24px; }
 .tier { font-size:.55rem; font-weight:900; letter-spacing:.12em; padding:4px 6px; border-radius:2px; color:var(--accent); background:color-mix(in srgb, var(--accent) 12%, transparent); border:1px solid color-mix(in srgb, var(--accent) 18%, transparent); }
 .team-updated { color:#747d90; font-size:.5rem; font-weight:800; letter-spacing:.06em; text-transform:uppercase; white-space:nowrap; }
 .team-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:15px; }

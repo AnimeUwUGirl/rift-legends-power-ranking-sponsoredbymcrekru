@@ -185,6 +185,7 @@ function teamMatchKey(value) {
     bomba: 'bombateam',
     boom: 'bombateam',
     dv1: 'devilsone',
+    dv1instreamly: 'devilsone',
     devilsoneinstreamly: 'devilsone',
     doc: 'docisk',
     fsk: 'forsaken',
@@ -402,16 +403,6 @@ function applyAutomaticRanking() {
     team.score = Math.round(team.exactPower);
     team.autoDelta = roundOne(team.exactPower - calculatedPower(base.metrics));
     if (team.autoMatches) {
-      if (team.autoDelta > 0.05) {
-        team.trend = '↑';
-        team.trendLabel = 'W GÓRĘ';
-      } else if (team.autoDelta < -0.05) {
-        team.trend = '↓';
-        team.trendLabel = 'W DÓŁ';
-      } else {
-        team.trend = '0';
-        team.trendLabel = 'BEZ ZMIAN';
-      }
       team.tier = tierForScore(team.exactPower);
       team.state = stateForScore(team.exactPower);
     }
@@ -772,16 +763,20 @@ function rankingSeriesSummary(teamName) {
   return { record: `${mapWins}-${mapLosses}`, last: `${scored}:${conceded} vs ${opponent}`, empty: false };
 }
 
-function rankingMovement(team) {
-  if (team.trendLabel) return team.trendLabel;
-  return String(team.trend || '0') === '0' ? 'BEZ ZMIAN' : String(team.trend);
+function rankingRatingChange(team) {
+  const baseline = rankingBaseline.get(team.name);
+  return Math.round((team.score ?? baseline.score) - baseline.score);
 }
 
-function rankingMovementClass(team) {
-  const trend = String(team.trend || '');
-  if (trend.includes('↑') || team.autoDelta > 0.05) return 'up';
-  if (trend.includes('↓') || team.autoDelta < -0.05) return 'down';
-  return 'stable';
+function rankingMovementMarkup(team) {
+  const ratingChange = rankingRatingChange(team);
+  const ratingClass = ratingChange > 0 ? 'up' : ratingChange < 0 ? 'down' : 'stable';
+  const ratingText = ratingChange > 0 ? `+${ratingChange}` : String(ratingChange);
+  const positionChange = Number(team.rankDelta || 0);
+  const positionMarkup = positionChange
+    ? `<span class="rank-shift ${positionChange > 0 ? 'up' : 'down'}">${positionChange > 0 ? '↑' : '↓'}${Math.abs(positionChange)}</span>`
+    : '';
+  return `<span class="rating-change ${ratingClass}">${ratingText}</span>${positionMarkup}`;
 }
 
 function renderRanking() {
@@ -797,10 +792,11 @@ function renderRanking() {
             <small>${esc(rosterChangeText(team))} · akt. ${esc(formatTeamDate(team.updated))}</small>
           </div>
         </div>
+        <div class="ranking-tier" data-tier="${esc(team.tier)}">${esc(team.tier)}</div>
         <div class="ranking-record">${esc(series.record)}</div>
         <div class="ranking-last-series ${series.empty ? 'empty' : ''}">${esc(series.last)}</div>
         <div class="ranking-rating">${team.score == null ? 'NR' : esc(team.score)}</div>
-        <div class="ranking-movement ${rankingMovementClass(team)}">${esc(rankingMovement(team))}</div>
+        <div class="ranking-movement" aria-label="Zmiana oceny i pozycji">${rankingMovementMarkup(team)}</div>
       </article>
     `;
   }).join('');
@@ -931,7 +927,6 @@ let tickerResumeAt = 0;
 let tickerMoved = false;
 let tickerMarkup = document.querySelector('.ticker-group')?.innerHTML || '';
 let tickerContentSignature = '';
-let manualTickerPosts = [];
 
 function normalizeTickerOffset(value) {
   if (!tickerGroupWidth) return 0;
@@ -968,46 +963,19 @@ function rebuildTickerGroups(markup = tickerMarkup) {
 }
 
 function automaticTickerPosts() {
+  const recentResultCutoff = Date.now() - (24 * 60 * 60 * 1000);
   return uniqueCompletedMatches()
+    .filter(match => (match.timestamp || 0) >= recentResultCutoff)
     .sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0))
-    .slice(0, 4)
+    .slice(0, 2)
     .map(match => ({
       id: `result-${matchIdentity(match)}`,
       team: 'WYNIK',
       text: `${match.team1} ${match.score1}:${match.score2} ${match.team2}`,
-      seriesTeams: [match.team1, match.team2],
-      seriesDate: match.timestamp ? new Date(match.timestamp).toISOString().slice(0, 10) : '',
       url: String(match.source || '').startsWith('leaguepedia')
         ? 'https://lol.fandom.com/wiki/Rift_Legends/2026_Season/Summer_Split'
         : 'https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds'
     }));
-}
-
-function tickerSeriesKey(post) {
-  if (!Array.isArray(post?.seriesTeams) || post.seriesTeams.length < 2) return '';
-  return `${matchPairKey(post.seriesTeams[0], post.seriesTeams[1])}|${post.seriesDate || ''}`;
-}
-
-function seriesTickerPosts() {
-  const results = automaticTickerPosts();
-  const mvpPosts = manualTickerPosts.filter(post => String(post.team).toUpperCase() === 'MVP');
-  const usedMvpIds = new Set();
-  const posts = [];
-
-  results.forEach(result => {
-    posts.push(result);
-    const resultKey = tickerSeriesKey(result);
-    const mvp = mvpPosts.find(post => !usedMvpIds.has(post.id) && tickerSeriesKey(post) === resultKey);
-    if (!mvp) return;
-    usedMvpIds.add(mvp.id);
-    posts.push({ ...mvp, team: 'MVP SERII' });
-  });
-
-  manualTickerPosts
-    .filter(post => !['WYNIK', 'MVP'].includes(String(post.team).toUpperCase()))
-    .forEach(post => posts.push(post));
-
-  return posts;
 }
 
 function tickerMatchTime(timestamp) {
@@ -1031,18 +999,6 @@ function tickerMatchTime(timestamp) {
 function contextTickerPosts() {
   const now = Date.now();
   const posts = [];
-  const liveMatch = automaticMatches
-    .filter(match => !isCompletedMatch(match) && /in.?progress|live/.test(String(match.state || '').toLowerCase()))
-    .sort((a, b) => (a.timestamp || 0) - (b.timestamp || 0))[0];
-
-  if (liveMatch) {
-    posts.push({
-      id: `live-${matchIdentity(liveMatch)}`,
-      team: 'LIVE',
-      text: `${liveMatch.team1} vs ${liveMatch.team2}`,
-      url: data.broadcasts?.youtubeLive || data.broadcasts?.youtubeChannel || '#matches'
-    });
-  }
 
   const upcoming = scheduleRounds
     .flatMap(round => round.days.flatMap(day => day.matches))
@@ -1064,7 +1020,7 @@ function contextTickerPosts() {
 function renderTickerContent() {
   if (!tickerTrack) return false;
   const posts = [
-    ...seriesTickerPosts(),
+    ...automaticTickerPosts(),
     ...contextTickerPosts()
   ];
   const uniquePosts = [...new Map(posts.map(post => [`${post.team}|${post.text}`, post])).values()];
@@ -1149,27 +1105,6 @@ if (tickerWindow && tickerTrack) {
   }
 }
 
-function renderTeamPosts(payload) {
-  const posts = Array.isArray(payload?.posts) ? payload.posts.filter(post => post?.text && post?.url && post?.team) : [];
-  manualTickerPosts = posts;
-  renderTickerContent();
-  if (payload.updatedAt) {
-    const updated = new Date(payload.updatedAt);
-    if (!Number.isNaN(updated.getTime())) {
-      tickerWindow.title = `Wyniki i MVP. Ostatnia aktualizacja: ${new Intl.DateTimeFormat('pl-PL', { dateStyle: 'short', timeStyle: 'short' }).format(updated)}`;
-    }
-  }
-  return Boolean(posts.length);
-}
-
-async function loadTeamPosts() {
-  try {
-    const response = await fetch(`social-posts.json?v=${Date.now()}`, { cache: 'no-store' });
-    if (response.ok) renderTeamPosts(await response.json());
-  } catch {}
-}
-
-
 function renderSources() {
   const target = document.querySelector('#sourceGrid');
   if (!target || !data.sources) return;
@@ -1192,8 +1127,6 @@ renderBroadcast();
 setInterval(renderBroadcast, 60000);
 refreshMatchResults();
 setInterval(refreshMatchResults, 60000);
-loadTeamPosts();
-setInterval(loadTeamPosts, 300000);
 
 if (location.hash.startsWith('#team-')) {
   const rank = Number(location.hash.split('-')[1]);
