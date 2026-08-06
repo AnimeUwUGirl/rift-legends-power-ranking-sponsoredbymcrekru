@@ -1,0 +1,55 @@
+name: Aktualizuj dane z X
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rift-x
+  cancel-in-progress: false
+
+jobs:
+  update-x-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Przygotuj OCR
+        shell: bash
+        run: |
+          if ! command -v tesseract >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y tesseract-ocr
+          fi
+
+      - name: Pobierz nowe posty i odczytaj grafiki
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        shell: bash
+        run: |
+          if [ -z "$X_BEARER_TOKEN" ]; then
+            echo "::error::Brakuje sekretu X_BEARER_TOKEN"
+            exit 1
+          fi
+          python3 scripts/update_x_feed.py
+
+      - name: Zapisz nowe dane
+        shell: bash
+        run: |
+          git add x-feed.json
+          if git diff --cached --quiet; then
+            echo "Brak nowych danych do zapisania."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Aktualizacja danych z X"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push
