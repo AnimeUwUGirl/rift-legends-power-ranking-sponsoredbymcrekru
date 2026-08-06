@@ -187,6 +187,7 @@ const confirmedSummerResults = [
   }
 ];
 const resultsCacheKey = 'rift-legends-summer-results-v2';
+const patchCacheKey = 'rift-legends-summer-patches-v1';
 const lolEsportsScheduleUrl = 'https://esports-api.lolesports.com/persisted/gw/getSchedule';
 const lolEsportsPublicKey = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z';
 const riftLegendsLeagueId = '113673877956508505';
@@ -215,6 +216,13 @@ const confirmedMvpPosts = [
     createdAt: '2026-08-05T17:52:00Z',
     kind: 'mvp',
     extracted: { player: 'Decay', kda: '11/1/5', kp: 59.3, gold: 11379 }
+  },
+  {
+    id: '2085106198852915597',
+    url: 'https://x.com/RiftLegendsPL/status/2085106198852915597',
+    createdAt: '2026-08-05T20:50:31Z',
+    kind: 'mvp',
+    extracted: { player: 'iwanan', kda: '4/0/16', kp: 58.8 }
   }
 ];
 let mvpFeed = [...confirmedMvpPosts];
@@ -688,6 +696,81 @@ async function fetchLeaguepediaResults() {
   }
 }
 
+function cleanPatch(value) {
+  return String(value || '').match(/\d+\.\d+/)?.[0] || '';
+}
+
+function applyRoundPatchRows(rows) {
+  let changed = false;
+  rows.forEach(row => {
+    const patch = cleanPatch(row.Patch);
+    if (!patch || !row.Team1 || !row.Team2) return;
+    const pair = matchPairKey(row.Team1, row.Team2);
+    const round = scheduleRounds.find(item => item.days.some(day => day.matches.some(match => matchPairKey(match[0], match[2]) === pair)));
+    if (!round || round.patch === patch) return;
+    round.patch = patch;
+    changed = true;
+  });
+  return changed;
+}
+
+function readPatchCache() {
+  try {
+    const cached = JSON.parse(localStorage.getItem(patchCacheKey));
+    return Array.isArray(cached?.rows) ? cached.rows : [];
+  } catch {
+    return [];
+  }
+}
+
+function savePatchCache(rows) {
+  try {
+    localStorage.setItem(patchCacheKey, JSON.stringify({ savedAt: Date.now(), rows }));
+  } catch {}
+}
+
+async function fetchLeaguepediaPatches() {
+  const params = new URLSearchParams({
+    action: 'cargoquery',
+    format: 'json',
+    formatversion: '2',
+    origin: '*',
+    tables: 'ScoreboardGames=SG',
+    fields: 'SG.Team1=Team1,SG.Team2=Team2,SG.Patch=Patch,SG.DateTime_UTC=DateTimeUTC',
+    where: 'SG.OverviewPage="Rift Legends/2026 Season/Summer Split"',
+    order_by: 'SG.DateTime_UTC ASC',
+    limit: '100'
+  });
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 10000);
+  try {
+    const response = await fetch(`https://lol.fandom.com/api.php?${params}`, {
+      cache: 'no-store',
+      credentials: 'omit',
+      signal: controller.signal
+    });
+    if (!response.ok) throw new Error(`Patch HTTP ${response.status}`);
+    const payload = await response.json();
+    if (payload?.error || !Array.isArray(payload?.cargoquery)) throw new Error('Brak danych o patchu');
+    return payload.cargoquery.map(item => item?.title || item).filter(Boolean);
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function refreshRoundPatches() {
+  const cachedRows = readPatchCache();
+  if (cachedRows.length) applyRoundPatchRows(cachedRows);
+  try {
+    const rows = await fetchLeaguepediaPatches();
+    if (rows.length) {
+      applyRoundPatchRows(rows);
+      savePatchCache(rows);
+    }
+  } catch {}
+  renderSchedule(selectedScheduleRound);
+}
+
 async function refreshMatchResults() {
   setSyncStatus('local', 'AKTUALIZACJA', 'Sprawdzam najnowsze wyniki');
   try {
@@ -735,10 +818,6 @@ function teamLogo(team, size = '') {
     ? `<img class="${team.logoInvert ? 'logo-invert' : ''}" src="${esc(team.logo)}" alt="" decoding="async">`
     : `<span>${esc(team.mark)}</span>`;
   return `<div class="team-logo ${size}" style="--accent:${teamTierColor(team)}">${content}</div>`;
-}
-
-function rosterStatus(team) {
-  return `<span class="verify-badge ${esc(team.rosterStatusType || 'partial')}"><i></i>${esc(team.rosterStatus || 'Weryfikacja')}</span>`;
 }
 
 function sameRosterName(first, second) {
@@ -925,7 +1004,7 @@ function renderTeams() {
   teamGrid.innerHTML = rankedTeams().map(team => `
     <button class="team-card" style="--accent:${teamTierColor(team)}" data-tier="${esc(team.tier)}" data-team="${team.rank}">
       <div class="team-card-top"><span>#${team.rank}</span><span class="team-card-tier">TIER ${esc(team.tier)}</span><span>${team.score == null ? 'NR' : esc(formatElo(team.score))}</span></div>
-      <div class="team-card-verify">${rosterStatus(team)}<time class="card-updated" datetime="${esc(team.updated)}">akt. ${esc(formatTeamDate(team.updated))}</time></div>
+      <div class="team-card-verify"><time class="card-updated" datetime="${esc(team.updated)}">akt. ${esc(formatTeamDate(team.updated))}</time></div>
       ${teamLogo(team, 'medium')}
       <h3>${esc(team.short)}</h3>
       <p>${esc(team.spring)}</p>
@@ -945,7 +1024,7 @@ function openTeam(rank) {
   modalContent.innerHTML = `
     <div class="modal-hero">
       <div class="modal-rank">#${String(team.rank).padStart(2,'0')}</div>
-      <div class="modal-title-wrap">${teamLogo(team, 'large')}<div><div class="eyebrow">${esc(data.meta.edition)} · ${esc(data.meta.label)}</div><h2>${esc(team.name)}</h2><p>${esc(team.spring)}</p><div class="modal-verify">${rosterStatus(team)}<time class="modal-updated" datetime="${esc(team.updated)}">Aktualizacja: ${esc(formatTeamDate(team.updated, true))}</time></div></div></div>
+      <div class="modal-title-wrap">${teamLogo(team, 'large')}<div><div class="eyebrow">${esc(data.meta.edition)} · ${esc(data.meta.label)}</div><h2>${esc(team.name)}</h2><p>${esc(team.spring)}</p><div class="modal-verify"><time class="modal-updated" datetime="${esc(team.updated)}">Aktualizacja: ${esc(formatTeamDate(team.updated, true))}</time></div></div></div>
       ${scoreMarkup(team)}
     </div>
     ${team.autoLast ? `
@@ -1215,8 +1294,10 @@ renderSchedule(activeScheduleRound());
 renderResults();
 renderBroadcast();
 refreshMvpFeed();
+refreshRoundPatches();
 setInterval(renderBroadcast, 60000);
 setInterval(refreshMvpFeed, 5 * 60 * 1000);
+setInterval(refreshRoundPatches, 6 * 60 * 60 * 1000);
 refreshMatchResults();
 setInterval(refreshMatchResults, 60000);
 
