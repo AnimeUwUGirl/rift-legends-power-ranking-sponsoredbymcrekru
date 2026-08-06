@@ -20,6 +20,7 @@ API_BASE = "https://api.x.com/2"
 ACCOUNT = os.environ.get("X_ACCOUNT", "RiftLegendsPL").lstrip("@")
 OUTPUT_PATH = Path(os.environ.get("X_FEED_PATH", "x-feed.json"))
 MAX_STORED_POSTS = 25
+OCR_VERSION = 2
 USER_AGENT = "RiftPower/1.0 (+https://riftpower.pl)"
 
 
@@ -123,19 +124,24 @@ def download_image(url: str) -> Path:
 def run_ocr(image_url: str) -> str:
     image_path = download_image(image_url)
     try:
-        result = subprocess.run(
-            ["tesseract", str(image_path), "stdout", "-l", "eng", "--psm", "11"],
-            capture_output=True,
-            text=True,
-            encoding="utf-8",
-            errors="replace",
-            timeout=60,
-            check=False,
-        )
-        if result.returncode != 0:
-            message = result.stderr.strip()[:500] or "nieznany błąd Tesseract"
-            raise RuntimeError(message)
-        return result.stdout.strip()
+        outputs: list[str] = []
+        for page_mode in (11, 6):
+            result = subprocess.run(
+                ["tesseract", str(image_path), "stdout", "-l", "eng", "--psm", str(page_mode)],
+                capture_output=True,
+                text=True,
+                encoding="utf-8",
+                errors="replace",
+                timeout=60,
+                check=False,
+            )
+            if result.returncode != 0:
+                message = result.stderr.strip()[:500] or "nieznany błąd Tesseract"
+                raise RuntimeError(message)
+            text = result.stdout.strip()
+            if text and text not in outputs:
+                outputs.append(text)
+        return "\n\n".join(outputs)
     finally:
         image_path.unlink(missing_ok=True)
 
@@ -144,6 +150,24 @@ def number_from_match(match: re.Match[str] | None) -> int | None:
     if not match:
         return None
     return int(re.sub(r"\D", "", match.group(1)))
+
+
+def ocr_number(value: str) -> int | None:
+    translated = value.translate(
+        str.maketrans(
+            {
+                "O": "0",
+                "o": "0",
+                "I": "1",
+                "l": "1",
+                "G": "6",
+                "S": "5",
+                "B": "8",
+            }
+        )
+    )
+    digits = re.sub(r"\D", "", translated)
+    return int(digits) if digits else None
 
 
 def player_from_text(post_text: str, ocr_text: str) -> tuple[str | None, str | None]:
@@ -187,7 +211,7 @@ def extract_stats(post_text: str, ocr_text: str) -> dict[str, Any]:
         flags=re.IGNORECASE,
     )
     gold_match = re.search(
-        r"\bGOLD\b\s*[:=-]?\s*([0-9][0-9\s.,]{2,})",
+        r"\bGOLD\b\s*[:=-]?\s*([0-9][0-9 .,]{2,})",
         combined,
         flags=re.IGNORECASE,
     )
@@ -196,17 +220,44 @@ def extract_stats(post_text: str, ocr_text: str) -> dict[str, Any]:
     kda = None
     if kda_match:
         kda = f"{kda_match.group(1)}/{kda_match.group(2)}/{kda_match.group(3)}"
+    else:
+        fallback_kda = re.search(
+            r"(?<![A-Za-z0-9])([0-9OoIlGSB]{1,2})\s*/\s*([0-9OoIlGSB]{1,2})\s*/\s*([0-9OoIlGSB]{1,2})(?![A-Za-z0-9])",
+            ocr_text,
+        )
+        if fallback_kda:
+            values = [ocr_number(fallback_kda.group(index)) for index in (1, 2, 3)]
+            if all(value is not None for value in values):
+                kills, deaths, assists = values
+                if kills <= 50 and deaths <= 30 and assists <= 80:
+                    kda = f"{kills}/{deaths}/{assists}"
 
     kp = None
     if kp_match:
         kp = float(kp_match.group(1).replace(",", "."))
+    else:
+        fallback_kp = re.search(r"\b(\d{1,3}(?:[.,]\d+)?)\s*%", ocr_text)
+        if fallback_kp:
+            candidate_kp = float(fallback_kp.group(1).replace(",", "."))
+            if 0 <= candidate_kp <= 100:
+                kp = candidate_kp
+
+    gold = number_from_match(gold_match)
+    if gold is None:
+        for line in ocr_text.splitlines():
+            if not re.fullmatch(r"\s*[0-9OoIlGSB][0-9OoIlGSB .,_]{3,6}\s*", line):
+                continue
+            candidate_gold = ocr_number(line)
+            if candidate_gold is not None and 1000 <= candidate_gold <= 99999:
+                gold = candidate_gold
+                break
 
     return {
         "player": player,
         "playerHandle": player_handle,
         "kda": kda,
         "kp": kp,
-        "gold": number_from_match(gold_match),
+        "gold": gold,
     }
 
 
@@ -256,10 +307,38 @@ def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) 
         "media": [public_media(media) for media in media_items],
         "extracted": extracted,
         "ocrText": full_ocr_text[:4000],
+        "ocrVersion": OCR_VERSION,
     }
     if ocr_errors:
         result["ocrErrors"] = ocr_errors
     return result
+
+
+def reprocess_saved_mvp(post: dict[str, Any]) -> bool:
+    if post.get("kind") != "mvp" or int(post.get("ocrVersion", 0)) >= OCR_VERSION:
+        return False
+
+    ocr_parts: list[str] = []
+    ocr_errors: list[str] = []
+    for media in post.get("media", []):
+        if media.get("type") != "photo" or not media.get("url"):
+            continue
+        try:
+            text = run_ocr(str(media["url"]))
+            if text:
+                ocr_parts.append(text)
+        except RuntimeError as error:
+            ocr_errors.append(str(error)[:500])
+
+    full_ocr_text = "\n\n".join(ocr_parts)
+    post["ocrText"] = full_ocr_text[:4000]
+    post["extracted"] = extract_stats(str(post.get("text", "")), full_ocr_text)
+    post["ocrVersion"] = OCR_VERSION
+    if ocr_errors:
+        post["ocrErrors"] = ocr_errors
+    else:
+        post.pop("ocrErrors", None)
+    return True
 
 
 def newest_id(ids: list[str]) -> str:
@@ -294,6 +373,10 @@ def main() -> None:
             continue
         existing_posts[post_id] = process_post(post, media_by_key)
         changed = True
+
+    for saved_post in existing_posts.values():
+        if reprocess_saved_mvp(saved_post):
+            changed = True
 
     if fetched_posts:
         latest_fetched_id = newest_id([str(post.get("id", "")) for post in fetched_posts])
