@@ -1,9 +1,78 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085759890090229995",
-  "updatedAt": "2026-08-07T17:36:36Z",
+  "lastSeenId": "2085795843680989363",
+  "updatedAt": "2026-08-07T20:03:24Z",
   "posts": [
+    {
+      "id": "2085795843680989363",
+      "url": "https://x.com/RiftLegendsPL/status/2085795843680989363",
+      "createdAt": "2026-08-07T18:30:56.000Z",
+      "text": "PO 119 DNIACH TEAM HERETICS WYGRYWA GRĘ W LEC! \n\nMAMY TO 🇵🇱\nTERAZ PROSTO PO WORLDSY tftf https://t.co/UJFRElIkfh",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2085795788890714112",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085795788890714112/img/dnTWx2HRV_lXm95Y.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2085789865812128113",
+      "url": "https://x.com/RiftLegendsPL/status/2085789865812128113",
+      "createdAt": "2026-08-07T18:07:10.000Z",
+      "text": "‼️TH SERIN  MONTAGE ‼️\n‼️TH SERIN  MONTAGE ‼️\n‼️TH SERIN  MONTAGE ‼️ https://t.co/kxwUqmYFrH",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2085789805271498752",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085789805271498752/img/aoTk03PbLp6Eo3Se.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2085785272889864258",
+      "url": "https://x.com/RiftLegendsPL/status/2085785272889864258",
+      "createdAt": "2026-08-07T17:48:55.000Z",
+      "text": "TERAZ NA PEWNO SIE UDA!!!!!!!\nWYGRYWAMY NA FNATIC I ZACZYNAMY WIN STREAK 🤓\n\nZapraszam na transmisję kibicować Polakom 🇵🇱 https://t.co/3QSuwzd7rP",
+      "kind": "post",
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2085759890090229995",
       "url": "https://x.com/RiftLegendsPL/status/2085759890090229995",
