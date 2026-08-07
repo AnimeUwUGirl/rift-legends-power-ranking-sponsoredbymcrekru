@@ -1,9 +1,52 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085327828573163824",
-  "updatedAt": "2026-08-06T12:28:42Z",
+  "lastSeenId": "2085374275209322604",
+  "updatedAt": "2026-08-07T04:14:54Z",
   "posts": [
+    {
+      "id": "2085374275209322604",
+      "url": "https://x.com/RiftLegendsPL/status/2085374275209322604",
+      "createdAt": "2026-08-06T14:35:46.000Z",
+      "text": "Szybkie info - MFKiG odbywa się we wszystkich rozpisanych lokalizacjach. Scena Rift Legends będzie w Atlas Arenie 😎",
+      "kind": "post",
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2085372869186302074",
+      "url": "https://x.com/RiftLegendsPL/status/2085372869186302074",
+      "createdAt": "2026-08-06T14:30:11.000Z",
+      "text": "LATO SKOŃCZYMY NA LANIE\nSummer Split już teraz jest HOT, ale to dopiero finisz pokaże nam prawdziwy OGIEŃ 🔥\n\n🎉 Finał Rift Legends podczas 37. Międzynarodowego Festiwalu Komiksu i Gier\n🗓️ 19 września - Wielki Finał Rift Legends\n🗓️ 20 września - Atrakcje, o których opowiemy wam https://t.co/oldH5P7Wa6",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2085371764385751040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPC6kijXoAAO66u.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2085327828573163824",
       "url": "https://x.com/RiftLegendsPL/status/2085327828573163824",
