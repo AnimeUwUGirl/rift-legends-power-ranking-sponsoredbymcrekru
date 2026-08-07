@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085374275209322604",
-  "updatedAt": "2026-08-07T04:14:54Z",
+  "lastSeenId": "2085677140217938294",
+  "updatedAt": "2026-08-07T11:30:49Z",
   "posts": [
+    {
+      "id": "2085677140217938294",
+      "url": "https://x.com/RiftLegendsPL/status/2085677140217938294",
+      "createdAt": "2026-08-07T10:39:14.000Z",
+      "text": "Dziś Heretics vs Fnatic, nasze chłopaki na pewno się odbiją, prawda? 🥹 https://t.co/7myAkHCZ3g",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2085676927273086976",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHQHW5XMAAivP4.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2085374275209322604",
       "url": "https://x.com/RiftLegendsPL/status/2085374275209322604",
