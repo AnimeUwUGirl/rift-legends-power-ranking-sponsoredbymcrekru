@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085677140217938294",
-  "updatedAt": "2026-08-07T11:30:49Z",
+  "lastSeenId": "2085699344003457246",
+  "updatedAt": "2026-08-07T14:42:05Z",
   "posts": [
+    {
+      "id": "2085699344003457246",
+      "url": "https://x.com/RiftLegendsPL/status/2085699344003457246",
+      "createdAt": "2026-08-07T12:07:28.000Z",
+      "text": "KOMENTATORZY WYMIENIAJĄ WSZYSTKICH POLAKÓW Z LEC I EU LCS! 🇵🇱\n\nSpróbuj wraz z nimi swoich sił! https://t.co/lCHAAoQrLB",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2085698910819844096",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085698910819844096/img/fWnHOrRRwP6CgCiq.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2085677140217938294",
       "url": "https://x.com/RiftLegendsPL/status/2085677140217938294",
