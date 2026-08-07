@@ -1,9 +1,61 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085795843680989363",
-  "updatedAt": "2026-08-07T20:03:24Z",
+  "lastSeenId": "2085824529939533998",
+  "updatedAt": "2026-08-07T22:08:35Z",
   "posts": [
+    {
+      "id": "2085824529939533998",
+      "url": "https://x.com/RiftLegendsPL/status/2085824529939533998",
+      "createdAt": "2026-08-07T20:24:55.000Z",
+      "text": "[OFICJALNIE] ⚠️\nJEŻELI TEAM HERETICS AWANSUJE NA WORLDSY, @Nervarieno ROBI TATUAŻ NA TYŁKU RAZEM Z WIDZEM NA JEGO KOSZT 🫣 https://t.co/OI53J76iEP",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2085823151326240769",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085823151326240769/img/6x-DqOifMNdPsCfv.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Nervarieno",
+        "playerHandle": "Nervarieno",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2085822580317983000",
+      "url": "https://x.com/RiftLegendsPL/status/2085822580317983000",
+      "createdAt": "2026-08-07T20:17:10.000Z",
+      "text": "Heretics tak dawno nie wygrali gierki, że prawie zapomnieli się pokłonić XDD\n\nMAMY TOO TH WYGRYWA SERIĘ W LEC! 🏆 https://t.co/NkQHakdSMx",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2085822377233887234",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPJUZqOWMAIkid1.jpg",
+          "altText": null,
+          "width": 1323,
+          "height": 661
+        }
+      ],
+      "extracted": {
+        "player": "VST",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Obejmuje ptatng promocie\n\nix\n\nWY\n\n- '<\n\n®\n\npas\n\n4 Zi\n\n3 UVa\n\nTEAM MERET,,\n\n——\n\nBEEZ\n\nre\n\nf--\n\nVST\n\n—— Pie\n2 x 3 / (a,\\ \\ Le d i\n——— y OF 1 TEAM BER; =\n= =",
+      "ocrVersion": 2
+    },
     {
       "id": "2085795843680989363",
       "url": "https://x.com/RiftLegendsPL/status/2085795843680989363",
