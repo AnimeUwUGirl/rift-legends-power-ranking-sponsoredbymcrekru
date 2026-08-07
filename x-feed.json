@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085699344003457246",
-  "updatedAt": "2026-08-07T14:42:05Z",
+  "lastSeenId": "2085759890090229995",
+  "updatedAt": "2026-08-07T17:36:36Z",
   "posts": [
+    {
+      "id": "2085759890090229995",
+      "url": "https://x.com/RiftLegendsPL/status/2085759890090229995",
+      "createdAt": "2026-08-07T16:08:03.000Z",
+      "text": "Niezła żeśmy ekipę zmontowali. \n\nMVP 1 TYGODNIA LATA! 🔥 https://t.co/IZebrkwfI8",
+      "kind": "mvp",
+      "media": [
+        {
+          "mediaKey": "3_2085759881601003520",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPIbj72WsAA44UU.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "zabka",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n=\n\n62 RIFT LEGENDS\n\nA\n\n=\n\n—\n\n\"g)\n\na\n\ney\n\nE inStreamly\n\n5\n\nWW\n\n7!\n\nAD\n\nwo\n\n)\n\nUff\n\n4-5 SIERPNIA\n\n\\\n\nzabka\n\nDIABLO «=\n\nSB won\n\nMISTRZOSTWA POLSKI\n\n\\v @IRIFTLEGENDS =~\n‘i 4 \\ 4 ‘ a\n. gel tel): ag e)\né a ® ji) voste 4 f\ninStreamly \\ yi ® Hj JORI > 5\nWar )) —a oe\naX f | “yg 2 |\n, i)\nN A 4-5 SIERPNIA\nXY re Zobka Bh ue DIABLO ==",
+      "ocrVersion": 2
+    },
     {
       "id": "2085699344003457246",
       "url": "https://x.com/RiftLegendsPL/status/2085699344003457246",
