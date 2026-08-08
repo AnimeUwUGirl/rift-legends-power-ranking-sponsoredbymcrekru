@@ -1,9 +1,78 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2086131402177712377",
-  "updatedAt": "2026-08-08T17:05:12Z",
+  "lastSeenId": "2086147739608371605",
+  "updatedAt": "2026-08-08T18:04:51Z",
   "posts": [
+    {
+      "id": "2086147739608371605",
+      "url": "https://x.com/RiftLegendsPL/status/2086147739608371605",
+      "createdAt": "2026-08-08T17:49:14.000Z",
+      "text": "Sorki @Sanchi_lol ale Pan trener tak smiesznie zareagował...",
+      "kind": "post",
+      "media": [],
+      "extracted": {
+        "player": "Sanchi",
+        "playerHandle": "Sanchi_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2086147579419505130",
+      "url": "https://x.com/RiftLegendsPL/status/2086147579419505130",
+      "createdAt": "2026-08-08T17:48:36.000Z",
+      "text": "TRENER NAVI PATRZĄCY JAK JEGO DRUŻYNA PRZEGRYWA MAPĘ NA SK ☠️\n\njak smieszne to dajcie like 🤠 https://t.co/fOXYKCL2De",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2086147393074999296",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086147393074999296/img/O-mKPh7GydaprR07.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2086143031648903304",
+      "url": "https://x.com/RiftLegendsPL/status/2086143031648903304",
+      "createdAt": "2026-08-08T17:30:32.000Z",
+      "text": "Young Faker what was that?? https://t.co/TmgW4gJjQ0",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2086142981061439488",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086142981061439488/img/cP9KpcGJwhxYT9h_.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2086131402177712377",
       "url": "https://x.com/RiftLegendsPL/status/2086131402177712377",
