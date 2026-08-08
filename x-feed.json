@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2085824529939533998",
-  "updatedAt": "2026-08-07T22:08:35Z",
+  "lastSeenId": "2086072624002547857",
+  "updatedAt": "2026-08-08T14:04:55Z",
   "posts": [
+    {
+      "id": "2086072624002547857",
+      "url": "https://x.com/RiftLegendsPL/status/2086072624002547857",
+      "createdAt": "2026-08-08T12:50:45.000Z",
+      "text": "HARMONOGRAM LEC NA DZIŚ! 👇🏼\nHARMONOGRAM LEC NA DZIŚ! 👇🏼 https://t.co/STwFuLivi5",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2086072378157674496",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPM3xoPXsAARh0r.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2085824529939533998",
       "url": "https://x.com/RiftLegendsPL/status/2085824529939533998",
