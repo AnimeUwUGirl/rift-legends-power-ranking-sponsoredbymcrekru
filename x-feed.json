@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2086072624002547857",
-  "updatedAt": "2026-08-08T14:04:55Z",
+  "lastSeenId": "2086131402177712377",
+  "updatedAt": "2026-08-08T17:05:12Z",
   "posts": [
+    {
+      "id": "2086131402177712377",
+      "url": "https://x.com/RiftLegendsPL/status/2086131402177712377",
+      "createdAt": "2026-08-08T16:44:19.000Z",
+      "text": "Zastanawialiście się kiedyś, jak wyglądała droga naszych komentatorów do mikrofonu? 👀\n\nPosłuchajcie, bo to serio ciekawe. (serio, sam byłem giga ciekawy) https://t.co/Ce6wZnRA2y",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "13_2086129483984105472",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086129483984105472/img/5h4KHTdIdvMAqRyq.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2086072624002547857",
       "url": "https://x.com/RiftLegendsPL/status/2086072624002547857",
