@@ -1,9 +1,87 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2086147739608371605",
-  "updatedAt": "2026-08-08T18:04:51Z",
+  "lastSeenId": "2086163043122028924",
+  "updatedAt": "2026-08-08T19:45:56Z",
   "posts": [
+    {
+      "id": "2086163043122028924",
+      "url": "https://x.com/RiftLegendsPL/status/2086163043122028924",
+      "createdAt": "2026-08-08T18:50:03.000Z",
+      "text": "MAURYCY \n\"AMAZING\"\nSTUCKENSCHNEIDER\nLĄDUJE W DIAMENCIE! 💎 https://t.co/Us4vmaK8SF https://t.co/qVWTw1JXBo",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2086162756625891328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPOJ-WRWAAAdY0s.jpg",
+          "altText": null,
+          "width": 920,
+          "height": 663
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2086160676804805075",
+      "url": "https://x.com/RiftLegendsPL/status/2086160676804805075",
+      "createdAt": "2026-08-08T18:40:38.000Z",
+      "text": "HOT KONTENCIK NA ŻYWO!\n\nWpadajcie na transmisje 📺 https://t.co/bzjfgPs6AH",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2086160540775194624",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPOH9XlXoAA7nEQ.jpg",
+          "altText": null,
+          "width": 1330,
+          "height": 740
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
+    {
+      "id": "2086160212780626009",
+      "url": "https://x.com/RiftLegendsPL/status/2086160212780626009",
+      "createdAt": "2026-08-08T18:38:48.000Z",
+      "text": "Elyoya? More like El jaja ;// https://t.co/HEheZMNHDl",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2086159981741563904",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPOHc1BXYAAaTld.png",
+          "altText": null,
+          "width": 170,
+          "height": 76
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2086147739608371605",
       "url": "https://x.com/RiftLegendsPL/status/2086147739608371605",
