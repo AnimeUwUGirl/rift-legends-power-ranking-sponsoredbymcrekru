@@ -906,8 +906,9 @@ function achievementPanel(team) {
       <div class="modal-achievement-list">
         ${team.achievements.map(item => `
           <div class="modal-achievement-row ${esc(item.kind)}">
+            <span class="modal-achievement-icon">${achievementIcon(item.kind)}</span>
             <div class="modal-achievement-copy">
-              <div class="modal-achievement-heading">${achievementIcon(item.kind)}<strong>${esc(item.title)}</strong></div>
+              <strong>${esc(item.title)}</strong>
               <span>${esc(item.detail)}</span>
             </div>
           </div>
