@@ -197,9 +197,9 @@ window.RL_DATA = {
       updated: "2026-08-04",
       roster: ["Hatsu", "Jacobmolly", "Salaterka", "chicase", "Gniotek"],
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
-      previousLabel: "SUMMER PROMOTION",
-      previousRoster: ["Hatsu", "Jacobmolly", "Salaterka", "chicase", "Envy"],
-      previousStaff: ["Kaczy102"],
+      previousLabel: "MANGO MUSZTARDA67",
+      previousRoster: ["Hatsu", "Sojo", "Salaterka", "Lothen", "Envy"],
+      previousStaff: ["Valuta", "R4T"],
       staff: ["Kaczy102"],
       spring: "1. miejsce · Summer Promotion 2026"
     }
