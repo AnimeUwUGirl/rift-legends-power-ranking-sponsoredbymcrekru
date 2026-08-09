@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pobiera nowe posty Rift Legends z X i odczytuje statystyki z grafik MVP."""
+"""Pobiera nowe posty ligi i drużyn Rift Legends oraz odczytuje grafiki MVP."""
 
 from __future__ import annotations
 
@@ -17,10 +17,23 @@ from urllib.request import Request, urlopen
 
 
 API_BASE = "https://api.x.com/2"
-ACCOUNT = os.environ.get("X_ACCOUNT", "RiftLegendsPL").lstrip("@")
+OFFICIAL_ACCOUNT = "RiftLegendsPL"
+ACCOUNTS = (
+    {"username": OFFICIAL_ACCOUNT, "name": "Rift Legends", "type": "league"},
+    {"username": "Lodis_LDS", "name": "LODIS", "type": "team"},
+    {"username": "BombaTeamGG", "name": "BOMBA Team", "type": "team"},
+    {"username": "_ForsakenGG_", "name": "Forsaken", "type": "team"},
+    {"username": "devils1gg", "name": "devils.one", "type": "team"},
+    {"username": "AnonymoEsports", "name": "Anonymo Esports", "type": "team"},
+    {"username": "DOCISK_", "name": "DOCISK", "type": "team"},
+    {"username": "barczacaesports", "name": "Barcząca Esports", "type": "team"},
+    {"username": "UP2UMEDIApl", "name": "UP2UMEDIA", "type": "team"},
+)
 OUTPUT_PATH = Path(os.environ.get("X_FEED_PATH", "x-feed.json"))
-MAX_STORED_POSTS = 75
-OCR_VERSION = 2
+MAX_STORED_POSTS = 120
+INITIAL_POSTS_PER_ACCOUNT = 5
+NEW_POSTS_PER_ACCOUNT = 5
+OCR_VERSION = 3
 USER_AGENT = "RiftPower/1.0 (+https://riftpower.pl)"
 
 
@@ -31,23 +44,26 @@ def utc_now() -> str:
 def load_state() -> dict[str, Any]:
     if not OUTPUT_PATH.exists():
         return {
-            "account": ACCOUNT,
-            "userId": "",
-            "lastSeenId": "",
+            "accounts": {},
             "updatedAt": None,
-            "backfillComplete": False,
             "posts": [],
         }
 
     with OUTPUT_PATH.open("r", encoding="utf-8") as handle:
         state = json.load(handle)
 
-    state.setdefault("account", ACCOUNT)
-    state.setdefault("userId", "")
-    state.setdefault("lastSeenId", "")
+    accounts = state.setdefault("accounts", {})
+    legacy_account = str(state.get("account", "")).lstrip("@")
+    if legacy_account and legacy_account not in accounts:
+        accounts[legacy_account] = {
+            "userId": str(state.get("userId", "")),
+            "lastSeenId": str(state.get("lastSeenId", "")),
+            "initialized": bool(state.get("backfillComplete")),
+        }
     state.setdefault("updatedAt", None)
-    state.setdefault("backfillComplete", False)
     state.setdefault("posts", [])
+    for key in ("account", "userId", "lastSeenId", "backfillComplete"):
+        state.pop(key, None)
     return state
 
 
@@ -84,16 +100,23 @@ def api_get(token: str, path: str, params: dict[str, str] | None = None) -> dict
         raise RuntimeError(f"Nie udało się połączyć z X API: {error.reason}") from error
 
 
-def get_user_id(token: str) -> str:
+def get_user_profile(token: str, account: dict[str, str]) -> dict[str, str]:
+    username = account["username"]
     payload = api_get(
         token,
-        f"/users/by/username/{quote(ACCOUNT)}",
-        {"user.fields": "id,username,name"},
+        f"/users/by/username/{quote(username)}",
+        {"user.fields": "id,username,name,profile_image_url"},
     )
-    user_id = str(payload.get("data", {}).get("id", ""))
+    user = payload.get("data", {})
+    user_id = str(user.get("id", ""))
     if not user_id:
-        raise RuntimeError(f"X API nie zwróciło identyfikatora konta @{ACCOUNT}.")
-    return user_id
+        raise RuntimeError(f"X API nie zwróciło identyfikatora konta @{username}.")
+    return {
+        "userId": user_id,
+        "username": str(user.get("username") or username),
+        "name": str(user.get("name") or account["name"]),
+        "profileImageUrl": str(user.get("profile_image_url") or ""),
+    }
 
 
 def get_posts(
@@ -181,9 +204,9 @@ def ocr_number(value: str) -> int | None:
     return int(digits) if digits else None
 
 
-def player_from_text(post_text: str, ocr_text: str) -> tuple[str | None, str | None]:
+def player_from_text(post_text: str, ocr_text: str, account_username: str) -> tuple[str | None, str | None]:
     handles = re.findall(r"@([A-Za-z0-9_]{1,15})", post_text)
-    handles = [handle for handle in handles if handle.casefold() != ACCOUNT.casefold()]
+    handles = [handle for handle in handles if handle.casefold() != account_username.casefold()]
     if handles:
         handle = handles[0]
         player = re.sub(r"(?:_?LoL)$", "", handle, flags=re.IGNORECASE) or handle
@@ -209,7 +232,7 @@ def player_from_text(post_text: str, ocr_text: str) -> tuple[str | None, str | N
     return None, None
 
 
-def extract_stats(post_text: str, ocr_text: str) -> dict[str, Any]:
+def extract_stats(post_text: str, ocr_text: str, account_username: str = OFFICIAL_ACCOUNT) -> dict[str, Any]:
     combined = f"{post_text}\n{ocr_text}"
     kda_match = re.search(
         r"\bKDA\b\s*[:=-]?\s*(\d{1,2})\s*[/|]\s*(\d{1,2})\s*[/|]\s*(\d{1,2})",
@@ -226,7 +249,7 @@ def extract_stats(post_text: str, ocr_text: str) -> dict[str, Any]:
         combined,
         flags=re.IGNORECASE,
     )
-    player, player_handle = player_from_text(post_text, ocr_text)
+    player, player_handle = player_from_text(post_text, ocr_text, account_username)
 
     kda = None
     if kda_match:
@@ -283,12 +306,18 @@ def public_media(media: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) -> dict[str, Any]:
+def process_post(
+    post: dict[str, Any],
+    media_by_key: dict[str, dict[str, Any]],
+    account: dict[str, str],
+    profile: dict[str, str],
+) -> dict[str, Any]:
     post_id = str(post["id"])
     text = str(post.get("text", ""))
+    username = profile.get("username") or account["username"]
     media_keys = post.get("attachments", {}).get("media_keys", [])
     media_items = [media_by_key[key] for key in media_keys if key in media_by_key]
-    should_read_image = bool(re.search(r"\bMVP\b|🏆", text, flags=re.IGNORECASE))
+    should_read_image = username.casefold() == OFFICIAL_ACCOUNT.casefold()
 
     ocr_parts: list[str] = []
     ocr_errors: list[str] = []
@@ -303,8 +332,8 @@ def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) 
             ocr_errors.append(str(error)[:500])
 
     full_ocr_text = "\n\n".join(ocr_parts)
-    extracted = extract_stats(text, full_ocr_text)
-    looks_like_mvp = bool(
+    extracted = extract_stats(text, full_ocr_text, username)
+    looks_like_mvp = username.casefold() == OFFICIAL_ACCOUNT.casefold() and bool(
         re.search(r"\bMVP\b", f"{text}\n{full_ocr_text}", flags=re.IGNORECASE)
         or extracted["kda"]
         or extracted["kp"] is not None
@@ -312,10 +341,16 @@ def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) 
 
     result: dict[str, Any] = {
         "id": post_id,
-        "url": f"https://x.com/{ACCOUNT}/status/{post_id}",
+        "url": f"https://x.com/{username}/status/{post_id}",
         "createdAt": post.get("created_at"),
         "text": text,
         "kind": "mvp" if looks_like_mvp else "post",
+        "author": {
+            "username": username,
+            "name": profile.get("name") or account["name"],
+            "profileImageUrl": profile.get("profileImageUrl", ""),
+            "type": account["type"],
+        },
         "media": [public_media(media) for media in media_items],
         "extracted": extracted,
         "ocrText": full_ocr_text[:4000],
@@ -327,7 +362,10 @@ def process_post(post: dict[str, Any], media_by_key: dict[str, dict[str, Any]]) 
 
 
 def reprocess_saved_mvp(post: dict[str, Any]) -> bool:
-    if post.get("kind") != "mvp" or int(post.get("ocrVersion", 0)) >= OCR_VERSION:
+    username = str(post.get("author", {}).get("username") or OFFICIAL_ACCOUNT)
+    if (username.casefold() != OFFICIAL_ACCOUNT.casefold()
+            or post.get("kind") != "mvp"
+            or int(post.get("ocrVersion", 0)) >= OCR_VERSION):
         return False
 
     ocr_parts: list[str] = []
@@ -344,7 +382,7 @@ def reprocess_saved_mvp(post: dict[str, Any]) -> bool:
 
     full_ocr_text = "\n\n".join(ocr_parts)
     post["ocrText"] = full_ocr_text[:4000]
-    post["extracted"] = extract_stats(str(post.get("text", "")), full_ocr_text)
+    post["extracted"] = extract_stats(str(post.get("text", "")), full_ocr_text, username)
     post["ocrVersion"] = OCR_VERSION
     if ocr_errors:
         post["ocrErrors"] = ocr_errors
@@ -365,55 +403,85 @@ def main() -> None:
 
     state = load_state()
     changed = False
-
-    if not state["userId"]:
-        state["userId"] = get_user_id(token)
-        changed = True
-
-    payload = get_posts(token, str(state["userId"]), since_id=str(state["lastSeenId"]))
-    fetched_posts = list(payload.get("data") or [])
-    fetched_media = list(payload.get("includes", {}).get("media", []))
-
-    if not state.get("backfillComplete"):
-        known_ids = [str(post.get("id", "")) for post in state["posts"]]
-        known_ids.extend(str(post.get("id", "")) for post in fetched_posts)
-        numeric_ids = [post_id for post_id in known_ids if post_id.isdigit()]
-        if numeric_ids:
-            until_id = str(min(map(int, numeric_ids)) - 1)
-            older_payload = get_posts(
-                token,
-                str(state["userId"]),
-                until_id=until_id,
-                max_results=50,
-            )
-            fetched_posts.extend(older_payload.get("data") or [])
-            fetched_media.extend(older_payload.get("includes", {}).get("media", []))
-        state["backfillComplete"] = True
-        changed = True
-
-    media_by_key = {
-        str(media["media_key"]): media
-        for media in fetched_media
-        if media.get("media_key")
-    }
-
     existing_posts = {str(post["id"]): post for post in state["posts"] if post.get("id")}
-    for post in fetched_posts:
-        post_id = str(post.get("id", ""))
-        if not post_id or post_id in existing_posts:
+    for post in existing_posts.values():
+        if post.get("author"):
             continue
-        existing_posts[post_id] = process_post(post, media_by_key)
+        post["author"] = {
+            "username": OFFICIAL_ACCOUNT,
+            "name": "Rift Legends",
+            "profileImageUrl": "",
+            "type": "league",
+        }
         changed = True
+
+    fetched_count = 0
+    account_states = state.setdefault("accounts", {})
+    for account in ACCOUNTS:
+        username = account["username"]
+        account_state = account_states.setdefault(
+            username,
+            {"userId": "", "lastSeenId": "", "initialized": False},
+        )
+        account_state.setdefault("userId", "")
+        account_state.setdefault("lastSeenId", "")
+        account_state.setdefault("initialized", False)
+
+        try:
+            if not account_state["userId"]:
+                profile = get_user_profile(token, account)
+                account_state.update(profile)
+                changed = True
+            else:
+                profile = {
+                    "userId": str(account_state["userId"]),
+                    "username": str(account_state.get("username") or username),
+                    "name": str(account_state.get("name") or account["name"]),
+                    "profileImageUrl": str(account_state.get("profileImageUrl") or ""),
+                }
+
+            is_initialized = bool(account_state["initialized"])
+            payload = get_posts(
+                token,
+                profile["userId"],
+                since_id=str(account_state["lastSeenId"]) if is_initialized else "",
+                max_results=NEW_POSTS_PER_ACCOUNT if is_initialized else INITIAL_POSTS_PER_ACCOUNT,
+            )
+            fetched_posts = list(payload.get("data") or [])
+            fetched_media = list(payload.get("includes", {}).get("media", []))
+            media_by_key = {
+                str(media["media_key"]): media
+                for media in fetched_media
+                if media.get("media_key")
+            }
+
+            for post in fetched_posts:
+                post_id = str(post.get("id", ""))
+                if not post_id or post_id in existing_posts:
+                    continue
+                existing_posts[post_id] = process_post(post, media_by_key, account, profile)
+                fetched_count += 1
+                changed = True
+
+            latest_fetched_id = newest_id([str(post.get("id", "")) for post in fetched_posts])
+            latest_id = newest_id([str(account_state["lastSeenId"]), latest_fetched_id])
+            if latest_id and latest_id != account_state["lastSeenId"]:
+                account_state["lastSeenId"] = latest_id
+                changed = True
+            if not account_state["initialized"]:
+                account_state["initialized"] = True
+                changed = True
+            if account_state.pop("error", None) is not None:
+                changed = True
+        except RuntimeError as error:
+            message = str(error)[:800]
+            if account_state.get("error") != message:
+                account_state["error"] = message
+                changed = True
+            print(f"Uwaga: pominięto @{username}: {message}")
 
     for saved_post in existing_posts.values():
         if reprocess_saved_mvp(saved_post):
-            changed = True
-
-    if fetched_posts:
-        latest_fetched_id = newest_id([str(post.get("id", "")) for post in fetched_posts])
-        latest_id = newest_id([str(state["lastSeenId"]), latest_fetched_id])
-        if latest_id and latest_id != state["lastSeenId"]:
-            state["lastSeenId"] = latest_id
             changed = True
 
     state["posts"] = sorted(
@@ -423,10 +491,9 @@ def main() -> None:
     )[:MAX_STORED_POSTS]
 
     if changed:
-        state["account"] = ACCOUNT
         state["updatedAt"] = utc_now()
         write_state(state)
-        print(f"Zapisano {len(fetched_posts)} nowych postów w {OUTPUT_PATH}.")
+        print(f"Zapisano {fetched_count} nowych postów w {OUTPUT_PATH}.")
     else:
         print("Brak nowych postów. Plik pozostaje bez zmian.")
 
