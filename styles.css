@@ -88,14 +88,14 @@ button { font: inherit; color: inherit; }
 .team-logo.medium { width:60px; height:60px; margin:20px 0; }
 
 .ticker { display:flex; align-items:stretch; border-block:1px solid var(--line); min-height:52px; overflow:hidden; background:rgba(255,255,255,.018); }
-.ticker-label { position:relative; z-index:2; flex:0 0 auto; background:#8b5cf6; padding:0 24px; display:flex; align-items:center; font-size:.66rem; letter-spacing:.12em; font-weight:900; }
+.ticker-label { position:relative; z-index:2; flex:0 0 auto; background:#8b5cf6; padding:0 24px; display:flex; align-items:center; font-size:.66rem; letter-spacing:.12em; font-weight:900; white-space:nowrap; }
 .ticker-window { flex:1; min-width:0; overflow:hidden; display:flex; align-items:center; cursor:grab; touch-action:pan-y; }
 .ticker-window.dragging { cursor:grabbing; }
 .ticker-track { display:flex; width:max-content; min-width:max-content; align-items:center; color:#c5cbd8; font-size:.7rem; white-space:nowrap; user-select:none; will-change:transform; }
 .ticker-group { display:flex; flex:0 0 auto; align-items:center; }
 .ticker-item { display:flex; align-items:center; gap:9px; padding:0 28px; font-weight:700; letter-spacing:.01em; cursor:inherit; -webkit-user-drag:none; }
 .ticker-item * { pointer-events:none; -webkit-user-drag:none; }
-.ticker-item b { color:#fff; font-size:.63rem; }
+.ticker-item b { color:#ad8bff; font-size:.63rem; }
 .ticker-item span { color:#c5cbd8; }
 .ticker-item::after { content:""; width:5px; height:5px; margin-left:19px; flex:0 0 5px; border-radius:50%; background:#8b5cf6; }
 .ticker-item:hover span { color:#fff; }

@@ -226,6 +226,7 @@ const confirmedMvpPosts = [
   }
 ];
 let mvpFeed = [...confirmedMvpPosts];
+let xTimelinePosts = [];
 let selectedScheduleRound = 1;
 const tierColors = Object.freeze({
   S: '#ff5b78',
@@ -577,17 +578,39 @@ function renderResults() {
   `).join('');
 }
 
-async function refreshMvpFeed() {
+function tickerPostText(value) {
+  const compact = String(value || '')
+    .replace(/https:\/\/t\.co\/\S+/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!compact) return 'Nowy wpis na oficjalnym profilu Rift Legends';
+  return compact.length > 190 ? `${compact.slice(0, 187).trimEnd()}...` : compact;
+}
+
+function validXPost(post) {
+  const id = String(post?.id || '');
+  const url = String(post?.url || '');
+  return /^\d+$/.test(id)
+    && /^https:\/\/x\.com\/RiftLegendsPL\/status\/\d+$/i.test(url)
+    && Boolean(Date.parse(post?.createdAt));
+}
+
+async function refreshXFeed() {
   try {
     const response = await fetch(`x-feed.json?v=${Date.now()}`, {
       cache: 'no-store',
       credentials: 'omit'
     });
-    if (!response.ok) throw new Error(`MVP HTTP ${response.status}`);
+    if (!response.ok) throw new Error(`X HTTP ${response.status}`);
     const payload = await response.json();
-    const incomingPosts = Array.isArray(payload?.posts)
-      ? payload.posts.filter(post => post?.kind === 'mvp' && post?.createdAt && post?.extracted?.player)
-      : [];
+    const allPosts = Array.isArray(payload?.posts) ? payload.posts : [];
+    xTimelinePosts = allPosts
+      .filter(validXPost)
+      .sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt))
+      .slice(0, 8);
+
+    const incomingPosts = allPosts
+      .filter(post => post?.kind === 'mvp' && post?.createdAt && post?.extracted?.player);
     const mergedPosts = new Map(confirmedMvpPosts.map(post => [mvpPostKey(post), post]));
     incomingPosts.forEach(post => {
       const key = mvpPostKey(post);
@@ -600,13 +623,18 @@ async function refreshMvpFeed() {
         ...post,
         id: key,
         url: post.url || confirmed?.url,
-        createdAt: post.createdAt || confirmed?.createdAt,
-        extracted: { ...(confirmed?.extracted || {}), ...extracted }
+        createdAt: confirmed?.createdAt || post.createdAt,
+        extracted: confirmed
+          ? { ...extracted, ...confirmed.extracted }
+          : extracted
       });
     });
     mvpFeed = [...mergedPosts.values()];
     renderResults();
-  } catch {}
+    renderTickerContent();
+  } catch {
+    renderTickerContent();
+  }
 }
 
 function setSyncStatus(mode, text, explanation) {
@@ -1132,69 +1160,29 @@ function rebuildTickerGroups(markup = tickerMarkup) {
   drawTicker();
 }
 
-function automaticTickerPosts() {
-  const recentResultCutoff = Date.now() - (24 * 60 * 60 * 1000);
-  return uniqueCompletedMatches()
-    .filter(match => (match.timestamp || 0) >= recentResultCutoff)
-    .sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0))
-    .slice(0, 2)
-    .map(match => ({
-      id: `result-${matchIdentity(match)}`,
-      team: 'WYNIK',
-      text: `${match.team1} ${match.score1}:${match.score2} ${match.team2}`,
-      url: String(match.source || '').startsWith('leaguepedia')
-        ? 'https://lol.fandom.com/wiki/Rift_Legends/2026_Season/Summer_Split'
-        : 'https://lolesports.com/pl-PL/leagues/first_stand%2Cmsi%2Crift_legends%2Cworlds'
-    }));
-}
-
-function tickerMatchTime(timestamp) {
-  const date = new Date(timestamp);
-  const today = new Date();
-  const time = new Intl.DateTimeFormat('pl-PL', {
-    hour: '2-digit',
-    minute: '2-digit'
-  }).format(date);
-  const isToday = date.getFullYear() === today.getFullYear()
-    && date.getMonth() === today.getMonth()
-    && date.getDate() === today.getDate();
-  if (isToday) return `dzisiaj, ${time}`;
-  const day = new Intl.DateTimeFormat('pl-PL', {
+function tickerPostDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return 'X';
+  return new Intl.DateTimeFormat('pl-PL', {
     day: 'numeric',
     month: 'short'
-  }).format(date);
-  return `${day}, ${time}`;
-}
-
-function contextTickerPosts() {
-  const now = Date.now();
-  const posts = [];
-
-  const upcoming = scheduleRounds
-    .flatMap(round => round.days.flatMap(day => day.matches))
-    .map(match => ({ team1: match[0], team2: match[2], timestamp: new Date(match[3]).getTime() }))
-    .filter(match => match.timestamp > now && !fixtureResult(match.team1, match.team2))
-    .sort((a, b) => a.timestamp - b.timestamp)
-    .slice(0, 1);
-
-  upcoming.forEach(match => posts.push({
-    id: `upcoming-${match.team1}-${match.team2}-${match.timestamp}`,
-    team: 'NASTĘPNY MECZ',
-    text: `${match.team1} vs ${match.team2} · ${tickerMatchTime(match.timestamp)}`,
-    url: '#matches'
-  }));
-
-  return posts;
+  }).format(date).toUpperCase();
 }
 
 function renderTickerContent() {
   if (!tickerTrack) return false;
-  const posts = [
-    ...automaticTickerPosts(),
-    ...contextTickerPosts()
-  ];
-  const uniquePosts = [...new Map(posts.map(post => [`${post.team}|${post.text}`, post])).values()];
-  if (!uniquePosts.length) return false;
+  const posts = xTimelinePosts.length
+    ? xTimelinePosts.map(post => ({
+      team: `X · ${tickerPostDate(post.createdAt)}`,
+      text: tickerPostText(post.text),
+      url: post.url
+    }))
+    : [{
+      team: 'X',
+      text: 'Najnowsze wpisy oficjalnego profilu Rift Legends',
+      url: 'https://x.com/RiftLegendsPL'
+    }];
+  const uniquePosts = [...new Map(posts.map(post => [post.url, post])).values()];
 
   const signature = uniquePosts.map(post => `${post.team}|${post.text}|${post.url}`).join('||');
   if (signature === tickerContentSignature) return true;
@@ -1293,10 +1281,10 @@ renderSources();
 renderSchedule(activeScheduleRound());
 renderResults();
 renderBroadcast();
-refreshMvpFeed();
+refreshXFeed();
 refreshRoundPatches();
 setInterval(renderBroadcast, 60000);
-setInterval(refreshMvpFeed, 5 * 60 * 1000);
+setInterval(refreshXFeed, 5 * 60 * 1000);
 setInterval(refreshRoundPatches, 6 * 60 * 60 * 1000);
 refreshMatchResults();
 setInterval(refreshMatchResults, 60000);
