@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-09T14:10:21Z",
+  "updatedAt": "2026-08-09T16:01:09Z",
   "posts": [
+    {
+      "id": "2086462504566247576",
+      "url": "https://x.com/RiftLegendsPL/status/2086462504566247576",
+      "createdAt": "2026-08-09T14:40:00.000Z",
+      "text": "KLASYFIKACJA RIFT LEGENDS SUMMER PO 1 TYGODNIU ROZGRYWEK!\n\nDopiero się rozkręcamy 😼 https://t.co/jI9XVSaICZ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2086434727037169664",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSBVHAW8AA_0LT.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "KLASYFIKACJA",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "KLASYFIKACJA\n\nRIFT LEGENDS SUMMER 2026\n\nTEAM\n\nPos\n\nTEAM\n\nAn. @\n\nANO\n\nBoon\n\nv5.2\n\n5.28\n\nLDS\n\nVv 6.\n\nS\n\n&\n\nUP2U\n\nFSK\n\nBCE\n\nAs. ©\n\nv7 &\n\nAa W\n\nDv’11\n\nve. @\n\nboc\n\no\n\nBeet |\n\ntodko Bane (QD oo\n\n+ +\nKLASYFIKACJA\nRIFT LEGENDS SUMMER 2026\nAn. @ ANO 10 v5.8 Boom 01\nA2. ® Lps 10 v6. & UP2U o1\nA383. @ FSK 10 v7. @ BCE o1\n4 W DW 10 v8. @ poc o4\nener todko [Bae ® vinato\n+ Ba | i A",
+      "ocrVersion": 3
+    },
     {
       "id": "2086423144378618145",
       "url": "https://x.com/RiftLegendsPL/status/2086423144378618145",
@@ -3623,7 +3655,7 @@
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2086423144378618145",
+      "lastSeenId": "2086462504566247576",
       "initialized": true
     },
     "Lodis_LDS": {
