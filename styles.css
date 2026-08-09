@@ -87,18 +87,27 @@ button { font: inherit; color: inherit; }
 .team-logo.large { width:66px; height:66px; flex-basis:66px; border-radius:0; font-size:.83rem; }
 .team-logo.medium { width:60px; height:60px; margin:20px 0; }
 
-.ticker { display:flex; align-items:stretch; border-block:1px solid var(--line); min-height:52px; overflow:hidden; background:rgba(255,255,255,.018); }
-.ticker-label { position:relative; z-index:2; flex:0 0 auto; background:#8b5cf6; padding:0 24px; display:flex; align-items:center; font-size:.66rem; letter-spacing:.12em; font-weight:900; white-space:nowrap; }
-.ticker-window { flex:1; min-width:0; overflow:hidden; display:flex; align-items:center; cursor:grab; touch-action:pan-y; }
+.ticker { display:flex; align-items:stretch; border-block:1px solid var(--line); min-height:184px; overflow:hidden; background:#0b0e16; }
+.ticker-label { position:relative; z-index:2; flex:0 0 166px; background:#8b5cf6; padding:22px 18px; display:flex; flex-direction:column; justify-content:center; align-items:flex-start; gap:7px; font-size:.68rem; letter-spacing:.11em; font-weight:900; white-space:nowrap; }
+.ticker-label span { color:rgba(255,255,255,.72); font-size:.46rem; letter-spacing:.08em; }
+.ticker-window { flex:1; min-width:0; overflow:hidden; display:flex; align-items:center; padding:14px 0; cursor:grab; touch-action:pan-y; }
 .ticker-window.dragging { cursor:grabbing; }
-.ticker-track { display:flex; width:max-content; min-width:max-content; align-items:center; color:#c5cbd8; font-size:.7rem; white-space:nowrap; user-select:none; will-change:transform; }
-.ticker-group { display:flex; flex:0 0 auto; align-items:center; }
-.ticker-item { display:flex; align-items:center; gap:9px; padding:0 28px; font-weight:700; letter-spacing:.01em; cursor:inherit; -webkit-user-drag:none; }
+.ticker-track { display:flex; width:max-content; min-width:max-content; align-items:center; color:#c5cbd8; font-size:.7rem; user-select:none; will-change:transform; }
+.ticker-group { display:flex; flex:0 0 auto; align-items:stretch; gap:12px; padding-right:12px; }
+.ticker-item { cursor:inherit; -webkit-user-drag:none; }
 .ticker-item * { pointer-events:none; -webkit-user-drag:none; }
-.ticker-item b { color:#ad8bff; font-size:.63rem; }
-.ticker-item span { color:#c5cbd8; }
-.ticker-item::after { content:""; width:5px; height:5px; margin-left:19px; flex:0 0 5px; border-radius:50%; background:#8b5cf6; }
-.ticker-item:hover span { color:#fff; }
+.tweet-card { width:430px; min-height:154px; flex:0 0 430px; display:grid; grid-template-columns:minmax(0,1fr) 136px; gap:13px; padding:14px; border:1px solid var(--line); background:#111520; color:#fff; transition:border-color .18s ease,background .18s ease; }
+.tweet-card:hover { border-color:rgba(139,92,246,.55); background:#141827; }
+.tweet-card-copy { min-width:0; display:flex; flex-direction:column; align-items:flex-start; white-space:normal; }
+.tweet-card-head { width:100%; display:grid; grid-template-columns:auto minmax(0,1fr) auto; align-items:baseline; gap:7px; }
+.tweet-card-head strong { color:#fff; font-size:.72rem; }
+.tweet-card-head small { min-width:0; overflow:hidden; color:#8d96a9; font-size:.55rem; text-overflow:ellipsis; }
+.tweet-card-head time { color:#9f7cff; font-size:.53rem; font-weight:900; letter-spacing:.07em; }
+.tweet-card-text { margin-top:12px; color:#d8dce7; font-size:.67rem; font-weight:700; line-height:1.45; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:4; overflow:hidden; }
+.tweet-card-link { margin-top:auto; padding-top:9px; color:#9f7cff; font-size:.52rem; font-weight:850; letter-spacing:.04em; }
+.tweet-card-media,.tweet-card-placeholder { width:136px; height:124px; align-self:center; display:block; border:1px solid rgba(255,255,255,.08); background:#090c13; }
+.tweet-card-media { object-fit:cover; }
+.tweet-card-placeholder { display:grid; place-items:center; color:#9f7cff; font-size:2rem; font-weight:950; }
 .section-heading { display:flex; justify-content:space-between; align-items:end; margin-bottom:30px; gap:30px; }
 .section-heading h2, .method-copy h2 { font-size:clamp(2rem,3.2vw,3rem); line-height:1; letter-spacing:-.045em; margin:10px 0 0; }
 .section-heading.compact p { max-width:520px; color:var(--muted); font-size:.83rem; }
@@ -288,10 +297,14 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
   .hero h1 { font-size:2.85rem; }
   .hero-meta { gap:15px; }
   .hero-actions { flex-wrap:wrap; }
-  .ticker { min-height:46px; }
-  .ticker-label { padding:0 14px; font-size:.56rem; }
-  .ticker-track { font-size:.62rem; animation-duration:29s; }
-  .ticker-group span { gap:20px; padding:0 20px; }
+  .ticker { min-height:unset; display:block; }
+  .ticker-label { min-height:44px; padding:8px 14px; flex-direction:row; justify-content:flex-start; align-items:center; gap:10px; font-size:.58rem; }
+  .ticker-label span { font-size:.42rem; }
+  .ticker-window { padding:10px 0; }
+  .ticker-group { gap:9px; padding-right:9px; }
+  .tweet-card { width:330px; min-height:142px; flex-basis:330px; grid-template-columns:minmax(0,1fr) 102px; padding:12px; gap:10px; }
+  .tweet-card-media,.tweet-card-placeholder { width:102px; height:112px; }
+  .tweet-card-text { margin-top:9px; font-size:.61rem; -webkit-line-clamp:4; }
   .section-block { padding-top:66px; }
   .section-heading { align-items:flex-start; flex-direction:column; margin-bottom:22px; }
   .legend { flex-wrap:wrap; }

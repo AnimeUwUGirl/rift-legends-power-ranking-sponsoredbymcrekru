@@ -1169,30 +1169,58 @@ function tickerPostDate(value) {
   }).format(date).toUpperCase();
 }
 
+function tickerPostMedia(post) {
+  const item = Array.isArray(post?.media)
+    ? post.media.find(media => media?.url)
+    : null;
+  if (!item) return null;
+  const url = String(item.url || '');
+  if (!/^https:\/\/(?:pbs|video)\.twimg\.com\//i.test(url)) return null;
+  return {
+    url,
+    alt: String(item.altText || 'Grafika do wpisu Rift Legends')
+  };
+}
+
 function renderTickerContent() {
   if (!tickerTrack) return false;
   const posts = xTimelinePosts.length
-    ? xTimelinePosts.map(post => ({
-      team: `X · ${tickerPostDate(post.createdAt)}`,
-      text: tickerPostText(post.text),
-      url: post.url
-    }))
+    ? xTimelinePosts.map(post => {
+      const media = tickerPostMedia(post);
+      return {
+        date: tickerPostDate(post.createdAt),
+        text: tickerPostText(post.text),
+        url: post.url,
+        mediaUrl: media?.url || '',
+        mediaAlt: media?.alt || ''
+      };
+    })
     : [{
-      team: 'X',
+      date: 'X',
       text: 'Najnowsze wpisy oficjalnego profilu Rift Legends',
-      url: 'https://x.com/RiftLegendsPL'
+      url: 'https://x.com/RiftLegendsPL',
+      mediaUrl: '',
+      mediaAlt: ''
     }];
   const uniquePosts = [...new Map(posts.map(post => [post.url, post])).values()];
 
-  const signature = uniquePosts.map(post => `${post.team}|${post.text}|${post.url}`).join('||');
+  const signature = uniquePosts.map(post => `${post.date}|${post.text}|${post.url}|${post.mediaUrl}`).join('||');
   if (signature === tickerContentSignature) return true;
   tickerContentSignature = signature;
 
   const markup = uniquePosts.map(post => {
     const external = /^https?:\/\//i.test(post.url);
+    const media = post.mediaUrl
+      ? `<img class="tweet-card-media" src="${esc(post.mediaUrl)}" alt="${esc(post.mediaAlt)}" loading="lazy" decoding="async">`
+      : '<span class="tweet-card-placeholder">X</span>';
     return `
-    <a class="ticker-item" href="${esc(post.url)}" ${external ? 'target="_blank" rel="noreferrer noopener"' : ''}>
-      <b>${esc(post.team)}</b><span>${esc(post.text)}</span>
+    <a class="ticker-item tweet-card ${post.mediaUrl ? 'has-media' : ''}" href="${esc(post.url)}" ${external ? 'target="_blank" rel="noreferrer noopener"' : ''}>
+      <span class="tweet-card-copy">
+        <span class="tweet-card-head"><strong>Rift Legends</strong><small>@RiftLegendsPL</small><time>${esc(post.date)}</time></span>
+        <span class="tweet-card-text">${esc(post.text)}</span>
+        <small class="tweet-card-link">Otwórz wpis na X ↗</small>
+      </span>
+      ${media}
     </a>
   `;
   }).join('');
