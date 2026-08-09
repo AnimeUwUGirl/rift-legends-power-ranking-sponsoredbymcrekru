@@ -227,6 +227,18 @@ const confirmedMvpPosts = [
 ];
 let mvpFeed = [...confirmedMvpPosts];
 let xTimelinePosts = [];
+const officialXAccount = 'RiftLegendsPL';
+const xAccountNames = Object.freeze({
+  riftlegendspl: 'Rift Legends',
+  lodis_lds: 'LODIS',
+  bombateamgg: 'BOMBA Team',
+  _forsakengg_: 'Forsaken',
+  devils1gg: 'devils.one',
+  anonymoesports: 'Anonymo Esports',
+  docisk_: 'DOCISK',
+  barczacaesports: 'Barcząca Esports',
+  up2umediapl: 'UP2UMEDIA'
+});
 let selectedScheduleRound = 1;
 const tierColors = Object.freeze({
   S: '#ff5b78',
@@ -583,15 +595,34 @@ function tickerPostText(value) {
     .replace(/https:\/\/t\.co\/\S+/gi, '')
     .replace(/\s+/g, ' ')
     .trim();
-  if (!compact) return 'Nowy wpis na oficjalnym profilu Rift Legends';
+  if (!compact) return 'Nowy wpis na X';
   return compact.length > 190 ? `${compact.slice(0, 187).trimEnd()}...` : compact;
+}
+
+function xPostAuthor(post) {
+  const urlMatch = String(post?.url || '').match(/^https:\/\/x\.com\/([A-Za-z0-9_]{1,15})\/status\/(\d+)$/i);
+  const username = String(post?.author?.username || urlMatch?.[1] || '');
+  const key = username.toLowerCase();
+  if (!xAccountNames[key]) return null;
+  const profileImageUrl = /^https:\/\/pbs\.twimg\.com\//i.test(String(post?.author?.profileImageUrl || ''))
+    ? String(post.author.profileImageUrl)
+    : '';
+  return {
+    username,
+    name: String(post?.author?.name || xAccountNames[key]),
+    profileImageUrl,
+    profileUrl: `https://x.com/${username}`
+  };
 }
 
 function validXPost(post) {
   const id = String(post?.id || '');
   const url = String(post?.url || '');
+  const match = url.match(/^https:\/\/x\.com\/([A-Za-z0-9_]{1,15})\/status\/(\d+)$/i);
+  const author = xPostAuthor(post);
   return /^\d+$/.test(id)
-    && /^https:\/\/x\.com\/RiftLegendsPL\/status\/\d+$/i.test(url)
+    && match?.[2] === id
+    && author?.username.toLowerCase() === match?.[1].toLowerCase()
     && Boolean(Date.parse(post?.createdAt));
 }
 
@@ -607,10 +638,13 @@ async function refreshXFeed() {
     xTimelinePosts = allPosts
       .filter(validXPost)
       .sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt))
-      .slice(0, 8);
+      .slice(0, 12);
 
     const incomingPosts = allPosts
-      .filter(post => post?.kind === 'mvp' && post?.createdAt && post?.extracted?.player);
+      .filter(post => xPostAuthor(post)?.username.toLowerCase() === officialXAccount.toLowerCase()
+        && post?.kind === 'mvp'
+        && post?.createdAt
+        && post?.extracted?.player);
     const mergedPosts = new Map(confirmedMvpPosts.map(post => [mvpPostKey(post), post]));
     incomingPosts.forEach(post => {
       const key = mvpPostKey(post);
@@ -1169,7 +1203,7 @@ function tickerPostDate(value) {
   }).format(date).toUpperCase();
 }
 
-function tickerPostMedia(post) {
+function tickerPostMedia(post, author) {
   const item = Array.isArray(post?.media)
     ? post.media.find(media => media?.url)
     : null;
@@ -1178,7 +1212,7 @@ function tickerPostMedia(post) {
   if (!/^https:\/\/(?:pbs|video)\.twimg\.com\//i.test(url)) return null;
   return {
     url,
-    alt: String(item.altText || 'Grafika do wpisu Rift Legends')
+    alt: String(item.altText || `Grafika do wpisu ${author?.name || 'na X'}`)
   };
 }
 
@@ -1186,25 +1220,32 @@ function renderTickerContent() {
   if (!tickerTrack) return false;
   const posts = xTimelinePosts.length
     ? xTimelinePosts.map(post => {
-      const media = tickerPostMedia(post);
+      const author = xPostAuthor(post);
+      const media = tickerPostMedia(post, author);
       return {
         date: tickerPostDate(post.createdAt),
         text: tickerPostText(post.text),
         url: post.url,
+        authorName: author?.name || 'Rift Legends',
+        authorUsername: author?.username || officialXAccount,
+        authorAvatar: author?.profileImageUrl || '',
         mediaUrl: media?.url || '',
         mediaAlt: media?.alt || ''
       };
     })
     : [{
       date: 'X',
-      text: 'Najnowsze wpisy oficjalnego profilu Rift Legends',
+      text: 'Najnowsze wpisy ligi i drużyn Rift Legends',
       url: 'https://x.com/RiftLegendsPL',
+      authorName: 'Rift Legends',
+      authorUsername: officialXAccount,
+      authorAvatar: '',
       mediaUrl: '',
       mediaAlt: ''
     }];
   const uniquePosts = [...new Map(posts.map(post => [post.url, post])).values()];
 
-  const signature = uniquePosts.map(post => `${post.date}|${post.text}|${post.url}|${post.mediaUrl}`).join('||');
+  const signature = uniquePosts.map(post => `${post.date}|${post.authorUsername}|${post.text}|${post.url}|${post.mediaUrl}`).join('||');
   if (signature === tickerContentSignature) return true;
   tickerContentSignature = signature;
 
@@ -1213,10 +1254,13 @@ function renderTickerContent() {
     const media = post.mediaUrl
       ? `<img class="tweet-card-media" src="${esc(post.mediaUrl)}" alt="${esc(post.mediaAlt)}" loading="lazy" decoding="async">`
       : '<span class="tweet-card-placeholder">X</span>';
+    const avatar = post.authorAvatar
+      ? `<img class="tweet-card-avatar" src="${esc(post.authorAvatar)}" alt="" loading="lazy" decoding="async">`
+      : '<span class="tweet-card-avatar tweet-card-avatar-fallback">X</span>';
     return `
     <a class="ticker-item tweet-card ${post.mediaUrl ? 'has-media' : ''}" href="${esc(post.url)}" ${external ? 'target="_blank" rel="noreferrer noopener"' : ''}>
       <span class="tweet-card-copy">
-        <span class="tweet-card-head"><strong>Rift Legends</strong><small>@RiftLegendsPL</small><time>${esc(post.date)}</time></span>
+        <span class="tweet-card-head">${avatar}<span class="tweet-card-identity"><strong>${esc(post.authorName)}</strong><small>@${esc(post.authorUsername)}</small></span><time>${esc(post.date)}</time></span>
         <span class="tweet-card-text">${esc(post.text)}</span>
         <small class="tweet-card-link">Otwórz wpis na X ↗</small>
       </span>
