@@ -884,9 +884,9 @@ function teamLogo(team, size = '') {
 
 function achievementIcon(kind) {
   if (kind === 'title') {
-    return `<svg class="achievement-svg achievement-svg-title" viewBox="0 0 24 24" aria-hidden="true"><path class="achievement-fill" d="M6 2h12v3h3v2c0 3.1-1.6 5.5-4.5 6.8A7.1 7.1 0 0 1 13 17v2h4v3H7v-3h4v-2a7.1 7.1 0 0 1-3.5-3.2C4.6 12.5 3 10.1 3 7V5h3V2Zm0 5H5c0 1.7.7 3.1 2 4-.6-1.2-1-2.5-1-4Zm13-1h-1v1c0 1.5-.4 2.8-1 4 1.3-.9 2-2.3 2-4V6Z"/></svg>`;
+    return `<svg class="achievement-icon achievement-icon-title" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10v4c0 4-2 6.4-5 7.5C9 13.4 7 11 7 7V3Z"/><path d="M7 5H4v2c0 2.6 1.5 4.3 4.2 5M17 5h3v2c0 2.6-1.5 4.3-4.2 5M12 15v4M8.5 21h7M10 19h4"/></svg>`;
   }
-  return `<svg class="achievement-svg achievement-svg-emea" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.4 2.5 3.6 5.5 3.6 9S14.4 18.5 12 21C9.6 18.5 8.4 15.5 8.4 12S9.6 5.5 12 3Z"/></svg>`;
+  return `<svg class="achievement-icon achievement-icon-emea" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.4 2.5 3.6 5.5 3.6 9S14.4 18.5 12 21C9.6 18.5 8.4 15.5 8.4 12S9.6 5.5 12 3Z"/></svg>`;
 }
 
 function achievementBadges(team) {
@@ -906,8 +906,10 @@ function achievementPanel(team) {
       <div class="modal-achievement-list">
         ${team.achievements.map(item => `
           <div class="modal-achievement-row ${esc(item.kind)}">
-            <span class="modal-achievement-icon">${achievementIcon(item.kind)}</span>
-            <div><strong>${esc(item.title)}</strong><span>${esc(item.detail)}</span></div>
+            <div class="modal-achievement-copy">
+              <div class="modal-achievement-heading">${achievementIcon(item.kind)}<strong>${esc(item.title)}</strong></div>
+              <span>${esc(item.detail)}</span>
+            </div>
           </div>
         `).join('')}
       </div>
