@@ -137,6 +137,7 @@ button { font: inherit; color: inherit; }
 .ranking-achievements, .team-achievements { display:flex; flex-wrap:wrap; align-items:center; gap:5px; }
 .achievement-badge { display:inline-flex; align-items:center; gap:5px; min-height:23px; padding:3px 7px; border:1px solid #4d5668; background:#121722; color:#c9d0dc; font-size:.54rem; font-weight:900; letter-spacing:.045em; line-height:1; white-space:nowrap; }
 .achievement-badge svg { width:13px; height:13px; flex:0 0 13px; fill:none; stroke:currentColor; stroke-width:1.7; stroke-linecap:round; stroke-linejoin:round; }
+.achievement-svg .achievement-fill { fill:currentColor; stroke:none; }
 .achievement-badge.title { color:#f5c85b; border-color:rgba(245,200,91,.52); background:rgba(245,200,91,.07); }
 .achievement-badge.emea { color:#b9c6dc; border-color:#48556c; background:#131a27; }
 .achievement-empty { color:#555e70; font-size:.76rem; }
@@ -270,11 +271,11 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
 .modal-achievements { margin:20px 34px 0; padding:18px 20px; border:1px solid var(--line); background:#0f131d; }
 .modal-achievements h3 { margin:0 0 13px; color:#eef1f6; font-size:.7rem; letter-spacing:.1em; text-transform:uppercase; }
 .modal-achievement-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; }
-.modal-achievement-row { display:grid; grid-template-columns:34px minmax(0,1fr); gap:10px; align-items:center; min-height:54px; padding:9px 11px; border:1px solid #30384a; background:#111722; }
+.modal-achievement-row { display:grid; grid-template-columns:40px minmax(0,1fr); gap:12px; align-items:center; min-height:58px; padding:10px 12px; border:1px solid #30384a; background:#111722; }
 .modal-achievement-row.title { border-color:rgba(245,200,91,.36); background:rgba(245,200,91,.045); }
-.modal-achievement-icon { display:grid; place-items:center; width:32px; height:32px; color:#b9c6dc; border:1px solid #465166; }
-.modal-achievement-row.title .modal-achievement-icon { color:#f5c85b; border-color:rgba(245,200,91,.5); }
-.modal-achievement-icon svg { width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:1.7; stroke-linecap:round; stroke-linejoin:round; }
+.modal-achievement-icon { display:grid; place-items:center; width:38px; height:38px; color:#b9c6dc; background:#1a2231; }
+.modal-achievement-row.title .modal-achievement-icon { color:#f5c85b; background:rgba(245,200,91,.12); }
+.modal-achievement-icon svg { width:23px; height:23px; fill:none; stroke:currentColor; stroke-width:1.65; stroke-linecap:round; stroke-linejoin:round; }
 .modal-achievement-row strong, .modal-achievement-row span { display:block; }
 .modal-achievement-row strong { color:#eef1f6; font-size:.72rem; }
 .modal-achievement-row div > span { margin-top:3px; color:#8993a6; font-size:.6rem; }

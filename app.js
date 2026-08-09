@@ -884,9 +884,9 @@ function teamLogo(team, size = '') {
 
 function achievementIcon(kind) {
   if (kind === 'title') {
-    return `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3h8v3c0 3.2-1.6 5.2-4 6.2C9.6 11.2 8 9.2 8 6V3Z"/><path d="M8 5H4v1c0 2.5 1.4 4 4.4 4M16 5h4v1c0 2.5-1.4 4-4.4 4M12 12v4M8.5 20h7M10 16h4v4"/></svg>`;
+    return `<svg class="achievement-svg achievement-svg-title" viewBox="0 0 24 24" aria-hidden="true"><path class="achievement-fill" d="M6 2h12v3h3v2c0 3.1-1.6 5.5-4.5 6.8A7.1 7.1 0 0 1 13 17v2h4v3H7v-3h4v-2a7.1 7.1 0 0 1-3.5-3.2C4.6 12.5 3 10.1 3 7V5h3V2Zm0 5H5c0 1.7.7 3.1 2 4-.6-1.2-1-2.5-1-4Zm13-1h-1v1c0 1.5-.4 2.8-1 4 1.3-.9 2-2.3 2-4V6Z"/></svg>`;
   }
-  return `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M3.8 12h16.4M12 3.5c2.2 2.3 3.3 5.1 3.3 8.5S14.2 18.2 12 20.5C9.8 18.2 8.7 15.4 8.7 12S9.8 5.8 12 3.5Z"/></svg>`;
+  return `<svg class="achievement-svg achievement-svg-emea" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.4 2.5 3.6 5.5 3.6 9S14.4 18.5 12 21C9.6 18.5 8.4 15.5 8.4 12S9.6 5.5 12 3Z"/></svg>`;
 }
 
 function achievementBadges(team) {
