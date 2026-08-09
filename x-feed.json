@@ -1,9 +1,35 @@
 {
   "account": "RiftLegendsPL",
   "userId": "1851662981429362691",
-  "lastSeenId": "2086163043122028924",
-  "updatedAt": "2026-08-08T19:45:56Z",
+  "lastSeenId": "2086392044067467491",
+  "updatedAt": "2026-08-09T10:16:51Z",
   "posts": [
+    {
+      "id": "2086392044067467491",
+      "url": "https://x.com/RiftLegendsPL/status/2086392044067467491",
+      "createdAt": "2026-08-09T10:00:01.000Z",
+      "text": "Miracle run Polaków z TH po Worldsy? \nWin vs FNC ✅\nWin vs G2   ❓ https://t.co/AJNevIHu8l",
+      "kind": "post",
+      "media": [
+        {
+          "mediaKey": "3_2086225804195741697",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPPDUMxXQAENjbD.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 2
+    },
     {
       "id": "2086163043122028924",
       "url": "https://x.com/RiftLegendsPL/status/2086163043122028924",
