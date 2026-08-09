@@ -882,6 +882,39 @@ function teamLogo(team, size = '') {
   return `<div class="team-logo ${size}" style="--accent:${teamTierColor(team)}">${content}</div>`;
 }
 
+function achievementIcon(kind) {
+  if (kind === 'title') {
+    return `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3h8v3c0 3.2-1.6 5.2-4 6.2C9.6 11.2 8 9.2 8 6V3Z"/><path d="M8 5H4v1c0 2.5 1.4 4 4.4 4M16 5h4v1c0 2.5-1.4 4-4.4 4M12 12v4M8.5 20h7M10 16h4v4"/></svg>`;
+  }
+  return `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M3.8 12h16.4M12 3.5c2.2 2.3 3.3 5.1 3.3 8.5S14.2 18.2 12 20.5C9.8 18.2 8.7 15.4 8.7 12S9.8 5.8 12 3.5Z"/></svg>`;
+}
+
+function achievementBadges(team) {
+  if (!team.achievements?.length) return `<span class="achievement-empty">-</span>`;
+  return team.achievements.map(item => `
+    <span class="achievement-badge ${esc(item.kind)}" title="${esc(item.title)}: ${esc(item.detail)}">
+      ${achievementIcon(item.kind)}<span>${esc(item.badge)}</span>
+    </span>
+  `).join('');
+}
+
+function achievementPanel(team) {
+  if (!team.achievements?.length) return '';
+  return `
+    <section class="modal-achievements" aria-label="Osiągnięcia drużyny w 2026 roku">
+      <h3>Osiągnięcia 2026</h3>
+      <div class="modal-achievement-list">
+        ${team.achievements.map(item => `
+          <div class="modal-achievement-row ${esc(item.kind)}">
+            <span class="modal-achievement-icon">${achievementIcon(item.kind)}</span>
+            <div><strong>${esc(item.title)}</strong><span>${esc(item.detail)}</span></div>
+          </div>
+        `).join('')}
+      </div>
+    </section>
+  `;
+}
+
 function sameRosterName(first, second) {
   return String(first || '').localeCompare(String(second || ''), 'pl', { sensitivity: 'base' }) === 0;
 }
@@ -1049,6 +1082,7 @@ function renderRanking() {
           ${teamLogo(team)}
           <h3>${esc(team.name)}</h3>
         </div>
+        <div class="ranking-achievements" aria-label="Osiągnięcia w 2026 roku">${achievementBadges(team)}</div>
         <div class="ranking-tier" data-tier="${esc(team.tier)}">${esc(team.tier)}</div>
         <div class="ranking-record">${esc(series.record)}</div>
         <div class="ranking-last-series ${series.empty ? 'empty' : ''}">${esc(series.last)}</div>
@@ -1067,6 +1101,7 @@ function renderTeams() {
       ${teamLogo(team, 'medium')}
       <h3>${esc(team.short)}</h3>
       <p>${esc(team.spring)}</p>
+      ${team.achievements?.length ? `<div class="team-achievements" aria-label="Osiągnięcia w 2026 roku">${achievementBadges(team)}</div>` : ''}
       <div class="team-change-badge">${esc(rosterChangeText(team))}</div>
       <div class="team-card-compare-head"><span>${esc(team.previousLabel)}</span><span>SUMMER</span></div>
       <div class="team-card-roster">${rosterComparisonRows(team)}</div>
@@ -1091,6 +1126,7 @@ function openTeam(rank) {
         <p>${esc(team.autoLast.score)} z ${esc(team.autoLast.opponent)}. Zmiana Elo: ${esc(signedPower(team.autoLast.impact))}.</p>
       </div>
     ` : ''}
+    ${achievementPanel(team)}
     <div class="modal-grid">
       <div class="roster-comparison">
         <div class="roster-heading-row"><h3>Zmiany w składzie</h3><a class="roster-source" href="${esc(team.rosterSourceUrl)}" target="_blank" rel="noopener">${esc(team.rosterSource)}</a></div>

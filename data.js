@@ -39,6 +39,10 @@ window.RL_DATA = {
       previousRoster: ["frajgo", "Guli", "Mrozku", "Odi11", "minemaciek"],
       previousStaff: ["Maquk", "Dylan"],
       staff: ["Maquk", "behave", "Dylan"],
+      achievements: [
+        { kind: "title", badge: "WINTER 2026", title: "Mistrz Rift Legends Winter 2026", detail: "1. miejsce w play-offach" },
+        { kind: "emea", badge: "EMEA 13-16", title: "EMEA Masters Spring 2026", detail: "13-16. miejsce" }
+      ],
       spring: "2. miejsce · Spring Playoffs 2026"
     },
     {
@@ -108,6 +112,10 @@ window.RL_DATA = {
       previousRoster: ["iBo", "XnS", "Decay", "Scorth", "Lucker"],
       previousStaff: ["astr0less", "Gilius"],
       staff: ["Nice Guy Ben"],
+      achievements: [
+        { kind: "title", badge: "SPRING 2026", title: "Mistrz Rift Legends Spring 2026", detail: "1. miejsce w play-offach" },
+        { kind: "emea", badge: "EMEA 9-12", title: "EMEA Masters Spring 2026", detail: "9-12. miejsce" }
+      ],
       spring: "1. miejsce · Spring Playoffs 2026"
     },
     {
