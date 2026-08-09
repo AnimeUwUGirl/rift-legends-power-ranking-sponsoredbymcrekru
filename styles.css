@@ -133,8 +133,7 @@ button { font: inherit; color: inherit; }
 .rank-number { font-size:1.45rem; font-weight:950; letter-spacing:-.05em; color:#f3f5f9; text-align:center; }
 .ranking-team-cell { min-width:0; display:flex; align-items:center; gap:12px; }
 .ranking-team-cell .team-logo { width:42px; height:42px; flex-basis:42px; border-radius:0; }
-.ranking-team-cell h3 { margin:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:.94rem; }
-.ranking-team-cell small { display:block; margin-top:3px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; color:var(--muted); font-size:.52rem; }
+.ranking-team-cell h3 { margin:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:1.02rem; }
 .ranking-tier { width:38px; padding:4px 0; border:1px solid color-mix(in srgb,var(--accent) 70%,white); color:color-mix(in srgb,var(--accent) 82%,white); background:color-mix(in srgb,var(--accent) 10%,transparent); text-align:center; font-size:.64rem; font-weight:950; }
 .ranking-record { font-size:.9rem; font-weight:850; text-align:center; }
 .ranking-last-series { color:#c5cbd7; font-size:.67rem; }
@@ -175,8 +174,6 @@ button { font: inherit; color: inherit; }
 .team-card-staff small { color:#8992a4; font-size:.52rem; }
 .team-card-staff b { color:#505768; text-align:center; }
 .team-card-staff span { color:#c5cbd6; overflow-wrap:anywhere; }
-.team-card-cta { border-top:1px solid var(--line); margin-top:16px; padding-top:14px; display:flex; justify-content:space-between; font-size:.78rem; font-weight:850; }
-.team-card-cta span { color:var(--accent); }
 
 .matches-layout { display:grid; grid-template-columns:minmax(0,1.35fr) minmax(310px,.65fr); gap:18px; align-items:start; }
 .schedule-card, .results-card { border:1px solid var(--line); background:var(--panel); border-radius:0; overflow:hidden; }
@@ -318,8 +315,7 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
   .ranking-team-cell { gap:8px; }
   .ranking-team-cell .team-logo { width:36px; height:36px; flex-basis:36px; }
   .rank-number { font-size:.92rem; }
-  .ranking-team-cell h3 { font-size:.8rem; line-height:1.15; }
-  .ranking-team-cell small { font-size:.47rem; }
+  .ranking-team-cell h3 { font-size:.86rem; line-height:1.15; }
   .ranking-tier { width:32px; padding:3px 0; font-size:.57rem; }
   .ranking-rating { font-size:1.3rem; }
   .ranking-movement { font-size:.64rem; }

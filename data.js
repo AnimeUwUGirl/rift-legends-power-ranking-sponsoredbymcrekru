@@ -44,7 +44,7 @@ window.RL_DATA = {
     {
       rank: 1,
       name: "devils.one inStreamly",
-      short: "devils.one",
+      short: "devils.one inStreamly",
       mark: "DV1",
       logo: "assets/devils-one-instreamly.webp",
       score: 86,

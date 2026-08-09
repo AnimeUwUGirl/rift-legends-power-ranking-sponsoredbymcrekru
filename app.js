@@ -1047,10 +1047,7 @@ function renderRanking() {
         <div class="rank-number">${String(team.rank).padStart(2,'0')}</div>
         <div class="ranking-team-cell">
           ${teamLogo(team)}
-          <div>
-            <h3>${esc(team.name)}</h3>
-            <small>${esc(rosterChangeText(team))} · akt. ${esc(formatTeamDate(team.updated))}</small>
-          </div>
+          <h3>${esc(team.name)}</h3>
         </div>
         <div class="ranking-tier" data-tier="${esc(team.tier)}">${esc(team.tier)}</div>
         <div class="ranking-record">${esc(series.record)}</div>
@@ -1074,7 +1071,6 @@ function renderTeams() {
       <div class="team-card-compare-head"><span>${esc(team.previousLabel)}</span><span>SUMMER</span></div>
       <div class="team-card-roster">${rosterComparisonRows(team)}</div>
       ${teamStaffRow(team)}
-      <div class="team-card-cta">Porównaj skład <span>↗</span></div>
     </button>
   `).join('');
 }
@@ -1274,8 +1270,11 @@ function renderTickerContent() {
   return true;
 }
 
-function finishTickerDrag() {
+function finishTickerDrag(event) {
   if (!tickerDragging) return;
+  if (event && tickerWindow.hasPointerCapture?.(event.pointerId)) {
+    tickerWindow.releasePointerCapture?.(event.pointerId);
+  }
   tickerDragging = false;
   tickerResumeAt = performance.now() + 1600;
   tickerWindow.classList.remove('dragging');
@@ -1291,13 +1290,15 @@ if (tickerWindow && tickerTrack) {
     tickerStartX = event.clientX;
     tickerStartOffset = tickerOffset;
     tickerWindow.classList.add('dragging');
-    tickerWindow.setPointerCapture?.(event.pointerId);
   });
 
   tickerWindow.addEventListener('pointermove', event => {
     if (!tickerDragging) return;
     const distance = event.clientX - tickerStartX;
-    if (Math.abs(distance) > 4) tickerMoved = true;
+    if (Math.abs(distance) > 4 && !tickerMoved) {
+      tickerMoved = true;
+      tickerWindow.setPointerCapture?.(event.pointerId);
+    }
     tickerOffset = normalizeTickerOffset(tickerStartOffset - distance);
     drawTicker();
     if (tickerMoved) event.preventDefault();
