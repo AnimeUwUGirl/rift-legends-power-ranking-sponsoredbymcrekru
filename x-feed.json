@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-10T14:34:14Z",
+  "updatedAt": "2026-08-10T17:39:37Z",
   "posts": [
+    {
+      "id": "2086828667062329506",
+      "url": "https://x.com/RiftLegendsPL/status/2086828667062329506",
+      "createdAt": "2026-08-10T14:55:00.000Z",
+      "text": "Wolne poniedziałkowe popołudnie? \nZapraszamy na LECa! 😼 https://t.co/YZjaY6bmzd",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2086816915448528896",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXc7ZyWAAAq2np.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "zabka",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Vex\n\n\\)\n\n\\ GE\n\nMATCADAY\n\nPONIEDZIAEEK 10 SIERPNIA\n\nva\n\n4\n\nSe\n\n=)\n\nBo:\n\n915\n\nw\n\nzabka\n\n[- i mul.\naie, i)\n\n\\r SS\n~ ~a\\ \\P\\\n\n< (\n\na\nr\nPONIEDZIAELEK 10 SIERPNIA\nBoy eww &\na on)",
+      "ocrVersion": 3
+    },
     {
       "id": "2086814080224862353",
       "url": "https://x.com/RiftLegendsPL/status/2086814080224862353",
@@ -3714,44 +3746,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2084635975590813878",
-      "url": "https://x.com/barczacaesports/status/2084635975590813878",
-      "createdAt": "2026-08-04T13:42:01.000Z",
-      "text": "ZA CZY NA MY sezon Letni\n\n17:00 vs @Lodis_LDS https://t.co/rRP0FrIKKw",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2084630076230959104",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO4YAm3XgAA3QDF.jpg",
-          "altText": null,
-          "width": 1165,
-          "height": 1457
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2086814080224862353",
+      "lastSeenId": "2086828667062329506",
       "initialized": true
     },
     "Lodis_LDS": {
