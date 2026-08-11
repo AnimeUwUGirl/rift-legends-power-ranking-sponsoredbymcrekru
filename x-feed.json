@@ -1,6 +1,262 @@
 {
-  "updatedAt": "2026-08-11T14:48:02Z",
+  "updatedAt": "2026-08-11T18:09:18Z",
   "posts": [
+    {
+      "id": "2087234368469127449",
+      "url": "https://x.com/Lodis_LDS/status/2087234368469127449",
+      "createdAt": "2026-08-11T17:47:07.000Z",
+      "text": "Eren Biela  🇯🇵\n\n1:1 normalnie... https://t.co/tyx5REdvsE",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2087234283878416384",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087234283878416384/img/fpXLxlHNbrCymUcE.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087233798748483851",
+      "url": "https://x.com/RiftLegendsPL/status/2087233798748483851",
+      "createdAt": "2026-08-11T17:44:51.000Z",
+      "text": ".@Guli_lol Kowboj? 🤠 https://t.co/PB4tTP8Blo",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087233355179773952",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdXrYrWUAAySYG.jpg",
+          "altText": null,
+          "width": 1350,
+          "height": 1086
+        }
+      ],
+      "extracted": {
+        "player": "Guli",
+        "playerHandle": "Guli_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "GRACZ\n\nJEGO POSTAC\n\nad\n\nhs\n\nal\n\n>\n\nf.\n\na\n\nig\n\na] |\n\np\n\nimi\n\neM\n\nSF\n\n4\n\nGRACZ JEGO POSTAG\n &4y TAN: Ak\na= or 4\n|\nVp\n¥. R fr\nDAS Fa,\ni. i ss\neT hh Call",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087225437038477612",
+      "url": "https://x.com/RiftLegendsPL/status/2087225437038477612",
+      "createdAt": "2026-08-11T17:11:37.000Z",
+      "text": "aha chyba nie https://t.co/L7xVbAmD1r",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087225405476368384",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdQcpuW8AAEw2I.png",
+          "altText": null,
+          "width": 588,
+          "height": 200
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Account suspended\n\nX suspends accounts which violate the X Rules\n\nAccount suspended\nX suspends accounts which violate the X Rules",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087225293878522199",
+      "url": "https://x.com/RiftLegendsPL/status/2087225293878522199",
+      "createdAt": "2026-08-11T17:11:03.000Z",
+      "text": "Arquel gotowy na powołanie? 😼 https://t.co/DqO3vj1sDC",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087225096326770688",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdQKqDWcAA5aqb.png",
+          "altText": null,
+          "width": 629,
+          "height": 627
+        }
+      ],
+      "extracted": {
+        "player": "its",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "at;\n\n\\\\\n\nits\n\ny\n\nfx_eXtr3m3: -iBo +ArQuel EZ\n\nj })\n\\ i®\n. '\n’ j j\na tA\nfx_eXtr3m3: -iBo +ArQuel EZ",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087215325867590017",
+      "url": "https://x.com/RiftLegendsPL/status/2087215325867590017",
+      "createdAt": "2026-08-11T16:31:26.000Z",
+      "text": "\"Dziadku, a kto to IceBeasto?\" 👴🏼 https://t.co/zjnNH6JHgZ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087215038591340544",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdHBOEXEAAJxxe.png",
+          "altText": null,
+          "width": 429,
+          "height": 343
+        }
+      ],
+      "extracted": {
+        "player": "iBO",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "a IBO\n\nf)\n\nmM ICEBEASTO\n\niBO\nmn ICEBEASTO",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087209466345230804",
+      "url": "https://x.com/RiftLegendsPL/status/2087209466345230804",
+      "createdAt": "2026-08-11T16:08:09.000Z",
+      "text": "Robercik nie daje grać innym na boisku 🤠 https://t.co/jYCN527Q3E",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087209207212728321",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdBtyfW4AEYUe8.jpg",
+          "altText": null,
+          "width": 1334,
+          "height": 747
+        }
+      ],
+      "extracted": {
+        "player": "ERDOTE",
+        "playerHandle": null,
+        "kda": "0/5/5",
+        "kp": 8.4,
+        "gold": null
+      },
+      "ocrText": "DV’\n\n=\n\nPy\n\nor ]\n\n/\n\nGRA’\n\nA\n\no/5/5 0/0/20\n\n—\n\n=\n\nnooss (EN) sox.\n\nie |\n\n-570 570\n\nB inStreamly\n\n=\n\n1s0 (EI) 24s\n\neee\"\n\nWu\n\n=—\n\n8.996 8.4%\n\nBYDGOSZCZ | PL\n\n‘OPOLE | PL\n\nROBERT KRZYZANOWSKI\n\nROBERTOOS\n\nBS | OD sate a GD pom\n\nERDOTE\n\nROBERT NOWAK\n\n* BEE o> DWV\nBCE “ir PY\nBro) ail a)\nP| Ry) ea\n= o/5/s 0/0/20 = 7\nnooss (EN) sox. ¥ aha |\ny P » -570 570\n[ Sy \\ B inStreamly\n| | # “Ge WW\naa S— 8.9% 8.4% ,\nBYDGOSZCZ | PL OPOLE | PL\naeerccaedaa a |@ Ee Bs OO ouw- | adhe",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087208380737691695",
+      "url": "https://x.com/devils1gg/status/2087208380737691695",
+      "createdAt": "2026-08-11T16:03:51.000Z",
+      "text": "Pierwsza mapka dobrze poszła. \n\n@Erdote_lol Daj trochę pograć rywalom https://t.co/myfcDjmGda",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087207992781381632",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPdAnGYXIAAWKff.jpg",
+          "altText": null,
+          "width": 2550,
+          "height": 1424
+        }
+      ],
+      "extracted": {
+        "player": "Erdote",
+        "playerHandle": "Erdote_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087190906159923533",
+      "url": "https://x.com/Lodis_LDS/status/2087190906159923533",
+      "createdAt": "2026-08-11T14:54:24.000Z",
+      "text": "UWOLNIĆ TASIEMCA! 🪱\n\nPrzymrozimy coś niecoś z chłopakami po 19  😎\n\nStream klasycznie u @Nervarieno, @TTobias_lol, a pozostałe POV'y? Opcjonalne 🤓  \n\n#LodisMrozić https://t.co/j32pXp3e8r",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087187995254239233",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPcubFyWsAEO5D8.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Nervarieno",
+        "playerHandle": "Nervarieno",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2087179415608312307",
       "url": "https://x.com/DOCISK_/status/2087179415608312307",
@@ -3499,273 +3755,17 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2084704755310297148",
-      "url": "https://x.com/RiftLegendsPL/status/2084704755310297148",
-      "createdAt": "2026-08-04T18:15:20.000Z",
-      "text": "nie JestDobrze dla @DOCISK_ ☠️☠️ https://t.co/dZNShsqjtZ",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084704639169994752",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5b0vdWIAAXoiS.png",
-          "altText": null,
-          "width": 478,
-          "height": 180
-        }
-      ],
-      "extracted": {
-        "player": "DOCISK_",
-        "playerHandle": "DOCISK_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084703124418081101",
-      "url": "https://x.com/AnonymoEsports/status/2084703124418081101",
-      "createdAt": "2026-08-04T18:08:51.000Z",
-      "text": "matko jedyna @czypsycebulowe ty z tym skinem powinieneś ratować, a nie zabijać🤯 https://t.co/bhUZOzYfF2",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2084702932994330624",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2084702932994330624/img/W3n1N53Ok37I91U6.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "czypsycebulowe",
-        "playerHandle": "czypsycebulowe",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2084698474012889237",
-      "url": "https://x.com/RiftLegendsPL/status/2084698474012889237",
-      "createdAt": "2026-08-04T17:50:22.000Z",
-      "text": "≽^•⩊•^≼ https://t.co/90he7Zydu3",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084698226322497536",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5V_dvW4AAq8m8.png",
-          "altText": null,
-          "width": 667,
-          "height": 746
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084696931956064563",
-      "url": "https://x.com/RiftLegendsPL/status/2084696931956064563",
-      "createdAt": "2026-08-04T17:44:15.000Z",
-      "text": "WELCOME BACK @Huronlol ⛓️‍💥\n\n@DOCISK_ VS @AnonymoEsports WŁAŚNIE STARTUJE! https://t.co/yQMBLT2EUy",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084696612337573888",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5UhhLXYAA9B9Q.jpg",
-          "altText": null,
-          "width": 930,
-          "height": 528
-        }
-      ],
-      "extracted": {
-        "player": "Huron",
-        "playerHandle": "Huronlol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084692887292244244",
-      "url": "https://x.com/RiftLegendsPL/status/2084692887292244244",
-      "createdAt": "2026-08-04T17:28:10.000Z",
-      "text": "Potężny debiut w lidzę od @CzekoladLol \n\nCzyżby szykował się nam nowy, nieażtakimłody talent?;d https://t.co/eM08GBmFNa",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084692881743192064",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5RIXoWoAAcwXj.jpg",
-          "altText": null,
-          "width": 1200,
-          "height": 675
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084692103896965329",
-      "url": "https://x.com/RiftLegendsPL/status/2084692103896965329",
-      "createdAt": "2026-08-04T17:25:03.000Z",
-      "text": "Nie ma to jak pierwszy dzień w robocie @Veggie_LoL XDDD https://t.co/nfaU2p25bA",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2084692025064976384",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2084692025064976384/img/GFsxBjjGTSu92RYD.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Veggie",
-        "playerHandle": "Veggie_LoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084691487804039252",
-      "url": "https://x.com/barczacaesports/status/2084691487804039252",
-      "createdAt": "2026-08-04T17:22:37.000Z",
-      "text": "Te misie jednak mocne - GG's @Lodis_LDS https://t.co/C0nmeIwnkN",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2084691341280227328",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5Pus9XMAAl9hf.jpg",
-          "altText": null,
-          "width": 1165,
-          "height": 1457
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2084689370070552943",
-      "url": "https://x.com/RiftLegendsPL/status/2084689370070552943",
-      "createdAt": "2026-08-04T17:14:12.000Z",
-      "text": "NOWY SKŁAD @Lodis_LDS DOMINUJĘ SERIĘ! https://t.co/3MaWvLAQzo",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084689230148558848",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO5Nz0YWYAA08BL.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2087155699193131266",
+      "lastSeenId": "2087233798748483851",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2086802428024750197",
+      "lastSeenId": "2087234368469127449",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3789,7 +3789,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2087164630728622471",
+      "lastSeenId": "2087208380737691695",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
