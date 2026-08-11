@@ -60,7 +60,7 @@ const scheduleRounds = [
     label: 'R2',
     dates: '11 i 12.08',
     title: 'Runda 2',
-    patch: 'TBD',
+    patch: '26.15',
     end: '2026-08-12T23:59:59+02:00',
     days: [
       { date: 'Wtorek 11 sierpnia', short: 'DZIEŃ 1', matches: [
@@ -363,8 +363,8 @@ function parseLolEsportsEvent(event) {
     id: String(event?.id || match?.id || ''),
     team1: canonicalTeamName(teams[0]?.name || teams[0]?.code),
     team2: canonicalTeamName(teams[1]?.name || teams[1]?.code),
-    score1: state === 'completed' ? score1 : null,
-    score2: state === 'completed' ? score2 : null,
+    score1,
+    score2,
     winner,
     date: event?.startTime || '',
     timestamp,
@@ -389,7 +389,13 @@ function mergeMatchLists(...lists) {
 }
 
 function isCompletedMatch(match) {
+  const state = String(match?.state || '').toLowerCase();
+  if (state && state !== 'completed') return false;
   return match.score1 != null && match.score2 != null && match.score1 + match.score2 > 0;
+}
+
+function isLiveMatch(match) {
+  return /in.?progress|live/.test(String(match?.state || '').toLowerCase());
 }
 
 function clamp(value, min, max) {
@@ -518,9 +524,22 @@ function fixtureResult(leftTeam, rightTeam) {
     : { left: match.score2, right: match.score1 };
 }
 
+function fixtureLiveResult(leftTeam, rightTeam) {
+  const match = automaticMatches.find(item => matchPairKey(item.team1, item.team2) === matchPairKey(leftTeam, rightTeam) && isLiveMatch(item));
+  if (!match) return null;
+  const sameOrder = teamMatchKey(match.team1) === teamMatchKey(leftTeam);
+  const first = match.score1 ?? 0;
+  const second = match.score2 ?? 0;
+  return sameOrder
+    ? { left: first, right: second }
+    : { left: second, right: first };
+}
+
 function fixtureCenter(match) {
   const result = fixtureResult(match[0], match[2]);
   if (result) return `<span class="fixture-score"><b>${result.left}:${result.right}</b><small>KONIEC</small></span>`;
+  const liveResult = fixtureLiveResult(match[0], match[2]);
+  if (liveResult) return `<span class="fixture-score live"><b>${liveResult.left}:${liveResult.right}</b><small>NA ŻYWO</small></span>`;
   return `<time class="fixture-time" datetime="${esc(match[3])}">${esc(match[1])}</time>`;
 }
 
@@ -1042,7 +1061,7 @@ async function syncTwitchBroadcast(liveMatch) {
   if (twitchBroadcastKey === matchKey) return;
   clearTwitchBroadcast();
   twitchBroadcastKey = matchKey;
-  twitchLiveTitle.textContent = `${liveMatch.team1} vs ${liveMatch.team2}`;
+  twitchLiveTitle.textContent = `${liveMatch.team1} ${liveMatch.score1 ?? 0}:${liveMatch.score2 ?? 0} ${liveMatch.team2}`;
 
   if (window.matchMedia('(max-width: 480px)').matches) {
     setTwitchBroadcastState('mobile');
@@ -1097,9 +1116,11 @@ function renderBroadcast() {
     }))
     .sort((a, b) => a.startTime - b.startTime);
   const liveMatch = automaticMatches
-    .filter(match => !isCompletedMatch(match) && /in.?progress|live/.test(String(match.state || '').toLowerCase()))
+    .filter(isLiveMatch)
     .sort((a, b) => (a.timestamp || 0) - (b.timestamp || 0))[0];
-  const live = liveMatch ? { title: `${liveMatch.team1} vs ${liveMatch.team2}` } : null;
+  const live = liveMatch
+    ? { title: `${liveMatch.team1} ${liveMatch.score1 ?? 0}:${liveMatch.score2 ?? 0} ${liveMatch.team2}` }
+    : null;
   const next = scheduledEvents.find(event => !event.finished && event.startTime > now);
   const status = live ? 'NA ŻYWO' : next ? 'NASTĘPNY MECZ' : 'BRAK TRANSMISJI';
   const nextDate = next

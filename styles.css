@@ -240,6 +240,8 @@ button { font: inherit; color: inherit; }
 .fixture-time, .fixture-score { text-align:center; color:#71d0ff; background:rgba(87,190,246,.08); border:1px solid rgba(87,190,246,.14); padding:6px 4px; border-radius:0; font-size:.68rem; font-weight:950; }
 .fixture-score { display:flex; flex-direction:column; color:#8ce8c7; background:rgba(70,214,165,.07); border-color:rgba(70,214,165,.16); line-height:1; }
 .fixture-score small { margin-top:3px; color:#6f9d8e; font-size:.38rem; letter-spacing:.08em; }
+.fixture-score.live { color:#ff9aad; background:rgba(255,83,112,.09); border-color:rgba(255,83,112,.26); }
+.fixture-score.live small { color:#ff7189; }
 .schedule-footer { padding:0 18px 18px; }
 .phase-strip { display:grid; grid-template-columns:repeat(4,1fr); gap:7px; padding-top:14px; border-top:1px solid var(--line); }
 .phase-strip div { min-width:0; padding:10px; border-radius:0; background:rgba(255,255,255,.025); }
