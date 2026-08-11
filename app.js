@@ -1022,31 +1022,37 @@ function clearTwitchBroadcast() {
     twitchLivePanel.hidden = true;
     twitchLivePanel.dataset.state = 'idle';
   }
+  if (broadcastBar) broadcastBar.hidden = false;
 }
 
 function setTwitchBroadcastState(state) {
   if (!twitchLivePanel || !twitchLiveState) return;
   twitchLivePanel.dataset.state = state;
   if (state === 'online') {
+    if (broadcastBar) broadcastBar.hidden = true;
     twitchLiveState.innerHTML = '<i></i>TRANSMISJA NA ŻYWO';
     twitchLivePanel.hidden = false;
     return;
   }
   if (state === 'mobile') {
+    if (broadcastBar) broadcastBar.hidden = true;
     twitchLiveState.innerHTML = '<i></i>MECZ NA ŻYWO';
     twitchLivePanel.hidden = false;
     return;
   }
   if (state === 'preview') {
+    if (broadcastBar) broadcastBar.hidden = true;
     twitchLiveState.innerHTML = '<i></i>PODGLĄD LOKALNY';
     twitchLivePanel.hidden = false;
     return;
   }
   if (state === 'checking') {
+    if (broadcastBar) broadcastBar.hidden = true;
     twitchLiveState.innerHTML = '<i></i>SPRAWDZAM TRANSMISJĘ';
     twitchLivePanel.hidden = false;
     return;
   }
+  if (broadcastBar) broadcastBar.hidden = false;
   twitchLivePanel.hidden = true;
 }
 
@@ -1131,10 +1137,6 @@ function renderBroadcast() {
     <div class="broadcast-copy">
       <span class="broadcast-status ${live ? 'live' : ''}"><i></i>${esc(status)}</span>
       <strong>${esc(title)}</strong>
-    </div>
-    <div class="broadcast-actions">
-      <a class="broadcast-link primary" href="${esc(broadcast.youtubeChannel)}" target="_blank" rel="noreferrer noopener">Kanał YouTube</a>
-      <a class="broadcast-link" href="${esc(broadcast.twitch)}" target="_blank" rel="noreferrer noopener">Twitch</a>
     </div>
   `;
   syncTwitchBroadcast(liveMatch);
