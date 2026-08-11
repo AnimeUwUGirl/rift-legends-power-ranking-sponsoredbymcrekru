@@ -6,6 +6,10 @@ const modal = document.querySelector('#teamModal');
 const modalContent = document.querySelector('#modalContent');
 const modalClose = document.querySelector('#modalClose');
 const broadcastBar = document.querySelector('#broadcastBar');
+const twitchLivePanel = document.querySelector('#twitchLivePanel');
+const twitchLiveState = document.querySelector('#twitchLiveState');
+const twitchLiveTitle = document.querySelector('#twitchLiveTitle');
+const twitchLivePlayer = document.querySelector('#twitchLivePlayer');
 const syncStatus = document.querySelector('#syncStatus');
 const resultsList = document.querySelector('#resultsList');
 const resultsLabel = document.querySelector('#resultsLabel');
@@ -195,6 +199,10 @@ const summerStartTimestamp = Date.parse('2026-08-04T00:00:00Z');
 const summerEndTimestamp = Date.parse('2026-09-20T23:59:59Z');
 let automaticMatches = [...confirmedSummerResults];
 let automaticResultsSource = 'lolesports-confirmed';
+let twitchPlayerInstance = null;
+let twitchPlayerScriptPromise = null;
+let twitchBroadcastKey = '';
+let twitchStatusTimer = null;
 const confirmedMvpPosts = [
   {
     id: '2084692887292244244',
@@ -961,6 +969,121 @@ function rankedTeams() {
   return [...data.teams].sort((a, b) => a.rank - b.rank);
 }
 
+function loadTwitchPlayerScript() {
+  if (window.Twitch?.Player) return Promise.resolve(window.Twitch);
+  if (twitchPlayerScriptPromise) return twitchPlayerScriptPromise;
+  twitchPlayerScriptPromise = new Promise((resolve, reject) => {
+    const existing = document.querySelector('script[data-twitch-player]');
+    if (existing) {
+      existing.addEventListener('load', () => resolve(window.Twitch), { once: true });
+      existing.addEventListener('error', reject, { once: true });
+      return;
+    }
+    const script = document.createElement('script');
+    script.src = 'https://player.twitch.tv/js/embed/v1.js';
+    script.async = true;
+    script.dataset.twitchPlayer = '';
+    script.addEventListener('load', () => resolve(window.Twitch), { once: true });
+    script.addEventListener('error', reject, { once: true });
+    document.head.append(script);
+  });
+  return twitchPlayerScriptPromise;
+}
+
+function clearTwitchBroadcast() {
+  clearTimeout(twitchStatusTimer);
+  twitchStatusTimer = null;
+  twitchBroadcastKey = '';
+  if (twitchPlayerInstance) {
+    try { twitchPlayerInstance.pause(); } catch {}
+  }
+  twitchPlayerInstance = null;
+  if (twitchLivePlayer) twitchLivePlayer.replaceChildren();
+  if (twitchLivePanel) {
+    twitchLivePanel.hidden = true;
+    twitchLivePanel.dataset.state = 'idle';
+  }
+}
+
+function setTwitchBroadcastState(state) {
+  if (!twitchLivePanel || !twitchLiveState) return;
+  twitchLivePanel.dataset.state = state;
+  if (state === 'online') {
+    twitchLiveState.innerHTML = '<i></i>TRANSMISJA NA ŻYWO';
+    twitchLivePanel.hidden = false;
+    return;
+  }
+  if (state === 'mobile') {
+    twitchLiveState.innerHTML = '<i></i>MECZ NA ŻYWO';
+    twitchLivePanel.hidden = false;
+    return;
+  }
+  if (state === 'preview') {
+    twitchLiveState.innerHTML = '<i></i>PODGLĄD LOKALNY';
+    twitchLivePanel.hidden = false;
+    return;
+  }
+  if (state === 'checking') {
+    twitchLiveState.innerHTML = '<i></i>SPRAWDZAM TRANSMISJĘ';
+    twitchLivePanel.hidden = false;
+    return;
+  }
+  twitchLivePanel.hidden = true;
+}
+
+async function syncTwitchBroadcast(liveMatch) {
+  if (!twitchLivePanel || !twitchLivePlayer) return;
+  if (!liveMatch) {
+    clearTwitchBroadcast();
+    return;
+  }
+
+  const matchKey = `${liveMatch.id || matchPairKey(liveMatch.team1, liveMatch.team2)}|${liveMatch.timestamp || ''}`;
+  if (twitchBroadcastKey === matchKey) return;
+  clearTwitchBroadcast();
+  twitchBroadcastKey = matchKey;
+  twitchLiveTitle.textContent = `${liveMatch.team1} vs ${liveMatch.team2}`;
+
+  if (window.matchMedia('(max-width: 480px)').matches) {
+    setTwitchBroadcastState('mobile');
+    return;
+  }
+
+  const allowedParents = ['riftpower.pl', 'www.riftpower.pl'];
+  if (!allowedParents.includes(location.hostname)) {
+    twitchLivePlayer.innerHTML = '<div class="twitch-live-preview">Player pojawi się tutaj na riftpower.pl</div>';
+    setTwitchBroadcastState('preview');
+    return;
+  }
+
+  setTwitchBroadcastState('checking');
+  try {
+    const TwitchApi = await loadTwitchPlayerScript();
+    if (twitchBroadcastKey !== matchKey || !TwitchApi?.Player) return;
+    twitchPlayerInstance = new TwitchApi.Player('twitchLivePlayer', {
+      channel: 'nervarien',
+      parent: allowedParents,
+      width: '100%',
+      height: '100%',
+      autoplay: false,
+      muted: false
+    });
+    twitchPlayerInstance.addEventListener(TwitchApi.Player.ONLINE, () => {
+      if (twitchBroadcastKey === matchKey) setTwitchBroadcastState('online');
+    });
+    twitchPlayerInstance.addEventListener(TwitchApi.Player.OFFLINE, () => {
+      if (twitchBroadcastKey === matchKey) setTwitchBroadcastState('offline');
+    });
+    twitchStatusTimer = setTimeout(() => {
+      if (twitchBroadcastKey === matchKey && twitchLivePanel.dataset.state === 'checking') {
+        setTwitchBroadcastState('offline');
+      }
+    }, 12000);
+  } catch {
+    if (twitchBroadcastKey === matchKey) setTwitchBroadcastState('offline');
+  }
+}
+
 function renderBroadcast() {
   if (!broadcastBar || !data.broadcasts) return;
   const broadcast = data.broadcasts;
@@ -993,6 +1116,7 @@ function renderBroadcast() {
       <a class="broadcast-link" href="${esc(broadcast.twitch)}" target="_blank" rel="noreferrer noopener">Twitch</a>
     </div>
   `;
+  syncTwitchBroadcast(liveMatch);
 }
 
 function renderSchedule(roundId = 1) {

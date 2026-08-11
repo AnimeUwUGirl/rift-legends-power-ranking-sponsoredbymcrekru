@@ -12,7 +12,7 @@
   <meta property="og:description" content="Niezależny ranking drużyn Rift Legends na split Summer 2026." />
   <meta property="og:url" content="https://riftpower.pl/" />
   <title>Rift Power | Ranking Summer 2026</title>
-  <link rel="stylesheet" href="styles.css?v=20260809-9" />
+  <link rel="stylesheet" href="styles.css?v=20260811-1" />
 </head>
 <body>
   <header class="site-header">
@@ -107,6 +107,17 @@
             <span class="sync-status" id="syncStatus">20 SPOTKAŃ · AKTUALIZACJA</span>
           </div>
           <div class="broadcast-bar" id="broadcastBar" aria-label="Oficjalna transmisja"></div>
+          <section class="twitch-live-panel" id="twitchLivePanel" aria-label="Transmisja Rift Legends na żywo" hidden>
+            <div class="twitch-live-head">
+              <div class="twitch-live-copy">
+                <span class="twitch-live-state" id="twitchLiveState"><i></i>SPRAWDZAM TRANSMISJĘ</span>
+                <strong id="twitchLiveTitle">Rift Legends</strong>
+              </div>
+              <a class="twitch-live-link" href="https://www.twitch.tv/nervarien" target="_blank" rel="noreferrer noopener">Otwórz na Twitchu</a>
+            </div>
+            <div class="twitch-live-player" id="twitchLivePlayer"></div>
+            <p class="twitch-live-mobile">Transmisja otworzy się w aplikacji lub na stronie Twitcha.</p>
+          </section>
           <div class="schedule-tabs" id="scheduleTabs" role="tablist" aria-label="Rundy sezonu zasadniczego"></div>
           <div class="schedule-panel" id="schedulePanel"></div>
           <div class="schedule-footer">
@@ -175,6 +186,6 @@
 
     <script src="data.js?v=20260809-3"></script>
     <script src="ranking.js?v=20260806-1"></script>
-    <script src="app.js?v=20260809-9"></script>
+    <script src="app.js?v=20260811-1"></script>
 </body>
 </html>

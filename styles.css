@@ -202,6 +202,22 @@ button { font: inherit; color: inherit; }
 .broadcast-link { padding:7px 9px; border:1px solid var(--line); border-radius:3px; color:#aeb6c7; background:rgba(255,255,255,.025); font-size:.52rem; font-weight:850; white-space:nowrap; }
 .broadcast-link:hover { color:white; background:rgba(255,255,255,.055); }
 .broadcast-link.primary { color:white; border-color:rgba(255,83,112,.24); background:rgba(255,83,112,.11); }
+.twitch-live-panel[hidden] { display:none; }
+.twitch-live-panel { border-bottom:1px solid var(--line); background:#090c13; }
+.twitch-live-head { display:flex; align-items:center; justify-content:space-between; gap:18px; padding:13px 16px; border-bottom:1px solid var(--line); }
+.twitch-live-copy { display:flex; flex-direction:column; min-width:0; }
+.twitch-live-state { display:flex; align-items:center; gap:6px; color:#ff8197; font-size:.5rem; font-weight:950; letter-spacing:.1em; }
+.twitch-live-state i { width:7px; height:7px; border-radius:50%; background:#ff5370; box-shadow:0 0 0 4px rgba(255,83,112,.1); }
+.twitch-live-copy strong { margin-top:4px; font-size:.78rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.twitch-live-link { padding:7px 10px; border:1px solid rgba(145,70,255,.36); color:#d9c7ff; background:rgba(145,70,255,.1); font-size:.55rem; font-weight:900; white-space:nowrap; }
+.twitch-live-link:hover { color:white; background:rgba(145,70,255,.18); }
+.twitch-live-player { width:100%; aspect-ratio:16/9; min-height:300px; background:#05070b; }
+.twitch-live-player iframe { display:block; width:100%; height:100%; border:0; }
+.twitch-live-preview { display:grid; place-items:center; width:100%; height:100%; color:#70798c; font-size:.66rem; }
+.twitch-live-mobile { display:none; margin:0; padding:14px 16px; color:#8e97aa; font-size:.62rem; }
+.twitch-live-panel[data-state="checking"] .twitch-live-player { opacity:.72; }
+.twitch-live-panel[data-state="preview"] .twitch-live-state { color:#9aa3b4; }
+.twitch-live-panel[data-state="preview"] .twitch-live-state i { background:#778195; box-shadow:none; }
 .schedule-tabs { display:grid; grid-template-columns:repeat(5,1fr); gap:7px; padding:11px 12px; border-bottom:1px solid var(--line); }
 .schedule-tab { border:0; border-radius:3px; padding:9px 5px; background:transparent; color:var(--muted); cursor:pointer; font-size:.67rem; font-weight:900; transition:.18s ease; }
 .schedule-tab small { display:block; margin-top:3px; color:#666f82; font-size:.48rem; font-weight:750; }
@@ -367,4 +383,5 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
 .source-card p { grid-column:1; color:var(--muted); font-size:.55rem; margin:0; }
 .source-arrow { grid-column:2; grid-row:1/3; color:#8992a5; font-size:.85rem; }
 @media (max-width:980px){ .matches-layout{grid-template-columns:1fr;} }
-@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.result-mvp{flex-wrap:wrap;gap:4px 7px}.result-mvp small{flex-basis:100%;text-align:center}.broadcast-bar{align-items:flex-start;flex-direction:column}.broadcast-actions{justify-content:flex-start}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }
+@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.result-mvp{flex-wrap:wrap;gap:4px 7px}.result-mvp small{flex-basis:100%;text-align:center}.broadcast-bar{align-items:flex-start;flex-direction:column}.broadcast-actions{justify-content:flex-start}.twitch-live-head{align-items:flex-start;flex-direction:column}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }
+@media (max-width:480px){ .twitch-live-player{display:none}.twitch-live-mobile{display:block} }
