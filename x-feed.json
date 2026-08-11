@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-10T17:39:37Z",
+  "updatedAt": "2026-08-11T11:26:25Z",
   "posts": [
+    {
+      "id": "2087136771620385192",
+      "url": "https://x.com/RiftLegendsPL/status/2087136771620385192",
+      "createdAt": "2026-08-11T11:19:18.000Z",
+      "text": ".@barczacaesports, @devils1gg, @Lodis_LDS, @_ForsakenGG_ Klient turniejowy pobrany? 🤓 https://t.co/ll5AAHN77i",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087130808855175168",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPb6aZ2WIAAkQO7.jpg",
+          "altText": null,
+          "width": 970,
+          "height": 970
+        }
+      ],
+      "extracted": {
+        "player": "barczacaesports",
+        "playerHandle": "barczacaesports",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "rd\n\nat\n\neo\n\n-\" a s ‘\n4 :\n7\nad io\n$ : 4",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087128823942861051",
+      "url": "https://x.com/RiftLegendsPL/status/2087128823942861051",
+      "createdAt": "2026-08-11T10:47:43.000Z",
+      "text": "Mamo, wujek dzwoni 🤠\n\n@JaskierBB przejmuje dzisiaj Instagrama!\nWpadajcie zobaczyć, co dzieje się za kulisami👀 https://t.co/n15hgovj0R",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2087127499121577984",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087127499121577984/img/KOJVuMkViFwbvNBA.jpg",
+          "altText": null,
+          "width": 1214,
+          "height": 716
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2086828667062329506",
       "url": "https://x.com/RiftLegendsPL/status/2086828667062329506",
@@ -3682,76 +3746,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2084661691774599429",
-      "url": "https://x.com/RiftLegendsPL/status/2084661691774599429",
-      "createdAt": "2026-08-04T15:24:13.000Z",
-      "text": "🔥 ZACZYNAMY PIERWSZĄ GRĘ LETNIEGO SEZONU RIFT LEGENDS!🔥  ZACZYNAMY PIERWSZĄ GRĘ LETNIEGO SEZONU RIFT LEGENDS! 🔥  ZACZYNAMY PIERWSZĄ GRĘ LETNIEGO SEZONU RIFT LEGENDS! 🔥  ZACZYNAMY PIERWSZĄ GRĘ LETNIEGO SEZONU RIFT LEGENDS!🔥 https://t.co/04SpKlD1xn",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084661444411269120",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO40iecWIAA7P-A.jpg",
-          "altText": null,
-          "width": 1339,
-          "height": 745
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2084659346990841887",
-      "url": "https://x.com/RiftLegendsPL/status/2084659346990841887",
-      "createdAt": "2026-08-04T15:14:54.000Z",
-      "text": "SIIEEEEEEMA @CzekoladLol WITAMY W RIFT LEGENDS 😼 https://t.co/UxdjpZb9Ku",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2084659330003963904",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO4ynZqXEAAXh7H.jpg",
-          "altText": null,
-          "width": 1178,
-          "height": 660
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2086828667062329506",
+      "lastSeenId": "2087136771620385192",
       "initialized": true
     },
     "Lodis_LDS": {
