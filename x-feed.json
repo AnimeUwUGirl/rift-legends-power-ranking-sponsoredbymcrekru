@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-11T23:26:14Z",
+  "updatedAt": "2026-08-12T12:36:17Z",
   "posts": [
+    {
+      "id": "2087509260900962814",
+      "url": "https://x.com/RiftLegendsPL/status/2087509260900962814",
+      "createdAt": "2026-08-12T11:59:26.000Z",
+      "text": "DZIŚ 2 PARTIA 🔥\n@UP2UMEDIApl CEBULAKI, @AnonymoEsports, @DOCISK_, @BombaTeamGG - KLIENT TURNIEJOWY POBRANY?\n\nA no i @sobeklol MASZ INTERNET?? https://t.co/SgD36rFcYR",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "UP2UMEDIApl",
+        "playerHandle": "UP2UMEDIApl",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087485900674466147",
+      "url": "https://x.com/RiftLegendsPL/status/2087485900674466147",
+      "createdAt": "2026-08-12T10:26:36.000Z",
+      "text": "ŚRODA DZIEŃ RIFTA 🤓\n\n🕒 - 17:00\n@BombaTeamGG VS @AnonymoEsports \n\n🕒 ~ 19:30\n@UP2UMEDIApl CEBULAKI VS @DOCISK_ https://t.co/gIAbk6wMPj",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087484076361973760",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPg7tR3XAAAQdbx.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Vv\n\n4 RIFT LEGENDS\n\n{NS\n\n| ee\n\nVEEN@ZID Vee\n\na\n\n17:00 TINY |\n\na)\n\ndd 19:30\n\no)\n\nCERULAK\n\nw\n\nSRODA\n\n\\\\| &\n\nRone!\n\nEE\n\n—\n\nDIABLO\n\newan\n\npas ‘i\n\nMi\n\n+ +\nma V\nV 6 RIFT LEGENDS ~~\nMM 2 WN\na 3 17:00\n, as \\ as 19:30 gsi * ! 7\n=\" se y |\n—\" CEBULAKI Paocisk\n—= SRODA Ce\nzabka (2 rion ~ DIABLO ce\n+ MisTRZOSTWA FOL SK +",
+      "ocrVersion": 3
+    },
     {
       "id": "2087294944444584239",
       "url": "https://x.com/RiftLegendsPL/status/2087294944444584239",
@@ -3718,76 +3773,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085024449040961850",
-      "url": "https://x.com/_ForsakenGG_/status/2085024449040961850",
-      "createdAt": "2026-08-05T15:25:41.000Z",
-      "text": "Essa już 1:0 https://t.co/ESlLkt5G8w",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2085024403197161472",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085024403197161472/img/I3Pwt2n2VXmKQeeP.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085023960555491452",
-      "url": "https://x.com/RiftLegendsPL/status/2085023960555491452",
-      "createdAt": "2026-08-05T15:23:44.000Z",
-      "text": "Tyle wspomnień na jednej kamerce...\nKto kojarzy i rozpozna wszystko za @NowyColor 🥹 https://t.co/DjorSnyxYD",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085023717092937728",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO9-BhWW0AAyFAZ.jpg",
-          "altText": null,
-          "width": 1334,
-          "height": 746
-        }
-      ],
-      "extracted": {
-        "player": "NowyColor",
-        "playerHandle": "NowyColor",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2087294944444584239",
+      "lastSeenId": "2087509260900962814",
       "initialized": true
     },
     "Lodis_LDS": {
