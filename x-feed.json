@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-13T15:44:52Z",
+  "updatedAt": "2026-08-13T19:44:55Z",
   "posts": [
+    {
+      "id": "2087943512872587404",
+      "url": "https://x.com/RiftLegendsPL/status/2087943512872587404",
+      "createdAt": "2026-08-13T16:45:00.000Z",
+      "text": "Dzionek przerwy od Ligusi, a już jutro wracamy do LEC!\n\nTak prezentuje się tabela na ten moment! 👇🏼 https://t.co/jtkWaeFbAT",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087884076778754048",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmngXiXkAAtvy-.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "me",
+        "playerHandle": null,
+        "kda": null,
+        "kp": 7.0,
+        "gold": null
+      },
+      "ocrText": "OGLADAJ NA\n\nNERVARIENA\n\n‘\n\n™A\n\nLEG\n\nps\n\nDINGS 3\n\n1 ®Ke\n\nS-O\n\n5 . MKOI 2-4\n\n29c¢2\n\n“4\n\n7 &%\n\n4) SK\n\nrs\n\n3 vir\n\n3-2\n\nrs\n\nBom\n\nra |\n\no-3\n\n4 6G Gx\n\n9S 7K FNC\n\n5 SI NAVI\n\n2-2\n\nCG SHFT O-3\n\nzabka\n\nALIOR\n\nEt BANK\n\n@\n\nma i\n\\\nSyl”, iW\nF | NS = eno oF wk\n| =<\n*\n€ a?\nme\n1®Q®Kke 60 5 | MKoI 2-4\n29cG2 5-1 7% sk 13\n3sWvir 32 s OTH 13.\n4 6G Gx 2-1 SIXFNC O-3\n5 S@NAVI 2-2 10 G SHFT O-3\nNe ee @",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2087935136335585459",
+      "url": "https://x.com/Lodis_LDS/status/2087935136335585459",
+      "createdAt": "2026-08-13T16:11:43.000Z",
+      "text": "Vibe check @zamuleklol &amp; @CzekoladLol XDDD https://t.co/beVYJizuxu",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2087934907926413312",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087934907926413312/img/-proeo9vo9_Dc94d.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "zamulek",
+        "playerHandle": "zamuleklol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2087913314302955626",
       "url": "https://x.com/RiftLegendsPL/status/2087913314302955626",
@@ -3718,81 +3782,17 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085090387664732389",
-      "url": "https://x.com/RiftLegendsPL/status/2085090387664732389",
-      "createdAt": "2026-08-05T19:47:42.000Z",
-      "text": "IDZIEMY DO GRY NR 3! 🥵\nIDZIEMY DO GRY NR 3! 🥵\nIDZIEMY DO GRY NR 3! 🥵\nIDZIEMY DO GRY NR 3! 🥵 https://t.co/Z0EFNBwh91",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085090177500803073",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO-6eBqXcAE-3om.png",
-          "altText": null,
-          "width": 485,
-          "height": 650
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085084835089932712",
-      "url": "https://x.com/RiftLegendsPL/status/2085084835089932712",
-      "createdAt": "2026-08-05T19:25:38.000Z",
-      "text": "Kolejna gierka - kolejny stomp, ale w drugą stronę ☠️ https://t.co/9ZiyegYl1K",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085084537734795264",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO-1Vv5XkAARO3B.png",
-          "altText": null,
-          "width": 665,
-          "height": 581
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2087913314302955626",
+      "lastSeenId": "2087943512872587404",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2087913260439740477",
+      "lastSeenId": "2087935136335585459",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
