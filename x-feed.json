@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-12T19:52:25Z",
+  "updatedAt": "2026-08-13T12:36:51Z",
   "posts": [
+    {
+      "id": "2087857863955771394",
+      "url": "https://x.com/RiftLegendsPL/status/2087857863955771394",
+      "createdAt": "2026-08-13T11:04:39.000Z",
+      "text": "Wiecie, czego dziś nie ma, a będzie za tydzień? 👀\n\nTAK, TO RIFT LEGENDS! 🔥\n\nOD PRZYSZŁEGO TYGODNIA LECIMY Z 3 (CZYT. TRZEMA) DNIAMI ROZGRYWKOWYMI! https://t.co/jos7dfquf7",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2087857485470195712",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmPUjMXYAA0k4Q.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 961
+        }
+      ],
+      "extracted": {
+        "player": "Ve",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Round Robin Round 3\n\n[\n\nTue 2026-08-18\n\nANO\n\n&\n\nQO FSK\n\nBOOM\n\ney\n\noS\n\nLDS\n\nWed 2026-08-19\n\na\n\nUP2U\n\nDV1\n\na\n\n]\n\nc a)\n\nboc\n\n2\n\n&\n\nBCE\n\nThu 2026-08-20\n\nUP2U\n\nBOO},\n\nCO ——\n\n~\n\nv7\n\nANO\n\ney\n\n&\n\nBCE\n\noe \"4\n\n@\n\nVB\n\nre\n\nJ\n\n.)\n\nPR\n\n\\))\n\np)\n\nRound Robin Round 3 [ ]\nANO @& 0 FSK\nBOOM w& ® LDS a\nWed 2026-08-19 aaa\nuP2U 4 bg ov1 PO: Zo,\nFe a we |\n‘ Thu 2026-08-20\n———-> wP2U fy Pe) > 1)\noN ~ a INNO @p ®@ BCE Ka\n= — (\nSVE}\n= [| 7\nTy) rh\n, @>\n\" ) } i oh\nAR DX\nNy Vig\n4 WwW\nVe |",
+      "ocrVersion": 3
+    },
     {
       "id": "2087619413075718602",
       "url": "https://x.com/RiftLegendsPL/status/2087619413075718602",
@@ -3759,44 +3791,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085074244052918646",
-      "url": "https://x.com/RiftLegendsPL/status/2085074244052918646",
-      "createdAt": "2026-08-05T18:43:33.000Z",
-      "text": ".@Mrozku gra dziś tak samo sexy jak wygląda 🥵 https://t.co/U3nTQJ1rTB",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085074124641087488",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085074124641087488/img/21rzJin0Woyw-Yv9.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2087619413075718602",
+      "lastSeenId": "2087857863955771394",
       "initialized": true
     },
     "Lodis_LDS": {
