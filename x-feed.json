@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-14T12:30:54Z",
+  "updatedAt": "2026-08-14T15:27:22Z",
   "posts": [
+    {
+      "id": "2088256829138584048",
+      "url": "https://x.com/RiftLegendsPL/status/2088256829138584048",
+      "createdAt": "2026-08-14T13:30:00.000Z",
+      "text": "NASI W CZOŁÓWCE SERWERA!\n\n@Mrozku - RANK 2 EUW\n@iwananlol - RANK 9 EUW\n\nJAZDA NA SAM SZCZYT PANOWIE! 🏆 https://t.co/JREY0s0efx",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088233391082582016",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPrlNIuWMAAZAce.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Mrozku",
+        "playerHandle": "Mrozku",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\nerent.\n\nia 9 Won\n\nr/)\n\nro~\n\nPho\n\n-\n\nS m\n\na\n\nME\n\n2 42071P\n\nMIR\n\nK\n\nee o\ni rf\nV4 , =\n )\n\"bupenidaieda\nRANK 9 38731\ncope AMARA\nOL A Ge .\n7 la \\\na bi |\n> RANK 2 a2071P =\n-MROZKU",
+      "ocrVersion": 3
+    },
     {
       "id": "2088219549682336204",
       "url": "https://x.com/RiftLegendsPL/status/2088219549682336204",
@@ -3751,43 +3783,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085099933435043984",
-      "url": "https://x.com/RiftLegendsPL/status/2085099933435043984",
-      "createdAt": "2026-08-05T20:25:38.000Z",
-      "text": "Każdemu się zdarza 😝 https://t.co/k7OeiBLh5b",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085099774391296000",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085099774391296000/img/D0rYgk_ccPTittzE.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088219549682336204",
+      "lastSeenId": "2088256829138584048",
       "initialized": true
     },
     "Lodis_LDS": {
