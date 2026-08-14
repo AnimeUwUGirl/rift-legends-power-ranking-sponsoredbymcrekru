@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-14T18:33:14Z",
+  "updatedAt": "2026-08-14T20:08:15Z",
   "posts": [
+    {
+      "id": "2088343658277806391",
+      "url": "https://x.com/RiftLegendsPL/status/2088343658277806391",
+      "createdAt": "2026-08-14T19:15:02.000Z",
+      "text": "Co za dzień LEC... Admin musi odpocząć.\n\nMiłego piąteczku! 🔥 https://t.co/J5UB2SQvkP",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088342778157600768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPtIsTVWEAAbve6.png",
+          "altText": null,
+          "width": 680,
+          "height": 575
+        }
+      ],
+      "extracted": {
+        "player": "PAI",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "PAI\n\ngy)\n\ni\n\nWhat a kolejka LECa, huh?\ni) uc\n2 ee } 2!",
+      "ocrVersion": 3
+    },
     {
       "id": "2088327219630186755",
       "url": "https://x.com/RiftLegendsPL/status/2088327219630186755",
@@ -3745,43 +3777,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085109536851886216",
-      "url": "https://x.com/RiftLegendsPL/status/2085109536851886216",
-      "createdAt": "2026-08-05T21:03:47.000Z",
-      "text": "Dziękujemy za 1 kolejkę widzowie, było w pytę!\n\nJutro dzień przerwy, od piątku LEC, a we wtorek wracamy z RL! https://t.co/PEqHb4qX3b",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "16_2085109472872083456",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HO_MBKhXsAAGKDK.jpg",
-          "altText": null,
-          "width": 200,
-          "height": 188
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088327219630186755",
+      "lastSeenId": "2088343658277806391",
       "initialized": true
     },
     "Lodis_LDS": {
