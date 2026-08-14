@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-13T19:44:55Z",
+  "updatedAt": "2026-08-14T09:37:46Z",
   "posts": [
+    {
+      "id": "2088197743852318781",
+      "url": "https://x.com/RiftLegendsPL/status/2088197743852318781",
+      "createdAt": "2026-08-14T09:35:13.000Z",
+      "text": "ROZPOCZYNAMY DZIŚ 4 TYDZIEŃ LEC! 🔥\n\nW dzisiejszych meczach, definitywnie będzie się działo. https://t.co/D6WbQ7dfjZ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088196974667321344",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPrEFbAXUAA92kN.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "bk",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "<S\n\n-— 7\n\n~ |\n\nAg .\n\n» >\n\n!\n\nNY\n\nrig\n\na4\n\nte”\n\nMAFGHDAY\n\nPIATEK 14 SIERPNIA\n\nGivi eG\n\nW\n\nbk\n\n2 @\n\nI” : \\ j % ¢ JF\nr\nPIATEK 14 SIERPNIA\nen ]",
+      "ocrVersion": 3
+    },
     {
       "id": "2087943512872587404",
       "url": "https://x.com/RiftLegendsPL/status/2087943512872587404",
@@ -3750,44 +3782,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085096063833178185",
-      "url": "https://x.com/RiftLegendsPL/status/2085096063833178185",
-      "createdAt": "2026-08-05T20:10:15.000Z",
-      "text": "Na emeryturce, ale dla nas nadal ważny - @Jactroll obchodzi dzisiaj urodziny!\n\nWszystkiego najlepszego Jakub 🥳 https://t.co/nqmZ65K3G3",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085095910220894208",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO-_rttWEAA3xB-.jpg",
-          "altText": null,
-          "width": 4096,
-          "height": 2305
-        }
-      ],
-      "extracted": {
-        "player": "Jactroll",
-        "playerHandle": "Jactroll",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2087943512872587404",
+      "lastSeenId": "2088197743852318781",
       "initialized": true
     },
     "Lodis_LDS": {
