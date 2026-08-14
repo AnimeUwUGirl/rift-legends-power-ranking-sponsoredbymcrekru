@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-14T09:37:46Z",
+  "updatedAt": "2026-08-14T12:30:54Z",
   "posts": [
+    {
+      "id": "2088219549682336204",
+      "url": "https://x.com/RiftLegendsPL/status/2088219549682336204",
+      "createdAt": "2026-08-14T11:01:52.000Z",
+      "text": "Ciężko jest być fanem Fnatic... Są tu jeszcze jacyś? 🥲\n\nCzy pomarańczowi jeszcze kiedyś wrócą do walki o czołówkę tabeli LEC? https://t.co/Q62HKpWSGy",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088219160056659968",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPrYQyBXgAAx62a.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "BANK",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "OGLADAJ NA KANALACH NERVARIENA\n\nFNATIC ~*\n\nDOWNHILL p\n\nLEC WINTER 2025\n\n3 MIEJSCE\n\nLEC SPRING 2025\n\n4 MIEJSCE\n\nLEC SUMMER 2025\n\nSS ee)\n\n3 MIEJSCE\n\n|\n\nLEC VERSUS 2026\n\n8S MIEJSCE\n\n—_—\n\nLEC SPRING SPUuT ;\n\n7 MIEJSCE\n\n—\n\nLEC SUMMER SPLIT\n\n9 MIEJSCE (ATM)\n\n—\n\nzabka\n\n=A\n\nALIOR,\n\nBANK\n\n4 OGLADAJ NA‘ KANAEACH NERVARIENA ¢ @\nFNATIC 7\nDOWNHILL 77N\n\nLEC WINTER 2025 y\n3 MIEJSCE \\\nLEC SPRING 2025 ‘\n4 MIEJSCE | =\nLEC SUMMER 2025 < 4\n— 3 MIEJSCE |\nSe Z, : |\nLEC VERSUS 2026 _\n8S MIEJSCE —.\n—— LEC SPRING SPLIT) | >\n\"7 MIEJSCE ——\nLEC SUMMER SPLIT\n9 MIEJSCE (ATM)\nzopko Es O®",
+      "ocrVersion": 3
+    },
     {
       "id": "2088197743852318781",
       "url": "https://x.com/RiftLegendsPL/status/2088197743852318781",
@@ -3750,44 +3782,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085096272503959582",
-      "url": "https://x.com/BombaTeamGG/status/2085096272503959582",
-      "createdAt": "2026-08-05T20:11:05.000Z",
-      "text": "A tutaj @adi1lol i @iBoToplaner se rozkminiają https://t.co/k4y8ePdoAC",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085095829409320960",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO-_nAqXUAAyk3Y.png",
-          "altText": null,
-          "width": 494,
-          "height": 275
-        }
-      ],
-      "extracted": {
-        "player": "adi1",
-        "playerHandle": "adi1lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088197743852318781",
+      "lastSeenId": "2088219549682336204",
       "initialized": true
     },
     "Lodis_LDS": {
