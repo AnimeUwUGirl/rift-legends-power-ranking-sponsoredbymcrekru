@@ -1,6 +1,157 @@
 {
-  "updatedAt": "2026-08-14T15:27:22Z",
+  "updatedAt": "2026-08-14T18:33:14Z",
   "posts": [
+    {
+      "id": "2088327219630186755",
+      "url": "https://x.com/RiftLegendsPL/status/2088327219630186755",
+      "createdAt": "2026-08-14T18:09:43.000Z",
+      "text": "Reakcja Trenerów GX na ich dzisiejszy performacne (jak najbardziej trafna) ☠️☠️ https://t.co/GRFhktPvXs",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2088326945465339904",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088326945465339904/img/_oPSVI4YNzjAp4GB.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088316316033700037",
+      "url": "https://x.com/RiftLegendsPL/status/2088316316033700037",
+      "createdAt": "2026-08-14T17:26:23.000Z",
+      "text": "[BREAKING] 🚨\n\nPrzed meczem SHFT vs FNC Riot Games postanowił wprowadzić możliwość REMISU.\n\n[SOURCE: JUST TRUST ME BRO] https://t.co/fEV3afbNUy",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088315094484627456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsvg5nXsAAAhor.png",
+          "altText": null,
+          "width": 266,
+          "height": 164
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "@uaToNieMorliny\n\n#NERVALOL,\n\n@\n\nKto wygra mecz Shifters\n\nvs Fnatic?\n\n@uaToNieMorliny\n\n#NERVALOL x]\nKto wygra mecz Shifters\nvs Fnatic?",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088313816127828083",
+      "url": "https://x.com/RiftLegendsPL/status/2088313816127828083",
+      "createdAt": "2026-08-14T17:16:27.000Z",
+      "text": "Humanoi...znaczy FIESTA z sooloo bolooo 🔥 https://t.co/LJcWryDdRn",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2088313600167354370",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088313600167354370/img/J-tdnlMyJ4iFyMsw.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088296507669610992",
+      "url": "https://x.com/RiftLegendsPL/status/2088296507669610992",
+      "createdAt": "2026-08-14T16:07:40.000Z",
+      "text": "@jxxerii prawda...?",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "jxxerii",
+        "playerHandle": "jxxerii",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088296465068175577",
+      "url": "https://x.com/RiftLegendsPL/status/2088296465068175577",
+      "createdAt": "2026-08-14T16:07:30.000Z",
+      "text": "Oglądając to Shifters, wszyscy tęsknimy za BDS, prawda...? https://t.co/seTYPVy5M8",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088296300190035968",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsea7aW8AAbs9q.png",
+          "altText": null,
+          "width": 480,
+          "height": 700
+        }
+      ],
+      "extracted": {
+        "player": "iS",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "“\"G\n\nPA)\n\nqf\n\ntL.\n\nBS\n\n%.\niS",
+      "ocrVersion": 3
+    },
     {
       "id": "2088256829138584048",
       "url": "https://x.com/RiftLegendsPL/status/2088256829138584048",
@@ -3625,170 +3776,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085106198852915597",
-      "url": "https://x.com/RiftLegendsPL/status/2085106198852915597",
-      "createdAt": "2026-08-05T20:50:31.000Z",
-      "text": "TYLE WETERANÓW W DRUŻYNIE, A MVP LĄDUJE W RĘKACH MŁODEGO, ŚWIEŻUTKIEGO @iwananlol 🏆 https://t.co/1A5Db4ND1m",
-      "kind": "mvp",
-      "media": [
-        {
-          "mediaKey": "3_2085105958821257216",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_I0nqXYAAR5ZP.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "iwanan",
-        "playerHandle": "iwananlol",
-        "kda": "4/0/16",
-        "kp": 58.8,
-        "gold": 9676
-      },
-      "ocrText": "”\" MIVT ae\n\nVIV\n\nIlwanan\n\ninStreamly\n\nMIE\n\n~\n\n4/O0/1G_ 58.8%\n\n9676\n\nNMI\n\nHO ti @\n\nSe ]\n\nWW,\n\nirozku\n\nBRET\n\nBY, Ecenos\n\n| GD\n\n= @e\n\n+ +\n\nIVIN/T os\nae oe '\nMiViee 7\nNIV d J ae = ,\nivi\" =\nE inStreamiy mi EE S\nRA VAP -\n\\ ~a",
-      "ocrVersion": 3,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085105860770926929",
-      "url": "https://x.com/RiftLegendsPL/status/2085105860770926929",
-      "createdAt": "2026-08-05T20:49:11.000Z",
-      "text": "JEŚLI DOBRZE LICZĘ... 👀\n\nTo pierwszy mecz @ShlatanLoL  w Polsce od 5 lat, 8 miesięcy i 21 dni. 🤯\n\nOstatni raz oglądaliśmy go podczas Trinity Force Pucharu Polski 2020.\n\nWitamy z powrotem! 😎 https://t.co/iOu84RBlb3",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085105376194666496",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_IStNXIAABofQ.jpg",
-          "altText": null,
-          "width": 1333,
-          "height": 747
-        }
-      ],
-      "extracted": {
-        "player": "Shlatan",
-        "playerHandle": "ShlatanLoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "7\n\nA\n\n3\n\nPs\n\nfini\n\n@ Sear) 28il",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085104264355942491",
-      "url": "https://x.com/RiftLegendsPL/status/2085104264355942491",
-      "createdAt": "2026-08-05T20:42:50.000Z",
-      "text": "Czyżby @devils1gg wróciło? 👀\n\nGameplay jak za dawnych lat. \nAż łezka kręci się w oku, tęskniliśmy! 😈 https://t.co/dd2zHpkKeN",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085103667309387776",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_GvPHXIAA7_SR.png",
-          "altText": null,
-          "width": 745,
-          "height": 606
-        }
-      ],
-      "extracted": {
-        "player": "devils1gg",
-        "playerHandle": "devils1gg",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "——\n\nbbe\n\nwy\n\ni\n\nww 4\n\nww\n\nES\n\nwee\n\n| we\n\new\n\né ®",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085104226749776266",
-      "url": "https://x.com/devils1gg/status/2085104226749776266",
-      "createdAt": "2026-08-05T20:42:41.000Z",
-      "text": "Wrócił @Erdote_lol do nas po 6 latach i od razu są efekty.\n\n2:1 vs Bomba Team\n\nLecimy dalej 😈 https://t.co/tYl3vsfhFh",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085103476221038592",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_GkHQWUAAlc16.png",
-          "altText": null,
-          "width": 669,
-          "height": 836
-        }
-      ],
-      "extracted": {
-        "player": "Erdote",
-        "playerHandle": "Erdote_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085102012341842229",
-      "url": "https://x.com/BombaTeamGG/status/2085102012341842229",
-      "createdAt": "2026-08-05T20:33:53.000Z",
-      "text": "No i dziadki z @devils1gg nas rozbroiły w tej serii. \n\nNiewypał 💣 https://t.co/BW6uLS4C8m",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085100174955642881",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_Dj9FWAAEQyG5.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": "devils1gg",
-        "playerHandle": "devils1gg",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088256829138584048",
+      "lastSeenId": "2088327219630186755",
       "initialized": true
     },
     "Lodis_LDS": {
