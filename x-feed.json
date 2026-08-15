@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-15T17:51:08Z",
+  "updatedAt": "2026-08-15T19:03:19Z",
   "posts": [
+    {
+      "id": "2088687496649376210",
+      "url": "https://x.com/RiftLegendsPL/status/2088687496649376210",
+      "createdAt": "2026-08-15T18:01:19.000Z",
+      "text": "&gt; BUU ALE TO LEC JEST NUDNE\n\nTAK?? A WIDZIELIŚCIE @JaskierBB ROBIĄCEGO TIER LISTE ST00PEK?\n\nNie wiecie co tracicie przegapiając to show. https://t.co/o6ZeSWVyTm",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088686933216055296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPyBsw1X0AATjQh.jpg",
+          "altText": null,
+          "width": 1330,
+          "height": 744
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "mer\n\nwm\n\nBRI\n\nAR\n\na)\n\ni\n\n=\n\n\"h\n\n— a\n\n~ Rack oe\n\nud\n\n~~ hal mac? “e \"  MOzI0L\nyp - 4\n= » | Ss q\n_ es\niN . ee hone é. a",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088685758496334191",
+      "url": "https://x.com/RiftLegendsPL/status/2088685758496334191",
+      "createdAt": "2026-08-15T17:54:25.000Z",
+      "text": "Ziomek robi 68k DMG i przegrywa gierke 😭 https://t.co/iTaZIg3nbt",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088685650606174208",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPyAiGvWMAAR1oN.jpg",
+          "altText": null,
+          "width": 1332,
+          "height": 746
+        }
+      ],
+      "extracted": {
+        "player": "eee",
+        "playerHandle": null,
+        "kda": "16/19/32",
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "bejmuje platng promoc}\n\nG2WIN  SHFTLOSS _\n\n/|\n\n16/19/32\n\n19/16/46\n\n93.7K\n\n91.2K\n\nhe\n\n@, Ba\n\n=\n\n&\n\n099\n\nEee]\n\ney BOK\n\n224K\n\n@\n\n‘LDER DRAC\n\n0 © om\n\n|\n\nBARONS\n\nPA\n\nPre Ro\n\nfuse iE\n\nG2WIN SHFTLOSS\neee\n\nRIK = s12K\nih 7 7 oe <\nTT ere = ¢\nJ a 1 \\ A\nme muree ie ae",
+      "ocrVersion": 3
+    },
     {
       "id": "2088683679233052954",
       "url": "https://x.com/RiftLegendsPL/status/2088683679233052954",
@@ -3713,76 +3777,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085697471024390394",
-      "url": "https://x.com/devils1gg/status/2085697471024390394",
-      "createdAt": "2026-08-07T12:00:02.000Z",
-      "text": "W oczekiwaniu na kolejny mecz możesz śmiało sprawdzić, jak połączyć gaming ze studiami. 🎮\n\nRekrutacja na Zarządzanie ze specjalizacją E-sport w ANS Pruszków trwa.\n\nSzczegóły znajdziesz na stronie ANS Pruszków 👽\n\n#reklama https://t.co/iMGHoe8qv4",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085098917197156352",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HO_CavkWkAAY9bj.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085677140217938294",
-      "url": "https://x.com/RiftLegendsPL/status/2085677140217938294",
-      "createdAt": "2026-08-07T10:39:14.000Z",
-      "text": "Dziś Heretics vs Fnatic, nasze chłopaki na pewno się odbiją, prawda? 🥹 https://t.co/7myAkHCZ3g",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085676927273086976",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPHQHW5XMAAivP4.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088683679233052954",
+      "lastSeenId": "2088687496649376210",
       "initialized": true
     },
     "Lodis_LDS": {
