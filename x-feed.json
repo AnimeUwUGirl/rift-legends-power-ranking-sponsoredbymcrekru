@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-14T20:08:15Z",
+  "updatedAt": "2026-08-15T11:48:57Z",
   "posts": [
+    {
+      "id": "2088590369361363067",
+      "url": "https://x.com/RiftLegendsPL/status/2088590369361363067",
+      "createdAt": "2026-08-15T11:35:22.000Z",
+      "text": "Malphite koniczynka jak zwykle niezawodny 🍀 https://t.co/ZVNPXDbGkr",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2088588178823254016",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088588178823254016/img/Sj7z2cB23x0PqYF2.jpg",
+          "altText": null,
+          "width": 576,
+          "height": 1030
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2088343658277806391",
       "url": "https://x.com/RiftLegendsPL/status/2088343658277806391",
@@ -3745,44 +3777,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085320226388791633",
-      "url": "https://x.com/_ForsakenGG_/status/2085320226388791633",
-      "createdAt": "2026-08-06T11:01:00.000Z",
-      "text": "Może zostań przy tych magach @Syzyfekk \n@natxcn we go tam ogarnij https://t.co/XI77DrxR6s",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085319860410609664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPCLXVLXcAAhVIj.png",
-          "altText": null,
-          "width": 440,
-          "height": 440
-        }
-      ],
-      "extracted": {
-        "player": "Syzyfekk",
-        "playerHandle": "Syzyfekk",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088343658277806391",
+      "lastSeenId": "2088590369361363067",
       "initialized": true
     },
     "Lodis_LDS": {
