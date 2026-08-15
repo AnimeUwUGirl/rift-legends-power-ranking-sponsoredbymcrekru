@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-08-15T14:55:28Z",
+  "updatedAt": "2026-08-15T16:56:22Z",
   "posts": [
+    {
+      "id": "2088668151584047314",
+      "url": "https://x.com/RiftLegendsPL/status/2088668151584047314",
+      "createdAt": "2026-08-15T16:44:27.000Z",
+      "text": "FNATIC WYGRYWA 1 SERIE W LEC!! (co prawda na SK ale win to win 🔥🔥🔥)🔥 https://t.co/vWn9PJXmDZ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088668024748331008",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPxwgJTXUAAHEuX.jpg",
+          "altText": null,
+          "width": 798,
+          "height": 1154
+        }
+      ],
+      "extracted": {
+        "player": "Uf",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "st\n\nd\n\n2\n\na\n\nh\\™\n\nN\n\n»}\n\nLy,\n\nS\n4\\ 4\n1 we w ee\n+ yy, \" , eS = |\ntl Gi,\neae IE Oh Q\noy NN Y :\nee ° J) \\ » | p\nae > \\\nUf\n13 ~\n, f ! RES a\n> il A of\n‘Tw ial AYA € ~\na we ihe ava &.\nse Ty (ae WY) &\n~ we lhe .&.\n) Cr, ) & ’",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088663557613211695",
+      "url": "https://x.com/RiftLegendsPL/status/2088663557613211695",
+      "createdAt": "2026-08-15T16:26:12.000Z",
+      "text": "Mizeria:",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088663553016213682",
+      "url": "https://x.com/RiftLegendsPL/status/2088663553016213682",
+      "createdAt": "2026-08-15T16:26:11.000Z",
+      "text": "Wtf je tu ktoś mizerie z cebulą? 🤔 https://t.co/m3fpNawwI7",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088663007983226881",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPxr8IZW0AEDhKS.png",
+          "altText": null,
+          "width": 380,
+          "height": 227
+        }
+      ],
+      "extracted": {
+        "player": "pieta_mojzesza",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "pieta_mojzesza\n\n#NERVALOL\n\nx]\n\nCiekawostka na dzis,\n\nistniejq ludzie ktorzy\n\njedza mizerie z cebula\n\npieta_mojzesza\n\n#NERVALOL x)\nCiekawostka na dzis,\nistniejq ludzie ktorzy\njedza mizerie z cebula",
+      "ocrVersion": 3
+    },
     {
       "id": "2088629804215980425",
       "url": "https://x.com/barczacaesports/status/2088629804215980425",
@@ -3690,99 +3777,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085374275209322604",
-      "url": "https://x.com/RiftLegendsPL/status/2085374275209322604",
-      "createdAt": "2026-08-06T14:35:46.000Z",
-      "text": "Szybkie info - MFKiG odbywa się we wszystkich rozpisanych lokalizacjach. Scena Rift Legends będzie w Atlas Arenie 😎",
-      "kind": "post",
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085372869186302074",
-      "url": "https://x.com/RiftLegendsPL/status/2085372869186302074",
-      "createdAt": "2026-08-06T14:30:11.000Z",
-      "text": "LATO SKOŃCZYMY NA LANIE\nSummer Split już teraz jest HOT, ale to dopiero finisz pokaże nam prawdziwy OGIEŃ 🔥\n\n🎉 Finał Rift Legends podczas 37. Międzynarodowego Festiwalu Komiksu i Gier\n🗓️ 19 września - Wielki Finał Rift Legends\n🗓️ 20 września - Atrakcje, o których opowiemy wam https://t.co/oldH5P7Wa6",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085371764385751040",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPC6kijXoAAO66u.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085367851917914332",
-      "url": "https://x.com/Lodis_LDS/status/2085367851917914332",
-      "createdAt": "2026-08-06T14:10:14.000Z",
-      "text": "Ocena looku @zamuleklol? 🤔\n\nWłaśnie ruszyliśmy z kolejnym blokiem scrimów. POV'y znajdziecie u chłopaków na TTV 🫡 https://t.co/TDjkMRwRIZ",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2085367560027934720",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085367560027934720/img/Zoez1aze3jMZup19.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088611671803822261",
+      "lastSeenId": "2088668151584047314",
       "initialized": true
     },
     "Lodis_LDS": {
