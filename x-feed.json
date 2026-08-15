@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-15T11:48:57Z",
+  "updatedAt": "2026-08-15T13:43:27Z",
   "posts": [
+    {
+      "id": "2088618767022461269",
+      "url": "https://x.com/barczacaesports/status/2088618767022461269",
+      "createdAt": "2026-08-15T13:28:13.000Z",
+      "text": "NIKT SIĘ TEGO NIE SPODZIEWAŁ, ALE… 👀\n\nW związku z wycofaniem się Eterne z turnieju dostajemy jeszcze jedną szansę!\n\nJuż dziś o 18:00 zagramy dodatkowy mecz o 4 MIEJSCE w #EqualEsportsCup na @SKGamingLeague 🔥\n\nSkoro los daje kolejną okazję, zamierzamy ją wykorzystać 💚🖤 https://t.co/iBxAqlBDlj",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088617554482712576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPxCmY6WUAAtpbv.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "SKGamingLeague",
+        "playerHandle": "SKGamingLeague",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088611671803822261",
+      "url": "https://x.com/RiftLegendsPL/status/2088611671803822261",
+      "createdAt": "2026-08-15T13:00:01.000Z",
+      "text": "EL CLASSICO?\n\nSK VS FNATIC I G2 VS SHFT JUŻ DZIŚ W LEC 🔥 https://t.co/ZbpbKxN3C3",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088592031492837376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPwrYwXXkAAvFoj.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "bk",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "(fF\n\nZ iS\n\n%\n\n“EO\n\nMATGHDAY\n\nSOBOTA 15 SIERPNIA\n\ns SH\n\nCF a. +\n\nbk\n\n~—\n\n33 < (% \\S =! ~ y\nath Po vas. AK _\\ ay\n: . m |\nSOBOTA 15 SIERPNIA\nDem Gv G\na on)",
+      "ocrVersion": 3
+    },
     {
       "id": "2088590369361363067",
       "url": "https://x.com/RiftLegendsPL/status/2088590369361363067",
@@ -3713,76 +3777,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2085331942497509493",
-      "url": "https://x.com/DOCISK_/status/2085331942497509493",
-      "createdAt": "2026-08-06T11:47:33.000Z",
-      "text": "Chcesz dołożyć DOCISK koszulkę do swojej kolekcji?\n\nNic prostszego! Nasze meczówki od teraz znajdziecie na stronie @egopeekpl !\n\nW związku z tym przypominamy, że z kodem DOCISK20 możecie zgarnąć 20% zniżki na całe zamówienie!\n\n#DOCISKGRAĆ 👊 https://t.co/PtYGBVv4pp",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085330982832427008",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPCVevbX0AAU6T-.jpg",
-          "altText": null,
-          "width": 2000,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "egopeekpl",
-        "playerHandle": "egopeekpl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085327828573163824",
-      "url": "https://x.com/RiftLegendsPL/status/2085327828573163824",
-      "createdAt": "2026-08-06T11:31:12.000Z",
-      "text": "1 KOLEJKA RIFT LEGENDS SUMMER ZA NAMI! 🔥\n\nZaskoczyła Was któraś z drużyn? https://t.co/MNRKnmtEi5",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085326938759987200",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPCRzWFXgAAw1k6.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088590369361363067",
+      "lastSeenId": "2088611671803822261",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3835,7 +3835,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2087242090405155265",
+      "lastSeenId": "2088618767022461269",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
