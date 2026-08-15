@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-15T16:56:22Z",
+  "updatedAt": "2026-08-15T17:51:08Z",
   "posts": [
+    {
+      "id": "2088683679233052954",
+      "url": "https://x.com/RiftLegendsPL/status/2088683679233052954",
+      "createdAt": "2026-08-15T17:46:09.000Z",
+      "text": "Siema tu admin i tak sie czuję oglądając aktualne meczycho w LEC ☠️☠️ https://t.co/3rnD3gFaRD",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088683519887224832",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPx-mFMXMAA2Bke.jpg",
+          "altText": null,
+          "width": 1200,
+          "height": 645
+        }
+      ],
+      "extracted": {
+        "player": "aS",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "aS\n\nC\\)\n\nbe)\n\n@",
+      "ocrVersion": 3
+    },
     {
       "id": "2088668151584047314",
       "url": "https://x.com/RiftLegendsPL/status/2088668151584047314",
@@ -3745,44 +3777,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085406326180438364",
-      "url": "https://x.com/Lodis_LDS/status/2085406326180438364",
-      "createdAt": "2026-08-06T16:43:07.000Z",
-      "text": "Jedno trzeba przyznać @TTobias_lol - nie gryzie się w język XD https://t.co/ShkMNEPpt6",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2085406170802515968",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085406170802515968/img/nNITSgr2Mrg-LvT_.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "TTobias",
-        "playerHandle": "TTobias_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088668151584047314",
+      "lastSeenId": "2088683679233052954",
       "initialized": true
     },
     "Lodis_LDS": {
