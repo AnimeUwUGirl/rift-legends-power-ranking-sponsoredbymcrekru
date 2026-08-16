@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-16T15:52:35Z",
+  "updatedAt": "2026-08-16T16:57:28Z",
   "posts": [
+    {
+      "id": "2089030639546745317",
+      "url": "https://x.com/RiftLegendsPL/status/2089030639546745317",
+      "createdAt": "2026-08-16T16:44:51.000Z",
+      "text": "🔥 PENTA COŚ TEN DLA SUPY! 🔥 PENTA COŚ TEN DLA SUPY! 🔥PENTA COŚ TEN DLA SUPY! 🔥 PENTA COŚ TEN DLA SUPY! 🔥PENTA COŚ TEN DLA SUPY! 🔥 PENTA COŚ TEN DLA SUPY! 🔥PENTA COŚ TEN DLA SUPY! 🔥 PENTA COŚ TEN DLA SUPY! 🔥 https://t.co/Cf0F0HHQ2n",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089030478959460353",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089030478959460353/img/ZPLsVUShQ0bX8_r4.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089015478425387461",
       "url": "https://x.com/RiftLegendsPL/status/2089015478425387461",
@@ -3736,44 +3768,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085795843680989363",
-      "url": "https://x.com/RiftLegendsPL/status/2085795843680989363",
-      "createdAt": "2026-08-07T18:30:56.000Z",
-      "text": "PO 119 DNIACH TEAM HERETICS WYGRYWA GRĘ W LEC! \n\nMAMY TO 🇵🇱\nTERAZ PROSTO PO WORLDSY tftf https://t.co/UJFRElIkfh",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085795788890714112",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085795788890714112/img/dnTWx2HRV_lXm95Y.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089015478425387461",
+      "lastSeenId": "2089030639546745317",
       "initialized": true
     },
     "Lodis_LDS": {
