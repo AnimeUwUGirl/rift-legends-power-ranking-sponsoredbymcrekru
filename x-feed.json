@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-08-15T19:03:19Z",
+  "updatedAt": "2026-08-16T13:45:48Z",
   "posts": [
+    {
+      "id": "2088984119531442657",
+      "url": "https://x.com/RiftLegendsPL/status/2088984119531442657",
+      "createdAt": "2026-08-16T13:40:00.000Z",
+      "text": "STAN TABELI PO 2. TYGODNIU ROZGRYWEK! \n\nCo nieco zaczyna się już powolutku klarować... 👀 https://t.co/V8QbtIgiGX",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088958464299032576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP14p88W4AALAdP.jpg",
+          "altText": null,
+          "width": 1914,
+          "height": 1071
+        }
+      ],
+      "extracted": {
+        "player": "KLASYFIKACJA",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "4\n\nKLASYFIKACJA\n\nRIFT LEGENDS SUMMER 2026\n\nPOS\n\nEAM\n\nDv1\n\n41 4)\n\naa Wd\n\nv5. @ ANO\n\nA2. © FSK\n\n6.\n\n2\n\nibook,\n\nboc\n\naa\n\nBCE\n\noe2\n\nA383. & Boom\n\nVD &\n\nv4. @ LDs\n\nVv 8.\n\n&\n\nUP2U\n\noe2\n\nener\n\n|\n\ntobko ue (GD Hon\n\na +\nKLASYFIKACJA\nRIFT LEGENDS SUMMER 2026\nAmd @ DpW1 20 v5. @ ANO a1\nA2. ® FSK 20 A6. Q@ Doc aa\nA3. 8 BOOM 11 v7. & BCE oe2\nv4. @ LDs aa vgs. &2 UP2U- oe\nBABEL | (QD | 2adko Bae GD oon\n+ <7",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088957801221558344",
+      "url": "https://x.com/RiftLegendsPL/status/2088957801221558344",
+      "createdAt": "2026-08-16T11:55:25.000Z",
+      "text": ".@Nervarieno &amp; @JaskierBB oj wy oj wy... 🍻",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "Nervarieno",
+        "playerHandle": "Nervarieno",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2088957526121357634",
+      "url": "https://x.com/RiftLegendsPL/status/2088957526121357634",
+      "createdAt": "2026-08-16T11:54:19.000Z",
+      "text": "WYCIEKŁ FILM Z KULIS PRACY KOMENTATORÓW LEC. SZCZERZE? NIE SPODZIEWAŁEM SIĘ TEGO PO NICH 💀\n\nA transmisja już dzisiaj o 16:30 - zapraszamy 🤓 https://t.co/JHOBmJ2Zji",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2088956607795208192",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088956607795208192/img/hSwidYOrcbJT2fmC.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2088687496649376210",
       "url": "https://x.com/RiftLegendsPL/status/2088687496649376210",
@@ -3681,108 +3768,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085729692212928946",
-      "url": "https://x.com/barczacaesports/status/2085729692212928946",
-      "createdAt": "2026-08-07T14:08:04.000Z",
-      "text": "Z dumą ogłaszamy, że @YumisuChairs  zostaje partnerem tytularnym naszej drużyny na nadchodzący sezon.\n\nOd teraz wspólnie pod jednym szyldem - Barcząca Esport by Yumisu 💚🖤 https://t.co/4ci1v4X9p0",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2085729667646980096",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPIAFQGXgAATi1V.jpg",
-          "altText": null,
-          "width": 735,
-          "height": 913
-        }
-      ],
-      "extracted": {
-        "player": "YumisuChairs",
-        "playerHandle": "YumisuChairs",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085716961409847514",
-      "url": "https://x.com/Lodis_LDS/status/2085716961409847514",
-      "createdAt": "2026-08-07T13:17:29.000Z",
-      "text": "Nie ma scrimów i @CzekoladLol stymuluje się innymi sposobami... https://t.co/GBHdlyJYGO",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2085716786603802625",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085716786603802625/img/mvYJ57O9srxOjOKM.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2085699344003457246",
-      "url": "https://x.com/RiftLegendsPL/status/2085699344003457246",
-      "createdAt": "2026-08-07T12:07:28.000Z",
-      "text": "KOMENTATORZY WYMIENIAJĄ WSZYSTKICH POLAKÓW Z LEC I EU LCS! 🇵🇱\n\nSpróbuj wraz z nimi swoich sił! https://t.co/lCHAAoQrLB",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085698910819844096",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085698910819844096/img/fWnHOrRRwP6CgCiq.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088687496649376210",
+      "lastSeenId": "2088984119531442657",
       "initialized": true
     },
     "Lodis_LDS": {
