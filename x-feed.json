@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-16T17:50:15Z",
+  "updatedAt": "2026-08-16T20:53:54Z",
   "posts": [
+    {
+      "id": "2089077102700097899",
+      "url": "https://x.com/RiftLegendsPL/status/2089077102700097899",
+      "createdAt": "2026-08-16T19:49:29.000Z",
+      "text": "Ej @AgaTrendsetter żyjesz?",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "AgaTrendsetter",
+        "playerHandle": "AgaTrendsetter",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089077026971853281",
+      "url": "https://x.com/RiftLegendsPL/status/2089077026971853281",
+      "createdAt": "2026-08-16T19:49:11.000Z",
+      "text": "Admin na chwilę znika, a tu Fnatic STOMPUJE G2 😭\n\nCO TU SIĘ WYDARZYŁO XDDD?\n\nPoproszę o wytłumaczenie…\n\n(Zdj upseta bo jestem upset) https://t.co/CfPFJjojUi",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089077021351522304",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP3ke4YWsAAv_tM.jpg",
+          "altText": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "extracted": {
+        "player": "Mie",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Spo\n\nee\n\n\\\n\nf\n\ns\n\nX\n\nIN\n\nte\n\nferis\n\nFNATIC\n\nMie\n\n: at Ee eT SBE ec ee ES oes\nSee sae UN ee\nae 5 se fe J oN SS SSE 3 ek SS.\nBia aes ie a fae Reese. pres\nOe saa ee | SS ie ee ee\nso Bee ad gee ‘ ON ee ers\noo, MT Ae & i ee ee\nSee SEO Ee } St oe Seana len\neee et i ease a ois ane Se one:\nak aa = we * Soa pon es = 2\nee f i , \\ Me... eS ere\nRS a ec\nae” meme Ae. th 7 te Se\nSP ae 8 a he SES RM RO ne\nES ORS nage. SSR oie ge A Ot 2 we ib ee py js Pace mats See es\nSn eC a ane oe ME, Se et Ae eM Cen NS iP” sing CICS",
+      "ocrVersion": 3
+    },
     {
       "id": "2089036019588837459",
       "url": "https://x.com/RiftLegendsPL/status/2089036019588837459",
@@ -3704,76 +3759,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2086072624002547857",
-      "url": "https://x.com/RiftLegendsPL/status/2086072624002547857",
-      "createdAt": "2026-08-08T12:50:45.000Z",
-      "text": "HARMONOGRAM LEC NA DZIŚ! 👇🏼\nHARMONOGRAM LEC NA DZIŚ! 👇🏼 https://t.co/STwFuLivi5",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2086072378157674496",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPM3xoPXsAARh0r.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085824529939533998",
-      "url": "https://x.com/RiftLegendsPL/status/2085824529939533998",
-      "createdAt": "2026-08-07T20:24:55.000Z",
-      "text": "[OFICJALNIE] ⚠️\nJEŻELI TEAM HERETICS AWANSUJE NA WORLDSY, @Nervarieno ROBI TATUAŻ NA TYŁKU RAZEM Z WIDZEM NA JEGO KOSZT 🫣 https://t.co/OI53J76iEP",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085823151326240769",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085823151326240769/img/6x-DqOifMNdPsCfv.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Nervarieno",
-        "playerHandle": "Nervarieno",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089036019588837459",
+      "lastSeenId": "2089077102700097899",
       "initialized": true
     },
     "Lodis_LDS": {
