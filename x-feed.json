@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-16T13:45:48Z",
+  "updatedAt": "2026-08-16T14:56:32Z",
   "posts": [
+    {
+      "id": "2088996703969894585",
+      "url": "https://x.com/RiftLegendsPL/status/2088996703969894585",
+      "createdAt": "2026-08-16T14:30:00.000Z",
+      "text": "NIE MA SZANS, ŻE FNATIC WYGRA Z G2, PRAWDA? PRAWDA...? PRZEKONAJMY SIĘ SAMI JUŻ DZIŚ! 🔥 https://t.co/UNDwOaAL36",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2088959884444221440",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP158nZWwAAc2RQ.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "MAFGHDAY",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "P,\n\nll\n\nCe\n\nQS\n\nMATENOAY\n\nNIEDZIELA 16 SIERPNIA\n\nie 2s\n\n~—\n\n— a i)\nee ey aa\n> “s -\nle\nMAFGHDAY\nNIEDZIELA 16 SIERPNIA\n5] so Bw\na am &®",
+      "ocrVersion": 3
+    },
     {
       "id": "2088984119531442657",
       "url": "https://x.com/RiftLegendsPL/status/2088984119531442657",
@@ -3736,44 +3768,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085759890090229995",
-      "url": "https://x.com/RiftLegendsPL/status/2085759890090229995",
-      "createdAt": "2026-08-07T16:08:03.000Z",
-      "text": "Niezła żeśmy ekipę zmontowali. \n\nMVP 1 TYGODNIA LATA! 🔥 https://t.co/IZebrkwfI8",
-      "kind": "mvp",
-      "media": [
-        {
-          "mediaKey": "3_2085759881601003520",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPIbj72WsAA44UU.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "zabka",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n=\n\n62 RIFT LEGENDS\n\nA\n\n=\n\n—\n\n\"g)\n\na\n\ney\n\nE inStreamly\n\n5\n\nWW\n\n7!\n\nAD\n\nwo\n\n)\n\nUff\n\n4-5 SIERPNIA\n\n\\\n\nzabka\n\nDIABLO «=\n\nSB won\n\nMISTRZOSTWA POLSKI\n\n\\v @IRIFTLEGENDS =~\n‘i 4 \\ 4 ‘ a\n. gel tel): ag e)\né a ® ji) voste 4 f\ninStreamly \\ yi ® Hj JORI > 5\nWar )) —a oe\naX f | “yg 2 |\n, i)\nN A 4-5 SIERPNIA\nXY re Zobka Bh ue DIABLO ==",
-      "ocrVersion": 3,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088984119531442657",
+      "lastSeenId": "2088996703969894585",
       "initialized": true
     },
     "Lodis_LDS": {
