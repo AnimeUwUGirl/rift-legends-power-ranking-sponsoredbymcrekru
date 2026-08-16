@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-16T14:56:32Z",
+  "updatedAt": "2026-08-16T15:52:35Z",
   "posts": [
+    {
+      "id": "2089015478425387461",
+      "url": "https://x.com/RiftLegendsPL/status/2089015478425387461",
+      "createdAt": "2026-08-16T15:44:36.000Z",
+      "text": "Ktoś myślał, że ten tatuaż był nieprawdziwy? 🤓 https://t.co/ngxlTGB0a1 https://t.co/ugUC1gd0BG",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089015156202151936",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP2sN2vWIAAjHLM.jpg",
+          "altText": null,
+          "width": 297,
+          "height": 297
+        }
+      ],
+      "extracted": {
+        "player": "Com",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "\\ vi\n\nTie\n\nCom.\n\n» ey ENG 3\n[- he\n3 7. te",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089012611744411780",
+      "url": "https://x.com/RiftLegendsPL/status/2089012611744411780",
+      "createdAt": "2026-08-16T15:33:13.000Z",
+      "text": "CAPS NAJNOWSZYM ZAWODNIKIEM W HALL OF LEGENDS! 🏆\n\n🥇 FAKER\n🥈 UZI\n🥉 CAPS\n\nMAMY EUROPEJCZYKA! 🇪🇺\nCo sądzimy? 👀 https://t.co/8EgcmdbRZT",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2088996703969894585",
       "url": "https://x.com/RiftLegendsPL/status/2088996703969894585",
@@ -3713,67 +3768,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085789865812128113",
-      "url": "https://x.com/RiftLegendsPL/status/2085789865812128113",
-      "createdAt": "2026-08-07T18:07:10.000Z",
-      "text": "‼️TH SERIN  MONTAGE ‼️\n‼️TH SERIN  MONTAGE ‼️\n‼️TH SERIN  MONTAGE ‼️ https://t.co/kxwUqmYFrH",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2085789805271498752",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2085789805271498752/img/aoTk03PbLp6Eo3Se.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2085785272889864258",
-      "url": "https://x.com/RiftLegendsPL/status/2085785272889864258",
-      "createdAt": "2026-08-07T17:48:55.000Z",
-      "text": "TERAZ NA PEWNO SIE UDA!!!!!!!\nWYGRYWAMY NA FNATIC I ZACZYNAMY WIN STREAK 🤓\n\nZapraszam na transmisję kibicować Polakom 🇵🇱 https://t.co/3QSuwzd7rP",
-      "kind": "post",
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2088996703969894585",
+      "lastSeenId": "2089015478425387461",
       "initialized": true
     },
     "Lodis_LDS": {
