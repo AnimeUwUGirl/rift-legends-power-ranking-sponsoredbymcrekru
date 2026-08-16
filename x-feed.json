@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-16T16:57:28Z",
+  "updatedAt": "2026-08-16T17:50:15Z",
   "posts": [
+    {
+      "id": "2089036019588837459",
+      "url": "https://x.com/RiftLegendsPL/status/2089036019588837459",
+      "createdAt": "2026-08-16T17:06:14.000Z",
+      "text": "CZAS NA FNC VS G2! 🔥 https://t.co/r28dz1v6fM",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089035695734030336",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP2-5adWgAAEITw.png",
+          "altText": null,
+          "width": 596,
+          "height": 447
+        }
+      ],
+      "extracted": {
+        "player": "Panoe",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "ee\n\noa\n\ny| | |S\n\nSELFMADE\n\na\nPanoe\nSELEMADE!",
+      "ocrVersion": 3
+    },
     {
       "id": "2089030639546745317",
       "url": "https://x.com/RiftLegendsPL/status/2089030639546745317",
@@ -3736,44 +3768,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2085822580317983000",
-      "url": "https://x.com/RiftLegendsPL/status/2085822580317983000",
-      "createdAt": "2026-08-07T20:17:10.000Z",
-      "text": "Heretics tak dawno nie wygrali gierki, że prawie zapomnieli się pokłonić XDD\n\nMAMY TOO TH WYGRYWA SERIĘ W LEC! 🏆 https://t.co/NkQHakdSMx",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "3_2085822377233887234",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPJUZqOWMAIkid1.jpg",
-          "altText": null,
-          "width": 1323,
-          "height": 661
-        }
-      ],
-      "extracted": {
-        "player": "VST",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Obejmuje ptatng promocie\n\nix\n\nWY\n\n- '<\n\n®\n\npas\n\n4 Zi\n\n3 UVa\n\nTEAM MERET,,\n\n——\n\nBEEZ\n\nre\n\nf--\n\nVST\n\n—— Pie\n2 x 3 / (a,\\ \\ Le d i\n——— y OF 1 TEAM BER; =\n= =",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089030639546745317",
+      "lastSeenId": "2089036019588837459",
       "initialized": true
     },
     "Lodis_LDS": {
