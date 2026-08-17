@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-08-17T10:06:37Z",
+  "updatedAt": "2026-08-17T11:56:24Z",
   "posts": [
+    {
+      "id": "2089313549159899495",
+      "url": "https://x.com/Lodis_LDS/status/2089313549159899495",
+      "createdAt": "2026-08-17T11:29:02.000Z",
+      "text": "Siemano, scrimy o 15 jak coś 🗣️ https://t.co/1Nv5HPkq4F",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089313402950701056",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089313402950701056/img/Ziw53cYo2a4xLA3_.jpg",
+          "altText": null,
+          "width": 576,
+          "height": 1024
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089312433781252159",
+      "url": "https://x.com/RiftLegendsPL/status/2089312433781252159",
+      "createdAt": "2026-08-17T11:24:36.000Z",
+      "text": "Gorący komentatorzy: @Pedro_Paprzycki @CzarnyPiotrus10 @Majutek_lol @Bialito_ 🎙️",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "Pedro_Paprzycki",
+        "playerHandle": "Pedro_Paprzycki",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089312072563585430",
+      "url": "https://x.com/RiftLegendsPL/status/2089312072563585430",
+      "createdAt": "2026-08-17T11:23:10.000Z",
+      "text": "KRZESŁO GORĄCE, TAK JAK NASI KOMENTATORZY 🔥\n\nSprawdźcie się - poszło Wam lepiej niż im? 👀 https://t.co/EERU0JQhhr",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089311439915716608",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089311439915716608/img/BeF3OvqONYPW8zmn.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089286302973739042",
       "url": "https://x.com/RiftLegendsPL/status/2089286302973739042",
@@ -3672,104 +3759,17 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2086147739608371605",
-      "url": "https://x.com/RiftLegendsPL/status/2086147739608371605",
-      "createdAt": "2026-08-08T17:49:14.000Z",
-      "text": "Sorki @Sanchi_lol ale Pan trener tak smiesznie zareagował...",
-      "kind": "post",
-      "media": [],
-      "extracted": {
-        "player": "Sanchi",
-        "playerHandle": "Sanchi_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2086147579419505130",
-      "url": "https://x.com/RiftLegendsPL/status/2086147579419505130",
-      "createdAt": "2026-08-08T17:48:36.000Z",
-      "text": "TRENER NAVI PATRZĄCY JAK JEGO DRUŻYNA PRZEGRYWA MAPĘ NA SK ☠️\n\njak smieszne to dajcie like 🤠 https://t.co/fOXYKCL2De",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2086147393074999296",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086147393074999296/img/O-mKPh7GydaprR07.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
-    },
-    {
-      "id": "2086143031648903304",
-      "url": "https://x.com/RiftLegendsPL/status/2086143031648903304",
-      "createdAt": "2026-08-08T17:30:32.000Z",
-      "text": "Young Faker what was that?? https://t.co/TmgW4gJjQ0",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2086142981061439488",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086142981061439488/img/cP9KpcGJwhxYT9h_.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089286302973739042",
+      "lastSeenId": "2089312433781252159",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2087935136335585459",
+      "lastSeenId": "2089313549159899495",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
