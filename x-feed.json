@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-17T13:57:57Z",
+  "updatedAt": "2026-08-17T14:58:12Z",
   "posts": [
+    {
+      "id": "2089360894845165763",
+      "url": "https://x.com/RiftLegendsPL/status/2089360894845165763",
+      "createdAt": "2026-08-17T14:37:10.000Z",
+      "text": "Tydzień rozpoczynamy z naszymi chłopakami z Heretics! 🇵🇱 https://t.co/kBPsLPvs7m",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089360887702343680",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP7mqE8X0AAhB7B.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "er",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "eee,\n\n»\n\nVr\n\nMATCH si\n\nPONIEDZIAELEK 1°7 SIERPNIA\n\nan SB\n\nbk\n\nae @\n\nce | |\ner :\ni% | >\na £ Wa\nVm 4 i .\n4\nPONIEDZIALEK 17 SIERPNIA\n[8 GS»®\nze) Es ©",
+      "ocrVersion": 3
+    },
     {
       "id": "2089344094283698345",
       "url": "https://x.com/RiftLegendsPL/status/2089344094283698345",
@@ -3727,44 +3759,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2086209832453906877",
-      "url": "https://x.com/DOCISK_/status/2086209832453906877",
-      "createdAt": "2026-08-08T21:55:58.000Z",
-      "text": "Wiesz co robić @Salaterka_ 😉\n\nWidzimy się na rifcie, pickuj ahri ❤️‍🔥 https://t.co/fhPb6rcR2R",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2086209365065756672",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPO0XUPWcAA-IFD.jpg",
-          "altText": null,
-          "width": 1672,
-          "height": 1387
-        }
-      ],
-      "extracted": {
-        "player": "Salaterka_",
-        "playerHandle": "Salaterka_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089344094283698345",
+      "lastSeenId": "2089360894845165763",
       "initialized": true
     },
     "Lodis_LDS": {
