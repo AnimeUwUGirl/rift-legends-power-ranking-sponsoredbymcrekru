@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-16T20:53:54Z",
+  "updatedAt": "2026-08-17T10:06:37Z",
   "posts": [
+    {
+      "id": "2089286302973739042",
+      "url": "https://x.com/RiftLegendsPL/status/2089286302973739042",
+      "createdAt": "2026-08-17T09:40:46.000Z",
+      "text": "W TYM TYGODNIU OGLĄDAMY LOLA\nC O D Z I E N N I E 🤯\n\nŁapcie harmonogram na 17–23 sierpnia! 📅 https://t.co/MIbGIy54Rl",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089285645080338432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP6iOYVWIAA36ZV.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "a-2",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "DIABLO\n\nam\n\nCO zavko\n\na oR\n\n(CZWaRTEK\n\nPIATEK\n\nSosoTA\n\nNIEDZIELA\n\nane\n\nane\n\n@-@ an\n\na-2\n\nS-& [eee iee@lle=@) v--\n\n=)\n\ne\n: seREr HARIV racked zgbka 168 08 © DIABLO «+: y\nPas Pas ene\ny\n@-@ B-W |S) O-% x-G GH |\nS-& eae eeelieegl v¥-- <8 G-e",
+      "ocrVersion": 3
+    },
     {
       "id": "2089077102700097899",
       "url": "https://x.com/RiftLegendsPL/status/2089077102700097899",
@@ -3727,44 +3759,12 @@
         "profileImageUrl": "",
         "type": "league"
       }
-    },
-    {
-      "id": "2086131402177712377",
-      "url": "https://x.com/RiftLegendsPL/status/2086131402177712377",
-      "createdAt": "2026-08-08T16:44:19.000Z",
-      "text": "Zastanawialiście się kiedyś, jak wyglądała droga naszych komentatorów do mikrofonu? 👀\n\nPosłuchajcie, bo to serio ciekawe. (serio, sam byłem giga ciekawy) https://t.co/Ce6wZnRA2y",
-      "kind": "post",
-      "media": [
-        {
-          "mediaKey": "13_2086129483984105472",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086129483984105472/img/5h4KHTdIdvMAqRyq.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 2,
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      }
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089077102700097899",
+      "lastSeenId": "2089286302973739042",
       "initialized": true
     },
     "Lodis_LDS": {
