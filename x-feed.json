@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-17T18:03:19Z",
+  "updatedAt": "2026-08-17T19:37:47Z",
   "posts": [
+    {
+      "id": "2089421658415075490",
+      "url": "https://x.com/Lodis_LDS/status/2089421658415075490",
+      "createdAt": "2026-08-17T18:38:37.000Z",
+      "text": "Przekaz od @KasekoEB jest prosty - kochać @Komputronik_pl 😎\n\nJeśli chcielibyście skorzystać z oferty Komputronika, pamiętajcie o kodzie 'LODISPC' 🫡\n\n#reklama https://t.co/OIoGOYeEws",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089420301780103168",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089420301780103168/img/3M77uw0dKzMUQXtB.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "KasekoEB",
+        "playerHandle": "KasekoEB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089417965640855770",
+      "url": "https://x.com/RiftLegendsPL/status/2089417965640855770",
+      "createdAt": "2026-08-17T18:23:57.000Z",
+      "text": "To tyle na dziś...\n\nNA SZCZĘŚCIE JUTRO WRACAMY Z RIFT LEGENDS! 🥰 https://t.co/RtVytYPkvC",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089417751559290880",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP8aX_UWQAAD5nu.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "ye",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "”,\n\noe\n\n“®&\n\no£ 6\n\nvg.\"\n. * 2\n4 Z i nN | a * »\n7m “|?\nLae “ a oN VO\nye\ni”",
+      "ocrVersion": 3
+    },
     {
       "id": "2089407659124330634",
       "url": "https://x.com/RiftLegendsPL/status/2089407659124330634",
@@ -3695,81 +3759,17 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2086787509560692897",
-      "url": "https://x.com/Lodis_LDS/status/2086787509560692897",
-      "createdAt": "2026-08-10T12:11:27.000Z",
-      "text": "Labradorek w wykonaniu Pani mamy? 🖐️😆🖐️\n\nTego się człowiek nie spodziewał XDDD https://t.co/hO04zqtwgH",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2086787075374739457",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086787075374739457/img/Q0k0gHp119CXOcZr.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2086775503302619445",
-      "url": "https://x.com/Lodis_LDS/status/2086775503302619445",
-      "createdAt": "2026-08-10T11:23:45.000Z",
-      "text": "Kiedy musisz scrimować 3 razy w tygodniu do @RiftLegendsPL 😟\n\n14:00 chłopaki leakują na streamach scrim partnerów‼️ https://t.co/5EVEJqFXBk",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2086774380709777408",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086774380709777408/img/xc3kw4K4AxdWYWP-.jpg",
-          "altText": null,
-          "width": 576,
-          "height": 1024
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089407659124330634",
+      "lastSeenId": "2089417965640855770",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2089370745927250119",
+      "lastSeenId": "2089421658415075490",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
