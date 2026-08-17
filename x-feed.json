@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-17T15:56:00Z",
+  "updatedAt": "2026-08-17T17:04:44Z",
   "posts": [
+    {
+      "id": "2089386362164191617",
+      "url": "https://x.com/RiftLegendsPL/status/2089386362164191617",
+      "createdAt": "2026-08-17T16:18:22.000Z",
+      "text": "Niektóre rzeczy się niestety nie zmieniają:/ ☠️ https://t.co/ycbSQxUeAY https://t.co/NXZzHEB8aF",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089386357550379008",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP790nhWcAAYq6h.jpg",
+          "altText": null,
+          "width": 328,
+          "height": 288
+        }
+      ],
+      "extracted": {
+        "player": "Le",
+        "playerHandle": null,
+        "kda": "0/2/41",
+        "kp": 0.0,
+        "gold": null
+      },
+      "ocrText": "166\n\nTracyn ( & ie\n\n10/0\n\n=e 13\n\n14K\n\n126\n\nDaglas\n\nia\n\n0/2/41\n\n=0%\n\n152\n\n{ %\n\nsein\n\n{ tax\n\nHype (P\n\n38\n\n24\n\n{ 080\n\noft\n\n=i gl\n\n166 Lz.¥\n288 n Bie {\nTracy ie\n\nLe\n| I vae — ig\n| 126\n| 1K o/2/i = b@\n: 152 fll\n{ 19 yo ies By\n=a\n{ | Orvi = ¥\n{ nn —_| y",
+      "ocrVersion": 3
+    },
     {
       "id": "2089376015655010312",
       "url": "https://x.com/RiftLegendsPL/status/2089376015655010312",
@@ -3727,44 +3759,12 @@
       },
       "ocrText": "RIFT HARMONOGRAM\n\n+\n\na\n\n(MISTRZOSTWA POLS»\n\nLEGENDS\n\nGRYWEK\n\nCD taro Ey -le = ) “@ oiasto\n\n10.08\n\n11.08\n\n12.08\n\n13.08\n\n14.08 15.08\n\n16.08\n\nPONIEDZIALEK\n\nNIEDZIELA\n\nwee\n\nmy\n\nny\n\nal\n\n17:00\n\n6\n\nSoG\n\nMet\n\nIX\n\nB=\n\nasn15\n\nass\n\n\\\n\nau\n\nSu\n\nGe\n\nsa\n\ne\n‘ 10.08-16.08 2 +\nmr wae FSTSNOGTEN wom a= ow pm\n¢' s008 ues 29s 2308 “GSE 5s 1608\nSe GZ Gow Het\n\\ ——\nan @ SY BG G-#*\n* J",
       "ocrVersion": 3
-    },
-    {
-      "id": "2086462504566247576",
-      "url": "https://x.com/RiftLegendsPL/status/2086462504566247576",
-      "createdAt": "2026-08-09T14:40:00.000Z",
-      "text": "KLASYFIKACJA RIFT LEGENDS SUMMER PO 1 TYGODNIU ROZGRYWEK!\n\nDopiero się rozkręcamy 😼 https://t.co/jI9XVSaICZ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2086434727037169664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPSBVHAW8AA_0LT.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "KLASYFIKACJA",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "KLASYFIKACJA\n\nRIFT LEGENDS SUMMER 2026\n\nTEAM\n\nPos\n\nTEAM\n\nAn. @\n\nANO\n\nBoon\n\nv5.2\n\n5.28\n\nLDS\n\nVv 6.\n\nS\n\n&\n\nUP2U\n\nFSK\n\nBCE\n\nAs. ©\n\nv7 &\n\nAa W\n\nDv’11\n\nve. @\n\nboc\n\no\n\nBeet |\n\ntodko Bane (QD oo\n\n+ +\nKLASYFIKACJA\nRIFT LEGENDS SUMMER 2026\nAn. @ ANO 10 v5.8 Boom 01\nA2. ® Lps 10 v6. & UP2U o1\nA383. @ FSK 10 v7. @ BCE o1\n4 W DW 10 v8. @ poc o4\nener todko [Bae ® vinato\n+ Ba | i A",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089376015655010312",
+      "lastSeenId": "2089386362164191617",
       "initialized": true
     },
     "Lodis_LDS": {
