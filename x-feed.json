@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-17T17:04:44Z",
+  "updatedAt": "2026-08-17T18:03:19Z",
   "posts": [
+    {
+      "id": "2089407659124330634",
+      "url": "https://x.com/RiftLegendsPL/status/2089407659124330634",
+      "createdAt": "2026-08-17T17:42:59.000Z",
+      "text": "Bros be like: 😁 https://t.co/HtjQ6yZvP5",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089407029982986241",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP8Qn6VXAAEMUsP.png",
+          "altText": null,
+          "width": 310,
+          "height": 398
+        }
+      ],
+      "extracted": {
+        "player": "gE",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "LS\n\nNw\n\nAZ\n\ni SS\n\nAwe a\ngE",
+      "ocrVersion": 3
+    },
     {
       "id": "2089386362164191617",
       "url": "https://x.com/RiftLegendsPL/status/2089386362164191617",
@@ -3727,44 +3759,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2086770124137066582",
-      "url": "https://x.com/RiftLegendsPL/status/2086770124137066582",
-      "createdAt": "2026-08-10T11:02:22.000Z",
-      "text": "Ostatnio coraz więcej tych rozgrywek, dlatego łapcie kalendarz, żeby się w tym wszystkim nie pogubić! 🔢\n\n10-16 SIERPNIA 👇🏼 https://t.co/k6pl17CGi1",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2086769776639012864",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPWyDkCW8AAVbyw.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "sa",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": 1008
-      },
-      "ocrText": "RIFT HARMONOGRAM\n\n+\n\na\n\n(MISTRZOSTWA POLS»\n\nLEGENDS\n\nGRYWEK\n\nCD taro Ey -le = ) “@ oiasto\n\n10.08\n\n11.08\n\n12.08\n\n13.08\n\n14.08 15.08\n\n16.08\n\nPONIEDZIALEK\n\nNIEDZIELA\n\nwee\n\nmy\n\nny\n\nal\n\n17:00\n\n6\n\nSoG\n\nMet\n\nIX\n\nB=\n\nasn15\n\nass\n\n\\\n\nau\n\nSu\n\nGe\n\nsa\n\ne\n‘ 10.08-16.08 2 +\nmr wae FSTSNOGTEN wom a= ow pm\n¢' s008 ues 29s 2308 “GSE 5s 1608\nSe GZ Gow Het\n\\ ——\nan @ SY BG G-#*\n* J",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089386362164191617",
+      "lastSeenId": "2089407659124330634",
       "initialized": true
     },
     "Lodis_LDS": {
