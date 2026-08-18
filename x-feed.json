@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-17T19:37:47Z",
+  "updatedAt": "2026-08-18T09:53:18Z",
   "posts": [
+    {
+      "id": "2089651293325304155",
+      "url": "https://x.com/RiftLegendsPL/status/2089651293325304155",
+      "createdAt": "2026-08-18T09:51:06.000Z",
+      "text": "Dobra, dość tej negatywnej energii związanej z ENC :((\n\n2 TAŃCZĄCE, SZCZĘŚLIWE NERVARIENY, BO NIE DOŚĆ, ŻE WRACA DZIŚ RIFT LEGENDS, TO JESZCZE Z 3 (CZYT. TRZEMA) DNIAMI ROZGRYWKOWYMI! 🔥 https://t.co/eEjNePsd5z",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089650942371086336",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089650942371086336/img/x2EyHdPW5vFhpaHR.jpg",
+          "altText": null,
+          "width": 600,
+          "height": 480
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089629436043739365",
+      "url": "https://x.com/RiftLegendsPL/status/2089629436043739365",
+      "createdAt": "2026-08-18T08:24:15.000Z",
+      "text": "Ale jak to czekać jeszcze rok... 💔 https://t.co/J6MgoU29G7",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089421658415075490",
       "url": "https://x.com/Lodis_LDS/status/2089421658415075490",
@@ -3695,76 +3750,12 @@
       },
       "ocrText": "Vex\n\n\\)\n\n\\ GE\n\nMATCADAY\n\nPONIEDZIAEEK 10 SIERPNIA\n\nva\n\n4\n\nSe\n\n=)\n\nBo:\n\n915\n\nw\n\nzabka\n\n[- i mul.\naie, i)\n\n\\r SS\n~ ~a\\ \\P\\\n\n< (\n\na\nr\nPONIEDZIAELEK 10 SIERPNIA\nBoy eww &\na on)",
       "ocrVersion": 3
-    },
-    {
-      "id": "2086814080224862353",
-      "url": "https://x.com/RiftLegendsPL/status/2086814080224862353",
-      "createdAt": "2026-08-10T13:57:02.000Z",
-      "text": ".@ShlatanLoL NAJLEPSZYM LEŚNIKIEM W LIDZE? 👀 https://t.co/g2BItiykFh",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2086813744760229888",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPXaC2DWEAAUu5O.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Shlatan",
-        "playerHandle": "ShlatanLoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\naa\n\nVv\n\n& RIFT LEGENDS\n\nNe,\n\nA PS\n\nwy\n\n|\n\nSH\n\nBF inStreamly\n\nJES\n\nW LESIE\n\nIE TEN WWIEK\n\nww\n\nKee\n\n<a\n\n4\n\nMISTRZOSTWA P%\n\nKI\n\ny, NM\n“\\y &RIFTLEGENDS “Ne.\nye\nre.\n. ¥\nSHLATAN :\nLLL de Stream\n_ | :M NIE TRAFIE @ LEE SIMEM, BO TO JU2 ME TEN WIEK",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2086802428024750197",
-      "url": "https://x.com/Lodis_LDS/status/2086802428024750197",
-      "createdAt": "2026-08-10T13:10:44.000Z",
-      "text": "Villain arc @CzekoladLol się odpalił. \n\n@sinmivak sztywniutko 🤙😎\n\n#TeamMikusik https://t.co/IB0QlaCSSq",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2086802116740317184",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2086802116740317184/img/KbvSiLlz7oHp_lS1.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089417965640855770",
+      "lastSeenId": "2089651293325304155",
       "initialized": true
     },
     "Lodis_LDS": {
