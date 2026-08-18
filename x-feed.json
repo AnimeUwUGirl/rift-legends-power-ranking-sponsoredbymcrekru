@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-08-18T11:01:39Z",
+  "updatedAt": "2026-08-18T14:08:31Z",
   "posts": [
+    {
+      "id": "2089707361795477889",
+      "url": "https://x.com/Lodis_LDS/status/2089707361795477889",
+      "createdAt": "2026-08-18T13:33:54.000Z",
+      "text": "Saper myli się tylko raz. Noo... w przypadku @KasekoEB od 2 do 9 razy nawet in-game, ale postaramy się rozbroić atomówkę z @BombaTeamGG 😎\n\nWidzimy się na POV'ach chłopaków i u @Nervarieno 🥸 https://t.co/8Wc4rLd6TM",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089703289944207360",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQAeEgsW8AA2SnN.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "KasekoEB",
+        "playerHandle": "KasekoEB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089704613557457394",
+      "url": "https://x.com/BombaTeamGG/status/2089704613557457394",
+      "createdAt": "2026-08-18T13:22:59.000Z",
+      "text": "Frajgo już na baczność, flashbacki z Ome wracają. \n\nTrzeba rozmrozić streamerków z @Lodis_LDS 💣\n\nWidzimy się po 19! 🫡 https://t.co/2G51qAjbRW",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089702899420897280",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQAdtx4WIAAdTx9.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089704103899218334",
+      "url": "https://x.com/AnonymoEsports/status/2089704103899218334",
+      "createdAt": "2026-08-18T13:20:57.000Z",
+      "text": "MECZDEJ❗\n\nDziś w podstawowym składzie, nikt za nikogo nie będzie grał [a tym bardziej na jego koncie]🥀 https://t.co/6yJR0qz8UX",
+      "kind": "post",
+      "author": {
+        "username": "AnonymoEsports",
+        "name": "Anonymo Esports",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089703344461783040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQAeHryXIAABrgG.jpg",
+          "altText": null,
+          "width": 3000,
+          "height": 4000
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089689594086195556",
+      "url": "https://x.com/RiftLegendsPL/status/2089689594086195556",
+      "createdAt": "2026-08-18T12:23:18.000Z",
+      "text": "ej, banger meczyki dziś! 🔥\n\n🕐 - 17:00\n@AnonymoEsports VS @_ForsakenGG_ \n\n🕐 ~ 19:30 MATCH OF THE WEEK 🏆\n@BombaTeamGG VS @Lodis_LDS https://t.co/K88gfcOMxg",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089689105684684800",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQARK4NW4AA-avv.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "AnonymoEsports",
+        "playerHandle": "AnonymoEsports",
+        "kda": null,
+        "kp": null,
+        "gold": 1808
+      },
+      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOGRAM\n\ni>\n\nAY\n\nY TS 17:00\n\n2 &\n\nee\n\n19:30\n\n+\n\nBOMB, Vs\n\nat:\n\nWTOREK\n\n18.08\n\nwor®\n\nL\n\nPEEK\n\nowe?\n\nN\n\nV\n\nPR\n\nGTE\n\nME\n\nHIS ORIE\n\nsa\n\nea\n\ned\n\nGD\n\neee\n\n2: Sime BANK\n\nALIOR\n\n@ FS aw\n\nMISTRZOSTWA POLSKI\n\nV\n) (ZA\nV 6 RIFT LEGENDS ~~\n* a 17:00 hy\nmea vs Oy BY\nls ee =a =V\nDa 19:30 [25 CS. ‘\n— ay (ary —\n18.08 r I if\n/ ih fe\nDOREEK Raney IN ( i I\nPROTE\n‘ % ee * SORE }\nCx Be Dou\n+ MISTRZOSTWA POLSKI +>",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2089683958594244982",
+      "url": "https://x.com/_ForsakenGG_/status/2089683958594244982",
+      "createdAt": "2026-08-18T12:00:54.000Z",
+      "text": "Dzień\nBo gdyby był dobry to by nie przekładali ENC na 2027 https://t.co/n9zSfrC9f4",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2089678852448567296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQAH2D7XwAAXaEs.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089654136782381565",
       "url": "https://x.com/Lodis_LDS/status/2089654136782381565",
@@ -3590,177 +3750,17 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2087164630728622471",
-      "url": "https://x.com/devils1gg/status/2087164630728622471",
-      "createdAt": "2026-08-11T13:10:00.000Z",
-      "text": "Uszanowanie 😈\n\nDziś o 17:00 wracamy na pola @RiftLegendsPL\n\nPo dość długim lose streaku liczymy na solidne odkucie i rozpoczęcie passy zwycięstw. Dziś idealna okazja, żeby zrobić ten kolejny krok 🫡\n\nWidzimy się na transmisji! https://t.co/4EjULYFtd5",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087156612632858624",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPcR4YaW0AAAt9W.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087155699193131266",
-      "url": "https://x.com/RiftLegendsPL/status/2087155699193131266",
-      "createdAt": "2026-08-11T12:34:30.000Z",
-      "text": "WRACAAAAAAAMY! 🔥\n\n🕐- 17:00\n@barczacaesports by Yumisu VS @devils1gg INSTREAMLY\n\n🕐~ 19:30 MATCH OF THE WEEK 🏆\n@Lodis_LDS VS @_ForsakenGG_ https://t.co/oXnz4P5nKe",
-      "kind": "mvp",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087155664523059200",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPcRBMbXYAAEyq7.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "barczacaesports",
-        "playerHandle": "barczacaesports",
-        "kda": null,
-        "kp": 6.0,
-        "gold": 1108
-      },
-      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOGRAM\n\n17:00\n\nvs\n\na a\n\n19:30\n\nVs\n\n.\n\nWTOREK\n\n11.08\n\n{hive\n\n\\\\\n\n,\n\nALIOR\n\nBANK\n\nDIABLO:\n\nzabka\n\n-\n\nMISTRZOSTWA POLSKI\n\n+ ret +\nVv\nA =\nV 6% RIFT LEGENDS ~N\n: .' 17:00 y RN\n“ EW ee\n— i\n“ay — —— i\npsi WA 19:30 ue\nep vs ® =\n&’ me. |\na) zg >», WTOREK\nTOE F Dae 11.08\nye i ae\n\\ a JIN , x y ‘ \\\n: 7” Ses\nriche zabka Fy fees im ) < DIABLO: oe\n+ MISTRZOSTWA POLSKI >",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087147944700989607",
-      "url": "https://x.com/_ForsakenGG_/status/2087147944700989607",
-      "createdAt": "2026-08-11T12:03:42.000Z",
-      "text": "Wiem że już nie gadamy\nAle może jakaś kolacyjka dzisiaj o 19:30? https://t.co/W5uJBWTbm2",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087144879407214592",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPcHNavXsAA4Og3.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087136771620385192",
-      "url": "https://x.com/RiftLegendsPL/status/2087136771620385192",
-      "createdAt": "2026-08-11T11:19:18.000Z",
-      "text": ".@barczacaesports, @devils1gg, @Lodis_LDS, @_ForsakenGG_ Klient turniejowy pobrany? 🤓 https://t.co/ll5AAHN77i",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087130808855175168",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPb6aZ2WIAAkQO7.jpg",
-          "altText": null,
-          "width": 970,
-          "height": 970
-        }
-      ],
-      "extracted": {
-        "player": "barczacaesports",
-        "playerHandle": "barczacaesports",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "rd\n\nat\n\neo\n\n-\" a s ‘\n4 :\n7\nad io\n$ : 4",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087128823942861051",
-      "url": "https://x.com/RiftLegendsPL/status/2087128823942861051",
-      "createdAt": "2026-08-11T10:47:43.000Z",
-      "text": "Mamo, wujek dzwoni 🤠\n\n@JaskierBB przejmuje dzisiaj Instagrama!\nWpadajcie zobaczyć, co dzieje się za kulisami👀 https://t.co/n15hgovj0R",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2087127499121577984",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2087127499121577984/img/KOJVuMkViFwbvNBA.jpg",
-          "altText": null,
-          "width": 1214,
-          "height": 716
-        }
-      ],
-      "extracted": {
-        "player": "JaskierBB",
-        "playerHandle": "JaskierBB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089651293325304155",
+      "lastSeenId": "2089689594086195556",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2089654136782381565",
+      "lastSeenId": "2089707361795477889",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3768,7 +3768,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2087580334372044897",
+      "lastSeenId": "2089704613557457394",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3776,7 +3776,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2089336786606579762",
+      "lastSeenId": "2089683958594244982",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3792,7 +3792,7 @@
     },
     "AnonymoEsports": {
       "userId": "1128596869872082944",
-      "lastSeenId": "2087555865448464594",
+      "lastSeenId": "2089704103899218334",
       "initialized": true,
       "username": "AnonymoEsports",
       "name": "Anonymo Esports",
