@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-18T19:38:29Z",
+  "updatedAt": "2026-08-18T20:02:05Z",
   "posts": [
+    {
+      "id": "2089801520363487622",
+      "url": "https://x.com/RiftLegendsPL/status/2089801520363487622",
+      "createdAt": "2026-08-18T19:48:03.000Z",
+      "text": "graMY DALEJ graMY! 🔥 https://t.co/v686s9j4m9",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089801279165886464",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089801279165886464/img/gf5NEsY8n6v2kgiy.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089798576918409403",
       "url": "https://x.com/RiftLegendsPL/status/2089798576918409403",
@@ -3725,35 +3757,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2087509260900962814",
-      "url": "https://x.com/RiftLegendsPL/status/2087509260900962814",
-      "createdAt": "2026-08-12T11:59:26.000Z",
-      "text": "DZIŚ 2 PARTIA 🔥\n@UP2UMEDIApl CEBULAKI, @AnonymoEsports, @DOCISK_, @BombaTeamGG - KLIENT TURNIEJOWY POBRANY?\n\nA no i @sobeklol MASZ INTERNET?? https://t.co/SgD36rFcYR",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": "UP2UMEDIApl",
-        "playerHandle": "UP2UMEDIApl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089798576918409403",
+      "lastSeenId": "2089801520363487622",
       "initialized": true
     },
     "Lodis_LDS": {
