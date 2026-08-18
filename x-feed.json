@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-18T09:53:18Z",
+  "updatedAt": "2026-08-18T11:01:39Z",
   "posts": [
+    {
+      "id": "2089654136782381565",
+      "url": "https://x.com/Lodis_LDS/status/2089654136782381565",
+      "createdAt": "2026-08-18T10:02:24.000Z",
+      "text": "Sprawdzimy jaki Nashor się dziś wylosuje po 19:00 😎 https://t.co/H8ZVyHTQjs",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2089653796414672896",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089653796414672896/img/9U8UrZ46fiNkP7Hm.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089651293325304155",
       "url": "https://x.com/RiftLegendsPL/status/2089651293325304155",
@@ -3718,38 +3750,6 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2086828667062329506",
-      "url": "https://x.com/RiftLegendsPL/status/2086828667062329506",
-      "createdAt": "2026-08-10T14:55:00.000Z",
-      "text": "Wolne poniedziałkowe popołudnie? \nZapraszamy na LECa! 😼 https://t.co/YZjaY6bmzd",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2086816915448528896",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPXc7ZyWAAAq2np.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "zabka",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Vex\n\n\\)\n\n\\ GE\n\nMATCADAY\n\nPONIEDZIAEEK 10 SIERPNIA\n\nva\n\n4\n\nSe\n\n=)\n\nBo:\n\n915\n\nw\n\nzabka\n\n[- i mul.\naie, i)\n\n\\r SS\n~ ~a\\ \\P\\\n\n< (\n\na\nr\nPONIEDZIAELEK 10 SIERPNIA\nBoy eww &\na on)",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
@@ -3760,7 +3760,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2089421658415075490",
+      "lastSeenId": "2089654136782381565",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
