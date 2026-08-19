@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-18T20:57:05Z",
+  "updatedAt": "2026-08-19T14:09:04Z",
   "posts": [
+    {
+      "id": "2090049269000474881",
+      "url": "https://x.com/RiftLegendsPL/status/2090049269000474881",
+      "createdAt": "2026-08-19T12:12:31.000Z",
+      "text": "Siemaanko, gotowi na 2 dzień? 🔥\n\n🕐 - 17:00 \n@UP2UMEDIApl CEBULAKI VS @devils1gg \n\n🕐 ~ 19:30\n@DOCISK_ VS @barczacaesports https://t.co/wYair8EoIQ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090048940443897856",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQFYcBJXEAAn1Kg.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "UP2UMEDIApl",
+        "playerHandle": "UP2UMEDIApl",
+        "kda": null,
+        "kp": null,
+        "gold": 1908
+      },
+      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOGRAM\n\n* ff\n\n&y 17:00\n\nvs\n\nCERULAKI\n\nAe\n\nmy\n\nIe 2@\n\nSRODA\n\n19.08\n\nE inStre\n\nVW\n\nay\n\nTD zan0\n\n2@ a\n\nMISTRZOSTWA POLSKI\n\n+ ee +\nAV\nA\nV & RIFT LEGENDS on\nEN\n7, an , &y 17:00\nfi aga \\ c=) vs NM gles\n| = Sy 19:30 wes f\n( @ vs >\n—— SRODA\nWt 19.08\nV/ & , ' E inStre\n+ EEE +",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090046124363075885",
+      "url": "https://x.com/devils1gg/status/2090046124363075885",
+      "createdAt": "2026-08-19T12:00:01.000Z",
+      "text": "O 17:00 czeka nas potężne starcie z Cebulakami w @RiftLegendsPL \n\nNa to spotkanie mamy też małą zmianę w składzie.\n\nZamiast @iwananlol na midzie zobaczymy naszego suba @lebsterek  \n\nWidzimy się na transmisji 😈 https://t.co/wyRYAWYMYB",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090032445315813376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQFJb4AXEAApNon.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2089815380973764916",
       "url": "https://x.com/RiftLegendsPL/status/2089815380973764916",
@@ -3692,76 +3756,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2087566280572190752",
-      "url": "https://x.com/BombaTeamGG/status/2087566280572190752",
-      "createdAt": "2026-08-12T15:46:01.000Z",
-      "text": "Co pograli... 🤯 https://t.co/AzLdhZ81BE",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2087565895400845314",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2087565895400845314/img/rr9tUg9qd_jmD4rN.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087562020119826545",
-      "url": "https://x.com/BombaTeamGG/status/2087562020119826545",
-      "createdAt": "2026-08-12T15:29:05.000Z",
-      "text": "Była topiona Marzanna na rzece 🤙😎 https://t.co/rm5FkhXgX3",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2087561875189899264",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2087561875189899264/img/D-dppGCtMwAAdlHb.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2089815380973764916",
+      "lastSeenId": "2090049269000474881",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3790,7 +3790,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2089745938143215656",
+      "lastSeenId": "2090046124363075885",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
