@@ -1,6 +1,294 @@
 {
-  "updatedAt": "2026-08-19T14:09:04Z",
+  "updatedAt": "2026-08-19T17:56:01Z",
   "posts": [
+    {
+      "id": "2090135218652848460",
+      "url": "https://x.com/RiftLegendsPL/status/2090135218652848460",
+      "createdAt": "2026-08-19T17:54:03.000Z",
+      "text": "KULA DAJE FULA KULA DAJE FULA KULA DAJE FULA KULA DAJE FULA KULA DAJE FULA KULA DAJE FULA https://t.co/c5OzyQ0tmL",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2090135106509787136",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090135106509787136/img/sVLAx7n7y9eRq3m5.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090134598038479053",
+      "url": "https://x.com/Lodis_LDS/status/2090134598038479053",
+      "createdAt": "2026-08-19T17:51:35.000Z",
+      "text": "Był to kawał serii 😎 https://t.co/B68ttwqZcx",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2090134448440254464",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090134448440254464/img/qE6wShfbRjrB8bp4.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090122290167984429",
+      "url": "https://x.com/RiftLegendsPL/status/2090122290167984429",
+      "createdAt": "2026-08-19T17:02:41.000Z",
+      "text": "&gt; \"iBo zagrał tu jak Icebeasto ze swoich najlepszych czasów\" \n&gt; \"A to nawet jest ten sam gość\"\n \nMVP SERII DLA MARCINA LEBUDY! 🏆 https://t.co/c8Lw05pKCC",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090121800554311680",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGatCNW8AAjRB9.jpg",
+          "altText": null,
+          "width": 1328,
+          "height": 748
+        }
+      ],
+      "extracted": {
+        "player": "Vir",
+        "playerHandle": null,
+        "kda": "3/2/6",
+        "kp": 37.5,
+        "gold": 11732
+      },
+      "ocrText": "\"MIVE\n\nW\n\nd\n\nNIV\n\nIbo\n\nHe)\n\nAd\n\nNMIV\n\n3/2/6 37.5%\n\nNVI\n\n11732\n\nMi\"\n\n@ & DS @ ik\n\nVir\n\n{|| Lill\n\nZeer | a\n\neo Td\n\nDIABLO «+\n\n+ +\nMV lag ui\nNM Miwa of ees\nIVI) |_| alll\n\n+ BEI | ED wo Bin (Bp mmo +",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090120019917127729",
+      "url": "https://x.com/devils1gg/status/2090120019917127729",
+      "createdAt": "2026-08-19T16:53:39.000Z",
+      "text": "Cebula obrana. \n\nWygrywamy wynikiem 2:0 \n\nDodatkowo @lebsterek elegancki debiucik zaliczony. https://t.co/gGzxwWBDq0",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090119587555639296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGYsOJXAAA2ETg.png",
+          "altText": null,
+          "width": 528,
+          "height": 658
+        }
+      ],
+      "extracted": {
+        "player": "lebsterek",
+        "playerHandle": "lebsterek",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090117314448371818",
+      "url": "https://x.com/RiftLegendsPL/status/2090117314448371818",
+      "createdAt": "2026-08-19T16:42:54.000Z",
+      "text": "LICZBA GIER W RIFT LEGENDS:\n\n@WooliteLoL  - 131 gier\n@chicaseee - 4 gry https://t.co/2cLerSRIcb",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090116987095568384",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGWU2rXUAAcW38.png",
+          "altText": null,
+          "width": 579,
+          "height": 702
+        }
+      ],
+      "extracted": {
+        "player": "Woolite",
+        "playerHandle": "WooliteLoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "‘Kanye Scores 106 Points\n\nAgainst Wheelchair\n\nBasketball Team\n\ned sae\n\nA charity basketball game didn’t go exactly as\n\nplanned yesterday when Kanye West scored\n\n106 points against a team of handicapped\n\nchildren in wheelchairs.\n\nKanye Scores 106 Points\n\nAgainst Wheelchair\n\nBasketball Team\n\n| —\n\n' & Fes af 4\nrt\n\nA charity basketball game didn’t go exactly as\n\nplanned yesterday when Kanye West scored\n\n106 points against a team of handicapped\n\nchildren in wheelchairs.",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090112069509025890",
+      "url": "https://x.com/RiftLegendsPL/status/2090112069509025890",
+      "createdAt": "2026-08-19T16:22:04.000Z",
+      "text": "TO SIE NAZYWA WEJŚCIE SMOKA OD GNIOTKA! \n\nFlash w bazie 200IQ? 🤔 https://t.co/xZt507WrZY",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2090111933533786112",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090111933533786112/img/4CnKqkou7bGekFtg.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090107841004593308",
+      "url": "https://x.com/RiftLegendsPL/status/2090107841004593308",
+      "createdAt": "2026-08-19T16:05:16.000Z",
+      "text": "MALBORK VS BIAŁYSTOK 🔥 https://t.co/ml9Ld2RBcL",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090107804749008896",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGN-XxWEAAFTtg.jpg",
+          "altText": null,
+          "width": 1332,
+          "height": 747
+        }
+      ],
+      "extracted": {
+        "player": "seo",
+        "playerHandle": null,
+        "kda": "5/3/6",
+        "kp": 39.0,
+        "gold": null
+      },
+      "ocrText": "Obejmuje ptatna promocje 71\n\n+DV1\n\nUrPeocu\n\nDY\"\n\no.\n\nQ\n\n<i\n\nA\n\n2\n\nbd Je)\n\nUP2eU\n\nPATCH 2616\n\nGRA1\n\nU\n\n9\n\nU\n\n5/3/6 [ «oa ) 2/4/0\n\ny\n\nrm\n\n39% (FN) e:%\n\nBinStreamly\n\n+1848 1848\n\nao3 (EN) 544\n\nWW\n\n|\n\nseo\n\nl\n\nMALBORK | PL\n\nBIALYSTOK | PL\n\nMARGIN LEBUDA\n\nBEE | ED te Bc CD pom\n\nPAWEt KOCMIEROWSK!\n\n‘Obejmuje ptatna promocje 71\n‘BYl ama) HBB\nN bd fe\nDp s PATCH 2616 UW\nD ¥ ray UW\n4 5/3/6 [ «oa ) 2/4/0 8)\nrf 39% (FN) e:%\n+1848 1848\nBinStreamly \\\nWW 03 [ oem) 544\ned --- oe\nMALBORK | PL BIALYSTOK | PL\nIO ups ak | @ sys Eve @ 4 oe ponies",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090106518297600113",
+      "url": "https://x.com/DOCISK_/status/2090106518297600113",
+      "createdAt": "2026-08-19T16:00:00.000Z",
+      "text": "Za darmo to uczciwa cena... Bo tyle kosztować was będzie obejrzenie starcia drużyn, które mają między sobą niemałą historię 🔥\n\nWięc już o 19:30 rozsiądźcie się wygodnie i oglądajcie jak stajemy w szranki z @barczacaesports !\n\n#DOCISKGRAĆ https://t.co/bcbQRzRmgP",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090060226506436608",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQFis9AWsAA14p-.jpg",
+          "altText": null,
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "extracted": {
+        "player": "barczacaesports",
+        "playerHandle": "barczacaesports",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090086390541304040",
+      "url": "https://x.com/barczacaesports/status/2090086390541304040",
+      "createdAt": "2026-08-19T14:40:02.000Z",
+      "text": "19:30\nvs @DOCISK_ https://t.co/KyqucT4NuH",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090086133346545664",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQF6Q7gXMAAAWrC.jpg",
+          "altText": null,
+          "width": 735,
+          "height": 913
+        }
+      ],
+      "extracted": {
+        "player": "DOCISK_",
+        "playerHandle": "DOCISK_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2090049269000474881",
       "url": "https://x.com/RiftLegendsPL/status/2090049269000474881",
@@ -3477,296 +3765,17 @@
       },
       "ocrText": "POW: KOKOS NA LEE SINIE\n\na\n\ne\n\n@’\n\na\n\na\n\nBer airn lk\n\ntee\n\nmi\n\nPOW: KOKOS NA LEE SINIE\n. a A= é ae Loge * i\n@’\nea\nResel josh le",
       "ocrVersion": 3
-    },
-    {
-      "id": "2087613409298632716",
-      "url": "https://x.com/DOCISK_/status/2087613409298632716",
-      "createdAt": "2026-08-12T18:53:17.000Z",
-      "text": "Jak zawsze przy krojeniu cebuli popłynęło trochę łez, lecz tym razem nie dla nas, lecz dla naszych wrogów.\n\nWygrywamy 2:0 na ekipę cebulaków\n\nP.S. @kaczy102 przestań draftować u przeciwnika na co-streamie ^^ https://t.co/RExRKTZ5rf",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087611249995468801",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPivXwkW0AEkuDs.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "kaczy102",
-        "playerHandle": "kaczy102",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087600561956827242",
-      "url": "https://x.com/DOCISK_/status/2087600561956827242",
-      "createdAt": "2026-08-12T18:02:14.000Z",
-      "text": "Na costreamie Docisku mamy podwójnego agenta.\n\n@kaczy102 co masz na swoją obronę? https://t.co/rKC3ryoe9i",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087600268556812288",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPilYjhWwAALGd8.png",
-          "altText": null,
-          "width": 739,
-          "height": 574
-        }
-      ],
-      "extracted": {
-        "player": "kaczy102",
-        "playerHandle": "kaczy102",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087581718639243325",
-      "url": "https://x.com/DOCISK_/status/2087581718639243325",
-      "createdAt": "2026-08-12T16:47:21.000Z",
-      "text": "@kaczy102 @spejssss_prod Wpadajcie na co-streama!!!\nhttps://t.co/w9RVm8Vtmb",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "kaczy102",
-        "playerHandle": "kaczy102",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087580334372044897",
-      "url": "https://x.com/BombaTeamGG/status/2087580334372044897",
-      "createdAt": "2026-08-12T16:41:51.000Z",
-      "text": "Rok @Mrozku? Holy glaze 🙏\n\nLepszy braciak wygrał, a my widzimy się za tydzień 🫡 https://t.co/CdH06UM4L2",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087579677393027072",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPiSp_dWAAAvri9.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087578934409892057",
-      "url": "https://x.com/BombaTeamGG/status/2087578934409892057",
-      "createdAt": "2026-08-12T16:36:17.000Z",
-      "text": "Quadra dla @Mrozku, luźny Locke 😎 https://t.co/IRaGUmGKGS",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2087578746005962752",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2087578746005962752/img/FTUQwbd2jv2wHeVv.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087577488343843136",
-      "url": "https://x.com/BombaTeamGG/status/2087577488343843136",
-      "createdAt": "2026-08-12T16:30:33.000Z",
-      "text": "Wejdę, wyjdę. Wejdę w Twojej głowie 🎶 https://t.co/YqnYuErro1",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2087577431624368129",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2087577431624368129/img/zb7FZ9JN6hGkojky.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087577352121504180",
-      "url": "https://x.com/DOCISK_/status/2087577352121504180",
-      "createdAt": "2026-08-12T16:30:00.000Z",
-      "text": "Cebula ma warstwy ale boks to nie jest jednorundowa potyczka 🤜💥1⃣2⃣3⃣\n\nWchodzimy na ring przeciwko UP2UMEDIA Cebulaki licząc na KO na naszą korzyść!\n\nDzisiaj także co-stream gdzie w rolach głównych wystąpią: @kaczy102 i @spejssss_prod \n\nlink w komentarzu ⬇️ https://t.co/K8CEApuzJ9",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087557163140980736",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPh-LfVXIAAt-NU.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "kaczy102",
-        "playerHandle": "kaczy102",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087576696262172839",
-      "url": "https://x.com/UP2UMEDIApl/status/2087576696262172839",
-      "createdAt": "2026-08-12T16:27:24.000Z",
-      "text": "Meldujemy się na rifcie! 🙌\n\n🏆 @RiftLegendsPL\n🆚 @DOCISK_ \n⏰ 19:30\n📺 Transmisja dostępna u @Nervarieno https://t.co/ITy3Ok68Eb",
-      "kind": "post",
-      "author": {
-        "username": "UP2UMEDIApl",
-        "name": "UP2UMEDIA",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1930947930740916224/tVQdD6-G_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087576064860028928",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPiPXtuXAAAiQS0.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2087567641456107652",
-      "url": "https://x.com/BombaTeamGG/status/2087567641456107652",
-      "createdAt": "2026-08-12T15:51:25.000Z",
-      "text": "Pamiętajcie o tym, by się nawadniać 🥤\n\n1:0, wracamy po przerwie 😎 https://t.co/CrkjKtfhbs",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087567340439207936",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPiHb4uWAAAljy3.png",
-          "altText": null,
-          "width": 163,
-          "height": 169
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2090049269000474881",
+      "lastSeenId": "2090135218652848460",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2089812966753403054",
+      "lastSeenId": "2090134598038479053",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3790,7 +3799,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2090046124363075885",
+      "lastSeenId": "2090120019917127729",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
@@ -3806,7 +3815,7 @@
     },
     "DOCISK_": {
       "userId": "1692642128554278912",
-      "lastSeenId": "2087613409298632716",
+      "lastSeenId": "2090106518297600113",
       "initialized": true,
       "username": "DOCISK_",
       "name": "DOCISK",
@@ -3814,7 +3823,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2088629804215980425",
+      "lastSeenId": "2090086390541304040",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
