@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-19T21:59:02Z",
+  "updatedAt": "2026-08-20T12:01:24Z",
   "posts": [
+    {
+      "id": "2090399584241570035",
+      "url": "https://x.com/RiftLegendsPL/status/2090399584241570035",
+      "createdAt": "2026-08-20T11:24:33.000Z",
+      "text": "Niby czwartek, a jednak jakiś taki fajny...\n\nBo to czwartek z RIFT LEGENDS i @Veggie_LoL na cascie! 🔥 https://t.co/Kfhi0vX1rN",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090399375784656896",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQKXKChXwAAsqW5.png",
+          "altText": null,
+          "width": 429,
+          "height": 343
+        }
+      ],
+      "extracted": {
+        "player": "Veggie",
+        "playerHandle": "Veggie_LoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "czwanrex\n\n=\n\nCZWARTEK 2\n\nRIFT LEGENDS\n\n|\n\nve CZWARTEK\n4)\n\nYX CZWARTEK 2\n\n“7 RIFT LEGENDS",
+      "ocrVersion": 3
+    },
     {
       "id": "2090164218267869233",
       "url": "https://x.com/barczacaesports/status/2090164218267869233",
@@ -3741,44 +3773,12 @@
       },
       "ocrText": "Round Robin Round 3\n\n[\n\nTue 2026-08-18\n\nANO\n\n&\n\nQO FSK\n\nBOOM\n\ney\n\noS\n\nLDS\n\nWed 2026-08-19\n\na\n\nUP2U\n\nDV1\n\na\n\n]\n\nc a)\n\nboc\n\n2\n\n&\n\nBCE\n\nThu 2026-08-20\n\nUP2U\n\nBOO},\n\nCO ——\n\n~\n\nv7\n\nANO\n\ney\n\n&\n\nBCE\n\noe \"4\n\n@\n\nVB\n\nre\n\nJ\n\n.)\n\nPR\n\n\\))\n\np)\n\nRound Robin Round 3 [ ]\nANO @& 0 FSK\nBOOM w& ® LDS a\nWed 2026-08-19 aaa\nuP2U 4 bg ov1 PO: Zo,\nFe a we |\n‘ Thu 2026-08-20\n———-> wP2U fy Pe) > 1)\noN ~ a INNO @p ®@ BCE Ka\n= — (\nSVE}\n= [| 7\nTy) rh\n, @>\n\" ) } i oh\nAR DX\nNy Vig\n4 WwW\nVe |",
       "ocrVersion": 3
-    },
-    {
-      "id": "2087619413075718602",
-      "url": "https://x.com/RiftLegendsPL/status/2087619413075718602",
-      "createdAt": "2026-08-12T19:17:08.000Z",
-      "text": "@JaskierBB Dzięki za dzisiaj widzowie, słyszymy się już we wtoreczek! https://t.co/Oh8GgVMahx",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2087619384504188928",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HPi2xP-XgAA9Xi2.jpg",
-          "altText": null,
-          "width": 1200,
-          "height": 675
-        }
-      ],
-      "extracted": {
-        "player": "JaskierBB",
-        "playerHandle": "JaskierBB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "oi\n\n~\n\nSell\n\n5,\n\n=\n\na cee,\n\nxo\n\nAes\n\nme\n\na\n\nihe\n\noe\n\n2\n\nwre\n\n—\n\n=\n\n. email -\\ ‘ ‘ ‘io\nVF _ | mie a - ~S : Py :\na ee ‘ eee — a\n\n~ ¥ if ‘ ho ae”\n. = ual aA\nQI y=\nia —\nz a *\n—=<« £«»f\na Z\nme = ~ %\n= oo",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2090156844509434267",
+      "lastSeenId": "2090399584241570035",
       "initialized": true
     },
     "Lodis_LDS": {
