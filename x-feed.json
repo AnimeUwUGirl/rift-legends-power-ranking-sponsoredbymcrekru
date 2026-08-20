@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-20T19:20:21Z",
+  "updatedAt": "2026-08-20T20:58:45Z",
   "posts": [
+    {
+      "id": "2090535943417516519",
+      "url": "https://x.com/RiftLegendsPL/status/2090535943417516519",
+      "createdAt": "2026-08-20T20:26:23.000Z",
+      "text": "DZIĘKI TEMU PANU (i nie tylko) @barczacaesports ZDOBYWA SWOJEGO 1 WINA\n\nMVP DLA @blesialol 🏆 https://t.co/SkH4xyqkxe",
+      "kind": "mvp",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090535935800745984",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQMTW4OXoAANf3x.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "barczacaesports",
+        "playerHandle": "barczacaesports",
+        "kda": "5/3/9",
+        "kp": 70.02,
+        "gold": 70026
+      },
+      "ocrText": "@\\F\n\na\n\nBlesia\n\n5/3/9\n\n70.026\n\n8053\n\nTh\n\nWed\n\nMi So\n\nZn\n\nY\n\n0.0K\n\nJ\n\npanap\n\nBlesia\n\nMHesszero\n\nbk\n\nDIABLO s+\n\nBit |\n\n+\n\n+ +\n| [= a a\nBlesia\n5/3/9 70.02%\n18053\nwh Mmm 4S\n\\ get al\n, co eae a HHesszero\n+> GRES. TO —tadko Bros DIABLO <= +>",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090531305779876231",
+      "url": "https://x.com/RiftLegendsPL/status/2090531305779876231",
+      "createdAt": "2026-08-20T20:07:58.000Z",
+      "text": "Trzeba tu polecieć klasyczkiem\n\nTa seria to niezłe kino 🔥 https://t.co/aIJdbbcu26",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2090531297642811392",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HQMPI5vWEAA5VEh.jpg",
+          "altText": null,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2090508583347577222",
       "url": "https://x.com/RiftLegendsPL/status/2090508583347577222",
@@ -3743,67 +3807,12 @@
       },
       "ocrText": "\\ vi\n\nTie\n\nCom.\n\n» ey ENG 3\n[- he\n3 7. te",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089012611744411780",
-      "url": "https://x.com/RiftLegendsPL/status/2089012611744411780",
-      "createdAt": "2026-08-16T15:33:13.000Z",
-      "text": "CAPS NAJNOWSZYM ZAWODNIKIEM W HALL OF LEGENDS! 🏆\n\n🥇 FAKER\n🥈 UZI\n🥉 CAPS\n\nMAMY EUROPEJCZYKA! 🇪🇺\nCo sądzimy? 👀 https://t.co/8EgcmdbRZT",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2088996703969894585",
-      "url": "https://x.com/RiftLegendsPL/status/2088996703969894585",
-      "createdAt": "2026-08-16T14:30:00.000Z",
-      "text": "NIE MA SZANS, ŻE FNATIC WYGRA Z G2, PRAWDA? PRAWDA...? PRZEKONAJMY SIĘ SAMI JUŻ DZIŚ! 🔥 https://t.co/UNDwOaAL36",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2088959884444221440",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP158nZWwAAc2RQ.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "MAFGHDAY",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "P,\n\nll\n\nCe\n\nQS\n\nMATENOAY\n\nNIEDZIELA 16 SIERPNIA\n\nie 2s\n\n~—\n\n— a i)\nee ey aa\n> “s -\nle\nMAFGHDAY\nNIEDZIELA 16 SIERPNIA\n5] so Bw\na am &®",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2090508583347577222",
+      "lastSeenId": "2090535943417516519",
       "initialized": true
     },
     "Lodis_LDS": {
