@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-20T20:58:45Z",
+  "updatedAt": "2026-08-20T22:00:16Z",
   "posts": [
+    {
+      "id": "2090551112847778183",
+      "url": "https://x.com/barczacaesports/status/2090551112847778183",
+      "createdAt": "2026-08-20T21:26:40.000Z",
+      "text": "Łatwo. https://t.co/IBC5Geif6R",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090551073664544768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQMhIBKWMAAJa6n.jpg",
+          "altText": null,
+          "width": 735,
+          "height": 913
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 3
+    },
     {
       "id": "2090535943417516519",
       "url": "https://x.com/RiftLegendsPL/status/2090535943417516519",
@@ -3775,38 +3807,6 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089015478425387461",
-      "url": "https://x.com/RiftLegendsPL/status/2089015478425387461",
-      "createdAt": "2026-08-16T15:44:36.000Z",
-      "text": "Ktoś myślał, że ten tatuaż był nieprawdziwy? 🤓 https://t.co/ngxlTGB0a1 https://t.co/ugUC1gd0BG",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089015156202151936",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP2sN2vWIAAjHLM.jpg",
-          "altText": null,
-          "width": 297,
-          "height": 297
-        }
-      ],
-      "extracted": {
-        "player": "Com",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "\\ vi\n\nTie\n\nCom.\n\n» ey ENG 3\n[- he\n3 7. te",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
@@ -3865,7 +3865,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2090438558167285985",
+      "lastSeenId": "2090551112847778183",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
