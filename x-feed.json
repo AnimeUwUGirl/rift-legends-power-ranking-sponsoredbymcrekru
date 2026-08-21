@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-21T11:03:01Z",
+  "updatedAt": "2026-08-21T16:01:58Z",
   "posts": [
+    {
+      "id": "2090817036867805288",
+      "url": "https://x.com/RiftLegendsPL/status/2090817036867805288",
+      "createdAt": "2026-08-21T15:03:21.000Z",
+      "text": "[BREAKING] ⚠️\n\nPodobno na ogromnej widowni LEC, było za dużo wolnych miejsc, dlatego postanowili zmniejszyć studio do tzw. klitki na miotły. https://t.co/5gjUnScXVq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090816511451504641",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQSih-WoAEAejv.jpg",
+          "altText": null,
+          "width": 1334,
+          "height": 744
+        }
+      ],
+      "extracted": {
+        "player": "wo",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Ibejmuje platna promoci\n\nes\n\n20\n\njZ\n\n“Ne\n\n—\n\nJA 4\n\naS -S\n\n—_———_\n\n\\\n\nom\n\n! !\n\nC—\n\nTS\n\nwo\n\n=\n\na ~ Siesta\n- 7 Ps, ale \\\n: . Ga o~ ~\nes | =",
+      "ocrVersion": 3
+    },
+    {
+      "id": "2090807381609369603",
+      "url": "https://x.com/RiftLegendsPL/status/2090807381609369603",
+      "createdAt": "2026-08-21T14:24:59.000Z",
+      "text": "PIĄTECZEK, PIĄTUNIO ✅\nTH WYGRYWA NA SK  🔜\nSANCHI WYGRYWA NA FRAUDALITY 🔜 https://t.co/J1jwcxElPC",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2090807015903842304",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQJ50TX0AA9hnp.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "bk",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "i\n\nm= |\n\neure\n\nMATG\n\nTh)\n\nPIATEK 21 SIERPNIA\n\nBI,\n\nbk\n\n~—\n\nr\nPIATEK 21 SIERPNIA\n8 AK Wh\niota ue OD",
+      "ocrVersion": 3
+    },
     {
       "id": "2090751988531093765",
       "url": "https://x.com/RiftLegendsPL/status/2090751988531093765",
@@ -3734,76 +3798,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089077026971853281",
-      "url": "https://x.com/RiftLegendsPL/status/2089077026971853281",
-      "createdAt": "2026-08-16T19:49:11.000Z",
-      "text": "Admin na chwilę znika, a tu Fnatic STOMPUJE G2 😭\n\nCO TU SIĘ WYDARZYŁO XDDD?\n\nPoproszę o wytłumaczenie…\n\n(Zdj upseta bo jestem upset) https://t.co/CfPFJjojUi",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089077021351522304",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP3ke4YWsAAv_tM.jpg",
-          "altText": null,
-          "width": 1280,
-          "height": 720
-        }
-      ],
-      "extracted": {
-        "player": "Mie",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Spo\n\nee\n\n\\\n\nf\n\ns\n\nX\n\nIN\n\nte\n\nferis\n\nFNATIC\n\nMie\n\n: at Ee eT SBE ec ee ES oes\nSee sae UN ee\nae 5 se fe J oN SS SSE 3 ek SS.\nBia aes ie a fae Reese. pres\nOe saa ee | SS ie ee ee\nso Bee ad gee ‘ ON ee ers\noo, MT Ae & i ee ee\nSee SEO Ee } St oe Seana len\neee et i ease a ois ane Se one:\nak aa = we * Soa pon es = 2\nee f i , \\ Me... eS ere\nRS a ec\nae” meme Ae. th 7 te Se\nSP ae 8 a he SES RM RO ne\nES ORS nage. SSR oie ge A Ot 2 we ib ee py js Pace mats See es\nSn eC a ane oe ME, Se et Ae eM Cen NS iP” sing CICS",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2089036019588837459",
-      "url": "https://x.com/RiftLegendsPL/status/2089036019588837459",
-      "createdAt": "2026-08-16T17:06:14.000Z",
-      "text": "CZAS NA FNC VS G2! 🔥 https://t.co/r28dz1v6fM",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089035695734030336",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP2-5adWgAAEITw.png",
-          "altText": null,
-          "width": 596,
-          "height": 447
-        }
-      ],
-      "extracted": {
-        "player": "Panoe",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ee\n\noa\n\ny| | |S\n\nSELFMADE\n\na\nPanoe\nSELEMADE!",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2090751988531093765",
+      "lastSeenId": "2090817036867805288",
       "initialized": true
     },
     "Lodis_LDS": {
