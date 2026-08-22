@@ -33,7 +33,7 @@ OUTPUT_PATH = Path(os.environ.get("X_FEED_PATH", "x-feed.json"))
 MAX_STORED_POSTS = 120
 INITIAL_POSTS_PER_ACCOUNT = 5
 NEW_POSTS_PER_ACCOUNT = 5
-OCR_VERSION = 3
+OCR_VERSION = 4
 USER_AGENT = "RiftPower/1.0 (+https://riftpower.pl)"
 
 
@@ -209,7 +209,7 @@ def player_from_text(post_text: str, ocr_text: str, account_username: str) -> tu
     handles = [handle for handle in handles if handle.casefold() != account_username.casefold()]
     if handles:
         handle = handles[0]
-        player = re.sub(r"(?:_?LoL)$", "", handle, flags=re.IGNORECASE) or handle
+        player = re.sub(r"(?:_?LoL)$", "", handle, flags=re.IGNORECASE).strip("_") or handle
         return player, handle
 
     lines = [re.sub(r"\s+", " ", line).strip(" |:;.,") for line in ocr_text.splitlines()]
@@ -306,6 +306,23 @@ def public_media(media: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def is_mvp_graphic(username: str, ocr_text: str, extracted: dict[str, Any]) -> bool:
+    if username.casefold() != OFFICIAL_ACCOUNT.casefold():
+        return False
+
+    required_labels = ("MVP", "KDA", "KP")
+    has_official_layout = all(
+        re.search(rf"\b{label}\b", ocr_text, flags=re.IGNORECASE)
+        for label in required_labels
+    )
+    has_complete_data = bool(
+        extracted.get("player")
+        and extracted.get("kda")
+        and extracted.get("kp") is not None
+    )
+    return has_official_layout and has_complete_data
+
+
 def process_post(
     post: dict[str, Any],
     media_by_key: dict[str, dict[str, Any]],
@@ -333,11 +350,7 @@ def process_post(
 
     full_ocr_text = "\n\n".join(ocr_parts)
     extracted = extract_stats(text, full_ocr_text, username)
-    looks_like_mvp = username.casefold() == OFFICIAL_ACCOUNT.casefold() and bool(
-        re.search(r"\bMVP\b", f"{text}\n{full_ocr_text}", flags=re.IGNORECASE)
-        or extracted["kda"]
-        or extracted["kp"] is not None
-    )
+    looks_like_mvp = is_mvp_graphic(username, full_ocr_text, extracted)
 
     result: dict[str, Any] = {
         "id": post_id,
@@ -361,10 +374,9 @@ def process_post(
     return result
 
 
-def reprocess_saved_mvp(post: dict[str, Any]) -> bool:
+def reprocess_saved_official_post(post: dict[str, Any]) -> bool:
     username = str(post.get("author", {}).get("username") or OFFICIAL_ACCOUNT)
     if (username.casefold() != OFFICIAL_ACCOUNT.casefold()
-            or post.get("kind") != "mvp"
             or int(post.get("ocrVersion", 0)) >= OCR_VERSION):
         return False
 
@@ -383,6 +395,7 @@ def reprocess_saved_mvp(post: dict[str, Any]) -> bool:
     full_ocr_text = "\n\n".join(ocr_parts)
     post["ocrText"] = full_ocr_text[:4000]
     post["extracted"] = extract_stats(str(post.get("text", "")), full_ocr_text, username)
+    post["kind"] = "mvp" if is_mvp_graphic(username, full_ocr_text, post["extracted"]) else "post"
     post["ocrVersion"] = OCR_VERSION
     if ocr_errors:
         post["ocrErrors"] = ocr_errors
@@ -481,7 +494,7 @@ def main() -> None:
             print(f"Uwaga: pominięto @{username}: {message}")
 
     for saved_post in existing_posts.values():
-        if reprocess_saved_mvp(saved_post):
+        if reprocess_saved_official_post(saved_post):
             changed = True
 
     state["posts"] = sorted(
