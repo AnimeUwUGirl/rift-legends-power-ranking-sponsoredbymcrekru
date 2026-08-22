@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-22T04:06:40Z",
+  "updatedAt": "2026-08-22T10:56:02Z",
   "posts": [
+    {
+      "id": "2091105809002344884",
+      "url": "https://x.com/RiftLegendsPL/status/2091105809002344884",
+      "createdAt": "2026-08-22T10:10:50.000Z",
+      "text": "Fnatic może wygrało na jakieś tam G2 ale czy pokona potężne shifters? 😼 https://t.co/4uF1rVMheT",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091105803553951744",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQUZpjCXUAAABt9.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "wi",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "J?\n\nA>\n\nie\n\nP|\n\nEnarl,\n\nENATiC\n\nNAT’ oe\n\nEnav’\n\n,\n\n[\n\n| x\n\nmn\n\nMj\n\nTEHOAY.\n\nSOBOTA 22 SIERPNIA\n\nIN\n\n17:00\n\nGS\n\n19:45\n\ns\n\nzabka\n\na @®\n\n- Ver ~~ ‘ : >\nSi ad Hp, y ~ es = o\n{ [ | : \\\nawa ‘>.\n4\nSOBOTA 22 SIERPNIA\nwi\nMv G Bw gl\n17:00 B03 4945",
+      "ocrVersion": 4
+    },
     {
       "id": "2090884032477159878",
       "url": "https://x.com/RiftLegendsPL/status/2090884032477159878",
@@ -3775,44 +3807,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089336786606579762",
-      "url": "https://x.com/_ForsakenGG_/status/2089336786606579762",
-      "createdAt": "2026-08-17T13:01:22.000Z",
-      "text": "Syzyfkowe gotowanie\nBez oleju w rurach https://t.co/HwsQJDdCJP",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2089336032873402368",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2089336032873402368/img/EYB9N37OKNLBKtae.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2090884032477159878",
+      "lastSeenId": "2091105809002344884",
       "initialized": true
     },
     "Lodis_LDS": {
