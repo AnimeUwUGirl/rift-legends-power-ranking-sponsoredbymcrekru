@@ -304,6 +304,13 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
 .people-comparison small { color:var(--muted); font-size:.55rem; font-weight:900; letter-spacing:.08em; }
 .people-comparison b { color:#505768; text-align:center; }
 .people-comparison span { color:#b8bfcc; }
+.mid-split-roster { margin-top:26px; padding-top:22px; border-top:1px solid var(--line); }
+.mid-split-roster h4 { margin:0 0 14px; color:#f0c76a; font-size:.62rem; letter-spacing:.11em; }
+.mid-split-history { margin-top:15px; border-top:1px solid var(--line); }
+.mid-split-change-row { display:grid; grid-template-columns:82px 54px minmax(0,1fr) 20px minmax(0,1fr) auto; gap:8px; align-items:center; padding:11px 0; border-bottom:1px solid var(--line); font-size:.7rem; }
+.mid-split-change-row time, .mid-split-change-row small { color:#8992a4; font-size:.54rem; font-weight:850; }
+.mid-split-change-row b { color:#505768; text-align:center; }
+.mid-split-change-row a { color:#a995ff; font-size:.52rem; font-weight:850; text-decoration:none; }
 .roster-source { color:#a995ff; font-size:.63rem; text-align:right; text-decoration:none; }
 .roster-source:hover { color:#d4c9ff; }
 
@@ -382,5 +389,5 @@ footer code { color:#d6c7ff; background:rgba(139,92,246,.1); padding:2px 5px; bo
 .source-card p { grid-column:1; color:var(--muted); font-size:.55rem; margin:0; }
 .source-arrow { grid-column:2; grid-row:1/3; color:#8992a5; font-size:.85rem; }
 @media (max-width:980px){ .matches-layout{grid-template-columns:1fr;} }
-@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.result-mvp{flex-wrap:wrap;gap:4px 7px}.result-mvp small{flex-basis:100%;text-align:center}.broadcast-bar{align-items:flex-start;flex-direction:column}.twitch-live-head{align-items:flex-start;flex-direction:column}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }
+@media (max-width:650px){ .source-card{flex-basis:100%} .roster-heading-row{align-items:flex-start;flex-direction:column;gap:5px}.roster-source{text-align:left}.brand-logo{padding:4px}.result-row{padding:16px 14px;gap:8px}.result-team{font-size:.68rem}.result-mvp{flex-wrap:wrap;gap:4px 7px}.result-mvp small{flex-basis:100%;text-align:center}.mid-split-change-row{grid-template-columns:64px 45px minmax(0,1fr) 14px minmax(0,1fr)}.mid-split-change-row a{grid-column:3/-1}.broadcast-bar{align-items:flex-start;flex-direction:column}.twitch-live-head{align-items:flex-start;flex-direction:column}.schedule-tabs{gap:4px;padding:9px}.schedule-tab{padding:8px 3px}.schedule-panel{padding:13px}.match-days{grid-template-columns:1fr}.fixture{min-height:54px;padding:9px}.fixture-team{font-size:.64rem}.phase-strip{grid-template-columns:repeat(2,1fr)} }
 @media (max-width:480px){ .twitch-live-player{display:none}.twitch-live-mobile{display:block} }

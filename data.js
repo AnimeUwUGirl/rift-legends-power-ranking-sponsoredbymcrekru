@@ -180,6 +180,8 @@ window.RL_DATA = {
       rosterSourceUrl: "https://lol.fandom.com/wiki/Rift_Legends/2026_Season/Summer_Split",
       updated: "2026-08-04",
       roster: ["Blesia", "Guli", "Xaro", "ejsner", "Robertoos"],
+      summerStartRoster: ["Blesia", "Guli", "Xaro", "ejsner", "Robertoos"],
+      rosterChanges: [],
       roles: ["TOP", "JGL", "MID", "ADC", "SUP"],
       previousLabel: "SPRING",
       previousRoster: ["Agresivoo", "mikusik", "Tenshi", "Woolite", "Jactroll"],

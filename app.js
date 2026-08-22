@@ -282,6 +282,23 @@ function mvpPostKey(post) {
   return String(post?.id || String(post?.url || '').match(/status\/(\d+)/)?.[1] || '');
 }
 
+function cleanMvpPlayer(value) {
+  return String(value || '').trim().replace(/^[_*]+|[_*]+$/g, '');
+}
+
+function isVerifiedMvpPost(post) {
+  const confirmed = confirmedMvpPosts.some(item => mvpPostKey(item) === mvpPostKey(post));
+  if (confirmed) return true;
+  const ocrText = String(post?.ocrText || '');
+  return post?.kind === 'mvp'
+    && Boolean(cleanMvpPlayer(post?.extracted?.player))
+    && Boolean(post?.extracted?.kda)
+    && Number.isFinite(Number(post?.extracted?.kp))
+    && /\bMVP\b/i.test(ocrText)
+    && /\bKDA\b/i.test(ocrText)
+    && /\bKP\b/i.test(ocrText);
+}
+
 function teamMatchKey(value) {
   const key = teamNameKey(value);
   const aliases = {
@@ -557,9 +574,9 @@ function mvpForMatch(match) {
 
   return mvpFeed
     .map(post => {
-      const player = post?.extracted?.player;
+      const player = cleanMvpPlayer(post?.extracted?.player);
       const playerKey = teamNameKey(player);
-      const team = data.teams.find(candidate => candidate.roster.some(nick => teamNameKey(nick) === playerKey));
+      const team = data.teams.find(candidate => teamRosterPlayers(candidate).some(nick => teamNameKey(nick) === playerKey));
       const publishedAt = Date.parse(post.createdAt) || 0;
       return { post, team, publishedAt, delay: publishedAt - matchStart };
     })
@@ -581,7 +598,7 @@ function resultMvpMarkup(post) {
   const safeUrl = /^https:\/\/x\.com\/RiftLegendsPL\/status\/\d+$/i.test(String(post.url || ''))
     ? String(post.url)
     : '';
-  const content = `<strong>MVP</strong><span>${esc(post.extracted.player)}</span>${stats.length ? `<small>${esc(stats.join(' · '))}</small>` : ''}`;
+  const content = `<strong>MVP</strong><span>${esc(cleanMvpPlayer(post.extracted.player))}</span>${stats.length ? `<small>${esc(stats.join(' · '))}</small>` : ''}`;
   return safeUrl
     ? `<a class="result-mvp" href="${esc(safeUrl)}" target="_blank" rel="noreferrer noopener">${content}</a>`
     : `<span class="result-mvp">${content}</span>`;
@@ -669,7 +686,7 @@ async function refreshXFeed() {
 
     const incomingPosts = allPosts
       .filter(post => xPostAuthor(post)?.username.toLowerCase() === officialXAccount.toLowerCase()
-        && post?.kind === 'mvp'
+        && isVerifiedMvpPost(post)
         && post?.createdAt
         && post?.extracted?.player);
     const mergedPosts = new Map(confirmedMvpPosts.map(post => [mvpPostKey(post), post]));
@@ -962,12 +979,51 @@ function rosterChangeText(team) {
 }
 
 function rosterComparisonRows(team) {
+  return rosterComparisonRowsBetween(team, team.previousRoster, team.roster);
+}
+
+function rosterComparisonRowsBetween(team, beforeRoster, afterRoster) {
   return team.roles.map((role, index) => {
-    const before = team.previousRoster?.[index] || 'brak';
-    const after = team.roster[index] || 'brak';
+    const before = beforeRoster?.[index] || 'brak';
+    const after = afterRoster?.[index] || 'brak';
     const changed = !sameRosterName(before, after);
     return `<div class="roster-change-row ${changed ? 'changed' : 'same'}"><small>${esc(role)}</small><span class="before">${esc(before)}</span><b>→</b><span class="after">${esc(after)}</span></div>`;
   }).join('');
+}
+
+function teamRosterPlayers(team) {
+  const changedPlayers = (team.rosterChanges || []).flatMap(change => [change.out, change.in]);
+  return [
+    ...(team.previousRoster || []),
+    ...(team.summerStartRoster || []),
+    ...(team.roster || []),
+    ...changedPlayers
+  ].filter(Boolean);
+}
+
+function hasMidSplitRosterChange(team) {
+  if (team.rosterChanges?.length) return true;
+  return Boolean(team.summerStartRoster?.some((player, index) => !sameRosterName(player, team.roster?.[index])));
+}
+
+function rosterChangeHistory(team) {
+  if (!hasMidSplitRosterChange(team)) return '';
+  const history = (team.rosterChanges || []).map(change => `
+    <div class="mid-split-change-row">
+      <time datetime="${esc(change.date || '')}">${esc(change.dateLabel || change.date || '')}</time>
+      <small>${esc(change.role || 'SKŁAD')}</small>
+      <span>${esc(change.out || 'brak')}</span><b>→</b><span>${esc(change.in || 'brak')}</span>
+      ${change.sourceUrl ? `<a href="${esc(change.sourceUrl)}" target="_blank" rel="noopener">ŹRÓDŁO ↗</a>` : ''}
+    </div>
+  `).join('');
+  return `
+    <section class="mid-split-roster">
+      <h4>ZMIANY W TRAKCIE SPLITU</h4>
+      <div class="modal-compare-head"><span>SUMMER NA START</span><span>OBECNIE</span></div>
+      <div class="modal-compare-list">${rosterComparisonRowsBetween(team, team.summerStartRoster, team.roster)}</div>
+      ${history ? `<div class="mid-split-history">${history}</div>` : ''}
+    </section>
+  `;
 }
 
 function peopleText(people) {
@@ -1280,8 +1336,9 @@ function openTeam(rank) {
     <div class="modal-grid">
       <div class="roster-comparison">
         <div class="roster-heading-row"><h3>Zmiany w składzie</h3><a class="roster-source" href="${esc(team.rosterSourceUrl)}" target="_blank" rel="noopener">${esc(team.rosterSource)}</a></div>
-        <div class="modal-compare-head"><span>${esc(team.previousLabel)}</span><span>SUMMER</span></div>
-        <div class="modal-compare-list">${rosterComparisonRows(team)}</div>
+        <div class="modal-compare-head"><span>${esc(team.previousLabel)}</span><span>${hasMidSplitRosterChange(team) ? 'SUMMER NA START' : 'SUMMER'}</span></div>
+        <div class="modal-compare-list">${rosterComparisonRowsBetween(team, team.previousRoster, hasMidSplitRosterChange(team) ? team.summerStartRoster : team.roster)}</div>
+        ${rosterChangeHistory(team)}
         ${peopleComparison('TRENERZY', team.previousStaff, team.staff)}
       </div>
     </div>
