@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-22T13:45:14Z",
+  "updatedAt": "2026-08-22T19:04:08Z",
   "posts": [
+    {
+      "id": "2091232104646406637",
+      "url": "https://x.com/RiftLegendsPL/status/2091232104646406637",
+      "createdAt": "2026-08-22T18:32:41.000Z",
+      "text": "MKOI CO GRA... Albo bardziej nie gra ☠️☠️☠️\n\n→ FNC 2:0 SHFT\n→ SK 2:0 MKOI https://t.co/8n262HPj1Q",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091231936123449345",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQWMXbeXMAEYRtS.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "gy",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "\\:\n\n‘\n\n‘\\\n\n=\n\ngy\n\nx eo\n\nh—_\n\n«= @&\n\n~ -\ns ‘ J ’\n” AY 2 t.\n: ‘ ap N ( >. +\n| | ae “\n* Za &\n5 EL #\nal » 2.",
+      "ocrVersion": 4
+    },
     {
       "id": "2091144667505037424",
       "url": "https://x.com/_ForsakenGG_/status/2091144667505037424",
@@ -3775,44 +3807,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089360894845165763",
-      "url": "https://x.com/RiftLegendsPL/status/2089360894845165763",
-      "createdAt": "2026-08-17T14:37:10.000Z",
-      "text": "Tydzień rozpoczynamy z naszymi chłopakami z Heretics! 🇵🇱 https://t.co/kBPsLPvs7m",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089360887702343680",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP7mqE8X0AAhB7B.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "er",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "eee,\n\n»\n\nVr\n\nMATCH si\n\nPONIEDZIAELEK 1°7 SIERPNIA\n\nan SB\n\nbk\n\nae @\n\nce | |\ner :\ni% | >\na £ Wa\nVm 4 i .\n4\nPONIEDZIALEK 17 SIERPNIA\n[8 GS»®\nze) Es ©",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091144462449647683",
+      "lastSeenId": "2091232104646406637",
       "initialized": true
     },
     "Lodis_LDS": {
