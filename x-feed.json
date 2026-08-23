@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-23T13:47:39Z",
+  "updatedAt": "2026-08-23T16:59:23Z",
   "posts": [
+    {
+      "id": "2091560583929749901",
+      "url": "https://x.com/RiftLegendsPL/status/2091560583929749901",
+      "createdAt": "2026-08-23T16:17:57.000Z",
+      "text": "Najlepszy wywiad w historii? XDDDDD https://t.co/TGRcm97zCL",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091560389817352193",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQa3F81XQAEVr9A.jpg",
+          "altText": null,
+          "width": 1331,
+          "height": 750
+        }
+      ],
+      "extracted": {
+        "player": "OG",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "- Pozdrowienia i kofczymy\n\n- Dobra dzieki\n\n- Ale to ty pozdrawiasz\n\na\n\n- aha to pozdrawiam\n\n‘a 4\n\na\n\n“)\n\n\"d\n\n2 sere\n\nOG\n\n2.\"\n\n- Pozdrowienia i kofczymy\n- Dobra dzieki\nlas ®& = Ale to ty pozdrawiasz\n¢€ = aN 4 - aha to pozdrawiam\neb: ae\nri i y ‘1\na ;\nzat ~ 4)\n7\nales & @ [\\ /~\nhe eX",
+      "ocrVersion": 4
+    },
     {
       "id": "2091521742074187914",
       "url": "https://x.com/RiftLegendsPL/status/2091521742074187914",
@@ -3766,44 +3798,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089417965640855770",
-      "url": "https://x.com/RiftLegendsPL/status/2089417965640855770",
-      "createdAt": "2026-08-17T18:23:57.000Z",
-      "text": "To tyle na dziś...\n\nNA SZCZĘŚCIE JUTRO WRACAMY Z RIFT LEGENDS! 🥰 https://t.co/RtVytYPkvC",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089417751559290880",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HP8aX_UWQAAD5nu.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "ye",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "”,\n\noe\n\n“®&\n\no£ 6\n\nvg.\"\n. * 2\n4 Z i nN | a * »\n7m “|?\nLae “ a oN VO\nye\ni”",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091521742074187914",
+      "lastSeenId": "2091560583929749901",
       "initialized": true
     },
     "Lodis_LDS": {
