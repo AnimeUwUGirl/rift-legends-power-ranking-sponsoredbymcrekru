@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-23T16:59:23Z",
+  "updatedAt": "2026-08-23T20:55:22Z",
   "posts": [
+    {
+      "id": "2091623679234916396",
+      "url": "https://x.com/RiftLegendsPL/status/2091623679234916396",
+      "createdAt": "2026-08-23T20:28:40.000Z",
+      "text": "Aha tak ugryzło, że już playoffow nie mogą zrobić ☠️",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2091623437944901914",
+      "url": "https://x.com/RiftLegendsPL/status/2091623437944901914",
+      "createdAt": "2026-08-23T20:27:42.000Z",
+      "text": "Tu admin i ogłaszam wyniki LEC na dziś, sorry za spóźnienie  \n\nShifters co ugryzło 😼 https://t.co/yLg0Xt9Wbm",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091623431301132288",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQbwbcqWcAASuEt.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "ll",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "BN\n\n$= perenne:\n\n\\ Bae\n\n—_—\n\nSie\n\n=\n\n£\n\nive\n\n\\\n\nSOTETS\n\nrvsseure\n\nTESTIS\n\ng i, i in ‘ a > -)) a\nCe Ne\n“s fa \\\naes\ne Semel\np tA Y\n: F q ‘4 tay SS\n7 am Bs\nae SJ 4 \\\n. = By\nvy .\n& \\\nSOTO? <1 :\nrvsseire \\ OA \\\n| 7\nll\nI 1/\n— -fCs |",
+      "ocrVersion": 4
+    },
     {
       "id": "2091560583929749901",
       "url": "https://x.com/RiftLegendsPL/status/2091560583929749901",
@@ -3743,67 +3798,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2089629436043739365",
-      "url": "https://x.com/RiftLegendsPL/status/2089629436043739365",
-      "createdAt": "2026-08-18T08:24:15.000Z",
-      "text": "Ale jak to czekać jeszcze rok... 💔 https://t.co/J6MgoU29G7",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2089421658415075490",
-      "url": "https://x.com/Lodis_LDS/status/2089421658415075490",
-      "createdAt": "2026-08-17T18:38:37.000Z",
-      "text": "Przekaz od @KasekoEB jest prosty - kochać @Komputronik_pl 😎\n\nJeśli chcielibyście skorzystać z oferty Komputronika, pamiętajcie o kodzie 'LODISPC' 🫡\n\n#reklama https://t.co/OIoGOYeEws",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2089420301780103168",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2089420301780103168/img/3M77uw0dKzMUQXtB.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "KasekoEB",
-        "playerHandle": "KasekoEB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091560583929749901",
+      "lastSeenId": "2091623679234916396",
       "initialized": true
     },
     "Lodis_LDS": {
