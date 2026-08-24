@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-24T18:01:28Z",
+  "updatedAt": "2026-08-24T21:14:58Z",
   "posts": [
+    {
+      "id": "2091976724753907857",
+      "url": "https://x.com/RiftLegendsPL/status/2091976724753907857",
+      "createdAt": "2026-08-24T19:51:32.000Z",
+      "text": "Jackies &gt; gracz z Hall of Legends? 🤔 https://t.co/zd1nszulvN",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091976486706155522",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQgxh-iXEAINviH.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "wy",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Se\n\nWs\n\nr\n\n=a\n\n|\n\nve\n\nC\n\n3\n\nIG yy\n\n_\n\nue\n\n—\n\n‘a\n\nIN\n\n> )\n\nS\n\nwy\n\n, | \\ a 7 |)\n\n: 4°\n\n& 3 WN)\n\n. = N ?\nre Wie\nG | y\na ee\n\n> 3",
+      "ocrVersion": 4
+    },
     {
       "id": "2091936206598688987",
       "url": "https://x.com/RiftLegendsPL/status/2091936206598688987",
@@ -3766,44 +3798,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089728957788594561",
-      "url": "https://x.com/AnonymoEsports/status/2089728957788594561",
-      "createdAt": "2026-08-18T14:59:43.000Z",
-      "text": "Ligunia🥰 [widzimy się na transmisji] https://t.co/Amp0G3hfi2",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089728325132357632",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQA01wCWEAAQUzH.jpg",
-          "altText": null,
-          "width": 1133,
-          "height": 1388
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091936206598688987",
+      "lastSeenId": "2091976724753907857",
       "initialized": true
     },
     "Lodis_LDS": {
