@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-24T10:23:54Z",
+  "updatedAt": "2026-08-24T14:27:07Z",
   "posts": [
+    {
+      "id": "2091888256585552303",
+      "url": "https://x.com/devils1gg/status/2091888256585552303",
+      "createdAt": "2026-08-24T14:00:00.000Z",
+      "text": "Informacja dla widza 👀\n\nNa Kinguinie trwa In-Game Festival, a razem z nim konkurs z kartami podarunkowymi do wygrania. \n\nCzas do 30 sierpnia.\n\nNo i klasycznie z kodem DV1 macie -8% zniżki macie taniej gry 😈\n\n#reklama https://t.co/9XszLlOSmI",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091822706073206784",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQelqxCXAAAtx00.jpg",
+          "altText": null,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2091873161419645007",
+      "url": "https://x.com/RiftLegendsPL/status/2091873161419645007",
+      "createdAt": "2026-08-24T13:00:01.000Z",
+      "text": "Pepsi cola, takie drużyny grają dzisiaj w lola! 👇🏼 https://t.co/Dr61mwgxNe",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091832261305868288",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQeuW9DWoAAjkya.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "Ae",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "e~%\n\na)\n\n&\n\naN |\n\ne&\n\n>\n\navs\n\nFg\n\n4\n\nMATEHOAY\n\nPONIEDZIALEK 24 SIERPNIA\n\nSe\n\nIX\n\n17:00\n\n|\n\nS\n\n19:45\n\nwy\n\nzabka\n\nBANK\n\n/@\n\nwe\ne~ © NO\nj= “eS y e 5 =\ns Z — Ii\ntd] \\ >, i\n\\ y f \\\naT ¢ an 4\n| V\nPONIEDZIALEK 24 SIERPNIA\nAe.\nSst Sue\n17:00 B03 19:15\niopko ue OD",
+      "ocrVersion": 4
+    },
     {
       "id": "2091832068804108622",
       "url": "https://x.com/RiftLegendsPL/status/2091832068804108622",
@@ -3734,76 +3798,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089689594086195556",
-      "url": "https://x.com/RiftLegendsPL/status/2089689594086195556",
-      "createdAt": "2026-08-18T12:23:18.000Z",
-      "text": "ej, banger meczyki dziś! 🔥\n\n🕐 - 17:00\n@AnonymoEsports VS @_ForsakenGG_ \n\n🕐 ~ 19:30 MATCH OF THE WEEK 🏆\n@BombaTeamGG VS @Lodis_LDS https://t.co/K88gfcOMxg",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089689105684684800",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQARK4NW4AA-avv.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "AnonymoEsports",
-        "playerHandle": "AnonymoEsports",
-        "kda": null,
-        "kp": null,
-        "gold": 1808
-      },
-      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOGRAM\n\ni>\n\nAY\n\nY TS 17:00\n\n2 &\n\nee\n\n19:30\n\n+\n\nBOMB, Vs\n\nat:\n\nWTOREK\n\n18.08\n\nwor®\n\nL\n\nPEEK\n\nowe?\n\nN\n\nV\n\nPR\n\nGTE\n\nME\n\nHIS ORIE\n\nsa\n\nea\n\ned\n\nGD\n\neee\n\n2: Sime BANK\n\nALIOR\n\n@ FS aw\n\nMISTRZOSTWA POLSKI\n\nV\n) (ZA\nV 6 RIFT LEGENDS ~~\n* a 17:00 hy\nmea vs Oy BY\nls ee =a =V\nDa 19:30 [25 CS. ‘\n— ay (ary —\n18.08 r I if\n/ ih fe\nDOREEK Raney IN ( i I\nPROTE\n‘ % ee * SORE }\nCx Be Dou\n+ MISTRZOSTWA POLSKI +>",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2089683958594244982",
-      "url": "https://x.com/_ForsakenGG_/status/2089683958594244982",
-      "createdAt": "2026-08-18T12:00:54.000Z",
-      "text": "Dzień\nBo gdyby był dobry to by nie przekładali ENC na 2027 https://t.co/n9zSfrC9f4",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089678852448567296",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQAH2D7XwAAXaEs.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091832068804108622",
+      "lastSeenId": "2091873161419645007",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3832,7 +3832,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2090120019917127729",
+      "lastSeenId": "2091888256585552303",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
