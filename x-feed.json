@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-24T14:27:07Z",
+  "updatedAt": "2026-08-24T16:08:04Z",
   "posts": [
+    {
+      "id": "2091898664398557545",
+      "url": "https://x.com/Lodis_LDS/status/2091898664398557545",
+      "createdAt": "2026-08-24T14:41:21.000Z",
+      "text": "Gładko idą te dzisiejsze scrimy na Rafona.. DV1 w strachu. https://t.co/lgozMtr03n",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2091898572887269376",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091898572887269376/img/30FK3p1xLRa41n7K.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2091888256585552303",
       "url": "https://x.com/devils1gg/status/2091888256585552303",
@@ -3766,38 +3798,6 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089704103899218334",
-      "url": "https://x.com/AnonymoEsports/status/2089704103899218334",
-      "createdAt": "2026-08-18T13:20:57.000Z",
-      "text": "MECZDEJ❗\n\nDziś w podstawowym składzie, nikt za nikogo nie będzie grał [a tym bardziej na jego koncie]🥀 https://t.co/6yJR0qz8UX",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089703344461783040",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQAeHryXIAABrgG.jpg",
-          "altText": null,
-          "width": 3000,
-          "height": 4000
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
@@ -3808,7 +3808,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2091828803064545402",
+      "lastSeenId": "2091898664398557545",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
