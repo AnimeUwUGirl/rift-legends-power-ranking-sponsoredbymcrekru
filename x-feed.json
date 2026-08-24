@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-24T16:08:04Z",
+  "updatedAt": "2026-08-24T18:01:28Z",
   "posts": [
+    {
+      "id": "2091936206598688987",
+      "url": "https://x.com/RiftLegendsPL/status/2091936206598688987",
+      "createdAt": "2026-08-24T17:10:32.000Z",
+      "text": "NAVI I @Sanchi_lol POKONUJE ROZPĘDZONE SIĘ FNATIC! 🔥 https://t.co/ejVeDlsbov",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091936075715391488",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQgMxv3XMAA-L5V.png",
+          "altText": null,
+          "width": 420,
+          "height": 707
+        }
+      ],
+      "extracted": {
+        "player": "Sanchi",
+        "playerHandle": "Sanchi_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "an\n\noy\n\n\\\n\nEL ed.\n\n&\n\n7\n\nea\n\nNy\n\nIo >\n\ngh\n\na\n\nee\n\nan\n\nIX\n\nAGS. vp Ss\n»¥ oy % Bsc\nate (oem\n} ‘ rs pein\nSe ~ 2\n© we / y\nSa - iw\n4 ; :\ny Jima J\nage ‘e\nf fs (\nIN’",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2091921771779776518",
+      "url": "https://x.com/Lodis_LDS/status/2091921771779776518",
+      "createdAt": "2026-08-24T16:13:11.000Z",
+      "text": "Trzeba uzupełnić deficyty białka przed jutrzejszym officialkiem, a z pomocą przychodzą dania High Protein od Proste Historie! 😎🍜\n\n#reklama https://t.co/a4TD7iOdlI",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091921200691765248",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQf_P6FXYAAYL1e.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2091898664398557545",
       "url": "https://x.com/Lodis_LDS/status/2091898664398557545",
@@ -3734,81 +3798,17 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089707361795477889",
-      "url": "https://x.com/Lodis_LDS/status/2089707361795477889",
-      "createdAt": "2026-08-18T13:33:54.000Z",
-      "text": "Saper myli się tylko raz. Noo... w przypadku @KasekoEB od 2 do 9 razy nawet in-game, ale postaramy się rozbroić atomówkę z @BombaTeamGG 😎\n\nWidzimy się na POV'ach chłopaków i u @Nervarieno 🥸 https://t.co/8Wc4rLd6TM",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089703289944207360",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQAeEgsW8AA2SnN.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "KasekoEB",
-        "playerHandle": "KasekoEB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2089704613557457394",
-      "url": "https://x.com/BombaTeamGG/status/2089704613557457394",
-      "createdAt": "2026-08-18T13:22:59.000Z",
-      "text": "Frajgo już na baczność, flashbacki z Ome wracają. \n\nTrzeba rozmrozić streamerków z @Lodis_LDS 💣\n\nWidzimy się po 19! 🫡 https://t.co/2G51qAjbRW",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089702899420897280",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQAdtx4WIAAdTx9.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091873161419645007",
+      "lastSeenId": "2091936206598688987",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2091898664398557545",
+      "lastSeenId": "2091921771779776518",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
