@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-23T20:55:22Z",
+  "updatedAt": "2026-08-24T10:23:54Z",
   "posts": [
+    {
+      "id": "2091832068804108622",
+      "url": "https://x.com/RiftLegendsPL/status/2091832068804108622",
+      "createdAt": "2026-08-24T10:16:44.000Z",
+      "text": "Witam wszystkich w ten piękny poniedziałkowy poranek, rozpoczynający kolejny tydzień pełen League of Legends! 🔥\n\nHARMONOGRAM NA 24–30 SIERPNIA 👇🏼 https://t.co/0rr16dfNeg",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2091831784006623232",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQet7K-WIAAQW8y.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "IX",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": 2808
+      },
+      "ocrText": ".08-30.08\n\nDIABLO\n\nam\n\nCO zavko\n\n2B 08\n\nczWaRTEK\n\nPATEK\n\nSosoTa\n\naa\n\naN @-@\n\n@-b\n\n_\n\naa\n\nvs\n\nWow\n\n| @-@ B-2& 4-@\n\nIX\n\n|\n\n=)\n\ne\nener HARM CO 10 aw © vineo y\none one ne\ny\n& , @-b4 @-@ @-b S 9 O % v— ,\nS-& [B=@ |S-8 S-B) vex w-S ..\n| Ku G",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2091828803064545402",
+      "url": "https://x.com/Lodis_LDS/status/2091828803064545402",
+      "createdAt": "2026-08-24T10:03:45.000Z",
+      "text": "Zami King 😎\n\n#throwback https://t.co/2oe5FqiCtL",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2091828594943172608",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091828594943172608/img/HR5C1EzcYFJuN95J.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2091623679234916396",
       "url": "https://x.com/RiftLegendsPL/status/2091623679234916396",
@@ -3734,81 +3798,17 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089654136782381565",
-      "url": "https://x.com/Lodis_LDS/status/2089654136782381565",
-      "createdAt": "2026-08-18T10:02:24.000Z",
-      "text": "Sprawdzimy jaki Nashor się dziś wylosuje po 19:00 😎 https://t.co/H8ZVyHTQjs",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2089653796414672896",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2089653796414672896/img/9U8UrZ46fiNkP7Hm.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
-    },
-    {
-      "id": "2089651293325304155",
-      "url": "https://x.com/RiftLegendsPL/status/2089651293325304155",
-      "createdAt": "2026-08-18T09:51:06.000Z",
-      "text": "Dobra, dość tej negatywnej energii związanej z ENC :((\n\n2 TAŃCZĄCE, SZCZĘŚLIWE NERVARIENY, BO NIE DOŚĆ, ŻE WRACA DZIŚ RIFT LEGENDS, TO JESZCZE Z 3 (CZYT. TRZEMA) DNIAMI ROZGRYWKOWYMI! 🔥 https://t.co/eEjNePsd5z",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2089650942371086336",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2089650942371086336/img/x2EyHdPW5vFhpaHR.jpg",
-          "altText": null,
-          "width": 600,
-          "height": 480
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2091623679234916396",
+      "lastSeenId": "2091832068804108622",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2091510181494423799",
+      "lastSeenId": "2091828803064545402",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
