@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-25T12:04:03Z",
+  "updatedAt": "2026-08-25T14:29:57Z",
   "posts": [
+    {
+      "id": "2092248864208150797",
+      "url": "https://x.com/RiftLegendsPL/status/2092248864208150797",
+      "createdAt": "2026-08-25T13:52:55.000Z",
+      "text": "Zapowiada się niezłe otwarcie kolejki 👀\n\nMECZ TYGODNIA 🏆\n@devils1gg vs @Lodis_LDS https://t.co/2W2T4krxEe",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2092248851746832384",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQkpPtYWwAAFL1T.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "devils1gg",
+        "playerHandle": "devils1gg",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "ey\n\nhy,\n\n-=\n\n\\\n\nta\n\nCBA |\n\n| Ve\n\n&\n\na\n\nve\n\nE inStreamly\n\nvi,\n\n4)\n\n~6F THE WEEK *\n\nf\n\nDV1 INSTREAMLY VS LODIS\n\nBRET ED io Hue GB fae\n\n4 4\n7 ae iN\nnee \\\\ a a 4 =a a ¥\nYY St .\nOLA A | Ve ° > ae\nae Gum\n7 LS\nie) YY 2\nih q EinStreamly |A ‘\nVeal | @- /)\n“OF THE WEEK_/\nDV1 INSTREAMLY VS LODIS\n> BREE (GP zedko ae DO ona +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2092235553597231215",
+      "url": "https://x.com/devils1gg/status/2092235553597231215",
+      "createdAt": "2026-08-25T13:00:02.000Z",
+      "text": "Przed nami ostatni tydzień zmagań w pierwszej fazie @RiftLegendsPL  \n\nDziś o 17:00 mierzymy się z Lodis.\n\nNa ten moment mamy bilans 3:0, ale przed nami kolejny poważny sprawdzian i jeden z trudniejszych rywali w tej fazie.\n\nZapowiada się naprawdę ciekawe starcie 😈 https://t.co/ZRYxqVDAaC",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2092226145886339072",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQkUmDdXAAAiI3P.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2092221111945560177",
       "url": "https://x.com/_ForsakenGG_/status/2092221111945560177",
@@ -3752,67 +3816,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2089747056646619471",
-      "url": "https://x.com/RiftLegendsPL/status/2089747056646619471",
-      "createdAt": "2026-08-18T16:11:38.000Z",
-      "text": "Ile słuchawek potrzebuje esportowiec by wygrać gierke?\nTak 1,5 styknie? pytam dla kolegi. https://t.co/vkNIwqNmOY",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2089746875192623104",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQBFtgZWwAActS8.png",
-          "altText": null,
-          "width": 326,
-          "height": 198
-        }
-      ],
-      "extracted": {
-        "player": "Lathen",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ee NN\n\n»\n\nLathen\n\ni\n\na 7 ~\npS\" :\nta 7",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2089745938143215656",
-      "url": "https://x.com/devils1gg/status/2089745938143215656",
-      "createdAt": "2026-08-18T16:07:11.000Z",
-      "text": "Chyba całkiem nieźle nam poszedł poprzedni tydzień 😍 https://t.co/Xk9Kkyi1pT",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2092208113533235459",
+      "lastSeenId": "2092248864208150797",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3841,7 +3850,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2091888256585552303",
+      "lastSeenId": "2092235553597231215",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
