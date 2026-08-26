@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-25T21:58:28Z",
+  "updatedAt": "2026-08-26T11:59:05Z",
   "posts": [
+    {
+      "id": "2092565401532022958",
+      "url": "https://x.com/barczacaesports/status/2092565401532022958",
+      "createdAt": "2026-08-26T10:50:44.000Z",
+      "text": "❗OGŁOSZENIE ❗\n\nNa dzisiejszą serię przeciwko @_ForsakenGG_  na pozycji supporta zagra @m11rali  💚\n\nMirali na co dzień reprezentuje Barczącą Babylon - teraz przyszedł moment, żeby zobaczyć ją także w rozgrywkach @RiftLegendsPL.\n\nWpadajcie zobaczyć jak radzi sobie nowa https://t.co/Z53H0rFULE",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2092561416297320448",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQpFhXEXEAA2FsN.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2092560435165663645",
+      "url": "https://x.com/RiftLegendsPL/status/2092560435165663645",
+      "createdAt": "2026-08-26T10:31:00.000Z",
+      "text": "DECYDUJĄCE MECZE W PIERWSZEJ FAZIE LATA 🔥\n\n🕐 - 17:00\n@_ForsakenGG_ VS @barczacaesports \n\n🕐 ~ 19:30\n@BombaTeamGG VS @DOCISK_ https://t.co/UfMQX8msXR",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2092375664145907712",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQmclKYWwAAgSRD.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": 2608
+      },
+      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOERAM\n\ncae\n\nall\n\n® 17:00 S62)\n\n2\n\noe\n\nSRODA\n\n26.08\n\nSIME\n\noA |i\n\n(A\n\nORES, Band! —-—\n\nmains\n\n@\n\nzabka\n\nALIOR\n\nBANK\n\n9 - pinBLD\n\nMISTRZOSTWA POLSKI\n\n+\n\n+ et +\nV\na) Vn\nV cs RIFT LEGENDS ~~\nHi. IAM\nNY\n7 : 17:00 =\n\" vs\n19:30\n: wy VS\nChe SRODA « VA 77 if\n26.08 ANY /; SAS\n\\ Wi aki)\n\\\\\\ | | &\nORES, thn! | WN | “ | ar\nrhe zabka Fy fees 9 DIABLO : |\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
     {
       "id": "2092368438593278231",
       "url": "https://x.com/RiftLegendsPL/status/2092368438593278231",
@@ -3776,76 +3840,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2090049269000474881",
-      "url": "https://x.com/RiftLegendsPL/status/2090049269000474881",
-      "createdAt": "2026-08-19T12:12:31.000Z",
-      "text": "Siemaanko, gotowi na 2 dzień? 🔥\n\n🕐 - 17:00 \n@UP2UMEDIApl CEBULAKI VS @devils1gg \n\n🕐 ~ 19:30\n@DOCISK_ VS @barczacaesports https://t.co/wYair8EoIQ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090048940443897856",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQFYcBJXEAAn1Kg.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "UP2UMEDIApl",
-        "playerHandle": "UP2UMEDIApl",
-        "kda": null,
-        "kp": null,
-        "gold": 1908
-      },
-      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOGRAM\n\n* ff\n\n&y 17:00\n\nvs\n\nCERULAKI\n\nAe\n\nmy\n\nIe 2@\n\nSRODA\n\n19.08\n\nE inStre\n\nVW\n\nay\n\nTD zan0\n\n2@ a\n\nMISTRZOSTWA POLSKI\n\n+ ee +\nAV\nA\nV & RIFT LEGENDS on\nEN\n7, an , &y 17:00\nfi aga \\ c=) vs NM gles\n| = Sy 19:30 wes f\n( @ vs >\n—— SRODA\nWt 19.08\nV/ & , ' E inStre\n+ EEE +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2090046124363075885",
-      "url": "https://x.com/devils1gg/status/2090046124363075885",
-      "createdAt": "2026-08-19T12:00:01.000Z",
-      "text": "O 17:00 czeka nas potężne starcie z Cebulakami w @RiftLegendsPL \n\nNa to spotkanie mamy też małą zmianę w składzie.\n\nZamiast @iwananlol na midzie zobaczymy naszego suba @lebsterek  \n\nWidzimy się na transmisji 😈 https://t.co/wyRYAWYMYB",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090032445315813376",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQFJb4AXEAApNon.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2092368438593278231",
+      "lastSeenId": "2092560435165663645",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3898,7 +3898,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2091415647167140253",
+      "lastSeenId": "2092565401532022958",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
