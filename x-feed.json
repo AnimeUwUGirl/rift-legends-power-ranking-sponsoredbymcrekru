@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-29T19:12:31Z",
+  "updatedAt": "2026-08-29T20:42:30Z",
   "posts": [
+    {
+      "id": "2093796484231618835",
+      "url": "https://x.com/RiftLegendsPL/status/2093796484231618835",
+      "createdAt": "2026-08-29T20:22:37.000Z",
+      "text": "POLAK RODAK Z KOLEJNYM ZWYCIĘSTWEM LEC!\n\nWidzowie, widzimy się już jutro - wyjątkowo od 16.15 👀 https://t.co/0zmM25zAuc",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2093796378811994112",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ6oto8WkAAU2BR.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "ame",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Le\n\nView\n\na &\n\ni\n\n‘ie\n\n&\n\n&\n\nad,\n\nVAS\n\nSe\n\name.\n/ \\ | pa!\nI \\ ee\nLP; lie\nod ‘\nhg cst\nF OF",
+      "ocrVersion": 4
+    },
     {
       "id": "2093774969578594343",
       "url": "https://x.com/RiftLegendsPL/status/2093774969578594343",
@@ -3790,44 +3822,12 @@
       },
       "ocrText": "a\n\né\n\na\n\nCay |\n\nes\n\nu/s\n\n= a\n\n>\n\nFi eh\n\noy\n\nsf\n\na7\n\n¥\n\nts\n\neal\n\n“\n\nPTY\n\nin\n\nis ,)\n\non\n\nah ‘a gy 4\n‘aoe ig - A , 4 Ve\neee ee : , Ae\n[fam a wal = Se Fe\ngoal Oe fy = = LP in! ri\n4a oe i a at Lone\nC ie “js “—s ‘ =. Bi ( M x\ni talib 9° VA\nA eo\nae S35 a i\n\n=\n\nar\n\na\n\nBcEGut\n\nMah\n\n\\“e\n\nde\n\n‘<>\n\noe\n\nI)\n\nwa\n\n~A\n\nf .\n\nee\n7 wpowieTRZu Ss\n: —_—_——_. i\n. =—=—=— a =.\n. ae\na, - =\nuN 4re .\n‘ J = a\nBe,\na . “ty! ‘\n\nee",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090507537179156688",
-      "url": "https://x.com/RiftLegendsPL/status/2090507537179156688",
-      "createdAt": "2026-08-20T18:33:31.000Z",
-      "text": "brat chce być jak brat\nbrat bratu bratem https://t.co/kMOtKZPWO9",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090507328839692288",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQL5Vu_XMAAfhrj.png",
-          "altText": null,
-          "width": 750,
-          "height": 606
-        }
-      ],
-      "extracted": {
-        "player": "Pie",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "sly\n\n;\n\nil\n\nES\n\nPo\n\nay\n\noe\n\nn\n\n¥\n\nq.s0oMiseerki\n\nys\n\noo A\n\nwe\n\nwalt aN\n\n‘ANO\\Sobek:\n\noa. ; be -\n> i\nPie\nat it ahh £\niL Ee 7, | =.800M sep\n: SS x pe\n=) F\n/ — ee | :\nP id an A te \\ ANOiSobek:",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2093774969578594343",
+      "lastSeenId": "2093796484231618835",
       "initialized": true
     },
     "Lodis_LDS": {
