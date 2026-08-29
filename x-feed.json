@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-29T15:12:27Z",
+  "updatedAt": "2026-08-29T16:12:35Z",
   "posts": [
+    {
+      "id": "2093729864880701769",
+      "url": "https://x.com/RiftLegendsPL/status/2093729864880701769",
+      "createdAt": "2026-08-29T15:57:54.000Z",
+      "text": "CZAS NA FAZE 2 - GAUNTLET 🔥\n\nDrużyny zostały rozstawione na podstawie seedingów wywalczonych w 1 fazie. \nTeraz stawka jest jeszcze większa - 4 drużyny awansują do playoffów, a 4 pożegnają się z Summer Splitem! 👀\n\nWidzimy się już we wtorek! https://t.co/Px2BCCNUdv",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2093727130597068800",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ5pu3PWEAA2duV.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "GAUNTLET",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "FOF\n\nGRYWEK\n\nBos\n\n1-4.09\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n93.09 /ms\n\n02.09 /m3\n\nLm\n\nLMs3\n\n24.09 / m7\n\n03.09 / m6\n\n[pss\n\nL MS\n\nWw MG\n\n02.09 /ma\n\nw M4\n\nPLAYOFFY\n\ne109 / ma\n\nw we\n\nWYGRANY M4 / M3 / MS / 17\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\nzabka\n\nOs RIFT @\n\nESS\n\nFax Do anato\n\nTs A\nGAUNTLET\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n& eee\n2 Lm\nWW L M3 04.09 / M7\n® ae L Ms\n@ w m6\nf wma\n@\nmeee fe Ww me porte Ela\n° ONmG SEEONU\nix &\n+ REL CO to Be Do nto +",
+      "ocrVersion": 4
+    },
     {
       "id": "2093712888909152555",
       "url": "https://x.com/RiftLegendsPL/status/2093712888909152555",
@@ -3790,44 +3822,12 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2090487645629530285",
-      "url": "https://x.com/Lodis_LDS/status/2090487645629530285",
-      "createdAt": "2026-08-20T17:14:28.000Z",
-      "text": "Idealna reklama lodów nie istnie.... \n\nPozdrawiamy Panią mamę i życzymy smacznego 🥹\n\n#reklama https://t.co/GjhkaUEpFk",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2090487358965624832",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2090487358965624832/img/1TzN9a4EF-kd5PBz.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2093712888909152555",
+      "lastSeenId": "2093729864880701769",
       "initialized": true
     },
     "Lodis_LDS": {
