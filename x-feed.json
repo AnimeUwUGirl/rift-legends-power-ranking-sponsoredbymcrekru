@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-29T17:12:23Z",
+  "updatedAt": "2026-08-29T19:12:31Z",
   "posts": [
+    {
+      "id": "2093774969578594343",
+      "url": "https://x.com/RiftLegendsPL/status/2093774969578594343",
+      "createdAt": "2026-08-29T18:57:07.000Z",
+      "text": "Co za comeback na drugiej mapie od GX! 😮 https://t.co/ZraADlLUS3",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2093774907645571072",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ6VL2nXMAAdKRl.jpg",
+          "altText": null,
+          "width": 1919,
+          "height": 1079
+        }
+      ],
+      "extracted": {
+        "player": "ms",
+        "playerHandle": null,
+        "kda": "9/12/24",
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "GX WIN NAVILOSS\n\nGAME TIME 32:06\n\n9/12/24\n\nD/A\n\n11/9/32\n\n62.8K\n\nGLK\n\nTLOK\n\n215K\n\nERS\n\n6\n\n\\\n\nou\n\n| hha\n\nTHK We\n\nA\n\n2AAK\n\nBARONS\n\n<<\n\n~~ 22.6K\n\nes\n\nFeu?\n\nBANS\n\n@ oa ae\n\nms\n\nGXWIN NAVILOSS\nGAME TIME 32-06 SS SS a\nce Sd\n\n—BRBK = BLK\nrT ae y * mK ALEK\ni’ 6 2 i\nnV) DRAKES ou om ome\n7 a 0 Se ee\n_ | a |\nwe ae’ PR me",
+      "ocrVersion": 4
+    },
     {
       "id": "2093745656900821190",
       "url": "https://x.com/RiftLegendsPL/status/2093745656900821190",
@@ -3790,44 +3822,12 @@
       },
       "ocrText": "sly\n\n;\n\nil\n\nES\n\nPo\n\nay\n\noe\n\nn\n\n¥\n\nq.s0oMiseerki\n\nys\n\noo A\n\nwe\n\nwalt aN\n\n‘ANO\\Sobek:\n\noa. ; be -\n> i\nPie\nat it ahh £\niL Ee 7, | =.800M sep\n: SS x pe\n=) F\n/ — ee | :\nP id an A te \\ ANOiSobek:",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090500162724507996",
-      "url": "https://x.com/UP2UMEDIApl/status/2090500162724507996",
-      "createdAt": "2026-08-20T18:04:13.000Z",
-      "text": "@RiftLegendsPL @lowestapm @caromiiii Było blisko! 😎\n\nGG @BombaTeamGG https://t.co/6jcabxoMSw",
-      "kind": "post",
-      "author": {
-        "username": "UP2UMEDIApl",
-        "name": "UP2UMEDIA",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1930947930740916224/tVQdD6-G_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090499990502146048",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQLyqljWgAA4GN3.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2093745656900821190",
+      "lastSeenId": "2093774969578594343",
       "initialized": true
     },
     "Lodis_LDS": {
