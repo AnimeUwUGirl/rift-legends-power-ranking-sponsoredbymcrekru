@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-30T12:42:26Z",
+  "updatedAt": "2026-08-30T14:12:25Z",
   "posts": [
+    {
+      "id": "2094059349710692581",
+      "url": "https://x.com/Lodis_LDS/status/2094059349710692581",
+      "createdAt": "2026-08-30T13:47:09.000Z",
+      "text": "Mamy tu kogoś wyczekującego 4 części remake’u Modern Warfare? 👀\n\nJuż w październiku będzie ona czekać na @KinguinNet, a z kodem „LODIS” zgarniecie wtedy 8% zniżki 😎\n\n#reklama https://t.co/uPXdimuTtZ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094052365204590592",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ-RiAkWEAAB28E.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "KinguinNet",
+        "playerHandle": "KinguinNet",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094042998556233773",
       "url": "https://x.com/RiftLegendsPL/status/2094042998556233773",
@@ -3774,38 +3806,6 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2090535943417516519",
-      "url": "https://x.com/RiftLegendsPL/status/2090535943417516519",
-      "createdAt": "2026-08-20T20:26:23.000Z",
-      "text": "DZIĘKI TEMU PANU (i nie tylko) @barczacaesports ZDOBYWA SWOJEGO 1 WINA\n\nMVP DLA @blesialol 🏆 https://t.co/SkH4xyqkxe",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090535935800745984",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQMTW4OXoAANf3x.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "barczacaesports",
-        "playerHandle": "barczacaesports",
-        "kda": "5/3/9",
-        "kp": 70.02,
-        "gold": 70026
-      },
-      "ocrText": "@\\F\n\na\n\nBlesia\n\n5/3/9\n\n70.026\n\n8053\n\nTh\n\nWed\n\nMi So\n\nZn\n\nY\n\n0.0K\n\nJ\n\npanap\n\nBlesia\n\nMHesszero\n\nbk\n\nDIABLO s+\n\nBit |\n\n+\n\n+ +\n| [= a a\nBlesia\n5/3/9 70.02%\n18053\nwh Mmm 4S\n\\ get al\n, co eae a HHesszero\n+> GRES. TO —tadko Bros DIABLO <= +>",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3816,7 +3816,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2093315158407815657",
+      "lastSeenId": "2094059349710692581",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
