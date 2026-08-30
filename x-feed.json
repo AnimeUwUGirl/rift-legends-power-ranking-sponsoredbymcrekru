@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-30T16:12:35Z",
+  "updatedAt": "2026-08-30T17:42:36Z",
   "posts": [
+    {
+      "id": "2094115646896271699",
+      "url": "https://x.com/Lodis_LDS/status/2094115646896271699",
+      "createdAt": "2026-08-30T17:30:51.000Z",
+      "text": "Nieco późniejsze scrimy dziś, ale nie obyło się bez problemow - @zamuleklol tym razem walka z prądem i PTAKIEM... https://t.co/uZDZzp9Gxx",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2094115556790042625",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094115556790042625/img/OEBRFd-RglxHbMmZ.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "zamulek",
+        "playerHandle": "zamuleklol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094095858509684743",
       "url": "https://x.com/RiftLegendsPL/status/2094095858509684743",
@@ -3774,29 +3806,6 @@
       },
       "ocrText": "i\n\nm= |\n\neure\n\nMATG\n\nTh)\n\nPIATEK 21 SIERPNIA\n\nBI,\n\nbk\n\n~—\n\nr\nPIATEK 21 SIERPNIA\n8 AK Wh\niota ue OD",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090751988531093765",
-      "url": "https://x.com/RiftLegendsPL/status/2090751988531093765",
-      "createdAt": "2026-08-21T10:44:53.000Z",
-      "text": "Fajnie bo piąteczek ale to że bez Rift Legends to już mniej fajnie…\n\nJakie plany na dzisiejszy gorący dzionek koledzy i koleżanki?",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3807,7 +3816,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094059349710692581",
+      "lastSeenId": "2094115646896271699",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
