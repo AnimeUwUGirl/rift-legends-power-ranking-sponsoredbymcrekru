@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-08-30T14:12:25Z",
+  "updatedAt": "2026-08-30T16:12:35Z",
   "posts": [
+    {
+      "id": "2094095858509684743",
+      "url": "https://x.com/RiftLegendsPL/status/2094095858509684743",
+      "createdAt": "2026-08-30T16:12:13.000Z",
+      "text": "W sprawie dzisiejszej transmisji LEC.\n\nJuż wczoraj informowaliśmy o zamiarze wystartowania niedzielnej transmisji LEC o 16:15, przy serii TH vs MKOI. Decyzja o braku broadcastu z pierwszego meczu wynikała z potencjalnego nałożenia się LEC z transmisją LCK, która musiała odbyć się",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094059349710692581",
       "url": "https://x.com/Lodis_LDS/status/2094059349710692581",
@@ -3774,44 +3797,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090551112847778183",
-      "url": "https://x.com/barczacaesports/status/2090551112847778183",
-      "createdAt": "2026-08-20T21:26:40.000Z",
-      "text": "Łatwo. https://t.co/IBC5Geif6R",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090551073664544768",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQMhIBKWMAAJa6n.jpg",
-          "altText": null,
-          "width": 735,
-          "height": 913
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094042998556233773",
+      "lastSeenId": "2094095858509684743",
       "initialized": true
     },
     "Lodis_LDS": {
