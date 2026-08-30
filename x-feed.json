@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-29T20:42:30Z",
+  "updatedAt": "2026-08-30T12:12:24Z",
   "posts": [
+    {
+      "id": "2094035027075989873",
+      "url": "https://x.com/RiftLegendsPL/status/2094035027075989873",
+      "createdAt": "2026-08-30T12:10:30.000Z",
+      "text": "Sprawa jest taka:\n\nOficjalnie mieliśmy startować o 16:15 od drugiej serii BO3, ale @JaskierBB sigiemka przejął studio i ogarnął transmisję sam 🫨\n\ntak więc widzimy się już teraz na LEC! https://t.co/CCNKuSZSwA",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094035019249401856",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ-BwV2WwAAUkeU.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Zs\n\nVW\n\nA\n\nAW\n\nPa )\n\nMATEHDAY\n\nNIEDZIELA SO SIERPNIA\n\nKG)\n\nWy\n\nés\n\nO K“G\n\nzabka\n\na @\n\nve A S . ae\nVWs \\ s 4\n\\ a ‘ \\ ‘ad . NV ;\n3 \\ | Sew 4\na Pot ie \\\n| 4\nNIEDZIELA 30 SIERPNIA\nwh\nGe FeO MoS\na on)",
+      "ocrVersion": 4
+    },
     {
       "id": "2093796484231618835",
       "url": "https://x.com/RiftLegendsPL/status/2093796484231618835",
@@ -3774,60 +3806,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090508583347577222",
-      "url": "https://x.com/RiftLegendsPL/status/2090508583347577222",
-      "createdAt": "2026-08-20T18:37:40.000Z",
-      "text": "&gt; Chwile przed Tragedią.\n&gt; A jednak nie.\n&gt; A jednak tak. https://t.co/MxmormH73a",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090508260948262912",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQL6L_XXQAANdm4.png",
-          "altText": null,
-          "width": 649,
-          "height": 500
-        },
-        {
-          "mediaKey": "3_2090508343399817216",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQL6QyhWIAA5VJZ.png",
-          "altText": null,
-          "width": 647,
-          "height": 587
-        },
-        {
-          "mediaKey": "3_2090508423360077824",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQL6VcZW4AA1Hko.png",
-          "altText": null,
-          "width": 315,
-          "height": 278
-        }
-      ],
-      "extracted": {
-        "player": "ee",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "a\n\né\n\na\n\nCay |\n\nes\n\nu/s\n\n= a\n\n>\n\nFi eh\n\noy\n\nsf\n\na7\n\n¥\n\nts\n\neal\n\n“\n\nPTY\n\nin\n\nis ,)\n\non\n\nah ‘a gy 4\n‘aoe ig - A , 4 Ve\neee ee : , Ae\n[fam a wal = Se Fe\ngoal Oe fy = = LP in! ri\n4a oe i a at Lone\nC ie “js “—s ‘ =. Bi ( M x\ni talib 9° VA\nA eo\nae S35 a i\n\n=\n\nar\n\na\n\nBcEGut\n\nMah\n\n\\“e\n\nde\n\n‘<>\n\noe\n\nI)\n\nwa\n\n~A\n\nf .\n\nee\n7 wpowieTRZu Ss\n: —_—_——_. i\n. =—=—=— a =.\n. ae\na, - =\nuN 4re .\n‘ J = a\nBe,\na . “ty! ‘\n\nee",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2093796484231618835",
+      "lastSeenId": "2094035027075989873",
       "initialized": true
     },
     "Lodis_LDS": {
