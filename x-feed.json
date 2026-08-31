@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-08-31T16:42:13Z",
+  "updatedAt": "2026-08-31T20:12:44Z",
   "posts": [
+    {
+      "id": "2094513793581678979",
+      "url": "https://x.com/RiftLegendsPL/status/2094513793581678979",
+      "createdAt": "2026-08-31T19:52:57.000Z",
+      "text": "Zaczynamy już jutro 🔥 https://t.co/1qfUlQnmkm",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094463927832735759",
       "url": "https://x.com/Lodis_LDS/status/2094463927832735759",
@@ -3774,44 +3797,12 @@
       },
       "ocrText": "We\n\n‘\n\na\n\nmay &\n\n&\n\nOe\n\nUy\n\nIfe\n\nVe,\n\n[Oo\n\n>\n\n\"oh a\n\n&,\n\n<a\nfo Ps Vie bee SN\n; a y Da , am Nee oe\nc- SS Ke al\nor) Ai:\nyy aN ayy\n7 ad\nag VF r\nWe y j\nS|\" NG\n4.7\n: 2\n*e 09 4\n~ y \" a\n% .* ie a a XY ay. ;",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090846586112716953",
-      "url": "https://x.com/barczacaesports/status/2090846586112716953",
-      "createdAt": "2026-08-21T17:00:46.000Z",
-      "text": "Oświadczenie w sprawie decyzji organizatorów Rift Legends dotyczącej Roberta „Robertoosa\" Krzyżanowskiego. https://t.co/LkrOfV9tL1",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090839722843136000",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQQnpnJXYAAh9W2.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 3
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094095858509684743",
+      "lastSeenId": "2094513793581678979",
       "initialized": true
     },
     "Lodis_LDS": {
