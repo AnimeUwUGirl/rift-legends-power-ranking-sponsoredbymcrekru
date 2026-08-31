@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-31T12:12:33Z",
+  "updatedAt": "2026-08-31T16:42:13Z",
   "posts": [
+    {
+      "id": "2094463927832735759",
+      "url": "https://x.com/Lodis_LDS/status/2094463927832735759",
+      "createdAt": "2026-08-31T16:34:48.000Z",
+      "text": "Tak się prezentowała nasza końcówka regular splitu @RiftLegendsPL 🥇\n\nPora równie mocno powalczyć w gauntlecie od jutra 😎 https://t.co/ATHd8BIzDZ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094463128708796416",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HREHHl3XUAA3y5C.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094396472389169305",
       "url": "https://x.com/Lodis_LDS/status/2094396472389169305",
@@ -3774,38 +3806,6 @@
       },
       "ocrText": "",
       "ocrVersion": 3
-    },
-    {
-      "id": "2090846397171917031",
-      "url": "https://x.com/RiftLegendsPL/status/2090846397171917031",
-      "createdAt": "2026-08-21T17:00:01.000Z",
-      "text": "Decyzja w sprawie Robertoosa: https://t.co/eZA1OzQkHu",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090842265723744256",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQQp9oHWMAAhL9S.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "zgtoszenie",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "SUMMER SPLIT\n\nV\n\nV\n\n@ RIFT LEGENDS\n\n~~\n\nW zwiazku ze zgtoszeniem ztozonym 17\n\nsierpnia 2026 roku przez organizatorow\n\nLegends Academy powered by Zabka\n\nprzeprowadzone zostaio postepowanie\n\nwyjaSniajace, w wyniku ktorego ustalono,\n\nze Robert\n\n»Robertoos”\n\nKrzyzanowski\n\nnaruszyt Artykut 4.24 Esports Global\n\nCode of\n\nConduct,\n\ndopuszczajac_ sie\n\nwspotdzielenia konta.\n\nW wyniku zakonczonego postepowania\n\nRobert ,,Robertoos” Krzyzanowski zostat\n\nzawieszony w udziale we wszystkich\n\nrozgrywkach sankcjonowanych przez\n\nRiot Games na okres jednego (1) miesiaca.\n\nOrganizacja Barczaca Esports by Yumisu\n\nzostata poinformowana o decy2ji\n\nw\n\nodpowiednim\n\nterminie,\n\na\n\nzgtoszenie\n\nzaktualizowanego sktadu zespotu zostato\n\nwyznaczone na 24 sierpnia 2026 roku, do\n\ngodziny 17:00.\n\nMISTRZOSTWA POLSKI\n\nSUMMER SPLIT V/\ns) iz\nV4 6 RIFT LEGENDS ~N\n\nW zwiazku ze zgtoszeniem ztozonym 17\nsierpnia 2026 roku przez organizatorow\nLegends Academy powered by Zabka\nprzeprowadzone zostaio postepowanie\nwyjaSniajace, w wyniku ktorego ustalono,\nze Robert ,,Robertoos” Krzyzanowski\nnaruszyt Artykut 4.24 Esports Global\nCode of Conduct, dopuszczajac_ sie\nwspotdzielenia konta.\n\nW wyniku zakonczonego postepowania\nRobert ,,Robertoos” Krzyzanowski zostat\nzawieszony w udziale we wszystkich\nrozgrywkach sankcjonowanych przez\nRiot Games na okres jednego (1) miesiaca.\nOrganizacja Barezaca Esports by Yumisu\nzostata poinformowana o decyzji w\nodpowiednim terminie, a zgtoszenie\nzaktualizowanego sktadu zespotu zostato\nwyznaczone na 24 sierpnia 2026 roku, do\ngodziny 17:00.\n\nMISTRZOSTWA POLSKI",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3816,7 +3816,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094396472389169305",
+      "lastSeenId": "2094463927832735759",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
