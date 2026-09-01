@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T15:36:19Z",
+  "updatedAt": "2026-09-01T16:24:36Z",
   "posts": [
+    {
+      "id": "2094816244935323950",
+      "url": "https://x.com/RiftLegendsPL/status/2094816244935323950",
+      "createdAt": "2026-09-01T15:54:47.000Z",
+      "text": ".@Raxxo_LoL WYGRYWA SWOJĄ 1 MAPĘ NA LATO! 🔥🔥🔥🔥🔥🔥🔥 https://t.co/7FuefUJikw https://t.co/aWVcL46PE7",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2094816232725712896",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HRJIQ81WkAAfLiy.jpg",
+          "altText": null,
+          "width": 300,
+          "height": 168
+        }
+      ],
+      "extracted": {
+        "player": "Raxxo",
+        "playerHandle": "Raxxo_LoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094810099407544430",
       "url": "https://x.com/RiftLegendsPL/status/2094810099407544430",
@@ -3791,44 +3823,12 @@
       },
       "ocrText": "- Pozdrowienia i kofczymy\n\n- Dobra dzieki\n\n- Ale to ty pozdrawiasz\n\na\n\n- aha to pozdrawiam\n\n‘a 4\n\na\n\n“)\n\n\"d\n\n2 sere\n\nOG\n\n2.\"\n\n- Pozdrowienia i kofczymy\n- Dobra dzieki\nlas ®& = Ale to ty pozdrawiasz\n¢€ = aN 4 - aha to pozdrawiam\neb: ae\nri i y ‘1\na ;\nzat ~ 4)\n7\nales & @ [\\ /~\nhe eX",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091521742074187914",
-      "url": "https://x.com/RiftLegendsPL/status/2091521742074187914",
-      "createdAt": "2026-08-23T13:43:36.000Z",
-      "text": "Another day another slay (LEC) 🫦 https://t.co/bTDcgv6oLL",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091521714756685824",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQaT6xAWkAA2mAU.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "tie",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "3\n\neX,\n\nNVA\n\nae\n\nIN\n\neer ee)\n\nSs\n\nu\n\nYr)\n\nS\n\n=\n\n‘(ia\n\neN\n\n-\n\ny\n\nge\n\nrN 8x\n\n=\n\n——\n\ni,\n\nMATE DAY\n\nNIEDZIELA 23 SIERPNIA\n\nO96 Gs®\n\nzabka\n\n=< @\n\n\\ ea IO SES BN 1 eR Nato | | VE eam ey FS\nWi ASS eve Se a” =\nwa} - “as ey pe «le: ¢ = Wl : '] Mey 4 “ <\nRa S eer. ey a A 3. 2\nwe\". — oy As m4 Ny =A ¥\na ot) 9» Eyam >» Gey\narea Se BG —~% * s)\nSe) ey eS ay = a\nge be oo SY Guuadn\ntie\n4\nj A\nNIEDZIELA 23 SIERPNIA\nGS Hv\n«\nI) <\n17:00 B03 19:15\na on)",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094810099407544430",
+      "lastSeenId": "2094816244935323950",
       "initialized": true
     },
     "Lodis_LDS": {
