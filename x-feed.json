@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-31T20:12:44Z",
+  "updatedAt": "2026-09-01T10:47:14Z",
   "posts": [
+    {
+      "id": "2094734372087689409",
+      "url": "https://x.com/RiftLegendsPL/status/2094734372087689409",
+      "createdAt": "2026-09-01T10:29:27.000Z",
+      "text": "ROZKŁAD JAZDY NA GAUNTLETOWY TYDZIEŃ! 👇🏼 https://t.co/HFvVfv5KRK",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094734011725733888",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRH9fDvXYAA4fhL.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Q-m",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "DIABLO ==\n\nCO zavko\n\nFa sce\n\nes\n\nsoo™\n\neae\n\nE34\n\nAf\n\n@-& @-m\n\nQ-m\n\nTBD v= TBD\n\nR-> W-@\n\nTBD v= TBD\n\nas il\n\n+) Zg@RIFT HARIV é +\n2s 2 tines CO 10 aw @® piraco cs\na pe a\na enh @~m Q-m mT B= Tm\n\n4 ——— =\n\nRB W-@  wo-T ,\n|\n\n+ — — \" +",
+      "ocrVersion": 4
+    },
     {
       "id": "2094513793581678979",
       "url": "https://x.com/RiftLegendsPL/status/2094513793581678979",
@@ -3765,44 +3797,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090883324348694723",
-      "url": "https://x.com/RiftLegendsPL/status/2090883324348694723",
-      "createdAt": "2026-08-21T19:26:45.000Z",
-      "text": "VITALITY LOCKUJE PLAYOFFY 😶 https://t.co/kix16Gsehm",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2090883316123627520",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQRPTExW8AAbNTe.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "4.7",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "We\n\n‘\n\na\n\nmay &\n\n&\n\nOe\n\nUy\n\nIfe\n\nVe,\n\n[Oo\n\n>\n\n\"oh a\n\n&,\n\n<a\nfo Ps Vie bee SN\n; a y Da , am Nee oe\nc- SS Ke al\nor) Ai:\nyy aN ayy\n7 ad\nag VF r\nWe y j\nS|\" NG\n4.7\n: 2\n*e 09 4\n~ y \" a\n% .* ie a a XY ay. ;",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094513793581678979",
+      "lastSeenId": "2094734372087689409",
       "initialized": true
     },
     "Lodis_LDS": {
