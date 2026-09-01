@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T16:24:36Z",
+  "updatedAt": "2026-09-01T16:53:07Z",
   "posts": [
+    {
+      "id": "2094827004902130175",
+      "url": "https://x.com/RiftLegendsPL/status/2094827004902130175",
+      "createdAt": "2026-09-01T16:37:32.000Z",
+      "text": "POKAZ POLSKIEGO ORNNA OD @HeSSZero 🥊 https://t.co/vkinSqcxtt",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094826468404502528",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJRkvtWIAAsT3N.jpg",
+          "altText": null,
+          "width": 920,
+          "height": 1086
+        }
+      ],
+      "extracted": {
+        "player": "HeSSZero",
+        "playerHandle": "HeSSZero",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "ix\n\nog a\n\n1)\n\nas\n\nS\n\nSA)\n\n—_— eh\n\nEBU\n\n=.\n\nUP2U\n\non\n\n2\n\nree.\n\nvy\n\noA\n\nA\n\nds\n\n=\n\n-, &=\n\nae 4\n\nSN\n\n=e\n\nSaar\n\nLL ,\nAKRS ;\nRe = WH eS eee\n{ , \\ eee <4 Oe\nEBULAKE\n3 ae gelpeu J ne\n-* os\nP 7 orn\n¥ = os a\nJax ‘ Z| 4\n| A\niS Seer\n‘® Sr\n, r 4 | ~. 4 ——\na ~\\NAS OS ed r ‘a\n- way =\nee. a",
+      "ocrVersion": 4
+    },
     {
       "id": "2094816244935323950",
       "url": "https://x.com/RiftLegendsPL/status/2094816244935323950",
@@ -3791,44 +3823,12 @@
       },
       "ocrText": "BN\n\n$= perenne:\n\n\\ Bae\n\n—_—\n\nSie\n\n=\n\n£\n\nive\n\n\\\n\nSOTETS\n\nrvsseure\n\nTESTIS\n\ng i, i in ‘ a > -)) a\nCe Ne\n“s fa \\\naes\ne Semel\np tA Y\n: F q ‘4 tay SS\n7 am Bs\nae SJ 4 \\\n. = By\nvy .\n& \\\nSOTO? <1 :\nrvsseire \\ OA \\\n| 7\nll\nI 1/\n— -fCs |",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091560583929749901",
-      "url": "https://x.com/RiftLegendsPL/status/2091560583929749901",
-      "createdAt": "2026-08-23T16:17:57.000Z",
-      "text": "Najlepszy wywiad w historii? XDDDDD https://t.co/TGRcm97zCL",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091560389817352193",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQa3F81XQAEVr9A.jpg",
-          "altText": null,
-          "width": 1331,
-          "height": 750
-        }
-      ],
-      "extracted": {
-        "player": "OG",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "- Pozdrowienia i kofczymy\n\n- Dobra dzieki\n\n- Ale to ty pozdrawiasz\n\na\n\n- aha to pozdrawiam\n\n‘a 4\n\na\n\n“)\n\n\"d\n\n2 sere\n\nOG\n\n2.\"\n\n- Pozdrowienia i kofczymy\n- Dobra dzieki\nlas ®& = Ale to ty pozdrawiasz\n¢€ = aN 4 - aha to pozdrawiam\neb: ae\nri i y ‘1\na ;\nzat ~ 4)\n7\nales & @ [\\ /~\nhe eX",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094816244935323950",
+      "lastSeenId": "2094827004902130175",
       "initialized": true
     },
     "Lodis_LDS": {
