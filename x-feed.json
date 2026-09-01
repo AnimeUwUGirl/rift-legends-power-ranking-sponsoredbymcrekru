@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T18:22:36Z",
+  "updatedAt": "2026-09-01T18:47:05Z",
   "posts": [
+    {
+      "id": "2094859476847276534",
+      "url": "https://x.com/Lodis_LDS/status/2094859476847276534",
+      "createdAt": "2026-09-01T18:46:34.000Z",
+      "text": "Jest dobrze 😎 https://t.co/suqSQ35zL0",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2094859265227837440",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094859265227837440/img/HeF3q6IkREyRpkBR.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094850990084129041",
       "url": "https://x.com/Lodis_LDS/status/2094850990084129041",
@@ -3799,38 +3831,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091976724753907857",
-      "url": "https://x.com/RiftLegendsPL/status/2091976724753907857",
-      "createdAt": "2026-08-24T19:51:32.000Z",
-      "text": "Jackies &gt; gracz z Hall of Legends? 🤔 https://t.co/zd1nszulvN",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091976486706155522",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQgxh-iXEAINviH.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "wy",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Se\n\nWs\n\nr\n\n=a\n\n|\n\nve\n\nC\n\n3\n\nIG yy\n\n_\n\nue\n\n—\n\n‘a\n\nIN\n\n> )\n\nS\n\nwy\n\n, | \\ a 7 |)\n\n: 4°\n\n& 3 WN)\n\n. = N ?\nre Wie\nG | y\na ee\n\n> 3",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3841,7 +3841,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094850990084129041",
+      "lastSeenId": "2094859476847276534",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
