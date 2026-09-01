@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-09-01T16:53:07Z",
+  "updatedAt": "2026-09-01T17:19:30Z",
   "posts": [
+    {
+      "id": "2094837097811046499",
+      "url": "https://x.com/RiftLegendsPL/status/2094837097811046499",
+      "createdAt": "2026-09-01T17:17:38.000Z",
+      "text": "SAME ENERGY 💪🏼\n\nRonaldo 🤝 @zamuleklol https://t.co/nwcQV0xtQo",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094836916105416704",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJbE4bWkAAbHt6.png",
+          "altText": null,
+          "width": 485,
+          "height": 367
+        }
+      ],
+      "extracted": {
+        "player": "zamulek",
+        "playerHandle": "zamuleklol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "¥\n\nzZamulek\n\n— ae > —-\n\n_@#\n\nra “\nzZamulek",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2094835942024437948",
+      "url": "https://x.com/RiftLegendsPL/status/2094835942024437948",
+      "createdAt": "2026-09-01T17:13:03.000Z",
+      "text": "Rok Sobka zdążyliśmy już przełożyć, ale dziś definitywnie dzień @_iamsobek &amp; @AnonymoEsports \n\nW końcu wygrana seria dla chłopaków🏆 https://t.co/WUcgOpDSK6",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094835561814994944",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJZ2DTWsAABDHq.jpg",
+          "altText": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "extracted": {
+        "player": "iamsobek",
+        "playerHandle": "_iamsobek",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "oS\n\nROK SOBKA\n\n4\n\nef\n\nPome\n\n-\n\n¥\n\nDZIEN\n\nft.\n\nSOBKA\n\nme\n\nP \"— 4 ; +\n[> = ,\ny 4 ROK SOBKA\n. 4 Vs\n— . |\nOT OB\n‘we “\n- DZIEW\ni = SOBKA\nA wy\n-\" ia i we |",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2094831989694013501",
+      "url": "https://x.com/RiftLegendsPL/status/2094831989694013501",
+      "createdAt": "2026-09-01T16:57:21.000Z",
+      "text": "No i gniotek pękł w salonie:((\n\n@UP2UMEDIApl CEBULAKI PRZEGRYWAJĄ 0:2 NA @AnonymoEsports I JAKO PIERWSZA DRUŻYNA ODPADAJĄ Z LETNIEGO SPLITU. https://t.co/KKCLufCC68",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2094831981099966464",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HRJWloGXYAAqVMm.jpg",
+          "altText": null,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "extracted": {
+        "player": "UP2UMEDIApl",
+        "playerHandle": "UP2UMEDIApl",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094827004902130175",
       "url": "https://x.com/RiftLegendsPL/status/2094827004902130175",
@@ -3736,99 +3832,12 @@
       },
       "ocrText": ".08-30.08\n\nDIABLO\n\nam\n\nCO zavko\n\n2B 08\n\nczWaRTEK\n\nPATEK\n\nSosoTa\n\naa\n\naN @-@\n\n@-b\n\n_\n\naa\n\nvs\n\nWow\n\n| @-@ B-2& 4-@\n\nIX\n\n|\n\n=)\n\ne\nener HARM CO 10 aw © vineo y\none one ne\ny\n& , @-b4 @-@ @-b S 9 O % v— ,\nS-& [B=@ |S-8 S-B) vex w-S ..\n| Ku G",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091828803064545402",
-      "url": "https://x.com/Lodis_LDS/status/2091828803064545402",
-      "createdAt": "2026-08-24T10:03:45.000Z",
-      "text": "Zami King 😎\n\n#throwback https://t.co/2oe5FqiCtL",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2091828594943172608",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2091828594943172608/img/HR5C1EzcYFJuN95J.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2091623679234916396",
-      "url": "https://x.com/RiftLegendsPL/status/2091623679234916396",
-      "createdAt": "2026-08-23T20:28:40.000Z",
-      "text": "Aha tak ugryzło, że już playoffow nie mogą zrobić ☠️",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2091623437944901914",
-      "url": "https://x.com/RiftLegendsPL/status/2091623437944901914",
-      "createdAt": "2026-08-23T20:27:42.000Z",
-      "text": "Tu admin i ogłaszam wyniki LEC na dziś, sorry za spóźnienie  \n\nShifters co ugryzło 😼 https://t.co/yLg0Xt9Wbm",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091623431301132288",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQbwbcqWcAASuEt.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "ll",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "BN\n\n$= perenne:\n\n\\ Bae\n\n—_—\n\nSie\n\n=\n\n£\n\nive\n\n\\\n\nSOTETS\n\nrvsseure\n\nTESTIS\n\ng i, i in ‘ a > -)) a\nCe Ne\n“s fa \\\naes\ne Semel\np tA Y\n: F q ‘4 tay SS\n7 am Bs\nae SJ 4 \\\n. = By\nvy .\n& \\\nSOTO? <1 :\nrvsseire \\ OA \\\n| 7\nll\nI 1/\n— -fCs |",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094827004902130175",
+      "lastSeenId": "2094837097811046499",
       "initialized": true
     },
     "Lodis_LDS": {
