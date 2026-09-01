@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T10:47:14Z",
+  "updatedAt": "2026-09-01T12:26:02Z",
   "posts": [
+    {
+      "id": "2094761455597801819",
+      "url": "https://x.com/Lodis_LDS/status/2094761455597801819",
+      "createdAt": "2026-09-01T12:17:04.000Z",
+      "text": "No nic, rozbrajaMY dziś po 19 @BombaTeamGG 😎\n\nOby Gauntlet @RiftLegendsPL był równie pomyślny co regular...\n\nWidzimy się u @Nervarieno i POV'ach chłopaków z officiala 🫡\n\n#LodisMrozić https://t.co/8Kjdon1xYE",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094760093736714240",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRIVNOzXQAASRl7.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094734372087689409",
       "url": "https://x.com/RiftLegendsPL/status/2094734372087689409",
@@ -3774,29 +3806,6 @@
       },
       "ocrText": "J?\n\nA>\n\nie\n\nP|\n\nEnarl,\n\nENATiC\n\nNAT’ oe\n\nEnav’\n\n,\n\n[\n\n| x\n\nmn\n\nMj\n\nTEHOAY.\n\nSOBOTA 22 SIERPNIA\n\nIN\n\n17:00\n\nGS\n\n19:45\n\ns\n\nzabka\n\na @®\n\n- Ver ~~ ‘ : >\nSi ad Hp, y ~ es = o\n{ [ | : \\\nawa ‘>.\n4\nSOBOTA 22 SIERPNIA\nwi\nMv G Bw gl\n17:00 B03 4945",
       "ocrVersion": 4
-    },
-    {
-      "id": "2090884032477159878",
-      "url": "https://x.com/RiftLegendsPL/status/2090884032477159878",
-      "createdAt": "2026-08-21T19:29:34.000Z",
-      "text": "Dzięki, teraz wiemy już co myśleć o tej kolejce 😼 https://t.co/uiN3Rgojkm",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3807,7 +3816,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094463927832735759",
+      "lastSeenId": "2094761455597801819",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
