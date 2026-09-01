@@ -1,6 +1,133 @@
 {
-  "updatedAt": "2026-09-01T17:44:17Z",
+  "updatedAt": "2026-09-01T18:22:36Z",
   "posts": [
+    {
+      "id": "2094850990084129041",
+      "url": "https://x.com/Lodis_LDS/status/2094850990084129041",
+      "createdAt": "2026-09-01T18:12:51.000Z",
+      "text": "Dziękujemy @behavelol 🥹 https://t.co/raX8BptZ2V",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": "behave",
+        "playerHandle": "behavelol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2094850580262863253",
+      "url": "https://x.com/RiftLegendsPL/status/2094850580262863253",
+      "createdAt": "2026-09-01T18:11:13.000Z",
+      "text": "no i pograne dla @CzekoladLol ☠️ https://t.co/6jU1oHTq9f",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094850114510548992",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJnFIUWcAA2vw9.png",
+          "altText": null,
+          "width": 165,
+          "height": 151
+        },
+        {
+          "mediaKey": "3_2094850518321401857",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJncooXEAE8v-l.png",
+          "altText": null,
+          "width": 266,
+          "height": 237
+        }
+      ],
+      "extracted": {
+        "player": "Czekolad",
+        "playerHandle": "CzekoladLol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "a8\n\nA) |\n\naH /\n\nBh\n\nTUN\noie\n\n=\n\n|",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2094845633983074578",
+      "url": "https://x.com/RiftLegendsPL/status/2094845633983074578",
+      "createdAt": "2026-09-01T17:51:34.000Z",
+      "text": "BOMBA DOCIĘŁA NA GAUNTLET? 👀\n\n@BombaTeamGG 1:0 @Lodis_LDS https://t.co/YSws3MbTtK",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094845295687356416",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJisozX0AAbdLe.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": "9/17/21",
+        "kp": 6.0,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\nLDS\n\n26: 3650\n\nOOoOWi\n\nLOSE\n\nWIN\n\njp 18:9K\n\nnmi\n\n16.8k Ne >\n\n9/17/21\n\nKOA\n\n17/9/34\n\najo\n\nCy 10.5k\n\n13.6k ban da\n\nGOLD\n\nrik\n\n‘adit\n\n48.9k\n\n54.5k\n\n15.6k\n\n12.6k 5\n\nolad\n\nMrozku\n\n2\n\nTOWERS\n\n7\n\nsay\n\n13.7K\n\n20.2k\n\nbr ei\n\nlek\n\nOdili\n\ni)\n\nDRAKES\n\n62\n\nPS 6.1k\n\n2.7K bi?\n\nKaseko\n\noe\n\nVOID\n\nroe\n\nELDERS\n\nty Ts\n\nx\n\ne\n\nBANS (35 (hs SF &\n\n5.6K\n\nzabka\n\n2B non @ © DIABLO\n\nMISTRZOSTWA POLSKI\n\n+> #REKLAMA +>\n& RIFT LEGENDS\n-\nwf.\nu.\n26:36\nLDS ~U BOON\nLose win\nT2179\nCa me 489k co 505K\nge 15.6kK 12.6K & . a Sa ee\ni Mg. 2 TOWERS 7\na 13.7K 20.2k \\ ta a\na i as (} DRAKES G2\ney 6.1k 7.7K bi, SaaS\nca ae ww tow\nELDERS\nty is, Se SY BANS 5 (he Sw\n‘|| ee\n5.6K\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2094845311520809276",
+      "url": "https://x.com/Lodis_LDS/status/2094845311520809276",
+      "createdAt": "2026-09-01T17:50:17.000Z",
+      "text": "https://t.co/CV1Bmw7fPP",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094845275407888384",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJirdQXsAAWYbV.jpg",
+          "altText": null,
+          "width": 640,
+          "height": 278
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094839468817588625",
       "url": "https://x.com/Lodis_LDS/status/2094839468817588625",
@@ -3704,145 +3831,17 @@
       },
       "ocrText": "Se\n\nWs\n\nr\n\n=a\n\n|\n\nve\n\nC\n\n3\n\nIG yy\n\n_\n\nue\n\n—\n\n‘a\n\nIN\n\n> )\n\nS\n\nwy\n\n, | \\ a 7 |)\n\n: 4°\n\n& 3 WN)\n\n. = N ?\nre Wie\nG | y\na ee\n\n> 3",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091936206598688987",
-      "url": "https://x.com/RiftLegendsPL/status/2091936206598688987",
-      "createdAt": "2026-08-24T17:10:32.000Z",
-      "text": "NAVI I @Sanchi_lol POKONUJE ROZPĘDZONE SIĘ FNATIC! 🔥 https://t.co/ejVeDlsbov",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091936075715391488",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQgMxv3XMAA-L5V.png",
-          "altText": null,
-          "width": 420,
-          "height": 707
-        }
-      ],
-      "extracted": {
-        "player": "Sanchi",
-        "playerHandle": "Sanchi_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "an\n\noy\n\n\\\n\nEL ed.\n\n&\n\n7\n\nea\n\nNy\n\nIo >\n\ngh\n\na\n\nee\n\nan\n\nIX\n\nAGS. vp Ss\n»¥ oy % Bsc\nate (oem\n} ‘ rs pein\nSe ~ 2\n© we / y\nSa - iw\n4 ; :\ny Jima J\nage ‘e\nf fs (\nIN’",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2091921771779776518",
-      "url": "https://x.com/Lodis_LDS/status/2091921771779776518",
-      "createdAt": "2026-08-24T16:13:11.000Z",
-      "text": "Trzeba uzupełnić deficyty białka przed jutrzejszym officialkiem, a z pomocą przychodzą dania High Protein od Proste Historie! 😎🍜\n\n#reklama https://t.co/a4TD7iOdlI",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091921200691765248",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQf_P6FXYAAYL1e.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2091898664398557545",
-      "url": "https://x.com/Lodis_LDS/status/2091898664398557545",
-      "createdAt": "2026-08-24T14:41:21.000Z",
-      "text": "Gładko idą te dzisiejsze scrimy na Rafona.. DV1 w strachu. https://t.co/lgozMtr03n",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2091898572887269376",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2091898572887269376/img/30FK3p1xLRa41n7K.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2091888256585552303",
-      "url": "https://x.com/devils1gg/status/2091888256585552303",
-      "createdAt": "2026-08-24T14:00:00.000Z",
-      "text": "Informacja dla widza 👀\n\nNa Kinguinie trwa In-Game Festival, a razem z nim konkurs z kartami podarunkowymi do wygrania. \n\nCzas do 30 sierpnia.\n\nNo i klasycznie z kodem DV1 macie -8% zniżki macie taniej gry 😈\n\n#reklama https://t.co/9XszLlOSmI",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091822706073206784",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQelqxCXAAAtx00.jpg",
-          "altText": null,
-          "width": 1254,
-          "height": 1254
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094837097811046499",
+      "lastSeenId": "2094850580262863253",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094839468817588625",
+      "lastSeenId": "2094850990084129041",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
