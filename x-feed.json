@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T12:26:02Z",
+  "updatedAt": "2026-09-01T13:46:23Z",
   "posts": [
+    {
+      "id": "2094781713515687960",
+      "url": "https://x.com/RiftLegendsPL/status/2094781713515687960",
+      "createdAt": "2026-09-01T13:37:34.000Z",
+      "text": "JEDNA DRUŻYNA Z @BombaTeamGG &amp; @Lodis_LDS ZAKLEPIE DZIŚ SWOJE MIEJSCE W PLAYOFFACH, A JEDNA Z @AnonymoEsports &amp; @UP2UMEDIApl CEBULAKI POŻEGNA SIĘ ZE SPLITEM! 🔥 https://t.co/xgPFkwWOX4",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2094781708147052544",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRIo3WwXUAAFL9I.jpg",
+          "altText": null,
+          "width": 960,
+          "height": 1200
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "+\n\nK\n\n+\n\n& RIFT LEGENDS\n\nsquicemeshiiaigae\n\naus\n\n_WTOREK 01.09\n\ncom\n\n-\n\n17:00\n\nvs\n\naS\n\n>\n\nASAP\n\ni\n\nA,\n\nAS\n\nVy\n\nSin VS\n\nRi\n\nr\n\n/ @ AGORERK\n\nHISD,\n\ny,\n\nay\n\ncwaias\n\n#epK0\n\nAuge @ “© biaBLo\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\noe / es ys,\nma is =\nad _ WTOREK 01.09 {.. J\n— 9 = y\nP SY S a y — &\ni My C4 ¥\nVy VS CEBULAK Te\n_ 7 at Ns r\nx z ASAP 4 / fe Y 5.\ntN ws j y\n\\ ww vs Ui y .\n= WSO\n= ae Coe\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
     {
       "id": "2094761455597801819",
       "url": "https://x.com/Lodis_LDS/status/2094761455597801819",
@@ -3774,44 +3806,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2091105809002344884",
-      "url": "https://x.com/RiftLegendsPL/status/2091105809002344884",
-      "createdAt": "2026-08-22T10:10:50.000Z",
-      "text": "Fnatic może wygrało na jakieś tam G2 ale czy pokona potężne shifters? 😼 https://t.co/4uF1rVMheT",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2091105803553951744",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQUZpjCXUAAABt9.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "wi",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "J?\n\nA>\n\nie\n\nP|\n\nEnarl,\n\nENATiC\n\nNAT’ oe\n\nEnav’\n\n,\n\n[\n\n| x\n\nmn\n\nMj\n\nTEHOAY.\n\nSOBOTA 22 SIERPNIA\n\nIN\n\n17:00\n\nGS\n\n19:45\n\ns\n\nzabka\n\na @®\n\n- Ver ~~ ‘ : >\nSi ad Hp, y ~ es = o\n{ [ | : \\\nawa ‘>.\n4\nSOBOTA 22 SIERPNIA\nwi\nMv G Bw gl\n17:00 B03 4945",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094734372087689409",
+      "lastSeenId": "2094781713515687960",
       "initialized": true
     },
     "Lodis_LDS": {
