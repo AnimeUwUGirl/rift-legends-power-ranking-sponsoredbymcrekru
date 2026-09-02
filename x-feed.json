@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-09-02T14:47:43Z",
+  "updatedAt": "2026-09-02T15:25:35Z",
   "posts": [
+    {
+      "id": "2095164875353829746",
+      "url": "https://x.com/RiftLegendsPL/status/2095164875353829746",
+      "createdAt": "2026-09-02T15:00:07.000Z",
+      "text": "Halo @_ForsakenGG_, ocenka predykcji? 👀 https://t.co/lc5SFsQmhe",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095164792491347968",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HROFRzJaEAAi0Md.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "@ RIFT LEGENDS\n\nrnc ARR ARR RA\n\naRNTPOTRU\n\n8,\n\nvs @&\n\nQ @ @ @ @ @\n\n“@ &\n\nWe @®\n\nwow Ww Ww\n\ntd\n\nMw WW\n\nnod\n\nBRED)\n\nKGS\n\nra\n\nZaRIFT\n\n@-\n\n<a\n\n@® Hom\n\n+ @ RIFT LEGENDS >\nProc: FATA ARAR RR\n| @-@ @@8282GQe2O\nWe@ MMMM Ww i\n\n+ BEd rhe Fexe @D Pons» +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095163269967126701",
+      "url": "https://x.com/RiftLegendsPL/status/2095163269967126701",
+      "createdAt": "2026-09-02T14:53:44.000Z",
+      "text": "GRA 2",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095163267295432965",
+      "url": "https://x.com/RiftLegendsPL/status/2095163267295432965",
+      "createdAt": "2026-09-02T14:53:43.000Z",
+      "text": "GRA 1",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095163263428293083",
+      "url": "https://x.com/RiftLegendsPL/status/2095163263428293083",
+      "createdAt": "2026-09-02T14:53:42.000Z",
+      "text": "h-hej, tu admin...\n\nKto dziś wygrywa? 👇🏼 https://t.co/H4E7JFZJD7",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095162939644776452",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRODl8wXEAQywbI.png",
+          "altText": null,
+          "width": 459,
+          "height": 449
+        }
+      ],
+      "extracted": {
+        "player": "vial",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "= —\n\nvial\n\n=\n\nt.¢\\\n\n= = : =\n%\not We\n( ~z)\n; PF. ii D\nPs tum ¢\n= Sill",
+      "ocrVersion": 4
+    },
     {
       "id": "2095155460068245586",
       "url": "https://x.com/barczacaesports/status/2095155460068245586",
@@ -3628,140 +3738,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092313157540663697",
-      "url": "https://x.com/RiftLegendsPL/status/2092313157540663697",
-      "createdAt": "2026-08-25T18:08:24.000Z",
-      "text": "@sinmivak @Lodis_LDS @devils1gg ;)) https://t.co/TiQq0xC3Sy",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092313145264017408",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQljuFZXkAAod8H.png",
-          "altText": null,
-          "width": 303,
-          "height": 240
-        }
-      ],
-      "extracted": {
-        "player": "sinmivak",
-        "playerHandle": "sinmivak",
-        "kda": null,
-        "kp": 93.0,
-        "gold": null
-      },
-      "ocrText": "Biezaca ankieta\n\ng\n\n3\n\nWYBIERZ MVP SERII!\n\n3\n\nA\n\n93% (69)\n\nOSINMIVAK\n\nOwikusik\n\n4% (3)\n\nOcZEKOLAD.\n\n3% (2)\n\nGtosuj\n\nBiezaca ankieta tA\nWYBIERZ MVP SERII! *\nOSINMIVAK 93% (69)\nOwikusik 4% (3)\nOcZeKOLAD 3% (2)\nGtosuj",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092312641632866481",
-      "url": "https://x.com/Lodis_LDS/status/2092312641632866481",
-      "createdAt": "2026-08-25T18:06:21.000Z",
-      "text": "L9 @zamuleklol 🐀\n\nR O B I M Y TO! 😎 https://t.co/h5jznS5Ial",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2092312564562550784",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2092312564562550784/img/jusq-rvG14MA1bCO.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092307855516795070",
-      "url": "https://x.com/RiftLegendsPL/status/2092307855516795070",
-      "createdAt": "2026-08-25T17:47:20.000Z",
-      "text": "GRABARZ Z MIELCA - @sinmivak ☠️ https://t.co/Qic0kf9bTK",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092307727267569664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQleytyWoAA11M_.png",
-          "altText": null,
-          "width": 660,
-          "height": 591
-        }
-      ],
-      "extracted": {
-        "player": "sinmivak",
-        "playerHandle": "sinmivak",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "WV >\n\naf\n\noe ALT\n\na\n\niw\n\nMi\n\nSS S\n\niewi/\n\nZZ\n\n>t\n\n~~ hy fos 1 Ee\noo Oe E \\ = ue\nss é ° Be\nPE. 6. — — Z\ndi = he =\nby & a",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092306974083826052",
-      "url": "https://x.com/Lodis_LDS/status/2092306974083826052",
-      "createdAt": "2026-08-25T17:43:50.000Z",
-      "text": "Klasycznie, dreszczowiec na trzeciej mapie XDDD https://t.co/DUWccLehM7",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2092306911689367553",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2092306911689367553/img/vbO61P-78OHkwZJj.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095129363331137638",
+      "lastSeenId": "2095164875353829746",
       "initialized": true
     },
     "Lodis_LDS": {
