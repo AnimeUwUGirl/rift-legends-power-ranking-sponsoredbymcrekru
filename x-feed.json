@@ -1,6 +1,148 @@
 {
-  "updatedAt": "2026-09-02T18:46:43Z",
+  "updatedAt": "2026-09-02T19:18:12Z",
   "posts": [
+    {
+      "id": "2095228987169452425",
+      "url": "https://x.com/_ForsakenGG_/status/2095228987169452425",
+      "createdAt": "2026-09-02T19:14:52.000Z",
+      "text": "Co byś zrobił? https://t.co/KFBbVdOfU4",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2095228717903540225",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095228717903540225/img/xPsn8_Qd9NxUXrYw.jpg",
+          "altText": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095225416579494317",
+      "url": "https://x.com/barczacaesports/status/2095225416579494317",
+      "createdAt": "2026-09-02T19:00:41.000Z",
+      "text": "XD",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095223622193287318",
+      "url": "https://x.com/RiftLegendsPL/status/2095223622193287318",
+      "createdAt": "2026-09-02T18:53:33.000Z",
+      "text": "Admin dobra rada 😎 https://t.co/OYHzJoZflq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095223342689083701",
+      "url": "https://x.com/_ForsakenGG_/status/2095223342689083701",
+      "createdAt": "2026-09-02T18:52:26.000Z",
+      "text": "Ja w szoku\nA ziutek w 160p https://t.co/3NcVZfkNET",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095222939302174720",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRO6KY5bIAAHEId.png",
+          "altText": null,
+          "width": 224,
+          "height": 166
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095223219116474458",
+      "url": "https://x.com/RiftLegendsPL/status/2095223219116474458",
+      "createdAt": "2026-09-02T18:51:57.000Z",
+      "text": "FORSAKEN WRACA!\n\nCZAS NA BO1 O EMEA MASTERS I PLAYOFFY! 🔥 https://t.co/TvvKseXruX",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2095222529392537602",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095222529392537602/img/hhc8AD60kTLnnRwI.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095218827818590237",
       "url": "https://x.com/_ForsakenGG_/status/2095218827818590237",
@@ -3577,172 +3719,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092565401532022958",
-      "url": "https://x.com/barczacaesports/status/2092565401532022958",
-      "createdAt": "2026-08-26T10:50:44.000Z",
-      "text": "❗OGŁOSZENIE ❗\n\nNa dzisiejszą serię przeciwko @_ForsakenGG_  na pozycji supporta zagra @m11rali  💚\n\nMirali na co dzień reprezentuje Barczącą Babylon - teraz przyszedł moment, żeby zobaczyć ją także w rozgrywkach @RiftLegendsPL.\n\nWpadajcie zobaczyć jak radzi sobie nowa https://t.co/Z53H0rFULE",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092561416297320448",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQpFhXEXEAA2FsN.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092560435165663645",
-      "url": "https://x.com/RiftLegendsPL/status/2092560435165663645",
-      "createdAt": "2026-08-26T10:31:00.000Z",
-      "text": "DECYDUJĄCE MECZE W PIERWSZEJ FAZIE LATA 🔥\n\n🕐 - 17:00\n@_ForsakenGG_ VS @barczacaesports \n\n🕐 ~ 19:30\n@BombaTeamGG VS @DOCISK_ https://t.co/UfMQX8msXR",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092375664145907712",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmclKYWwAAgSRD.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": 2608
-      },
-      "ocrText": "+\n\n& RIFT LEGENDS\n\nHARMONOERAM\n\ncae\n\nall\n\n® 17:00 S62)\n\n2\n\noe\n\nSRODA\n\n26.08\n\nSIME\n\noA |i\n\n(A\n\nORES, Band! —-—\n\nmains\n\n@\n\nzabka\n\nALIOR\n\nBANK\n\n9 - pinBLD\n\nMISTRZOSTWA POLSKI\n\n+\n\n+ et +\nV\na) Vn\nV cs RIFT LEGENDS ~~\nHi. IAM\nNY\n7 : 17:00 =\n\" vs\n19:30\n: wy VS\nChe SRODA « VA 77 if\n26.08 ANY /; SAS\n\\ Wi aki)\n\\\\\\ | | &\nORES, thn! | WN | “ | ar\nrhe zabka Fy fees 9 DIABLO : |\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092368438593278231",
-      "url": "https://x.com/RiftLegendsPL/status/2092368438593278231",
-      "createdAt": "2026-08-25T21:48:04.000Z",
-      "text": "NOC W STUDIU RIFT LEGENDS? 😳 https://t.co/JziASKbSUw",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092367653306322944",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmVS3rXUAAQAS1.jpg",
-          "altText": null,
-          "width": 1342,
-          "height": 351
-        }
-      ],
-      "extracted": {
-        "player": "One",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ae\n\nUulias CASTERS Nee IN RIFT LEGENDS STUDIO\n\na.\n\neS\n\n~ Tomasz Filipiuk\n\nCzy ktos nas moze wypiscic\n\na\n\nZ budynku\n\nBeas) oine0\n\nBo nie ma ochrony\n\nOne\n\n= THREE CASTERS AT NIGHT IN RIFT LEGENDS STUDIO\n} x\nwy 7 m “2 Fe\n\\ ~ Tomasz Filipiuk\n& Czy ktos nas moze wypiscic\nr. v\n. = a . — ,\nS Z budynku\n= - Bo nie ma ochrony\n2 aw) one @n8",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092361809416138938",
-      "url": "https://x.com/RiftLegendsPL/status/2092361809416138938",
-      "createdAt": "2026-08-25T21:21:44.000Z",
-      "text": "Wszyscy go lubimy, prawda?\n\n@M4Ci3 DOCISKA MVP TEJ SERII! 🏆 https://t.co/OKavQiBtZv",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092361542855524352",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmPvMeXgAAqLEF.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "M4Ci3",
-        "playerHandle": "M4Ci3",
-        "kda": "5/2/7",
-        "kp": 52.2,
-        "gold": 12967
-      },
-      "ocrText": "MV)\n\n=\n\nPmk\n\nRy ~\n\ntics)\n\nivi\n\nC\n\n5/2/7 52.2%\n\nAAA vere\n\n—\n\nV\n\n12967\n\n{\n\n3% A\n\n23 ©\n\nAe a\n\ncolor\n\nBEEL | CD wo Be (ym\n\n\" +\nMVlm of -\nVviVV 212 ey\n\n(a Pe ED\nVe ey 2867 :\nNIV Sar ‘ on 8mm\n+ Ret CH are Be OD Home» +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092361385409642887",
-      "url": "https://x.com/RiftLegendsPL/status/2092361385409642887",
-      "createdAt": "2026-08-25T21:20:03.000Z",
-      "text": "POCZWÓRNA SZTAMA 💪🏼 https://t.co/tLpqdi4NDb",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092361043603304448",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmPSInXMAAS9Yv.png",
-          "altText": null,
-          "width": 640,
-          "height": 360
-        }
-      ],
-      "extracted": {
-        "player": "3-1",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "3-1\n\na\n\n—\n\nOt he beta",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095209395734901245",
+      "lastSeenId": "2095223622193287318",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3763,7 +3745,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2095218827818590237",
+      "lastSeenId": "2095228987169452425",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3795,7 +3777,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2095197447857299821",
+      "lastSeenId": "2095225416579494317",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
