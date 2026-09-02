@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-02T17:44:02Z",
+  "updatedAt": "2026-09-02T18:24:16Z",
   "posts": [
+    {
+      "id": "2095209395734901245",
+      "url": "https://x.com/RiftLegendsPL/status/2095209395734901245",
+      "createdAt": "2026-09-02T17:57:01.000Z",
+      "text": "Teraz z włączonymi monitorami @_ForsakenGG_ oki? 😎 https://t.co/4BjH8Q5prq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095209083653787648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HROtj4lbEAALEIY.png",
+          "altText": null,
+          "width": 700,
+          "height": 724
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "WN\n\nly\n\nC’mon,\n\ndo something...\n\n=)\n\nC4\n\n~~\n\na C'mon,\n\n\\ do something...\n| | ‘ms",
+      "ocrVersion": 4
+    },
     {
       "id": "2095205139803967615",
       "url": "https://x.com/RiftLegendsPL/status/2095205139803967615",
@@ -3705,44 +3737,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092358161281712628",
-      "url": "https://x.com/RiftLegendsPL/status/2092358161281712628",
-      "createdAt": "2026-08-25T21:07:14.000Z",
-      "text": "WITAMY W CZOŁÓWCE TABELI!!\n\n@DOCISK_ WYGRYWA NA @_ForsakenGG_ 🏆 https://t.co/V8yZZNq478",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092357962996002816",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmMe0dWMAAD2ME.png",
-          "altText": null,
-          "width": 753,
-          "height": 719
-        }
-      ],
-      "extracted": {
-        "player": "DOCISK",
-        "playerHandle": "DOCISK_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "y_N\n\na\n\n1g\n\n4\n\nO\n\n\\\\\n\nMN\n\nLs\n\n—\"\n\nSs\n\n~\n' ; ey —_— . 5 ,\n\\ ‘ | . > —_—\nY\n~)D\n| aaa i”\nnn —_ = \\",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095205139803967615",
+      "lastSeenId": "2095209395734901245",
       "initialized": true
     },
     "Lodis_LDS": {
