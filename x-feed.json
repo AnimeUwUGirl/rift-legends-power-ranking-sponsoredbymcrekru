@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-02T13:21:18Z",
+  "updatedAt": "2026-09-02T14:20:33Z",
   "posts": [
+    {
+      "id": "2095147107027914983",
+      "url": "https://x.com/barczacaesports/status/2095147107027914983",
+      "createdAt": "2026-09-02T13:49:30.000Z",
+      "text": "„Jedyną stałą w życiu jest zmiana” - Heraklit z Efezu\n\nWitamy @Pawelek_lol - naszego nowego wspierającego 💚🖤 https://t.co/Om5DCi6Trf",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095146984600383488",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRN1FPlWMAAaJyi.jpg",
+          "altText": null,
+          "width": 1165,
+          "height": 1457
+        }
+      ],
+      "extracted": {
+        "player": "Pawelek",
+        "playerHandle": "Pawelek_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095146549659467984",
+      "url": "https://x.com/_ForsakenGG_/status/2095146549659467984",
+      "createdAt": "2026-09-02T13:47:18.000Z",
+      "text": "@NowyColor @Maxilol_ @DecayLoL_ @Syzyfekk @Lucker @NiceGuyBen_lol @RiftLegendsPL @devils1gg Dodatkowo będziemy mieli watchparty na kanale https://t.co/mXXnT9z1fd\nChętnie przyjmę jakiegoś subka z prime",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": "NowyColor",
+        "playerHandle": "NowyColor",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095139500343120215",
       "url": "https://x.com/AnonymoEsports/status/2095139500343120215",
@@ -3709,61 +3764,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092294827715006566",
-      "url": "https://x.com/Lodis_LDS/status/2092294827715006566",
-      "createdAt": "2026-08-25T16:55:34.000Z",
-      "text": "No cóż, przynajmniej Ahri out, tak? \n\n1:1 🫣 https://t.co/Q63OJChvGo",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092293725007339520",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQlSDrTXYAA1iGg.jpg",
-          "altText": null,
-          "width": 640,
-          "height": 1137
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092294076527681586",
-      "url": "https://x.com/RiftLegendsPL/status/2092294076527681586",
-      "createdAt": "2026-08-25T16:52:35.000Z",
-      "text": "@iBoToplaner @CzekoladLol POV CZEKOLADA XDD https://t.co/HBC1Q9OzlD",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": "iBoToplaner",
-        "playerHandle": "iBoToplaner",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3790,7 +3790,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2095131872770552095",
+      "lastSeenId": "2095146549659467984",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3822,7 +3822,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2095088744743236078",
+      "lastSeenId": "2095147107027914983",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
