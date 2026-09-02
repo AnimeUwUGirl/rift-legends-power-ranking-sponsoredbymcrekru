@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-02T15:50:56Z",
+  "updatedAt": "2026-09-02T16:21:46Z",
   "posts": [
+    {
+      "id": "2095183615566959023",
+      "url": "https://x.com/RiftLegendsPL/status/2095183615566959023",
+      "createdAt": "2026-09-02T16:14:35.000Z",
+      "text": "W KOŃCU JEST ON!!!!\n\nJHINZAO ✨ https://t.co/t6epeRuJaP",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095183444892426240",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HROWPgwXoAAbKkE.png",
+          "altText": null,
+          "width": 526,
+          "height": 728
+        }
+      ],
+      "extracted": {
+        "player": "tees",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Avot Lothen LZ\n\nns\n\n#  /\n\naa\n\n>:\n\n4\n\nDe Ke\nJano MP\nAy\ntees\naL D> Anat\nPy ~, pi\nee ON",
+      "ocrVersion": 4
+    },
     {
       "id": "2095177533146665350",
       "url": "https://x.com/barczacaesports/status/2095177533146665350",
@@ -3706,44 +3738,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092315779605688823",
-      "url": "https://x.com/RiftLegendsPL/status/2092315779605688823",
-      "createdAt": "2026-08-25T18:18:49.000Z",
-      "text": "Za taki występ to Cristiano Ronaldo powinien pozdrawiać Ciebie @sinmivak  🐐\n\nMVP za MATCH OF THE WEEK ląduje u Kubusia! 🏆 https://t.co/P133w99Ghg",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092315423253430272",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQllyrkXgAAMd07.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "sinmivak",
-        "playerHandle": "sinmivak",
-        "kda": "10/4/4",
-        "kp": 53.8,
-        "gold": 22169
-      },
-      "ocrText": "\"MV\n\nio\n\nVIV\n\nSinmivak\n\n&\n\nr ,\n\n> 4\n\nSS\n\n10/4/4 53.8%\n\n\\|\n\n22169\n\nivi*\n\nSN\n\nS269 i\n\nsh il ll\n\nsinmivak\n\nBEI | UD [ae a GD Pu\n\n>\nIMI [e. @ F\nMV . es - ay\nMI of ~~ 2 =e = -\nives PA Sak wD ud",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095177101116592389",
+      "lastSeenId": "2095183615566959023",
       "initialized": true
     },
     "Lodis_LDS": {
