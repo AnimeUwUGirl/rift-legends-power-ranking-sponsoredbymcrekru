@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-01T20:19:53Z",
+  "updatedAt": "2026-09-02T10:21:36Z",
   "posts": [
+    {
+      "id": "2095093392506065015",
+      "url": "https://x.com/RiftLegendsPL/status/2095093392506065015",
+      "createdAt": "2026-09-02T10:16:04.000Z",
+      "text": "Z wczorajszą przegraną @UP2UMEDIApl CEBULAKI jako pierwsi kończą swoją przygodę z Summer Splitem.\n\nDziękujemy za zostawione na Rifcie serducho! ❤️ https://t.co/RY0SyCsYxN",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095092497185677316",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNDhqJWoAQekJs.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "UP2UMEDIApl",
+        "playerHandle": "UP2UMEDIApl",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\n¢ |\n\nUP2ZU,\n\nULAR\n\nHATSU | JACOBMOLLY / SALAT\n\n| GNIOTEK\n\nraked\n\nzabka\n\nALIOR\n\nDIABLO\n\nsins\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\ny |\n7 ¢ | ‘a al\nUP2ZU,)) EDI A CEBULAKI a\n’ ff, \\ ~ R, e :\n: (> eas\ny a 4 A y =e “ga 4\n~ ree am\n< ‘ > Ws \\\n4 \\\n]\n|\nHATSU | JACOBMOLLY / SALATERKA Ml CHICASE | GMIOTEK\nTP tadx0\nff auior ~- DIABLO ss\n+> MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095088744743236078",
+      "url": "https://x.com/barczacaesports/status/2095088744743236078",
+      "createdAt": "2026-09-02T09:57:36.000Z",
+      "text": "Na kogo my tam dziś gramy?",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2094881075835117812",
       "url": "https://x.com/RiftLegendsPL/status/2094881075835117812",
@@ -3709,92 +3764,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092284185494872188",
-      "url": "https://x.com/Lodis_LDS/status/2092284185494872188",
-      "createdAt": "2026-08-25T16:13:17.000Z",
-      "text": "A już było dobrze... https://t.co/eBpjUc4X4Y",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092284137998544896",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQlJVo6WcAAoYkF.png",
-          "altText": null,
-          "width": 257,
-          "height": 83
-        },
-        {
-          "mediaKey": "3_2092284105966624768",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQlJTxlWIAAI_3T.jpg",
-          "altText": null,
-          "width": 238,
-          "height": 238
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092283363214135722",
-      "url": "https://x.com/RiftLegendsPL/status/2092283363214135722",
-      "createdAt": "2026-08-25T16:10:01.000Z",
-      "text": "MY JOB HERE IS DONE. 🫡 https://t.co/HHrIHGp4Us",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092283143449456640",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQlIbv7XsAAwcKO.jpg",
-          "altText": null,
-          "width": 1338,
-          "height": 751
-        },
-        {
-          "mediaKey": "3_2092283180514521088",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQlId6AXsAAK2Cz.png",
-          "altText": null,
-          "width": 360,
-          "height": 228
-        }
-      ],
-      "extracted": {
-        "player": "ry",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "al\n\nFR\n\nsuaate\n\nml |\n\nZs\n\nairs} ,\n\nWay\n\niP\n\n| E-\n\na\n\n=\n\n‘Me\n\n@ iW\n\n| oS\n\ntobko\n\n—\n\nie A 3\n| asl WR\nf- : =a) | ies) ap a re aT i A\n= .« ae vet oS : A\nJ ame a2) a\noe zt “ — —\"! — S j* 73\na im Ll j\n= Be ES i\na 728) uD ‘ag @aN\n| SF a pes\n\nsf\n\nAN TTL\n\nry\n\né\n\nDid del to\nTA 1 Vis 7 bo",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2094881075835117812",
+      "lastSeenId": "2095093392506065015",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3847,7 +3822,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2092671307582156916",
+      "lastSeenId": "2095088744743236078",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
