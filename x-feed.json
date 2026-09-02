@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-02T10:21:36Z",
+  "updatedAt": "2026-09-02T12:49:47Z",
   "posts": [
+    {
+      "id": "2095131872770552095",
+      "url": "https://x.com/_ForsakenGG_/status/2095131872770552095",
+      "createdAt": "2026-09-02T12:48:58.000Z",
+      "text": "Format gauntleta w skrócie\nWygrana = Playoffy\nPrzegrana = GG go next https://t.co/f1AoRoFc5p",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095131867171172354",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNnVSxWsAIQ63L.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095129363331137638",
+      "url": "https://x.com/RiftLegendsPL/status/2095129363331137638",
+      "createdAt": "2026-09-02T12:39:00.000Z",
+      "text": "Kto awansuje dziś na EMEA, a kto odpadnie z summer splitu, rozkminka? 🤔\n\n17:00 YT &amp; TTV/NERVARIEN 📺 https://t.co/4Yf241wWLE",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095103308847255552",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNNW-uWEAAc2ET.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "cwaias",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "K\n\n@& RIFT LEGENDS\n\n“tcateanbi\n\nSRODA 02.09\n\nes\n\n17:00\n\naed #\n\nvs\n\nASAP\n\nvs\n\nE inStreamly\n\nMu\n\nu/f}\n\nlf\n\nzabka\n\naK\n\nee) Meu\n\ncwaias\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\ne ’ I Um al °\n \"GAUN DAV\noe sti » .¥ my z fis\ney, SRODA 02.09 —. ot\nee PP 17:00 Y _\n| ASAP (a)\n| Binstreamiy [pad Vs )HED 7 ‘ @ .\n\\S\\ Tae Uh\nCD txtke ae QS no\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
     {
       "id": "2095093392506065015",
       "url": "https://x.com/RiftLegendsPL/status/2095093392506065015",
@@ -3700,76 +3764,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092289748962251224",
-      "url": "https://x.com/Lodis_LDS/status/2092289748962251224",
-      "createdAt": "2026-08-25T16:35:23.000Z",
-      "text": "Nie do obrony... \n\nCiężka ta praca trenera, człowiek się odwadnia co cooldown 🥵 https://t.co/ncShJePiCI",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2092289572587589632",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2092289572587589632/img/yGGZymDZ2Z1YrhHC.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092288392373617087",
-      "url": "https://x.com/DOCISK_/status/2092288392373617087",
-      "createdAt": "2026-08-25T16:30:00.000Z",
-      "text": "Kokos powiedział że bierze sprawy w swoje ręce, sięgnął po spluwę i już czeka na swój cel. 🔥\n\nDzisiaj ustawka na zakapturzonych z @_ForsakenGG_ !\nWidzimy się na rifcie o 19:30! ⏳\n\n#DOCISKGRAĆ 👊 https://t.co/cTCcAgWQYF",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092255821321166848",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQkvlZEXYAAcHAl.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095093392506065015",
+      "lastSeenId": "2095129363331137638",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3790,7 +3790,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2094363393121566894",
+      "lastSeenId": "2095131872770552095",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
