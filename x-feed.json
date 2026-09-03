@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-02T20:20:53Z",
+  "updatedAt": "2026-09-03T09:21:29Z",
   "posts": [
+    {
+      "id": "2095433856157438069",
+      "url": "https://x.com/barczacaesports/status/2095433856157438069",
+      "createdAt": "2026-09-03T08:48:57.000Z",
+      "text": "🚨  BREAKING: transfer Pawełka do FSK w 50% gotowy \n\nFsk chce, Pawełek nie 😈 https://t.co/tgz33gsU1G",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095240136304849189",
       "url": "https://x.com/RiftLegendsPL/status/2095240136304849189",
@@ -3679,46 +3702,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092632947882971225",
-      "url": "https://x.com/barczacaesports/status/2092632947882971225",
-      "createdAt": "2026-08-26T15:19:08.000Z",
-      "text": "DEBIUT MIRALI 😺💚DEBIUT MIRALI 😺🖤DEBIUT MIRALI 😺💚DEBIUT MIRALI 😺🖤 https://t.co/8aQxLVrGQ1",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092632185081667584",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQqF4pVXoAAnswa.png",
-          "altText": null,
-          "width": 726,
-          "height": 369
-        },
-        {
-          "mediaKey": "16_2092632943810215936",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HQqGkz0WgAAJULm.jpg",
-          "altText": null,
-          "width": 480,
-          "height": 412
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3777,7 +3760,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2095225416579494317",
+      "lastSeenId": "2095433856157438069",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
