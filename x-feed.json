@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-03T14:21:57Z",
+  "updatedAt": "2026-09-03T14:47:46Z",
   "posts": [
+    {
+      "id": "2095519686603739299",
+      "url": "https://x.com/devils1gg/status/2095519686603739299",
+      "createdAt": "2026-09-03T14:30:00.000Z",
+      "text": "Wczoraj nie pykło, więc może dzisiaj się uda?\n\nPrzed nami kolejna szansa na zapewnienie sobie miejsca w playoffach w @RiftLegendsPL \n\nOkoło 19:00 gramy z LODIS\n\nMoże tym razem nie strollujemy sobie serii 😎 https://t.co/SZ2a0vaP7q",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095503351555264520",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRS5Mh8XkAgvh8d.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095519623244370344",
+      "url": "https://x.com/barczacaesports/status/2095519623244370344",
+      "createdAt": "2026-09-03T14:29:45.000Z",
+      "text": "17:00 bo3\nvs @DOCISK_ https://t.co/5GMpusAUug",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095519574741385219",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTH82BWgAMhCaT.jpg",
+          "altText": null,
+          "width": 735,
+          "height": 913
+        }
+      ],
+      "extracted": {
+        "player": "DOCISK",
+        "playerHandle": "DOCISK_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095517227214672004",
       "url": "https://x.com/DOCISK_/status/2095517227214672004",
@@ -3647,70 +3711,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092702195275755751",
-      "url": "https://x.com/BombaTeamGG/status/2092702195275755751",
-      "createdAt": "2026-08-26T19:54:18.000Z",
-      "text": "Dociśnięte 2:0 😎 https://t.co/t3g8IXX4vF",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092702027339988993",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQrFaABXAAEUr5c.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092676625678680441",
-      "url": "https://x.com/BombaTeamGG/status/2092676625678680441",
-      "createdAt": "2026-08-26T18:12:42.000Z",
-      "text": "Mrozek na Akali, no to zaczynamy show 😎 https://t.co/ktvsobZMqk",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2092676515922132992",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HQquNClXQAAcvpX.jpg",
-          "altText": null,
-          "width": 220,
-          "height": 194
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3745,7 +3745,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2095237974044660139",
+      "lastSeenId": "2095519686603739299",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
@@ -3769,7 +3769,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2095433856157438069",
+      "lastSeenId": "2095519623244370344",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
