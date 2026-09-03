@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-03T13:21:23Z",
+  "updatedAt": "2026-09-03T14:21:57Z",
   "posts": [
+    {
+      "id": "2095517227214672004",
+      "url": "https://x.com/DOCISK_/status/2095517227214672004",
+      "createdAt": "2026-09-03T14:20:14.000Z",
+      "text": "Ty ile tych meczy na @barczacaesports w tym sezonie?\n\nNie ważne, ważne jest to że nasi dociskacze są gotowi na oponenta!\n\nWidzimy się o 17:00!\n#DOCISKGRAĆ https://t.co/Nh0ra2Fg2X",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095516917905899520",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTFiMiaQAAweuR.jpg",
+          "altText": null,
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "extracted": {
+        "player": "barczacaesports",
+        "playerHandle": "barczacaesports",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095510871329931530",
+      "url": "https://x.com/Lodis_LDS/status/2095510871329931530",
+      "createdAt": "2026-09-03T13:54:59.000Z",
+      "text": "Druga rundka przeciwko @devils1gg? Czemu nie, lecimy po swoje 😎\n\nWidzimy się koło 19:30 u @Nervarieno, @TTobias_lol i na POV'ach naszej ekipy 🫡\n\n#LodisMrozić https://t.co/oezKVjKX1g",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095509300735254528",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRS-m0XaIAAVbNm.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "devils1gg",
+        "playerHandle": "devils1gg",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095500809735946309",
       "url": "https://x.com/RiftLegendsPL/status/2095500809735946309",
@@ -3647,70 +3711,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092671307582156916",
-      "url": "https://x.com/barczacaesports/status/2092671307582156916",
-      "createdAt": "2026-08-26T17:51:34.000Z",
-      "text": "Niestety przegrywamy na @_ForsakenGG_ \n\nale dajcie znać jak oceniacie debiut naszej Supportki :3 https://t.co/lsLGjEAcRe",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092671188061274112",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQqpW6wWQAAjzTh.jpg",
-          "altText": null,
-          "width": 735,
-          "height": 913
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2092670302861906285",
-      "url": "https://x.com/_ForsakenGG_/status/2092670302861906285",
-      "createdAt": "2026-08-26T17:47:34.000Z",
-      "text": "Nierówne boisko i parę spalonych ale win to win\nZa tydzień zaczynamy BO5 https://t.co/02khuerQAe",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092668259527004160",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQqmsdHXkAA0hbV.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3721,7 +3721,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2094875056148980165",
+      "lastSeenId": "2095510871329931530",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3761,7 +3761,7 @@
     },
     "DOCISK_": {
       "userId": "1692642128554278912",
-      "lastSeenId": "2092902712492863585",
+      "lastSeenId": "2095517227214672004",
       "initialized": true,
       "username": "DOCISK_",
       "name": "DOCISK",
