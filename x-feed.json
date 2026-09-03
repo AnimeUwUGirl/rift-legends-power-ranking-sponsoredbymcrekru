@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-03T10:44:48Z",
+  "updatedAt": "2026-09-03T11:45:09Z",
   "posts": [
+    {
+      "id": "2095473883306434657",
+      "url": "https://x.com/RiftLegendsPL/status/2095473883306434657",
+      "createdAt": "2026-09-03T11:28:00.000Z",
+      "text": "Niestety, nie był to ani Rok Sobka, ani split całego @AnonymoEsports - Organizacja kończy Summer Split na 7 miejscu. 💔\n\nDziękujemy za walkę i czekamy na więcej! https://t.co/9aGtIyNTjR",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095287781383688192",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRP1IseXUAADxiv.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "AnonymoEsports",
+        "playerHandle": "AnonymoEsports",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\nANONVNIG)\n\n= ,\n\nWw\n\n‘€\n\nvs\n\ny\n\nay\n\nal\n\ngeesoreen\n\n—\n\nHESSZERO | SHIBI\n\nXx0\n\nzabka\n\nsins\n\nALIOR\n\nDIABLO\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n6 RIFT LEGENDS\nAO! 1h VIO) .\n== : = oe\noe |e ; | tae Ny ee b\nti. ee.\n> Ze\n7 y S  F e N\nnh\n= gpecorenk ee Za\n:. baie\n4 Se\nHESSZERO ! SHIBI A f THEN | RAXXO\nCOO zabK0\nff ror DIABLO ==\":\n+> MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
     {
       "id": "2095442928483115382",
       "url": "https://x.com/RiftLegendsPL/status/2095442928483115382",
@@ -3679,35 +3711,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092642159560204699",
-      "url": "https://x.com/barczacaesports/status/2092642159560204699",
-      "createdAt": "2026-08-26T15:55:44.000Z",
-      "text": "Jak to tam było @Bialito_, jak forsaken nie wygra 2:0 to będzie kompromitacja? https://t.co/QGlw2WpBpX",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "Bialito",
-        "playerHandle": "Bialito_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095442928483115382",
+      "lastSeenId": "2095473883306434657",
       "initialized": true
     },
     "Lodis_LDS": {
