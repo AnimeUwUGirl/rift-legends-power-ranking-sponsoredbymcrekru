@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-03T21:52:44Z",
+  "updatedAt": "2026-09-03T23:59:02Z",
   "posts": [
+    {
+      "id": "2095647374492270933",
+      "url": "https://x.com/RiftLegendsPL/status/2095647374492270933",
+      "createdAt": "2026-09-03T22:57:23.000Z",
+      "text": "LAST BOSS GAUNTLETU! 🔥\n\nCO DZISIAJ NAPISZE NAM SCENARIUSZ?\n\nMOŻE @Lodis_LDS  ZROBIŁO TO WSZYSTKO DLA WIDZA, ŻEBY MÓGŁ ICH JESZCZE DŁUŻEJ OGLĄDAĆ? \n\nA MOŻE @DOCISK_ PO RAZ KOLEJNY UDOWODNI NAM, ŻE POWINNIŚMY WLICZAĆ ICH DO ŚCISŁEJ CZOŁÓWKI?\n\nWIDZIMY SIĘ O 17:00! 📺 https://t.co/lg6vc6dERT",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095646454320910336",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRU7WNSa0AAj69Z.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "AMA\n\n& RIFT LEGENDS\n\nV/\n\n“cautniend\n\ni)\n\nwe\n\na2\n\noy\n\noP\n\nnd\n\nJ)\n\n>\n\na\n\n—S\n\nA\n\nPIATEK 04.09\n\nIGL'\n\nIR\n\nUNTO?\n\nNe\n\nA?\n\noo\n\n)\n\n)\n\nvs\n\nMe WRESTLING\n\nmains\n\nauior @ “DIABLO:\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\n= , Ly 1 | ae\nWGEAUN DAVES\n/ ~~ C7 -\n—— | =)\n. —\n\nay PIATEK 04.09 __ a WO\na z \\ciorex we\nFt reo (=) 17:00 - a\n\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
     {
       "id": "2095595788093014154",
       "url": "https://x.com/RiftLegendsPL/status/2095595788093014154",
@@ -3697,44 +3729,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2093267944910233916",
-      "url": "https://x.com/Lodis_LDS/status/2093267944910233916",
-      "createdAt": "2026-08-28T09:22:23.000Z",
-      "text": "Dziś urodzinki obchodzi nasz trener @TTobias_lol, wszystkiego najlepszego bratku! 🥳🎂\n\nŻeby teść nigdy nie spadał poniżej 900 ng/dl, dużo szczęścia, pomyślności i samych zwycięstw! No i przede wszystkim - żeby w końcu udało Ci się podnieść to trofeum @RiftLegendsPL! 😎 https://t.co/FXL7dq1R68",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2093266662300499968",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2093266662300499968/img/2njeZvHeuZ4VVPgI.jpg",
-          "altText": null,
-          "width": 576,
-          "height": 1024
-        }
-      ],
-      "extracted": {
-        "player": "TTobias",
-        "playerHandle": "TTobias_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095595788093014154",
+      "lastSeenId": "2095647374492270933",
       "initialized": true
     },
     "Lodis_LDS": {
