@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-03T11:45:09Z",
+  "updatedAt": "2026-09-03T13:21:23Z",
   "posts": [
+    {
+      "id": "2095500809735946309",
+      "url": "https://x.com/RiftLegendsPL/status/2095500809735946309",
+      "createdAt": "2026-09-03T13:15:00.000Z",
+      "text": "Admin przewiduje dziś potężne dymy i banger spotkania, wpadasz?\n\n🕐 - 17:00\n@DOCISK_ VS @barczacaesports \n\n🕐 ~ 19:30\n@Lodis_LDS VS @devils1gg https://t.co/spLx54fiH5",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095289412301033472",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRP2noHXEAA4BJ3.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "DOCISK",
+        "playerHandle": "DOCISK_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "@& RIFT LEGENDS\n\ncnlnimeengoais\n\nSs\n\n“o>\n\nFox\n\n\\\n\nors\n\nC2WARTEK O3:\n\nie\n\nA\n\n17:00\n\nvs\n\n&\n\nASAP\n\nvs\n\njj,\n\nStreamly\n\nUNTO?\n\nDotisy,\n\n)\n\n&\n\nPTW\n\naK\n\nemaias\n\nD> lee]\n\n@ DIABLO\n\n+\n\nMISTRZOSTWA POLSKI\n\n@& RIFT LEGENDS\n. | 4d] / 17 | .\noe 4 | | L pO\nSTOUT BENT a\n; \\ a e CZWARTEK 03.0 > i : \\\n\"2 ( sm) 17:00 >) \" <a \\ \\ As\n¥ @ vs & >\n= ®& ASAP ytih |\nee = |e\nUN [DotisK | Bt a é\ng\nCED txtke ae Qe nto\n+ MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
     {
       "id": "2095473883306434657",
       "url": "https://x.com/RiftLegendsPL/status/2095473883306434657",
@@ -3679,44 +3711,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2092650782122487937",
-      "url": "https://x.com/DOCISK_/status/2092650782122487937",
-      "createdAt": "2026-08-26T16:30:00.000Z",
-      "text": "Nasz MVP po raz kolejny wkracza na Rifta, tym razem z  defusem bo mamy bombę do rozbrojenia.💣💥\n\nDzisiaj po stronie terro staje @BombaTeamGG !\n\nWidzimy się o 19:30🕖 https://t.co/sIVHaVEZ6Q",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2092635265042878464",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQqIr7FWEAAkofx.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095473883306434657",
+      "lastSeenId": "2095500809735946309",
       "initialized": true
     },
     "Lodis_LDS": {
