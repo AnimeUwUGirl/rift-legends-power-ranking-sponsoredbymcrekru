@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:21:53Z",
+  "updatedAt": "2026-09-03T10:44:48Z",
   "posts": [
     {
       "id": "2095442928483115382",
@@ -3724,8 +3724,7 @@
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-      "error": "X API zwróciło HTTP 522: {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\",\"title\":\"Error 522: Connection timed out\",\"status\":522,\"detail\":\"Cloudflare could not establish a TCP connection to the origin server. The TCP handshake timed out, which may indicate the origin is overloaded, firewalling Cloudflare, or unreachable at the network level.\",\"instance\":\"a3540736ea344c96\",\"error_code\":522,\"error_name\":\"connection_timeout\",\"error_category\":\"origin\",\"ray_id\":\"a3540736ea344c96\",\"timestamp\":\"2026-09-03T10:21:52Z\",\"zone\":\"api.x.com\",\"cloudflare_error\":true,\"retryable\":true,\"retry_after\":120,\"owner_action_required\":true,\"what_you_should_do\":\"**Wait and retry.** Back off for at least 120 seconds. If the error persists, the webs"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg"
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
