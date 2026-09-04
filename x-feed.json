@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-04T17:01:58Z",
+  "updatedAt": "2026-09-04T19:27:23Z",
   "posts": [
+    {
+      "id": "2095935675400933428",
+      "url": "https://x.com/RiftLegendsPL/status/2095935675400933428",
+      "createdAt": "2026-09-04T18:03:00.000Z",
+      "text": "ZROBILI TO.\n\n@Lodis_LDS PO RAZ PIERWSZY WCHODZĄ DO FAZY PLAY-OFFS. \n\nLEGENDY. https://t.co/GIPIj3sp7g",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095915242261782530",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYvzuZXIAIRP9o.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": 7.0,
+        "gold": null
+      },
+      "ocrText": "9 @\n\nble |\n\n#REKLAMA\n\n1 w&\n\n+\n\n> r\n\nhs\n\n& RIFT LEGENDS\n\n2 on\n\nP|\n\n_ GRATULACJES.\n\na\n\n»\n\nG\n\n3\n\nje\n\norex\n\na\n\n“*ROSTE\n\nPR)\n\n\\)\n\nIGorey\n\nAB STORIE\n\nPRA\n\nPROSTE — As\n\nISTORIE\n\nGE\n\nSINMIVA,\n\naD ~ ZAMULEK | KASEKO\n\nzgbka\n\nwoe anata»\n\nMISTRZOSTWA POLSKI\n\nYet an ae 4 “aS rae\nt > X #REKLAMA r re > ‘\nPa ; a Ae\n2. 6 RIFT LEGENDS i\nB Bes s\nP r ©\n7% v\n= XN\n+ GRATYLACJES.:\n7\" -\n.. A ‘\nINES ee aN Ly ee )\n- PRAY” B\\\\28 boy % Laprorie ff:\n\\@, PRA A 2\nWE mots 2s\nee |e istoRIE ~~~\nSIMMIVAK | MIKUSIK l on  ZAMULEK | KASEKO\nOO odio\n+> MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095923595914674585",
+      "url": "https://x.com/RiftLegendsPL/status/2095923595914674585",
+      "createdAt": "2026-09-04T17:15:00.000Z",
+      "text": "KOŃCZYMY FAZE GAUNTLET!\n\nW PLAYOFFACH ZOBACZYMY @Lodis_LDS, @devils1gg, @_ForsakenGG_, @BombaTeamGG! \n\nCHWILA PRZERWY I LECIMY DALEJ! https://t.co/E3mdIFtc0d",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095914962472390656",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYvjcGX0AAW0EP.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "FORMAT ROZGRYWEK\n\nBos\n\n1-4.09\n\ndenice\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n03.09 /ms\n\n02.09 /m3\n\n-'§ —\n\nb\n\n04.09 / m7\n\n03.09 / m6\n\nt-- @- ©\n\n02.09 /ma\n\ne109 / ma\n\n- & —\n\nPLAYOFFY\n\nM1 / M3 / MS / 7\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\n_igbka\n\ncoat\n\naREt\n\nFax Do anato\n\n+ ee ee a\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n® a us\nol ae\n@ = ae\na -@ { ve PEAYORRY,\n. Koniec sezonts\n7 BEE OD ee Re ® Pome i",
+      "ocrVersion": 4
+    },
     {
       "id": "2095915542528053555",
       "url": "https://x.com/RiftLegendsPL/status/2095915542528053555",
@@ -3692,76 +3756,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094377877336740332",
-      "url": "https://x.com/Lodis_LDS/status/2094377877336740332",
-      "createdAt": "2026-08-31T10:52:52.000Z",
-      "text": "Trzy narody, jedna ekipa  🇨🇿🤝🇵🇱🤝🇸🇰\n\nPrzyjaźń polsko-czeska wiecznie żywa 😎\n\nTak się będzie prezentować nasz skład podczas Onslaught Champions Series! 🫡 https://t.co/gpGlRMIOMP",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094374564323094529",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRC2kd0XcAE4Vny.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094363393121566894",
-      "url": "https://x.com/_ForsakenGG_/status/2094363393121566894",
-      "createdAt": "2026-08-31T09:55:18.000Z",
-      "text": "\"To nikomu nie jest potrzebne\" https://t.co/c9VJQYZUC6 https://t.co/MiVyGCBgII",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094356295847481344",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRCl9GcXkAA6D3w.jpg",
-          "altText": null,
-          "width": 1516,
-          "height": 1178
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095915542528053555",
+      "lastSeenId": "2095935675400933428",
       "initialized": true
     },
     "Lodis_LDS": {
