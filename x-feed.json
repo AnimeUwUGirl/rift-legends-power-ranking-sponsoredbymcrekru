@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-03T23:59:02Z",
+  "updatedAt": "2026-09-04T13:25:48Z",
   "posts": [
+    {
+      "id": "2095856460714418329",
+      "url": "https://x.com/RiftLegendsPL/status/2095856460714418329",
+      "createdAt": "2026-09-04T12:48:14.000Z",
+      "text": "PIĄTECZEK PIĄTUNIO W KLUBIE Z @Veggie_LoL 🕺🏼 https://t.co/svMpreljlQ https://t.co/ShvXtFgQ38",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095856352987869186",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRX6P6wWcAIyrsR.jpg",
+          "altText": null,
+          "width": 1085,
+          "height": 1523
+        }
+      ],
+      "extracted": {
+        "player": "Veggie",
+        "playerHandle": "Veggie_LoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": ";\n\na\n\ni\n\nma\n\n9\n\nee\n\nco\n\ni\"\n\n3\n\n® eS\n\n—\n\n-—\n\n\\\n\n~\n\n7\n\nee\n\n? ~ \\ Wa va\nos ea { |\nve oo OO 2,\n” | :\n; , ic yl Aiton\na se wig? ae\nsz PONG a a /\nFi isi ae < gs ‘\n> << i 4 “ a S on\na ) a ' ’ ore\ni ie } Vl\n= SS , 7, Lf NM ee it\naS | é y ie a\nSN Z és\n' \\ \\\\s go aN\n“ q y ke :\nWi i & A\n= $ | f",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095841555042959467",
+      "url": "https://x.com/RiftLegendsPL/status/2095841555042959467",
+      "createdAt": "2026-09-04T11:49:00.000Z",
+      "text": "Był to bardzo... jakby to ująć... ZMIENNY split od @barczacaesports, ale dostarczyli nam oni naprawdę solidną dawkę emocji 😜\n\nDziękujemy wszystkim Barczakom! 🫶🏼 https://t.co/qejvEWzIOu",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095645429564133376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRU6ajxXUAAr8nw.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "barczacaesports",
+        "playerHandle": "barczacaesports",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\nCA\n\nESPORTSIEVAVUNISU\n\nIRCZA\n\nal\n\ney\n\nSe,\n\n4\n\nNY\n\na\n\ny\n\nWy),\n\n|\n\nUf\n\ng\n\nhe\n\n=\n\n| am\n\nes,\n\nBLESI.\n\nzabka\n\ncwarns\n\nGan.\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\n' Bs. y j Hl my, eee | / y a. r\na BARCZACA,ESPORTSIBVAVUNMISU :\n\na ‘\\. - La o\n— a |\nba \\ ae\n\n7) YN j | J zat j | Wy, 7 =\nUNA eg OMIA, ))\nNACE mY, WAH) \\| A |\n— 1 \\ ae | & | i) _—\n- a os ‘Sh Swi | — ’\noo > Se oo\noo i\na: = Be\nee i\nLis igbka &\n+> MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095835515207749748",
+      "url": "https://x.com/Lodis_LDS/status/2095835515207749748",
+      "createdAt": "2026-09-04T11:25:00.000Z",
+      "text": "Starczy bycia chłopcami do bicia, trzeba w końcu dać komuś wycisk... \n\n17:00 walczymy o swój miracle run w @RiftLegendsPL 🫡\n\nKlasycznie, zachęcamy do oglądania co-streamu u @TTobias_lol oraz sprawdzenia POV'ów naszych grajków 😎 https://t.co/RF1Ajl3hBS",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095624100542615553",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRUnBC-XEAE5HYR.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095806574723993909",
+      "url": "https://x.com/RiftLegendsPL/status/2095806574723993909",
+      "createdAt": "2026-09-04T09:30:00.000Z",
+      "text": "OSTATNIA PROSTA 2 FAZY RIFT LEGENDS SUMMER 🔥\n\nNA PLACU BOJU TYLKO @Lodis_LDS I @DOCISK_ ! https://t.co/HSUoBRw43e",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095645065548808192",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRU6FXtWQAAmunJ.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "FORMAT ROZGRYWEK\n\nBos\n\n\"4.09\n\ndenice\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n03.09 /ms\n\n02.09 /m3\n\nWwW\n\n-'§ —\n\n04.09 / m7\n\n03.09 / m6\n\n— & 2\n\n2\n\n02.09 /ma\n\nPLAYOFFY\n\ne109 / ma\n\n- - GQ —\n\nM1 / M3 / MS / 7\n\n@\n\npact\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\nZaRIFT\n\ncoat\n\na\n\nFax Do anato\n\n+ shiner won +\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n@ mn\npie ® 2-8 &-2\n®-@ i we BLAYOERY,..\no~ KONIEC SEZONU\nz ee a Soe +",
+      "ocrVersion": 4
+    },
     {
       "id": "2095647374492270933",
       "url": "https://x.com/RiftLegendsPL/status/2095647374492270933",
@@ -3619,127 +3747,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2093385514954965185",
-      "url": "https://x.com/RiftLegendsPL/status/2093385514954965185",
-      "createdAt": "2026-08-28T17:09:34.000Z",
-      "text": "biorę po 100zł z Państwa kont i słucham opinii - kto wygra drugą serię w LEC?",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093379041097076820",
-      "url": "https://x.com/RiftLegendsPL/status/2093379041097076820",
-      "createdAt": "2026-08-28T16:43:51.000Z",
-      "text": "No i wylądował... https://t.co/WnDLI8d0J0",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093374587081789621",
-      "url": "https://x.com/RiftLegendsPL/status/2093374587081789621",
-      "createdAt": "2026-08-28T16:26:09.000Z",
-      "text": "?? https://t.co/nRCseMv5DP",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2093374532589416448",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HQ0pC9TXcAAMaUe.jpg",
-          "altText": null,
-          "width": 800,
-          "height": 450
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093315158407815657",
-      "url": "https://x.com/Lodis_LDS/status/2093315158407815657",
-      "createdAt": "2026-08-28T12:30:00.000Z",
-      "text": "Syndra @CzekoladLol to jednak marka, czego nie można powiedzieć o Ahri... \n\nNiemniej brat doczekał się edita, w końcu! \n\n@RiftLegendsPL dzwoń po te teksty 😎 https://t.co/sFOLPCA6Uj",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2093243949490028544",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2093243949490028544/img/orVxURyfP8RLvIQf.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095647374492270933",
+      "lastSeenId": "2095856460714418329",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2095592550610391102",
+      "lastSeenId": "2095835515207749748",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
