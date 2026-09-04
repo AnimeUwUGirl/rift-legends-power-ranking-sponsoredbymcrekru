@@ -1,6 +1,422 @@
 {
-  "updatedAt": "2026-09-04T13:25:48Z",
+  "updatedAt": "2026-09-04T17:01:58Z",
   "posts": [
+    {
+      "id": "2095915542528053555",
+      "url": "https://x.com/RiftLegendsPL/status/2095915542528053555",
+      "createdAt": "2026-09-04T16:43:00.000Z",
+      "text": "W SWOJE URODZINY, SPREZENTOWAŁ SOBIE TOTALNY WYWÓZ PRZECIWNIKÓW!\n\nMVP DLA @mikusik11 🏆 https://t.co/bdi59vSShe",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095914367330275328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYvAzBb0AAzu1L.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "mikusik11",
+        "playerHandle": "mikusik11",
+        "kda": "5/1/9",
+        "kp": 73.7,
+        "gold": 11495
+      },
+      "ocrText": "+\n\n*MVE-\n\n&\n\nYi\n\nSe\n\nVIV\n\nMikusik\n\na\n\ntics)\n\n[aD\n\na\n\nNIV\n\n5/1/9\n\n73.7%6\n\n&\n\n11495\n\n<1\n\na &\n\n@B* &\n\n_\n\now -\n\nSmikusik\n\nBkKokes\n\nBRET\n\nBY (Ecenos\n\n|\n\ntabka\n\n@® Hom\n\n*IMIVI ee\na OY ow\nMIV/ = <= 2 FOR\nal »> 5/9 73.7% |\nNe\nOb rx es\nVi DP @R@SK EF\nWy) .. ———_—\n\\Y ; —_\n+ ABEL | GD te hae DP onto +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095914310396522849",
+      "url": "https://x.com/RiftLegendsPL/status/2095914310396522849",
+      "createdAt": "2026-09-04T16:38:06.000Z",
+      "text": "WSZYSTKIEGO NAJLEPSZEGO DLA @mikusik11 🥳🥳🥳🥳 https://t.co/lvhx1sAVAM",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2095914204309958660",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095914204309958660/img/ICiIIEwfWAHejfgR.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "mikusik11",
+        "playerHandle": "mikusik11",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095913707108721016",
+      "url": "https://x.com/Lodis_LDS/status/2095913707108721016",
+      "createdAt": "2026-09-04T16:35:42.000Z",
+      "text": "Wow, wygraliśmy na Hurona, yippie...\n\nOficjalnie wchodzimy do play-offów, ruda małpo - ja jeszcze żyję! https://t.co/3KXDIrUUmC",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095912874128318464",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYtp4aWIAAF-y3.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095913595137655215",
+      "url": "https://x.com/RiftLegendsPL/status/2095913595137655215",
+      "createdAt": "2026-09-04T16:35:15.000Z",
+      "text": "CZYLI JEDNAK @Lodis_LDS ROBIŁO TO DLA WIDZA!\n\nMISIE WYGRYWAJĄ NA @DOCISK_ I WCHODZĄ DO PLAYOFFÓW https://t.co/JMXMg3XbXq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095913424131903492",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYuJ5Va0AQ7a50.png",
+          "altText": null,
+          "width": 823,
+          "height": 638
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "REGULAR\n\nGAUNTLET\n\nKIEDY MOZNA\n\nODPASE\n\nA\n\na\n\nKIEDY MOZNA\nREGULAR GAUNTLET pDPAse\n\\ .)\n: A\n£ >\nee =",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095913396164006036",
+      "url": "https://x.com/DOCISK_/status/2095913396164006036",
+      "createdAt": "2026-09-04T16:34:28.000Z",
+      "text": "Playoffy nie dla nas...\n\nGG @Lodis_LDS \n\nKończymy ten rok bez awansu, dziękujemy wszystkim fanom za wsparcie ❤️\n\n#DOCISKGRAĆ https://t.co/O7zBEMeoEF",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095912980655558657",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYtwFQa0AEtAVR.jpg",
+          "altText": null,
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095912939400180165",
+      "url": "https://x.com/DOCISK_/status/2095912939400180165",
+      "createdAt": "2026-09-04T16:32:39.000Z",
+      "text": "Guys... https://t.co/f7xPsRBSBS",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095912915966517250",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYtsURWYAIsd8G.png",
+          "altText": null,
+          "width": 362,
+          "height": 104
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095912197163470925",
+      "url": "https://x.com/DOCISK_/status/2095912197163470925",
+      "createdAt": "2026-09-04T16:29:42.000Z",
+      "text": "Czat, co jest grane?\n\n#nervalol https://t.co/yIsFrjTsBM",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095912111037661190",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYs9drWwAYDa9a.png",
+          "altText": null,
+          "width": 596,
+          "height": 335
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095906522077307256",
+      "url": "https://x.com/Lodis_LDS/status/2095906522077307256",
+      "createdAt": "2026-09-04T16:07:09.000Z",
+      "text": "W or L widzowie? https://t.co/HDAsfmbrrG",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095906305428889601",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYnriGXIAE59PU.png",
+          "altText": null,
+          "width": 487,
+          "height": 157
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095903016171786566",
+      "url": "https://x.com/Lodis_LDS/status/2095903016171786566",
+      "createdAt": "2026-09-04T15:53:13.000Z",
+      "text": "Może i straciliśmy Barona, ale po tej walce wygrywamy 1. mapę! 😎 https://t.co/VmipH8XxmB",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2095901782195212288",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095901782195212288/img/jKRouJDWZozQRHUn.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095901240014102999",
+      "url": "https://x.com/RiftLegendsPL/status/2095901240014102999",
+      "createdAt": "2026-09-04T15:46:10.000Z",
+      "text": "PIERWSZA MAPA NA KONTO @Lodis_LDS 🔥 https://t.co/le3nwQU5Yc",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095901101530943488",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYi8oEaEAAq-Oe.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": "2/14/29",
+        "kp": 6.0,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\nLDS\n\n30:05\n\nDOC\n\nWIN\n\nLOSE\n\n‘ey’ 17.0k\n\ns\n\noma\n\nSK\n\n12.0k\n\nWIT3/32\n\nKOA\n\n2/14/29\n\nPrk\n\nZz =\n\n21.6k §\n\nGOLD\n\nA\n\nKokos\n\n60.3k\n\n54.0k\n\n23.3k\n\n12.1k\n\ney\n\n9\n\nTOWERS\n\nA\n\n‘ @ 15.3k\n\n15.4K 1\"\n\nae\n\nAnyone\n\n@o¢°¢\n\nDRAKES\n\nVi\n\n4.ak\n\n5.7k\n\nKaseko\n\nHuron\n\ne\n\nho}\n\nVOID\n\ns\n\nELDERS\n\n5 AEE & BANS i («\n\n2 ww\n\n7.1K\n\nzabka\n\n2B non @ cy DIABLO\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +>\n& RIFT LEGENDS\n=\n10\n30:05\nLDS : DOC\nwin Lose\nmr =m’ 1413/32 on 12/7729\nee ee eT\nSa mm 9 TOWERS 4\n@) 15.3k 15.4k A | La\n— HE. «396 © © — DRAKES v\nal 4.ak Se 8 ———\nos me so vown e\nELDERS\n1S, GEE Me 1G BANS fej sy\nTAK\nfayrvr 6\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095898430639903193",
+      "url": "https://x.com/RiftLegendsPL/status/2095898430639903193",
+      "createdAt": "2026-09-04T15:35:00.000Z",
+      "text": "WSZYSTKO ALBO NIC DLA @Lodis_LDS I @DOCISK_ 🤯 https://t.co/e1890gvaC1",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095859794687225856",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRX9YQFa8AAdCWa.png",
+          "altText": null,
+          "width": 550,
+          "height": 415
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Ly\n\nF\n\nre\n\n)\n\nE>\n\ny});\n\ni\n\n3s\n\n(\n\ncS\n\nToy\n\n\"\n\nFiat\n\nPe LG\n\\s z y/ S\nb. . & ae\n~a » «Pr €\n| STS gy a\nBite » ee",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095894918879162685",
+      "url": "https://x.com/Lodis_LDS/status/2095894918879162685",
+      "createdAt": "2026-09-04T15:21:03.000Z",
+      "text": "Przekaz na dzisiaj jest jasny, liczy się tylko winek 🫡 https://t.co/yfEHSQFpt7",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2095894188684705792",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095894188684705792/img/_D8EGgILsDg1iZ1k.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2095874523757514944",
+      "url": "https://x.com/DOCISK_/status/2095874523757514944",
+      "createdAt": "2026-09-04T14:00:00.000Z",
+      "text": "Tak się wczoraj podpaliliśmy, że nawet epoka lodowcowa nie jest nam straszna. 🐲🔥\n\nRozgrzani zwarci i gotowi jedziemy walczyć o playoffy na @Lodis_LDS !\n\nWidzimy się na rifcie o 17:00⏲️\n\n#DOCISKGRAĆ https://t.co/NOyd2vKZwF",
+      "kind": "post",
+      "author": {
+        "username": "DOCISK_",
+        "name": "DOCISK",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2095868889175638017",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYFpnsbQAEsjdi.jpg",
+          "altText": null,
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2095856460714418329",
       "url": "https://x.com/RiftLegendsPL/status/2095856460714418329",
@@ -3340,424 +3756,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094115646896271699",
-      "url": "https://x.com/Lodis_LDS/status/2094115646896271699",
-      "createdAt": "2026-08-30T17:30:51.000Z",
-      "text": "Nieco późniejsze scrimy dziś, ale nie obyło się bez problemow - @zamuleklol tym razem walka z prądem i PTAKIEM... https://t.co/uZDZzp9Gxx",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2094115556790042625",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2094115556790042625/img/OEBRFd-RglxHbMmZ.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094095858509684743",
-      "url": "https://x.com/RiftLegendsPL/status/2094095858509684743",
-      "createdAt": "2026-08-30T16:12:13.000Z",
-      "text": "W sprawie dzisiejszej transmisji LEC.\n\nJuż wczoraj informowaliśmy o zamiarze wystartowania niedzielnej transmisji LEC o 16:15, przy serii TH vs MKOI. Decyzja o braku broadcastu z pierwszego meczu wynikała z potencjalnego nałożenia się LEC z transmisją LCK, która musiała odbyć się",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094059349710692581",
-      "url": "https://x.com/Lodis_LDS/status/2094059349710692581",
-      "createdAt": "2026-08-30T13:47:09.000Z",
-      "text": "Mamy tu kogoś wyczekującego 4 części remake’u Modern Warfare? 👀\n\nJuż w październiku będzie ona czekać na @KinguinNet, a z kodem „LODIS” zgarniecie wtedy 8% zniżki 😎\n\n#reklama https://t.co/uPXdimuTtZ",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094052365204590592",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ-RiAkWEAAB28E.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "KinguinNet",
-        "playerHandle": "KinguinNet",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094042998556233773",
-      "url": "https://x.com/RiftLegendsPL/status/2094042998556233773",
-      "createdAt": "2026-08-30T12:42:10.000Z",
-      "text": "dziś to chyba #jaskierlol\n\n#nervalol https://t.co/LPchVk7LlZ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094042781702340608",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ-I0LPWwAA4NoU.jpg",
-          "altText": null,
-          "width": 700,
-          "height": 700
-        }
-      ],
-      "extracted": {
-        "player": "rower",
-        "playerHandle": null,
-        "kda": null,
-        "kp": 2.0,
-        "gold": null
-      },
-      "ocrText": ":\n\n:\n\n;\n\nss\n\nR\n\nss\n\n&\n\n&\n\n®\n\n*t\n\nRenutzaTon | DAWEMOMEC ;\n\nOBSERVER |\n\n;\n\n;\n\n;\n\n\\NYDAWCA\n\n‘A\n\n4) TY\n\n‘a\n\nrower\n\n2 iP ae\nbf ds ‘ we ay |) eee Y\nREALIZATOR '>}._ DZWIEKOWIEC OBSERVER |\ne e e (\nWYDAWCA 4 KOMENTATOR =| 2% TY me\nROY a NY SAI. s",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094035027075989873",
-      "url": "https://x.com/RiftLegendsPL/status/2094035027075989873",
-      "createdAt": "2026-08-30T12:10:30.000Z",
-      "text": "Sprawa jest taka:\n\nOficjalnie mieliśmy startować o 16:15 od drugiej serii BO3, ale @JaskierBB sigiemka przejął studio i ogarnął transmisję sam 🫨\n\ntak więc widzimy się już teraz na LEC! https://t.co/CCNKuSZSwA",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094035019249401856",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ-BwV2WwAAUkeU.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "JaskierBB",
-        "playerHandle": "JaskierBB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Zs\n\nVW\n\nA\n\nAW\n\nPa )\n\nMATEHDAY\n\nNIEDZIELA SO SIERPNIA\n\nKG)\n\nWy\n\nés\n\nO K“G\n\nzabka\n\na @\n\nve A S . ae\nVWs \\ s 4\n\\ a ‘ \\ ‘ad . NV ;\n3 \\ | Sew 4\na Pot ie \\\n| 4\nNIEDZIELA 30 SIERPNIA\nwh\nGe FeO MoS\na on)",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093796484231618835",
-      "url": "https://x.com/RiftLegendsPL/status/2093796484231618835",
-      "createdAt": "2026-08-29T20:22:37.000Z",
-      "text": "POLAK RODAK Z KOLEJNYM ZWYCIĘSTWEM LEC!\n\nWidzowie, widzimy się już jutro - wyjątkowo od 16.15 👀 https://t.co/0zmM25zAuc",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093796378811994112",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ6oto8WkAAU2BR.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "ame",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Le\n\nView\n\na &\n\ni\n\n‘ie\n\n&\n\n&\n\nad,\n\nVAS\n\nSe\n\name.\n/ \\ | pa!\nI \\ ee\nLP; lie\nod ‘\nhg cst\nF OF",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093774969578594343",
-      "url": "https://x.com/RiftLegendsPL/status/2093774969578594343",
-      "createdAt": "2026-08-29T18:57:07.000Z",
-      "text": "Co za comeback na drugiej mapie od GX! 😮 https://t.co/ZraADlLUS3",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093774907645571072",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ6VL2nXMAAdKRl.jpg",
-          "altText": null,
-          "width": 1919,
-          "height": 1079
-        }
-      ],
-      "extracted": {
-        "player": "ms",
-        "playerHandle": null,
-        "kda": "9/12/24",
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "GX WIN NAVILOSS\n\nGAME TIME 32:06\n\n9/12/24\n\nD/A\n\n11/9/32\n\n62.8K\n\nGLK\n\nTLOK\n\n215K\n\nERS\n\n6\n\n\\\n\nou\n\n| hha\n\nTHK We\n\nA\n\n2AAK\n\nBARONS\n\n<<\n\n~~ 22.6K\n\nes\n\nFeu?\n\nBANS\n\n@ oa ae\n\nms\n\nGXWIN NAVILOSS\nGAME TIME 32-06 SS SS a\nce Sd\n\n—BRBK = BLK\nrT ae y * mK ALEK\ni’ 6 2 i\nnV) DRAKES ou om ome\n7 a 0 Se ee\n_ | a |\nwe ae’ PR me",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093745656900821190",
-      "url": "https://x.com/RiftLegendsPL/status/2093745656900821190",
-      "createdAt": "2026-08-29T17:00:39.000Z",
-      "text": "Karmine Corp z flipem na Elderze i domyka serię przeciwko SK Gaming 👀\n\nJuż za chwilę NA'VI vs GX https://t.co/E0D2jRQi7E",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2093745132688302080",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2093745132688302080/img/sQ6ZKFxJ3uAxERe8.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093745095983993120",
-      "url": "https://x.com/RiftLegendsPL/status/2093745095983993120",
-      "createdAt": "2026-08-29T16:58:25.000Z",
-      "text": "KLUCZOWI ZAWODNICY TEGO TYGODNIA!\n\nnwm jak Wy widzowie, ale ja się nie mogę doczekać gauntletu 👀 https://t.co/OPRj95fOlE",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093744742949343232",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ55wCXWUAAliYQ.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "yi",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\nV\n\n@ RIFT LEGENDS\n\n~{\\—\n\nif\n\n“\n\n»)\n\n\"\n\nCre\n\n7\n\nLorex:\n\njorore™\n\nEinStreamly\n\nA\n\nPROST\n\nPROSTE\n\nSTORIE\n\n| HISTO! ;\n\n\\ |\n\n—\n\n| we,\n\n|\n\n|\n\n=a\n\n.\n\nzabka\n\nwe pol @ oinaio\n\nMISTRZOSTWA POLSKI\n\nV\n-) Vn\nv= =~ RIFTLEGENDS ~N\ng\nyi\niM 4\nie '\nmV) of C “ St) mw ; \\\ncoe OS, ae) |\ni le. \\ - f aa SSD ~\nRa 1 we |\nA ey we! i 7\npigs y a 7 /)\nwy A Gib EE inStreamly\n(\\\\¢ pROST PROSTE\nA \\\\ HISTOR VW \\WeroRre\n\\ | — | Lal —_\n{ i® | q [ a\nx VEEK 4 lv VP\nCO ke Bue QD Hone",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093729864880701769",
-      "url": "https://x.com/RiftLegendsPL/status/2093729864880701769",
-      "createdAt": "2026-08-29T15:57:54.000Z",
-      "text": "CZAS NA FAZE 2 - GAUNTLET 🔥\n\nDrużyny zostały rozstawione na podstawie seedingów wywalczonych w 1 fazie. \nTeraz stawka jest jeszcze większa - 4 drużyny awansują do playoffów, a 4 pożegnają się z Summer Splitem! 👀\n\nWidzimy się już we wtorek! https://t.co/Px2BCCNUdv",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093727130597068800",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ5pu3PWEAA2duV.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "GAUNTLET",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "FOF\n\nGRYWEK\n\nBos\n\n1-4.09\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n93.09 /ms\n\n02.09 /m3\n\nLm\n\nLMs3\n\n24.09 / m7\n\n03.09 / m6\n\n[pss\n\nL MS\n\nWw MG\n\n02.09 /ma\n\nw M4\n\nPLAYOFFY\n\ne109 / ma\n\nw we\n\nWYGRANY M4 / M3 / MS / 17\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\nzabka\n\nOs RIFT @\n\nESS\n\nFax Do anato\n\nTs A\nGAUNTLET\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n& eee\n2 Lm\nWW L M3 04.09 / M7\n® ae L Ms\n@ w m6\nf wma\n@\nmeee fe Ww me porte Ela\n° ONmG SEEONU\nix &\n+ REL CO to Be Do nto +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093712888909152555",
-      "url": "https://x.com/RiftLegendsPL/status/2093712888909152555",
-      "createdAt": "2026-08-29T14:50:26.000Z",
-      "text": "Sobota dzień LEC-a, więc widzimy się za chwilę na strimku 😇 https://t.co/a8DqWggu8c",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093712817551532032",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ5ctu_XYAAaZJS.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "SS",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": ".\\\n\nGa\n\n» /\n\nYas\n\nAZ\n\nSOBOTA 29 SIERPNIA\n\nBs & ww\n\n17:00\n\naes\n\nzabka\n\ne--\n\n4\n\nfh f Fn\na se\nr\\ sil\nwe, AB a\n4\n? SOBOTA 29 SIERPNIA\nSS\nIBvZ wiv gS\n3 17:00 _ B03 19:15\na oo Ei ©",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093428132967481620",
-      "url": "https://x.com/RiftLegendsPL/status/2093428132967481620",
-      "createdAt": "2026-08-28T19:58:55.000Z",
-      "text": "Dobranoc widzowie, był to dzień:\n-&gt; pozbawienia Polaków szans na playoffy\n-&gt; pentakilla od Fiesty\n-&gt; ogólnie fajny\n\nWidzimy się jutro 👋 https://t.co/L6uytR2vID",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2093427969599410176",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ1ZpZrXEAA9-Gn.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "gy",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "\\ 3\n\nNAGNUN\n\nvg\n\nGy 2-2\n\nwa\n\nWU , = IX\n\nLeclerc\n\nie,\ngy\n\n., 7 IN\n\n4 e-1",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2093413942953386091",
-      "url": "https://x.com/RiftLegendsPL/status/2093413942953386091",
-      "createdAt": "2026-08-28T19:02:32.000Z",
-      "text": "PENTAKILL DLA FIESTY\nPENTAKILL DLA FIESTY\nPENTAKILL DLA FIESTY\nPENTAKILL DLA FIESTY\n\na jeszcze niedawno się z niego chichraliśmy 😲 https://t.co/KzKV5xI0yl",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2093413841866559489",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2093413841866559489/img/jnNGj6ennBE37wyn.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2095856460714418329",
+      "lastSeenId": "2095915542528053555",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2095835515207749748",
+      "lastSeenId": "2095913707108721016",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3797,7 +3806,7 @@
     },
     "DOCISK_": {
       "userId": "1692642128554278912",
-      "lastSeenId": "2095552394708783264",
+      "lastSeenId": "2095913396164006036",
       "initialized": true,
       "username": "DOCISK_",
       "name": "DOCISK",
