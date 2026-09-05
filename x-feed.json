@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-05T12:00:55Z",
+  "updatedAt": "2026-09-05T15:05:40Z",
   "posts": [
+    {
+      "id": "2096233135130488953",
+      "url": "https://x.com/RiftLegendsPL/status/2096233135130488953",
+      "createdAt": "2026-09-05T13:45:00.000Z",
+      "text": "No i było ich czworo...\n\nPRZED WAMI 4 NAJLEPSZE DRUŻYNY SUMMER SPLITU RIFT LEGENDS:\n\n@devils1gg  😈\n@_ForsakenGG_  🦹🏼\n@Lodis_LDS  ❄️\n@BombaTeamGG  💣 https://t.co/0DA5Cl2dSd",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2096021272811700224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRaQPg-agAAX4VM.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "devils1gg",
+        "playerHandle": "devils1gg",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "K\n\nnN\n\n& RIFT LEGENDS\n\nbiuivaees\n\nal\n\nae\n\na\n\nfom\n\nee\n\noo\n\n—_\n\niGLoTeX\n\nE inStre\n\ny\n\nma\n\nPROS\n\nAs\n\nGORE,\n\nRon:\n\n\\\\'\n\n‘i\n\nwf\n\nBOMBA\n\ninStreamly\n\nGe\n\nALIOR\n\n\\\n\nzabka\n\n@ @ DIABLO «+=\n\nMISTRZOSTWA POLSKI\n\n+\n\n& RIFT LEGENDS\n- SR a) aoe gal\nma! | > a o- —\n| a ~~\nSt ayy, Se\nEinStrey 7) wate\ni\\\\4 Bi “ee Ae ~ KSOP=E, th!\n\"BN y 4 ; EE\nTTR ie S er ™\nwy\ninStreamly sii\nED to om DB rune\n+ MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
     {
       "id": "2096184313582866896",
       "url": "https://x.com/RiftLegendsPL/status/2096184313582866896",
@@ -3724,44 +3756,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094463927832735759",
-      "url": "https://x.com/Lodis_LDS/status/2094463927832735759",
-      "createdAt": "2026-08-31T16:34:48.000Z",
-      "text": "Tak się prezentowała nasza końcówka regular splitu @RiftLegendsPL 🥇\n\nPora równie mocno powalczyć w gauntlecie od jutra 😎 https://t.co/ATHd8BIzDZ",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094463128708796416",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HREHHl3XUAA3y5C.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2096184313582866896",
+      "lastSeenId": "2096233135130488953",
       "initialized": true
     },
     "Lodis_LDS": {
