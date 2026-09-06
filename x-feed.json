@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-05T17:17:42Z",
+  "updatedAt": "2026-09-06T12:50:59Z",
   "posts": [
+    {
+      "id": "2096542439175504108",
+      "url": "https://x.com/Lodis_LDS/status/2096542439175504108",
+      "createdAt": "2026-09-06T10:14:04.000Z",
+      "text": "Wielkie podziękowania dla be quiet! za wsparcie oraz sprzęt, który będzie nam towarzyszył w podkręcaniu wyników! 😎\n\n#reklama https://t.co/GBQQEqjYqa",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2096542142759833602",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096542142759833602/img/tuBI9S4SQ1qNp9Ng.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2096282052832198833",
       "url": "https://x.com/RiftLegendsPL/status/2096282052832198833",
@@ -3733,38 +3765,6 @@
       },
       "ocrText": "+\n\nK\n\n+\n\n& RIFT LEGENDS\n\nsquicemeshiiaigae\n\naus\n\n_WTOREK 01.09\n\ncom\n\n-\n\n17:00\n\nvs\n\naS\n\n>\n\nASAP\n\ni\n\nA,\n\nAS\n\nVy\n\nSin VS\n\nRi\n\nr\n\n/ @ AGORERK\n\nHISD,\n\ny,\n\nay\n\ncwaias\n\n#epK0\n\nAuge @ “© biaBLo\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\noe / es ys,\nma is =\nad _ WTOREK 01.09 {.. J\n— 9 = y\nP SY S a y — &\ni My C4 ¥\nVy VS CEBULAK Te\n_ 7 at Ns r\nx z ASAP 4 / fe Y 5.\ntN ws j y\n\\ ww vs Ui y .\n= WSO\n= ae Coe\n+ MISTRZOSTWA POLSKI +",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094761455597801819",
-      "url": "https://x.com/Lodis_LDS/status/2094761455597801819",
-      "createdAt": "2026-09-01T12:17:04.000Z",
-      "text": "No nic, rozbrajaMY dziś po 19 @BombaTeamGG 😎\n\nOby Gauntlet @RiftLegendsPL był równie pomyślny co regular...\n\nWidzimy się u @Nervarieno i POV'ach chłopaków z officiala 🫡\n\n#LodisMrozić https://t.co/8Kjdon1xYE",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094760093736714240",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRIVNOzXQAASRl7.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3775,7 +3775,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2095913707108721016",
+      "lastSeenId": "2096542439175504108",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
