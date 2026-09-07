@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-06T12:50:59Z",
+  "updatedAt": "2026-09-07T12:19:35Z",
   "posts": [
+    {
+      "id": "2096924190376931366",
+      "url": "https://x.com/Lodis_LDS/status/2096924190376931366",
+      "createdAt": "2026-09-07T11:31:00.000Z",
+      "text": "Czas na debiut w Onslaught Champions Series - season 7! 😎\n\n⏰ 20:00 \n📺 ttv/worldoftanks https://t.co/RzOvycj4Vv",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2096923264094457856",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRnEmUWaUAA8InG.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2096542439175504108",
       "url": "https://x.com/Lodis_LDS/status/2096542439175504108",
@@ -3733,38 +3765,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094781713515687960",
-      "url": "https://x.com/RiftLegendsPL/status/2094781713515687960",
-      "createdAt": "2026-09-01T13:37:34.000Z",
-      "text": "JEDNA DRUŻYNA Z @BombaTeamGG &amp; @Lodis_LDS ZAKLEPIE DZIŚ SWOJE MIEJSCE W PLAYOFFACH, A JEDNA Z @AnonymoEsports &amp; @UP2UMEDIApl CEBULAKI POŻEGNA SIĘ ZE SPLITEM! 🔥 https://t.co/xgPFkwWOX4",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094781708147052544",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRIo3WwXUAAFL9I.jpg",
-          "altText": null,
-          "width": 960,
-          "height": 1200
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "+\n\nK\n\n+\n\n& RIFT LEGENDS\n\nsquicemeshiiaigae\n\naus\n\n_WTOREK 01.09\n\ncom\n\n-\n\n17:00\n\nvs\n\naS\n\n>\n\nASAP\n\ni\n\nA,\n\nAS\n\nVy\n\nSin VS\n\nRi\n\nr\n\n/ @ AGORERK\n\nHISD,\n\ny,\n\nay\n\ncwaias\n\n#epK0\n\nAuge @ “© biaBLo\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\noe / es ys,\nma is =\nad _ WTOREK 01.09 {.. J\n— 9 = y\nP SY S a y — &\ni My C4 ¥\nVy VS CEBULAK Te\n_ 7 at Ns r\nx z ASAP 4 / fe Y 5.\ntN ws j y\n\\ ww vs Ui y .\n= WSO\n= ae Coe\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3775,7 +3775,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2096542439175504108",
+      "lastSeenId": "2096924190376931366",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
