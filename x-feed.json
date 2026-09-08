@@ -1,6 +1,358 @@
 {
-  "updatedAt": "2026-09-08T13:31:39Z",
+  "updatedAt": "2026-09-08T17:26:10Z",
   "posts": [
+    {
+      "id": "2097375521159905709",
+      "url": "https://x.com/RiftLegendsPL/status/2097375521159905709",
+      "createdAt": "2026-09-08T17:24:26.000Z",
+      "text": "GOAATZKUU\n\nniby zwykłe 1 za 1, a tyle korzyści dla Sylasa 🫨 https://t.co/jzAD17oDTj",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097375450980831232",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097375450980831232/img/KobKbRz_ddrwPf-r.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097368691843232184",
+      "url": "https://x.com/RiftLegendsPL/status/2097368691843232184",
+      "createdAt": "2026-09-08T16:57:18.000Z",
+      "text": "halo @_ForsakenGG_ co tam sie z wami dzieje, skad to zmartwienie? dlaczego chcecie sie teraz poddać tylko dlatego, że raz czy drugi wam nie wyszło\n\n2-0 dla @BombaTeamGG, finał coraz bliżej 😮 https://t.co/3MfWksPtQs",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097368440126439424",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtZe-TaAAAfGhI.jpg",
+          "altText": null,
+          "width": 1916,
+          "height": 1078
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": "10/14/20",
+        "kp": null,
+        "gold": 635
+      },
+      "ocrText": "Boom 36:31\n\nFSK\n\nWIN\n\nLOSE\n\n®\n\n14/10/35\n\nKDA\n\n10/14/20\n\nte 28.8k\n\n28.9k\n\n\\\n\n68.6k\n\nGOLD\n\n63.5k\n\ner 19.2k\n\n14.6kK bia\n\nhe)\n\nf— Bk\n\nADK |\n\n7\n\nTOWERS\n\n3\n\n32.0k\n\ni)\n\nDRAKES\n\n” 6 6\n\n\\ @ 42.9k\n\nsee\n\ngeo\n\n75k jay\n\neo &\n\nvoid\n\ne\n\nrine\n\nede\n\n3.5k\n\nELDERS\n\ng\n\n‘a\n\nank\n\npow Vay excccere\n\nigbka\n\nRoe\n\n@® Home\n\nBRET | @\n\n+ . +\nBOOM 36:31 FSK ©\nw wIN LOSE\nd 14/10/35 KOA 10/14/20\neo 28.8k 28.9k ka a4 a ic\nCie mee 686k mC\n, = oer 19.7k tS 7 towers\nr a oa | fo 8 von s\nBeane! | gaa) pa eee\nas ___\npee ar = ~~“ = “i\no pectoral ae,\nank\n+ gin | CO erro ue CD Homo +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097367633305665924",
+      "url": "https://x.com/BombaTeamGG/status/2097367633305665924",
+      "createdAt": "2026-09-08T16:53:05.000Z",
+      "text": "2:0 mmm... 😗🗿 https://t.co/0ZEPDPhT7d",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097367513990660097",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtYpELbgAEDOfD.jpg",
+          "altText": null,
+          "width": 734,
+          "height": 734
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097367450090184911",
+      "url": "https://x.com/_ForsakenGG_/status/2097367450090184911",
+      "createdAt": "2026-09-08T16:52:21.000Z",
+      "text": "Color przecież Ty nie grasz Ornnem https://t.co/llLDi0uy9P",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097367196687089664",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtYWmIXQAAaZi0.png",
+          "altText": null,
+          "width": 524,
+          "height": 377
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097360632970363243",
+      "url": "https://x.com/BombaTeamGG/status/2097360632970363243",
+      "createdAt": "2026-09-08T16:25:16.000Z",
+      "text": "Tiki, tiki, tiki... 🎶\n\nJoker11 na posterunku 😎 https://t.co/rCSURcaZOX",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097360558303412224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtSUMOXAAA-paF.png",
+          "altText": null,
+          "width": 175,
+          "height": 206
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097354111024775417",
+      "url": "https://x.com/RiftLegendsPL/status/2097354111024775417",
+      "createdAt": "2026-09-08T15:59:21.000Z",
+      "text": "Xin balanced &lt;3 \nBomba na prowadzeniu - szybkie 3-0 czy Forsaken jeszcze się postawi? 👀 https://t.co/h6QonCjF6k",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097353907412639746",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097353907412639746/img/bqLRtyk76kDurEgQ.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097353859064635398",
+      "url": "https://x.com/BombaTeamGG/status/2097353859064635398",
+      "createdAt": "2026-09-08T15:58:21.000Z",
+      "text": "Sytuacja typu Bench3kk 😬\n\nPozdrawiamy selekcjonerze @nahovskylol 😉 https://t.co/mV0QnuMagr",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097353756794900480",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097353756794900480/img/NHWWDWfyZl6UQJ2Y.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "nahovsky",
+        "playerHandle": "nahovskylol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097352338813952057",
+      "url": "https://x.com/BombaTeamGG/status/2097352338813952057",
+      "createdAt": "2026-09-08T15:52:19.000Z",
+      "text": "No i ADI'os 😎\n\n1:0, widzimy się za chwilę na drugiej mapie 🫡 https://t.co/4TKupJnMUI",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097352214377340928",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097352214377340928/img/YZrVf4yg7gcEBQ4q.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097345729106723155",
+      "url": "https://x.com/BombaTeamGG/status/2097345729106723155",
+      "createdAt": "2026-09-08T15:26:03.000Z",
+      "text": "Firstblood na minekarmie po ganku od @adi1lol - lubim 😎 https://t.co/jt4huVznJN",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097345188926484480",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097345188926484480/img/trLnuv8DERmfCrzz.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "adi1",
+        "playerHandle": "adi1lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097345392467673155",
+      "url": "https://x.com/_ForsakenGG_/status/2097345392467673155",
+      "createdAt": "2026-09-08T15:24:43.000Z",
+      "text": "Panowie\nTo nie jest soloq w low masterze https://t.co/RCCiaepCf2",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097345021918031872",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtEL2rbsAASwN2.png",
+          "altText": null,
+          "width": 265,
+          "height": 92
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097337330176532899",
+      "url": "https://x.com/RiftLegendsPL/status/2097337330176532899",
+      "createdAt": "2026-09-08T14:52:40.000Z",
+      "text": "Eksperci są zgodni - dzisiaj zwycięstwo wpada w ręce @BombaTeamGG 💣\n\nAle byłoby śmiesznie, gdyby wszyscy się mylili...\nPrzekonamy się już za chwilę! https://t.co/II2FErtnnT",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097337147967574016",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRs9Bh7WkAAuafs.jpg",
+          "altText": null,
+          "width": 1600,
+          "height": 900
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "@ RIFT LEGENDS\n\npocovncse FTA PAER IRE ER\n\ne\n\nenv\n\nSHER\n\n‘muro\n\nconemPioraus\n\nPeoRD\n\naguTex,\n\nMapunYER\n\nWess\n\n&®\n\npe\n\na\n\nCS\n\n@-W @ &\n\na2\n\nao4\n\na\n\na\n\n& & Ww\n\na2\n\na\n\nDo<\n\nEx\n\nfer\n\n&\n\noom\n\n=\n\n(Fy)\n\n~ DIABLO:\n\nnet up\n\na= @\n\n+ @ RIFT LEGENDS +\nprenyneJe FER PS ER he\nTN ~ IG:\nERR ASH aura canrraus ete auex cure vest\n. ‘ 4 9 i 4\nvs © wWwowwwTrnrvysywv wv WY\n> 7 06UOlU 8 ——-i\nQutb SMM M RAM\nBREDVKEU! =\nMs\nLa é p )\nAe = & |\n* ane wD Re ED Home +",
+      "ocrVersion": 4
+    },
     {
       "id": "2097314794294374529",
       "url": "https://x.com/BombaTeamGG/status/2097314794294374529",
@@ -3406,363 +3758,12 @@
       },
       "ocrText": "EVERY MASTERPIECE\n\nR\n\nHAS ITS CHEAP COPY\n\nR\n\nEVERY MASTERPIECE\na. ee\nHAS ITS CHEAP COPY\no, ve",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094863395312853140",
-      "url": "https://x.com/RiftLegendsPL/status/2094863395312853140",
-      "createdAt": "2026-09-01T19:02:08.000Z",
-      "text": "POZDRAWIAMY ŚWIEBODZIN! 👋🏼\n\nLECIMY DO 3 GIERKI! https://t.co/wImmzrOWcQ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094863211056992256",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJy_cwWEAAqY5w.jpg",
-          "altText": null,
-          "width": 1333,
-          "height": 746
-        }
-      ],
-      "extracted": {
-        "player": "MINEMACIEK",
-        "playerHandle": null,
-        "kda": "1/3/15",
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "+LD\n\nL\n\ner Wy\n\nGRA2\n\natt\n\n1/3/15\n\nK/D/A\n\n0o/2/6\n\nLoe\n\nsos. (EN) sox\n\n+219 -219\n\nY\n\n\\\n\n206 (3) 129\n\npeSOPEEK\n\nHI\n\nRII\n\nthe =\n\n34 GSD =«\n\n4\n\nSWIEBODZIN | PL\n\nTRZCIANKA | PL\n\nKONRAD SZEWCZAK\n\nBEE | (GP tebe\n\nPes @ © pinsto\n\nMINEMACIEK\n\nMACIEJ WICHER\n\n*ERS re ESsM\nEF p & a BC om\nPATCH 26.17 ‘ =\nL. N a as 1/3/15 o/2/6 E ry\nee’\ncx =e EU\n(8) = ep\nv ys ee ( )\nPROSTE 5) 4\n} HISTORIEN’ 5 => 5) 129 ) —\nP ' 3.4 GSD =. ase —\nKASEKC BES iobko TRZCIANKA | PL\nrowan ee Be | eee @ fv MINEMAGCIEK",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094860137206788527",
-      "url": "https://x.com/Lodis_LDS/status/2094860137206788527",
-      "createdAt": "2026-09-01T18:49:11.000Z",
-      "text": "Chopin na klawiaturze i gierka do przodu 🫡\n\nReverse angle? 🙏 https://t.co/HWf2olnWvt",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2094860040389668864",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2094860040389668864/img/QnZWKwYTXpTOBPsg.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094859476847276534",
-      "url": "https://x.com/Lodis_LDS/status/2094859476847276534",
-      "createdAt": "2026-09-01T18:46:34.000Z",
-      "text": "Jest dobrze 😎 https://t.co/suqSQ35zL0",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2094859265227837440",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2094859265227837440/img/HeF3q6IkREyRpkBR.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094850990084129041",
-      "url": "https://x.com/Lodis_LDS/status/2094850990084129041",
-      "createdAt": "2026-09-01T18:12:51.000Z",
-      "text": "Dziękujemy @behavelol 🥹 https://t.co/raX8BptZ2V",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "behave",
-        "playerHandle": "behavelol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094850580262863253",
-      "url": "https://x.com/RiftLegendsPL/status/2094850580262863253",
-      "createdAt": "2026-09-01T18:11:13.000Z",
-      "text": "no i pograne dla @CzekoladLol ☠️ https://t.co/6jU1oHTq9f",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094850114510548992",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJnFIUWcAA2vw9.png",
-          "altText": null,
-          "width": 165,
-          "height": 151
-        },
-        {
-          "mediaKey": "3_2094850518321401857",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJncooXEAE8v-l.png",
-          "altText": null,
-          "width": 266,
-          "height": 237
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "a8\n\nA) |\n\naH /\n\nBh\n\nTUN\noie\n\n=\n\n|",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094845633983074578",
-      "url": "https://x.com/RiftLegendsPL/status/2094845633983074578",
-      "createdAt": "2026-09-01T17:51:34.000Z",
-      "text": "BOMBA DOCIĘŁA NA GAUNTLET? 👀\n\n@BombaTeamGG 1:0 @Lodis_LDS https://t.co/YSws3MbTtK",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094845295687356416",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJisozX0AAbdLe.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": "9/17/21",
-        "kp": 6.0,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\nLDS\n\n26: 3650\n\nOOoOWi\n\nLOSE\n\nWIN\n\njp 18:9K\n\nnmi\n\n16.8k Ne >\n\n9/17/21\n\nKOA\n\n17/9/34\n\najo\n\nCy 10.5k\n\n13.6k ban da\n\nGOLD\n\nrik\n\n‘adit\n\n48.9k\n\n54.5k\n\n15.6k\n\n12.6k 5\n\nolad\n\nMrozku\n\n2\n\nTOWERS\n\n7\n\nsay\n\n13.7K\n\n20.2k\n\nbr ei\n\nlek\n\nOdili\n\ni)\n\nDRAKES\n\n62\n\nPS 6.1k\n\n2.7K bi?\n\nKaseko\n\noe\n\nVOID\n\nroe\n\nELDERS\n\nty Ts\n\nx\n\ne\n\nBANS (35 (hs SF &\n\n5.6K\n\nzabka\n\n2B non @ © DIABLO\n\nMISTRZOSTWA POLSKI\n\n+> #REKLAMA +>\n& RIFT LEGENDS\n-\nwf.\nu.\n26:36\nLDS ~U BOON\nLose win\nT2179\nCa me 489k co 505K\nge 15.6kK 12.6K & . a Sa ee\ni Mg. 2 TOWERS 7\na 13.7K 20.2k \\ ta a\na i as (} DRAKES G2\ney 6.1k 7.7K bi, SaaS\nca ae ww tow\nELDERS\nty is, Se SY BANS 5 (he Sw\n‘|| ee\n5.6K\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094845311520809276",
-      "url": "https://x.com/Lodis_LDS/status/2094845311520809276",
-      "createdAt": "2026-09-01T17:50:17.000Z",
-      "text": "https://t.co/CV1Bmw7fPP",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094845275407888384",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJirdQXsAAWYbV.jpg",
-          "altText": null,
-          "width": 640,
-          "height": 278
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094839468817588625",
-      "url": "https://x.com/Lodis_LDS/status/2094839468817588625",
-      "createdAt": "2026-09-01T17:27:04.000Z",
-      "text": "First blood king @zamuleklol 👑 https://t.co/glhBVa3Qju",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2094839294867206144",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2094839294867206144/img/QSlI1e4gNcTgucUv.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094838850447147385",
-      "url": "https://x.com/AnonymoEsports/status/2094838850447147385",
-      "createdAt": "2026-09-01T17:24:36.000Z",
-      "text": "Dalej w grze😋 https://t.co/7KQ2vRdz45",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2094737131079888896",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2094737131079888896/img/vlU47OaXepRoKN_b.jpg",
-          "altText": null,
-          "width": 720,
-          "height": 1084
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094837097811046499",
-      "url": "https://x.com/RiftLegendsPL/status/2094837097811046499",
-      "createdAt": "2026-09-01T17:17:38.000Z",
-      "text": "SAME ENERGY 💪🏼\n\nRonaldo 🤝 @zamuleklol https://t.co/nwcQV0xtQo",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094836916105416704",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJbE4bWkAAbHt6.png",
-          "altText": null,
-          "width": 485,
-          "height": 367
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "¥\n\nzZamulek\n\n— ae > —-\n\n_@#\n\nra “\nzZamulek",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094835942024437948",
-      "url": "https://x.com/RiftLegendsPL/status/2094835942024437948",
-      "createdAt": "2026-09-01T17:13:03.000Z",
-      "text": "Rok Sobka zdążyliśmy już przełożyć, ale dziś definitywnie dzień @_iamsobek &amp; @AnonymoEsports \n\nW końcu wygrana seria dla chłopaków🏆 https://t.co/WUcgOpDSK6",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094835561814994944",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJZ2DTWsAABDHq.jpg",
-          "altText": null,
-          "width": 1200,
-          "height": 1200
-        }
-      ],
-      "extracted": {
-        "player": "iamsobek",
-        "playerHandle": "_iamsobek",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "oS\n\nROK SOBKA\n\n4\n\nef\n\nPome\n\n-\n\n¥\n\nDZIEN\n\nft.\n\nSOBKA\n\nme\n\nP \"— 4 ; +\n[> = ,\ny 4 ROK SOBKA\n. 4 Vs\n— . |\nOT OB\n‘we “\n- DZIEW\ni = SOBKA\nA wy\n-\" ia i we |",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2097308721063866587",
+      "lastSeenId": "2097375521159905709",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3775,7 +3776,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2097314794294374529",
+      "lastSeenId": "2097367633305665924",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3783,7 +3784,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2097300038867189926",
+      "lastSeenId": "2097367450090184911",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
