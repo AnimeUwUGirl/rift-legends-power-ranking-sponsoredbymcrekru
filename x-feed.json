@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-08T20:12:35Z",
+  "updatedAt": "2026-09-08T22:56:31Z",
   "posts": [
+    {
+      "id": "2097424197416833232",
+      "url": "https://x.com/_ForsakenGG_/status/2097424197416833232",
+      "createdAt": "2026-09-08T20:37:51.000Z",
+      "text": "Taki wygląd dzisiejszych costreamów https://t.co/roBsUfGXGA",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097423559849332736",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRuLnXRa0AA2UN-.png",
+          "altText": null,
+          "width": 160,
+          "height": 160
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2097414907117355161",
       "url": "https://x.com/RiftLegendsPL/status/2097414907117355161",
@@ -3735,29 +3767,6 @@
       },
       "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\n¢ |\n\nUP2ZU,\n\nULAR\n\nHATSU | JACOBMOLLY / SALAT\n\n| GNIOTEK\n\nraked\n\nzabka\n\nALIOR\n\nDIABLO\n\nsins\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\ny |\n7 ¢ | ‘a al\nUP2ZU,)) EDI A CEBULAKI a\n’ ff, \\ ~ R, e :\n: (> eas\ny a 4 A y =e “ga 4\n~ ree am\n< ‘ > Ws \\\n4 \\\n]\n|\nHATSU | JACOBMOLLY / SALATERKA Ml CHICASE | GMIOTEK\nTP tadx0\nff auior ~- DIABLO ss\n+> MISTRZOSTWA POLSKI >",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095088744743236078",
-      "url": "https://x.com/barczacaesports/status/2095088744743236078",
-      "createdAt": "2026-09-02T09:57:36.000Z",
-      "text": "Na kogo my tam dziś gramy?",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3784,7 +3793,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2097413909397242295",
+      "lastSeenId": "2097424197416833232",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
