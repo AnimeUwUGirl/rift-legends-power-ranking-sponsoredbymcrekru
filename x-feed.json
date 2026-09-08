@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-09-07T21:27:29Z",
+  "updatedAt": "2026-09-08T13:31:39Z",
   "posts": [
+    {
+      "id": "2097314794294374529",
+      "url": "https://x.com/BombaTeamGG/status/2097314794294374529",
+      "createdAt": "2026-09-08T13:23:07.000Z",
+      "text": "Plan na dziś jest prosty - Wjeżdżamy, rozjeżdżamy i wchodzimy do finału @RiftLegendsPL 💣😎 https://t.co/esMH2OuABI",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097312089610100736",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsmO8RXoAA4Sk5.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097308721063866587",
+      "url": "https://x.com/RiftLegendsPL/status/2097308721063866587",
+      "createdAt": "2026-09-08T12:58:59.000Z",
+      "text": "Zaczynamy play-offy i to z grubej rury, bo POJEDYNKIEM O AWANS DO FINAŁU (I WYJAZD NA LANA) 🚨\n\n@_ForsakenGG_ vs @BombaTeamGG - dziś o 17:00. https://t.co/XUiyjJ1bYC",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097306392386469888",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRshDUdaAAA4VW_.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n+ 7\n\nf\n\n-\n\na\n\n@ RIFT LEGENDS\n\nRone!\n\n17:00\n\nOz\n\nVS\n\nCry\n\nHARMONOGRAM\n\nWTOREK 08.09\n\nzabka\n\naK\n\nrefed\n\nauc @ © oiasto\n\n+\n\nMISTRZOSTWA POLSK'\n\n+ #REKLAMA +> 7\n’ Pig —_\n} , : y = [\n— we. = >\n‘ ee eS nl 7\nbo ~—\nwy)\nni @ RIFT LEGENDS Rone!\n@) 17:00\nvs &\nIS BOMBA,\nnanmonncnam\nPLAC\nWTOREK 08.09\nCD ere Bae Qh ome--\n> MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097300038867189926",
+      "url": "https://x.com/_ForsakenGG_/status/2097300038867189926",
+      "createdAt": "2026-09-08T12:24:29.000Z",
+      "text": "Krótka przerwa i znów do tej roboty https://t.co/pvZvJuXJKr",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097300032114622464",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsbRGmbgAAYW43.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2097069912854286525",
       "url": "https://x.com/Lodis_LDS/status/2097069912854286525",
@@ -3661,108 +3757,12 @@
       },
       "ocrText": "oS\n\nROK SOBKA\n\n4\n\nef\n\nPome\n\n-\n\n¥\n\nDZIEN\n\nft.\n\nSOBKA\n\nme\n\nP \"— 4 ; +\n[> = ,\ny 4 ROK SOBKA\n. 4 Vs\n— . |\nOT OB\n‘we “\n- DZIEW\ni = SOBKA\nA wy\n-\" ia i we |",
       "ocrVersion": 4
-    },
-    {
-      "id": "2094831989694013501",
-      "url": "https://x.com/RiftLegendsPL/status/2094831989694013501",
-      "createdAt": "2026-09-01T16:57:21.000Z",
-      "text": "No i gniotek pękł w salonie:((\n\n@UP2UMEDIApl CEBULAKI PRZEGRYWAJĄ 0:2 NA @AnonymoEsports I JAKO PIERWSZA DRUŻYNA ODPADAJĄ Z LETNIEGO SPLITU. https://t.co/KKCLufCC68",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2094831981099966464",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HRJWloGXYAAqVMm.jpg",
-          "altText": null,
-          "width": 480,
-          "height": 270
-        }
-      ],
-      "extracted": {
-        "player": "UP2UMEDIApl",
-        "playerHandle": "UP2UMEDIApl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094827004902130175",
-      "url": "https://x.com/RiftLegendsPL/status/2094827004902130175",
-      "createdAt": "2026-09-01T16:37:32.000Z",
-      "text": "POKAZ POLSKIEGO ORNNA OD @HeSSZero 🥊 https://t.co/vkinSqcxtt",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2094826468404502528",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRJRkvtWIAAsT3N.jpg",
-          "altText": null,
-          "width": 920,
-          "height": 1086
-        }
-      ],
-      "extracted": {
-        "player": "HeSSZero",
-        "playerHandle": "HeSSZero",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ix\n\nog a\n\n1)\n\nas\n\nS\n\nSA)\n\n—_— eh\n\nEBU\n\n=.\n\nUP2U\n\non\n\n2\n\nree.\n\nvy\n\noA\n\nA\n\nds\n\n=\n\n-, &=\n\nae 4\n\nSN\n\n=e\n\nSaar\n\nLL ,\nAKRS ;\nRe = WH eS eee\n{ , \\ eee <4 Oe\nEBULAKE\n3 ae gelpeu J ne\n-* os\nP 7 orn\n¥ = os a\nJax ‘ Z| 4\n| A\niS Seer\n‘® Sr\n, r 4 | ~. 4 ——\na ~\\NAS OS ed r ‘a\n- way =\nee. a",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2094816244935323950",
-      "url": "https://x.com/RiftLegendsPL/status/2094816244935323950",
-      "createdAt": "2026-09-01T15:54:47.000Z",
-      "text": ".@Raxxo_LoL WYGRYWA SWOJĄ 1 MAPĘ NA LATO! 🔥🔥🔥🔥🔥🔥🔥 https://t.co/7FuefUJikw https://t.co/aWVcL46PE7",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2094816232725712896",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HRJIQ81WkAAfLiy.jpg",
-          "altText": null,
-          "width": 300,
-          "height": 168
-        }
-      ],
-      "extracted": {
-        "player": "Raxxo",
-        "playerHandle": "Raxxo_LoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2097007707236549094",
+      "lastSeenId": "2097308721063866587",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3775,7 +3775,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2092702195275755751",
+      "lastSeenId": "2097314794294374529",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3783,7 +3783,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2095235958786384151",
+      "lastSeenId": "2097300038867189926",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
