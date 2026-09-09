@@ -1,6 +1,285 @@
 {
-  "updatedAt": "2026-09-09T12:17:55Z",
+  "updatedAt": "2026-09-09T16:52:29Z",
   "posts": [
+    {
+      "id": "2097728285044007347",
+      "url": "https://x.com/Lodis_LDS/status/2097728285044007347",
+      "createdAt": "2026-09-09T16:46:11.000Z",
+      "text": "Co widział @WooliteLoL po każdym dashu od Luciana: https://t.co/9gZDsScm1H",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097728165116256256",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097728165116256256/img/6IoXlVFoNnKt-Cme.jpg",
+          "altText": null,
+          "width": 576,
+          "height": 1024
+        }
+      ],
+      "extracted": {
+        "player": "Woolite",
+        "playerHandle": "WooliteLoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097727440135110908",
+      "url": "https://x.com/Lodis_LDS/status/2097727440135110908",
+      "createdAt": "2026-09-09T16:42:50.000Z",
+      "text": "Cytując klasyk: Shlatan wal... ✨\n\n2:0, utrzymujmy tę przewagę... 🙏 https://t.co/nxoRUHfacI",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097727221435871232",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097727221435871232/img/GbUMz_bSfHaF9-Eu.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097724682334015720",
+      "url": "https://x.com/RiftLegendsPL/status/2097724682334015720",
+      "createdAt": "2026-09-09T16:31:52.000Z",
+      "text": "CO ZA WJAZD OD ERDOTE I SHLATANA https://t.co/Gjz3m1EcwL",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097724614700871680",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097724614700871680/img/mtOqEw3I3FgtsHwA.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097720246224208315",
+      "url": "https://x.com/Lodis_LDS/status/2097720246224208315",
+      "createdAt": "2026-09-09T16:14:15.000Z",
+      "text": "Tasiemiec przejął kontrolę nad @zamuleklol w drugiej mapie niczym Venom 😎 https://t.co/HCXvbsgs90",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097720136178225152",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097720136178225152/img/Pq-Y40B_T3mWAIMh.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "zamulek",
+        "playerHandle": "zamuleklol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097712985653317995",
+      "url": "https://x.com/Lodis_LDS/status/2097712985653317995",
+      "createdAt": "2026-09-09T15:45:24.000Z",
+      "text": "Shockwave od @CzekoladLol na miarę gierki? ✅\n\n1:0, utrzymajmy tę przewagę... https://t.co/u06L1GBQYZ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097712898605039616",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097712898605039616/img/R0pDWXPBwj-1S0RR.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Czekolad",
+        "playerHandle": "CzekoladLol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097710045660135825",
+      "url": "https://x.com/Lodis_LDS/status/2097710045660135825",
+      "createdAt": "2026-09-09T15:33:43.000Z",
+      "text": "Clear na Heraldzie + lekka gra aktorska ze strony @TTobias_lol https://t.co/e0zd5upo9y",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097709933613506561",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097709933613506561/img/iZfneu7q04FYnfQS.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "TTobias",
+        "playerHandle": "TTobias_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097707664654409755",
+      "url": "https://x.com/RiftLegendsPL/status/2097707664654409755",
+      "createdAt": "2026-09-09T15:24:15.000Z",
+      "text": "Pierwsza krew dla @sinmivak 🔥 https://t.co/IQx4n05aS8",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2097707555103334400",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097707555103334400/img/Vx7pkO1d9htmY2yi.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "sinmivak",
+        "playerHandle": "sinmivak",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097697990257283485",
+      "url": "https://x.com/RiftLegendsPL/status/2097697990257283485",
+      "createdAt": "2026-09-09T14:45:48.000Z",
+      "text": "WYGRANY - awans na EMEA Masters + walka o tytuł\nPRZEGRANY - koniec gry w tym sezonie\n\nbiorę z waszych kont po 300 golda i słucham państwa",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097671116730835112",
+      "url": "https://x.com/RiftLegendsPL/status/2097671116730835112",
+      "createdAt": "2026-09-09T12:59:01.000Z",
+      "text": "ALE TO BĘDZIE MECZ 🔥\n\nPo jednej stronie @Lodis_LDS , które po raz pierwszy dotarło do playoffów Rift Legends Mistrzostw Polski\n\nPo drugiej @devils1gg, które od samego początku myśli o mistrzostwie\n\nDziś, 17.00, BO5 - przegrany odpada z playoffów.\nTTV/Nervarien https://t.co/9PlfGzezzF",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097670299596759041",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxsBgdaIAE67qr.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\na\n\n»)\n\n|\n\nB inStr im\n\na RIFTLEGENDS 4\n\n17:00\n\nVS\n\ninStreamly\n\nBos\n\nHARMONOGRAM\n\nSRODA 9.09\n\n@ 2\n\nzobka 8\n\nBANK\n\n»\n\nDIABLO «+\n\nMISTRZOSTWA PO!\n\n+ #REKLAMA + é\nion A\n| ei N - B\n| E inStream “WS RIFTLEGENDS» © i\n| we 17:00 = Y \\;\nvs |\ninStreamly Bos\nnanmowneeam\nPLAC\nSRODA 9.09\nCD tere Bae Qh no\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
     {
       "id": "2097656276087963912",
       "url": "https://x.com/devils1gg/status/2097656276087963912",
@@ -3506,278 +3785,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095177101116592389",
-      "url": "https://x.com/RiftLegendsPL/status/2095177101116592389",
-      "createdAt": "2026-09-02T15:48:42.000Z",
-      "text": ".@AnonymoEsports W STRACHU ☠️\n\n1:0 DLA @barczacaesports https://t.co/xyrCdjZx1Y",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095176976512204801",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HROQXAKWQAEESGM.png",
-          "altText": null,
-          "width": 851,
-          "height": 471
-        }
-      ],
-      "extracted": {
-        "player": "AnonymoEsports",
-        "playerHandle": "AnonymoEsports",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Lip\n\nA\n< Y\n\n. E f’ a ‘\n\na ae as :",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095164875353829746",
-      "url": "https://x.com/RiftLegendsPL/status/2095164875353829746",
-      "createdAt": "2026-09-02T15:00:07.000Z",
-      "text": "Halo @_ForsakenGG_, ocenka predykcji? 👀 https://t.co/lc5SFsQmhe",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095164792491347968",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HROFRzJaEAAi0Md.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "@ RIFT LEGENDS\n\nrnc ARR ARR RA\n\naRNTPOTRU\n\n8,\n\nvs @&\n\nQ @ @ @ @ @\n\n“@ &\n\nWe @®\n\nwow Ww Ww\n\ntd\n\nMw WW\n\nnod\n\nBRED)\n\nKGS\n\nra\n\nZaRIFT\n\n@-\n\n<a\n\n@® Hom\n\n+ @ RIFT LEGENDS >\nProc: FATA ARAR RR\n| @-@ @@8282GQe2O\nWe@ MMMM Ww i\n\n+ BEd rhe Fexe @D Pons» +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095163269967126701",
-      "url": "https://x.com/RiftLegendsPL/status/2095163269967126701",
-      "createdAt": "2026-09-02T14:53:44.000Z",
-      "text": "GRA 2",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095163267295432965",
-      "url": "https://x.com/RiftLegendsPL/status/2095163267295432965",
-      "createdAt": "2026-09-02T14:53:43.000Z",
-      "text": "GRA 1",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095163263428293083",
-      "url": "https://x.com/RiftLegendsPL/status/2095163263428293083",
-      "createdAt": "2026-09-02T14:53:42.000Z",
-      "text": "h-hej, tu admin...\n\nKto dziś wygrywa? 👇🏼 https://t.co/H4E7JFZJD7",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095162939644776452",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRODl8wXEAQywbI.png",
-          "altText": null,
-          "width": 459,
-          "height": 449
-        }
-      ],
-      "extracted": {
-        "player": "vial",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "= —\n\nvial\n\n=\n\nt.¢\\\n\n= = : =\n%\not We\n( ~z)\n; PF. ii D\nPs tum ¢\n= Sill",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095155460068245586",
-      "url": "https://x.com/barczacaesports/status/2095155460068245586",
-      "createdAt": "2026-09-02T14:22:42.000Z",
-      "text": "17:00 Bo3\nGauntlet Stage vs @AnonymoEsports https://t.co/otMimljamg",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095155232133283840",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRN8lUCbAAATiRJ.jpg",
-          "altText": null,
-          "width": 735,
-          "height": 913
-        }
-      ],
-      "extracted": {
-        "player": "AnonymoEsports",
-        "playerHandle": "AnonymoEsports",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095147107027914983",
-      "url": "https://x.com/barczacaesports/status/2095147107027914983",
-      "createdAt": "2026-09-02T13:49:30.000Z",
-      "text": "„Jedyną stałą w życiu jest zmiana” - Heraklit z Efezu\n\nWitamy @Pawelek_lol - naszego nowego wspierającego 💚🖤 https://t.co/Om5DCi6Trf",
-      "kind": "post",
-      "author": {
-        "username": "barczacaesports",
-        "name": "Barcząca Esports by Yumisu",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095146984600383488",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRN1FPlWMAAaJyi.jpg",
-          "altText": null,
-          "width": 1165,
-          "height": 1457
-        }
-      ],
-      "extracted": {
-        "player": "Pawelek",
-        "playerHandle": "Pawelek_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095146549659467984",
-      "url": "https://x.com/_ForsakenGG_/status/2095146549659467984",
-      "createdAt": "2026-09-02T13:47:18.000Z",
-      "text": "@NowyColor @Maxilol_ @DecayLoL_ @Syzyfekk @Lucker @NiceGuyBen_lol @RiftLegendsPL @devils1gg Dodatkowo będziemy mieli watchparty na kanale https://t.co/mXXnT9z1fd\nChętnie przyjmę jakiegoś subka z prime",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "NowyColor",
-        "playerHandle": "NowyColor",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095139500343120215",
-      "url": "https://x.com/AnonymoEsports/status/2095139500343120215",
-      "createdAt": "2026-09-02T13:19:17.000Z",
-      "text": "Czas na rewanż... \n\nOby tylko w meczu grali Ci co powinni grać🤭 https://t.co/9N3kBaXxKX",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095138241074634753",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRNtITaXIAEvEBw.jpg",
-          "altText": null,
-          "width": 3000,
-          "height": 4000
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2097414907117355161",
+      "lastSeenId": "2097724682334015720",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2097649681257877831",
+      "lastSeenId": "2097728285044007347",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
