@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-09T19:42:44Z",
+  "updatedAt": "2026-09-09T22:28:16Z",
   "posts": [
+    {
+      "id": "2097800246965219584",
+      "url": "https://x.com/Lodis_LDS/status/2097800246965219584",
+      "createdAt": "2026-09-09T21:32:08.000Z",
+      "text": "Zwycięstwo na obu frontach, zarówno w LoLu jak i w poczciwym World of Tanks 😎 https://t.co/2Wm9heRpaQ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097800036788662276",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRziBNKW8AQwM9t.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2097767716027322400",
       "url": "https://x.com/Lodis_LDS/status/2097767716027322400",
@@ -3754,29 +3786,6 @@
       },
       "ocrText": "—\n\nay OE,\n\na\n\n=>\n\n~\n\nbb |\n\nvat!\n\na0 =f\"\n\n&\n\n;\n\n} 5\n\n\\n\n\nEverywheré go.\n\n=\n\n-\n\nul\n\n¢\n\nMts\n\nen\n\naN\n\n_ | see his face...\n\n=\n\n——————S Ct\n\na Sl oe Ske.\nree,\n) a\nl fp Xo OSE\n~ «sal 4 “ee\n \\ )\\e,& —-\nEverywherelligo-.-\nFe €\n| Einstreamiy :\nie | WV\n, #. a si me, a\nSte jee S| ‘|e AG 4\n©“ see his face... ~\n————C",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095200244615012599",
-      "url": "https://x.com/RiftLegendsPL/status/2095200244615012599",
-      "createdAt": "2026-09-02T17:20:39.000Z",
-      "text": "@Maxilol_ @_ForsakenGG_ oznaczam bo w poście się...",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": "Maxilol",
-        "playerHandle": "Maxilol_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3787,7 +3796,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2097767716027322400",
+      "lastSeenId": "2097800246965219584",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
