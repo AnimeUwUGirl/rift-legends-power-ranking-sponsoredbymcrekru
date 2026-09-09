@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-08T22:56:31Z",
+  "updatedAt": "2026-09-09T12:17:55Z",
   "posts": [
+    {
+      "id": "2097656276087963912",
+      "url": "https://x.com/devils1gg/status/2097656276087963912",
+      "createdAt": "2026-09-09T12:00:03.000Z",
+      "text": "Dawno nie mogliśmy tego napisać, ale dziś zaczyna się nasza droga w playoffach @RiftLegendsPL \n\nPonownie mierzymy się z Lodis, ale tym razem w serii BO5. Startujemy o 17:00.\n\nPrzegrany kończy dziś swój sezon, więc stawka jest ogromna.\n\nZobaczymy czy dziś się dobrze wylosuje forma https://t.co/8cl9DeTw10",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097603815713456128",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwvjosawAAqaiV.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097649681257877831",
+      "url": "https://x.com/Lodis_LDS/status/2097649681257877831",
+      "createdAt": "2026-09-09T11:33:51.000Z",
+      "text": "Potencjalny 'Last Dance' - pytanie tylko dla kogo? \n\nEMEA stoi przed nami otworem, wystarczy tylko te diabły nieszczęsne przejść... \n\n#LodisMrozić https://t.co/ZNn67DS7M3",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097619894284296192",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRw-LiCboAAvveN.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097645357073142169",
+      "url": "https://x.com/_ForsakenGG_/status/2097645357073142169",
+      "createdAt": "2026-09-09T11:16:40.000Z",
+      "text": "Przejebane jest to życie https://t.co/12ij1MJlKS",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097645240366530560",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxVO3jWAAAgA5n.png",
+          "altText": null,
+          "width": 390,
+          "height": 323
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2097616177463742975",
+      "url": "https://x.com/Lodis_LDS/status/2097616177463742975",
+      "createdAt": "2026-09-09T09:20:43.000Z",
+      "text": "Nie samym Rift Legends człowiek żyje, pora wrócić na pole bitwy i się odkuć po ostatniej serii! 😎\n\n⏰ 20:00 \n\nLecimy! 💥 https://t.co/sgDmbXQXrm",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2097614030634647552",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRw42OPagAAwZwa.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2097424197416833232",
       "url": "https://x.com/_ForsakenGG_/status/2097424197416833232",
@@ -3639,134 +3767,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095134654437163193",
-      "url": "https://x.com/devils1gg/status/2095134654437163193",
-      "createdAt": "2026-09-02T13:00:01.000Z",
-      "text": "Dziś może być to dla nas wyjątkowy mecz w @RiftLegendsPL \n\nW przypadku wygranej zapewnimy sobie awans na EMEA Masters i wrócimy na ten jakże zacny turniej po 7 latach przerwy👀\n\nWidzimy się około 19:00 na transmisji. \n\nNa pewno będzie się działo! 😈 https://t.co/DQwldiRe4N",
-      "kind": "post",
-      "author": {
-        "username": "devils1gg",
-        "name": "devils.one",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095111833103253507",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRNVHKDWQAMm7Mn.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095131872770552095",
-      "url": "https://x.com/_ForsakenGG_/status/2095131872770552095",
-      "createdAt": "2026-09-02T12:48:58.000Z",
-      "text": "Format gauntleta w skrócie\nWygrana = Playoffy\nPrzegrana = GG go next https://t.co/f1AoRoFc5p",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095131867171172354",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRNnVSxWsAIQ63L.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095129363331137638",
-      "url": "https://x.com/RiftLegendsPL/status/2095129363331137638",
-      "createdAt": "2026-09-02T12:39:00.000Z",
-      "text": "Kto awansuje dziś na EMEA, a kto odpadnie z summer splitu, rozkminka? 🤔\n\n17:00 YT &amp; TTV/NERVARIEN 📺 https://t.co/4Yf241wWLE",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095103308847255552",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRNNW-uWEAAc2ET.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "cwaias",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "K\n\n@& RIFT LEGENDS\n\n“tcateanbi\n\nSRODA 02.09\n\nes\n\n17:00\n\naed #\n\nvs\n\nASAP\n\nvs\n\nE inStreamly\n\nMu\n\nu/f}\n\nlf\n\nzabka\n\naK\n\nee) Meu\n\ncwaias\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\ne ’ I Um al °\n \"GAUN DAV\noe sti » .¥ my z fis\ney, SRODA 02.09 —. ot\nee PP 17:00 Y _\n| ASAP (a)\n| Binstreamiy [pad Vs )HED 7 ‘ @ .\n\\S\\ Tae Uh\nCD txtke ae QS no\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095093392506065015",
-      "url": "https://x.com/RiftLegendsPL/status/2095093392506065015",
-      "createdAt": "2026-09-02T10:16:04.000Z",
-      "text": "Z wczorajszą przegraną @UP2UMEDIApl CEBULAKI jako pierwsi kończą swoją przygodę z Summer Splitem.\n\nDziękujemy za zostawione na Rifcie serducho! ❤️ https://t.co/RY0SyCsYxN",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095092497185677316",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRNDhqJWoAQekJs.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "UP2UMEDIApl",
-        "playerHandle": "UP2UMEDIApl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\n¢ |\n\nUP2ZU,\n\nULAR\n\nHATSU | JACOBMOLLY / SALAT\n\n| GNIOTEK\n\nraked\n\nzabka\n\nALIOR\n\nDIABLO\n\nsins\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\ny |\n7 ¢ | ‘a al\nUP2ZU,)) EDI A CEBULAKI a\n’ ff, \\ ~ R, e :\n: (> eas\ny a 4 A y =e “ga 4\n~ ree am\n< ‘ > Ws \\\n4 \\\n]\n|\nHATSU | JACOBMOLLY / SALATERKA Ml CHICASE | GMIOTEK\nTP tadx0\nff auior ~- DIABLO ss\n+> MISTRZOSTWA POLSKI >",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3777,7 +3777,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2097069912854286525",
+      "lastSeenId": "2097649681257877831",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3793,7 +3793,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2097424197416833232",
+      "lastSeenId": "2097645357073142169",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3801,7 +3801,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2095589008671748225",
+      "lastSeenId": "2097656276087963912",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
