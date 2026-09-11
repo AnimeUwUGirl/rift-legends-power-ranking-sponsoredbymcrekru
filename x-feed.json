@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-11T11:11:16Z",
+  "updatedAt": "2026-09-11T15:10:24Z",
   "posts": [
+    {
+      "id": "2098424582109540598",
+      "url": "https://x.com/RiftLegendsPL/status/2098424582109540598",
+      "createdAt": "2026-09-11T14:53:01.000Z",
+      "text": "Po emocjach na polskiej scenie wracamy na międzynarodowe wody - GX vs NAVI już za chwilę w LEC\n\nOglądajcie na TTV/Nervarien i w Polsat Games 😼 https://t.co/IhwF9c8Pet",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2098424270682558465",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR8ZwZoXkAECITG.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "aap",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "= Pras,\n\n_\n\n«S\n\ni\n\nocd\n\n: ee\n\nbos\n\n(a\n\n>“\\\\ater\n\nF~\n\nal\n\naap\n\n——_=\n\n—_\n\n- @\n\ny 2,\nma, Ve=\n_ | a ’ + ,\nOC, i\na J ‘\naN - ‘wa\n5\nps -\no 6),\n¢ later —A va\nFx] wc c\nKu emt).\nSis aC\n| we @] @ go",
+      "ocrVersion": 4
+    },
     {
       "id": "2098337721680891969",
       "url": "https://x.com/RiftLegendsPL/status/2098337721680891969",
@@ -3717,44 +3749,12 @@
       },
       "ocrText": "AMA\n\n& RIFT LEGENDS\n\nV/\n\n“cautniend\n\ni)\n\nwe\n\na2\n\noy\n\noP\n\nnd\n\nJ)\n\n>\n\na\n\n—S\n\nA\n\nPIATEK 04.09\n\nIGL'\n\nIR\n\nUNTO?\n\nNe\n\nA?\n\noo\n\n)\n\n)\n\nvs\n\nMe WRESTLING\n\nmains\n\nauior @ “DIABLO:\n\nMISTRZOSTWA POLSKI\n\n& RIFT LEGENDS\n= , Ly 1 | ae\nWGEAUN DAVES\n/ ~~ C7 -\n—— | =)\n. —\n\nay PIATEK 04.09 __ a WO\na z \\ciorex we\nFt reo (=) 17:00 - a\n\n+ MISTRZOSTWA POLSKI +",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095595788093014154",
-      "url": "https://x.com/RiftLegendsPL/status/2095595788093014154",
-      "createdAt": "2026-09-03T19:32:24.000Z",
-      "text": "TRZECIE NA CZTERY (3/4) MIEJSCE W PLAYOFFACH ZAJĘTE\n\n@devils1gg DOŁĄCZA DO PRZODOWNIKÓW LIGI 🔥 https://t.co/RKoZi1l6Y8",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095594947118252035",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRUMgGAWQAMUJUz.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "devils1gg",
-        "playerHandle": "devils1gg",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "~~\n\n| on |\n\n#REKLAMA\n\n> r\n\nwa\n\n6 RIFT LEGENDS\n\n4 Z\n\ns”\n\nq.\n\noe\"\n\nDWT INSTREAMLY\n\nx\n\n¥\n\nry\n\ne\n\nplies\n\ni\n\n~\n\nEins\n\ntreamly\n\nemiy |\n\nEinStreamly |\n\nV/.\n\nWWE |\n\n1BO | SHLATAN\n\nRDOTE\n\na\n\nzabka\n\nALIOR\n\nDIABLO +\n\nMISTRZOSTWA POLSKI\n\n. 2 , #REKLAM '* Ss > ‘\nN A d ’ “\nlea . ae\nP< 6 RIFT LEGENDS + eof\ny F\ny 4 ao. 9 £\n4 [ o gG. .\nJ eo? \\ call\nDUT INSTREAMLY r\nAy\nMa\n~< 2\n“ .. .\niyi i Sap > |\n2 oe Ye eRe .\n; eet i > =] aliens\n3 b 5 ict * a z f = yo\nc er ae, :\ni\n. wy Amun | all\nay Einstreamiy | HH iy\ny WY Wa we\n180 | SHLATAN | WANA DOLITE | ERDOTE\n& \" tgbko\n7A ns0R DIABLO =\n+ MISTRZOSTWA POLSKI >",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2098337721680891969",
+      "lastSeenId": "2098424582109540598",
       "initialized": true
     },
     "Lodis_LDS": {
