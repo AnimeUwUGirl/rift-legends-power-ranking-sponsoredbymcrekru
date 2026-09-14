@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-14T10:32:18Z",
+  "updatedAt": "2026-09-14T20:28:54Z",
   "posts": [
+    {
+      "id": "2099584836528636195",
+      "url": "https://x.com/RiftLegendsPL/status/2099584836528636195",
+      "createdAt": "2026-09-14T19:43:28.000Z",
+      "text": "Wszyscy go lubimy, prawda? 🥰\n\nSZEF @JaskierBB BĘDZIE HOSTEM PODCZAS ZBLIŻAJĄCEGO SIĘ EVENTU! 🔥 https://t.co/vkttjZY5Nc",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2099584359015550976",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSM42bcWkAAXyyv.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\n& RIFT LEGENDS\n\n~~\n\nST EVENTU\n\na\n\nzabka\n\non @ “@ oinio\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +\n4 @ RIFT LEGENDS 4a\nae’\nG's\n‘£\n| aaa |\n[Pd RIRG H\nrieked zabka Bee @ “@ oinio\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2099579943952748717",
+      "url": "https://x.com/Lodis_LDS/status/2099579943952748717",
+      "createdAt": "2026-09-14T19:24:01.000Z",
+      "text": "A już było dobrze... 🥀 https://t.co/s5FN6P7E7o",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2099579892513804288",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSM0ycbWkAAsCpy.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2099438015043039417",
       "url": "https://x.com/Lodis_LDS/status/2099438015043039417",
@@ -3685,81 +3749,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095874523757514944",
-      "url": "https://x.com/DOCISK_/status/2095874523757514944",
-      "createdAt": "2026-09-04T14:00:00.000Z",
-      "text": "Tak się wczoraj podpaliliśmy, że nawet epoka lodowcowa nie jest nam straszna. 🐲🔥\n\nRozgrzani zwarci i gotowi jedziemy walczyć o playoffy na @Lodis_LDS !\n\nWidzimy się na rifcie o 17:00⏲️\n\n#DOCISKGRAĆ https://t.co/NOyd2vKZwF",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095868889175638017",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYFpnsbQAEsjdi.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095856460714418329",
-      "url": "https://x.com/RiftLegendsPL/status/2095856460714418329",
-      "createdAt": "2026-09-04T12:48:14.000Z",
-      "text": "PIĄTECZEK PIĄTUNIO W KLUBIE Z @Veggie_LoL 🕺🏼 https://t.co/svMpreljlQ https://t.co/ShvXtFgQ38",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095856352987869186",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRX6P6wWcAIyrsR.jpg",
-          "altText": null,
-          "width": 1085,
-          "height": 1523
-        }
-      ],
-      "extracted": {
-        "player": "Veggie",
-        "playerHandle": "Veggie_LoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": ";\n\na\n\ni\n\nma\n\n9\n\nee\n\nco\n\ni\"\n\n3\n\n® eS\n\n—\n\n-—\n\n\\\n\n~\n\n7\n\nee\n\n? ~ \\ Wa va\nos ea { |\nve oo OO 2,\n” | :\n; , ic yl Aiton\na se wig? ae\nsz PONG a a /\nFi isi ae < gs ‘\n> << i 4 “ a S on\na ) a ' ’ ore\ni ie } Vl\n= SS , 7, Lf NM ee it\naS | é y ie a\nSN Z és\n' \\ \\\\s go aN\n“ q y ke :\nWi i & A\n= $ | f",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2098746996035121562",
+      "lastSeenId": "2099584836528636195",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2099438015043039417",
+      "lastSeenId": "2099579943952748717",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
