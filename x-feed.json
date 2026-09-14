@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-13T19:22:32Z",
+  "updatedAt": "2026-09-14T10:32:18Z",
   "posts": [
+    {
+      "id": "2099438015043039417",
+      "url": "https://x.com/Lodis_LDS/status/2099438015043039417",
+      "createdAt": "2026-09-14T10:00:03.000Z",
+      "text": "Wjeżdżamy, rozjeżdżamy 😎\n\n⏰ 19:00\n📺 ttv/WorldOfTanks https://t.co/V1baQ6N0vN",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2099418596438855682",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSKiFxuWUAIzgi4.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2099196688057479511",
       "url": "https://x.com/Lodis_LDS/status/2099196688057479511",
@@ -3717,38 +3749,6 @@
       },
       "ocrText": ";\n\na\n\ni\n\nma\n\n9\n\nee\n\nco\n\ni\"\n\n3\n\n® eS\n\n—\n\n-—\n\n\\\n\n~\n\n7\n\nee\n\n? ~ \\ Wa va\nos ea { |\nve oo OO 2,\n” | :\n; , ic yl Aiton\na se wig? ae\nsz PONG a a /\nFi isi ae < gs ‘\n> << i 4 “ a S on\na ) a ' ’ ore\ni ie } Vl\n= SS , 7, Lf NM ee it\naS | é y ie a\nSN Z és\n' \\ \\\\s go aN\n“ q y ke :\nWi i & A\n= $ | f",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095841555042959467",
-      "url": "https://x.com/RiftLegendsPL/status/2095841555042959467",
-      "createdAt": "2026-09-04T11:49:00.000Z",
-      "text": "Był to bardzo... jakby to ująć... ZMIENNY split od @barczacaesports, ale dostarczyli nam oni naprawdę solidną dawkę emocji 😜\n\nDziękujemy wszystkim Barczakom! 🫶🏼 https://t.co/qejvEWzIOu",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095645429564133376",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRU6ajxXUAAr8nw.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "barczacaesports",
-        "playerHandle": "barczacaesports",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\nCA\n\nESPORTSIEVAVUNISU\n\nIRCZA\n\nal\n\ney\n\nSe,\n\n4\n\nNY\n\na\n\ny\n\nWy),\n\n|\n\nUf\n\ng\n\nhe\n\n=\n\n| am\n\nes,\n\nBLESI.\n\nzabka\n\ncwarns\n\nGan.\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\n' Bs. y j Hl my, eee | / y a. r\na BARCZACA,ESPORTSIBVAVUNMISU :\n\na ‘\\. - La o\n— a |\nba \\ ae\n\n7) YN j | J zat j | Wy, 7 =\nUNA eg OMIA, ))\nNACE mY, WAH) \\| A |\n— 1 \\ ae | & | i) _—\n- a os ‘Sh Swi | — ’\noo > Se oo\noo i\na: = Be\nee i\nLis igbka &\n+> MISTRZOSTWA POLSKI >",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3759,7 +3759,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2099196688057479511",
+      "lastSeenId": "2099438015043039417",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
