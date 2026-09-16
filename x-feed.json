@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-15T17:45:22Z",
+  "updatedAt": "2026-09-16T09:51:27Z",
   "posts": [
+    {
+      "id": "2100158051269447967",
+      "url": "https://x.com/Lodis_LDS/status/2100158051269447967",
+      "createdAt": "2026-09-16T09:41:13.000Z",
+      "text": "Niby split @RiftLegendsPL za nami, ale warto sobie przypomnieć Ahri od @CzekoladLol 😎\n\nSeria przeciwko @devils1gg była historyczna pod tym względem xD https://t.co/CYMivYYyqC",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2100156385245736960",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100156385245736960/img/LUHEAtFCEZ70Su7h.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2099904154739110067",
       "url": "https://x.com/RiftLegendsPL/status/2099904154739110067",
@@ -3717,38 +3749,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095901240014102999",
-      "url": "https://x.com/RiftLegendsPL/status/2095901240014102999",
-      "createdAt": "2026-09-04T15:46:10.000Z",
-      "text": "PIERWSZA MAPA NA KONTO @Lodis_LDS 🔥 https://t.co/le3nwQU5Yc",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095901101530943488",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYi8oEaEAAq-Oe.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": "2/14/29",
-        "kp": 6.0,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\nLDS\n\n30:05\n\nDOC\n\nWIN\n\nLOSE\n\n‘ey’ 17.0k\n\ns\n\noma\n\nSK\n\n12.0k\n\nWIT3/32\n\nKOA\n\n2/14/29\n\nPrk\n\nZz =\n\n21.6k §\n\nGOLD\n\nA\n\nKokos\n\n60.3k\n\n54.0k\n\n23.3k\n\n12.1k\n\ney\n\n9\n\nTOWERS\n\nA\n\n‘ @ 15.3k\n\n15.4K 1\"\n\nae\n\nAnyone\n\n@o¢°¢\n\nDRAKES\n\nVi\n\n4.ak\n\n5.7k\n\nKaseko\n\nHuron\n\ne\n\nho}\n\nVOID\n\ns\n\nELDERS\n\n5 AEE & BANS i («\n\n2 ww\n\n7.1K\n\nzabka\n\n2B non @ cy DIABLO\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +>\n& RIFT LEGENDS\n=\n10\n30:05\nLDS : DOC\nwin Lose\nmr =m’ 1413/32 on 12/7729\nee ee eT\nSa mm 9 TOWERS 4\n@) 15.3k 15.4k A | La\n— HE. «396 © © — DRAKES v\nal 4.ak Se 8 ———\nos me so vown e\nELDERS\n1S, GEE Me 1G BANS fej sy\nTAK\nfayrvr 6\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3759,7 +3759,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2099579943952748717",
+      "lastSeenId": "2100158051269447967",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
