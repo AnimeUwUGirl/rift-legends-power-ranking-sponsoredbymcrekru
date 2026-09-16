@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-16T14:51:43Z",
+  "updatedAt": "2026-09-16T18:50:31Z",
   "posts": [
+    {
+      "id": "2100270737139318980",
+      "url": "https://x.com/RiftLegendsPL/status/2100270737139318980",
+      "createdAt": "2026-09-16T17:08:59.000Z",
+      "text": "Drugi finał z rzędu dla @_ForsakenGG_ 🔥 \n\nCzy tym razem również sięgną po zwycięstwo? 🤔 https://t.co/z6WhF1Dm4U",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2100270564011110401",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100270564011110401/img/KzNgpga1SlpZSUuk.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2100222925412470999",
       "url": "https://x.com/RiftLegendsPL/status/2100222925412470999",
@@ -3717,44 +3749,12 @@
       },
       "ocrText": "REGULAR\n\nGAUNTLET\n\nKIEDY MOZNA\n\nODPASE\n\nA\n\na\n\nKIEDY MOZNA\nREGULAR GAUNTLET pDPAse\n\\ .)\n: A\n£ >\nee =",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095913396164006036",
-      "url": "https://x.com/DOCISK_/status/2095913396164006036",
-      "createdAt": "2026-09-04T16:34:28.000Z",
-      "text": "Playoffy nie dla nas...\n\nGG @Lodis_LDS \n\nKończymy ten rok bez awansu, dziękujemy wszystkim fanom za wsparcie ❤️\n\n#DOCISKGRAĆ https://t.co/O7zBEMeoEF",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095912980655558657",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYtwFQa0AEtAVR.jpg",
-          "altText": null,
-          "width": 1600,
-          "height": 2000
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2100222925412470999",
+      "lastSeenId": "2100270737139318980",
       "initialized": true
     },
     "Lodis_LDS": {
