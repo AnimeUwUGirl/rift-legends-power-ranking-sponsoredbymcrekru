@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-16T09:51:27Z",
+  "updatedAt": "2026-09-16T14:51:43Z",
   "posts": [
+    {
+      "id": "2100222925412470999",
+      "url": "https://x.com/RiftLegendsPL/status/2100222925412470999",
+      "createdAt": "2026-09-16T13:59:00.000Z",
+      "text": "Tik tak, tik tak! ⏰\n\nJuż za 3 dni poznamy nowego Mistrza Polski Rift Legends! 🏆 https://t.co/gKm8v6GqWq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100177702158233600",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVUfi5WcAAXiep.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ALIOR",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\n43 RIFT LEGENDS\n\ny\n\nWUIELKIEGO FINALU\n\nKhe\n\nzabka\n\nALIOR\n\nDIABLO «+»\n\n+ #REKLAMA >\n6 RIFT LEGENDS\n| “2 |\nVVIELKIEGO FINALU\nreeked gcbie Exc DIABLO =»\n+ MISTRZOSTWA POLSKI +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100198828452331596",
+      "url": "https://x.com/Lodis_LDS/status/2100198828452331596",
+      "createdAt": "2026-09-16T12:23:15.000Z",
+      "text": "Raz na czołgu, raz pod czołgiem. Lecimy po swoje dziś! 😎 https://t.co/G31OCfZmVu",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100198424486322177",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVnVvlXoAErsmU.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100195568651735193",
+      "url": "https://x.com/Lodis_LDS/status/2100195568651735193",
+      "createdAt": "2026-09-16T12:10:17.000Z",
+      "text": "Dzień wniosków oraz zmian u @KasekoEB przed zbliżającym się EMEA Masters. https://t.co/EktcjzfruZ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2100195497172467712",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100195497172467712/img/wBOkdrGbZllhU04i.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "KasekoEB",
+        "playerHandle": "KasekoEB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100177509505483232",
+      "url": "https://x.com/RiftLegendsPL/status/2100177509505483232",
+      "createdAt": "2026-09-16T10:58:32.000Z",
+      "text": "Działają już od 40 lat, są partnerem technologicznym VCT EMEA w latach 2026/2027, a teraz wspierają wielki finał Rift Legends Mistrzostw Polski 🏆\n\nWpadnijcie na strefę GIGABYTE w ten weekend do Atlas Arena, zagrajcie w VALORANTa, weźcie udział w zabawach i konkursach i https://t.co/3z0XLpThYn",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100177428215726082",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVUPmYXgAI5Rhf.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "GIGABYTE",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\nTAURUS\n\nGIGABYTE™\n\nPARTNEREM FINALOW\n\n6 RIFT LEGENDS\n\n+ REKLAMA +\n: CAORUS\nGIGABYTE\nPARTNEREM FINALOVW\n6 RIFT LEGENDS\n+ MistRZOSTWa POL SK +",
+      "ocrVersion": 4
+    },
     {
       "id": "2100158051269447967",
       "url": "https://x.com/Lodis_LDS/status/2100158051269447967",
@@ -3621,145 +3749,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095912939400180165",
-      "url": "https://x.com/DOCISK_/status/2095912939400180165",
-      "createdAt": "2026-09-04T16:32:39.000Z",
-      "text": "Guys... https://t.co/f7xPsRBSBS",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095912915966517250",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYtsURWYAIsd8G.png",
-          "altText": null,
-          "width": 362,
-          "height": 104
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095912197163470925",
-      "url": "https://x.com/DOCISK_/status/2095912197163470925",
-      "createdAt": "2026-09-04T16:29:42.000Z",
-      "text": "Czat, co jest grane?\n\n#nervalol https://t.co/yIsFrjTsBM",
-      "kind": "post",
-      "author": {
-        "username": "DOCISK_",
-        "name": "DOCISK",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095912111037661190",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYs9drWwAYDa9a.png",
-          "altText": null,
-          "width": 596,
-          "height": 335
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095906522077307256",
-      "url": "https://x.com/Lodis_LDS/status/2095906522077307256",
-      "createdAt": "2026-09-04T16:07:09.000Z",
-      "text": "W or L widzowie? https://t.co/HDAsfmbrrG",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095906305428889601",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYnriGXIAE59PU.png",
-          "altText": null,
-          "width": 487,
-          "height": 157
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095903016171786566",
-      "url": "https://x.com/Lodis_LDS/status/2095903016171786566",
-      "createdAt": "2026-09-04T15:53:13.000Z",
-      "text": "Może i straciliśmy Barona, ale po tej walce wygrywamy 1. mapę! 😎 https://t.co/VmipH8XxmB",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2095901782195212288",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2095901782195212288/img/jKRouJDWZozQRHUn.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2099904154739110067",
+      "lastSeenId": "2100222925412470999",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2100158051269447967",
+      "lastSeenId": "2100198828452331596",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
