@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-16T18:50:31Z",
+  "updatedAt": "2026-09-16T22:04:35Z",
   "posts": [
+    {
+      "id": "2100302691339489604",
+      "url": "https://x.com/Lodis_LDS/status/2100302691339489604",
+      "createdAt": "2026-09-16T19:15:58.000Z",
+      "text": "Mamy to! 🫡 https://t.co/XiQySFbtU3",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100302600616783873",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSXGFl6XsAEbY2T.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2100270737139318980",
       "url": "https://x.com/RiftLegendsPL/status/2100270737139318980",
@@ -3717,38 +3749,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095913595137655215",
-      "url": "https://x.com/RiftLegendsPL/status/2095913595137655215",
-      "createdAt": "2026-09-04T16:35:15.000Z",
-      "text": "CZYLI JEDNAK @Lodis_LDS ROBIŁO TO DLA WIDZA!\n\nMISIE WYGRYWAJĄ NA @DOCISK_ I WCHODZĄ DO PLAYOFFÓW https://t.co/JMXMg3XbXq",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095913424131903492",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYuJ5Va0AQ7a50.png",
-          "altText": null,
-          "width": 823,
-          "height": 638
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "REGULAR\n\nGAUNTLET\n\nKIEDY MOZNA\n\nODPASE\n\nA\n\na\n\nKIEDY MOZNA\nREGULAR GAUNTLET pDPAse\n\\ .)\n: A\n£ >\nee =",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3759,7 +3759,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2100198828452331596",
+      "lastSeenId": "2100302691339489604",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
