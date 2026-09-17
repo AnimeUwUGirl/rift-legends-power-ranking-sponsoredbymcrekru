@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-09-16T22:04:35Z",
+  "updatedAt": "2026-09-17T15:17:00Z",
   "posts": [
+    {
+      "id": "2100604812928659951",
+      "url": "https://x.com/BombaTeamGG/status/2100604812928659951",
+      "createdAt": "2026-09-17T15:16:29.000Z",
+      "text": "Życzymy mu UDANYCH WAKACJI przede wszystkim 🤓☝️ https://t.co/97nJbkpCDf",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100602459848581140",
+      "url": "https://x.com/_ForsakenGG_/status/2100602459848581140",
+      "createdAt": "2026-09-17T15:07:08.000Z",
+      "text": "❗️ WAŻNE OGŁOSZENIE LANOWE ❗️\nChcieliśmy podziękować naszemu wspierającemu @Lucker za udział w letnim splicie Rift Legends\nŻyczymy mu jak najlepiej i rozwalenia Bomby na lanie\nZdjęcie niepowiązane https://t.co/D0cw3UzSww",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100594626428030976",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSbPru1WUAAfkzC.png",
+          "altText": null,
+          "width": 220,
+          "height": 199
+        }
+      ],
+      "extracted": {
+        "player": "Lucker",
+        "playerHandle": "Lucker",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100556285011734892",
+      "url": "https://x.com/RiftLegendsPL/status/2100556285011734892",
+      "createdAt": "2026-09-17T12:03:39.000Z",
+      "text": "Admin przypomina! ‼️\n\nZOSTAŁY TYLKO 2 DNI DO POJEDYNKU @_ForsakenGG_ &amp; @BombaTeamGG O TYTUŁ MISTRZA POLSKI! 🔥 https://t.co/a93L97TnV4",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100556279613734912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSaszp0XwAAJqIx.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\n43 RIFT LEGENDS\n\nWUIELKIEGO FINALU\n\n@\n\nzabka\n\nLIOR\n\nDIABLO:\n\n+ otean +\n6 RIFT LEGENDS\n| | —_ \\\nVVIELKIEGO FINALU\nCOD tabko Bee DIABLO =\n+ ee +",
+      "ocrVersion": 4
+    },
     {
       "id": "2100302691339489604",
       "url": "https://x.com/Lodis_LDS/status/2100302691339489604",
@@ -3653,108 +3740,12 @@
       },
       "ocrText": "FORMAT ROZGRYWEK\n\nBos\n\n1-4.09\n\ndenice\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n03.09 /ms\n\n02.09 /m3\n\n-'§ —\n\nb\n\n04.09 / m7\n\n03.09 / m6\n\nt-- @- ©\n\n02.09 /ma\n\ne109 / ma\n\n- & —\n\nPLAYOFFY\n\nM1 / M3 / MS / 7\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\n_igbka\n\ncoat\n\naREt\n\nFax Do anato\n\n+ ee ee a\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n® a us\nol ae\n@ = ae\na -@ { ve PEAYORRY,\n. Koniec sezonts\n7 BEE OD ee Re ® Pome i",
       "ocrVersion": 4
-    },
-    {
-      "id": "2095915542528053555",
-      "url": "https://x.com/RiftLegendsPL/status/2095915542528053555",
-      "createdAt": "2026-09-04T16:43:00.000Z",
-      "text": "W SWOJE URODZINY, SPREZENTOWAŁ SOBIE TOTALNY WYWÓZ PRZECIWNIKÓW!\n\nMVP DLA @mikusik11 🏆 https://t.co/bdi59vSShe",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095914367330275328",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYvAzBb0AAzu1L.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "mikusik11",
-        "playerHandle": "mikusik11",
-        "kda": "5/1/9",
-        "kp": 73.7,
-        "gold": 11495
-      },
-      "ocrText": "+\n\n*MVE-\n\n&\n\nYi\n\nSe\n\nVIV\n\nMikusik\n\na\n\ntics)\n\n[aD\n\na\n\nNIV\n\n5/1/9\n\n73.7%6\n\n&\n\n11495\n\n<1\n\na &\n\n@B* &\n\n_\n\now -\n\nSmikusik\n\nBkKokes\n\nBRET\n\nBY (Ecenos\n\n|\n\ntabka\n\n@® Hom\n\n*IMIVI ee\na OY ow\nMIV/ = <= 2 FOR\nal »> 5/9 73.7% |\nNe\nOb rx es\nVi DP @R@SK EF\nWy) .. ———_—\n\\Y ; —_\n+ ABEL | GD te hae DP onto +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095914310396522849",
-      "url": "https://x.com/RiftLegendsPL/status/2095914310396522849",
-      "createdAt": "2026-09-04T16:38:06.000Z",
-      "text": "WSZYSTKIEGO NAJLEPSZEGO DLA @mikusik11 🥳🥳🥳🥳 https://t.co/lvhx1sAVAM",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2095914204309958660",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2095914204309958660/img/ICiIIEwfWAHejfgR.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "mikusik11",
-        "playerHandle": "mikusik11",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095913707108721016",
-      "url": "https://x.com/Lodis_LDS/status/2095913707108721016",
-      "createdAt": "2026-09-04T16:35:42.000Z",
-      "text": "Wow, wygraliśmy na Hurona, yippie...\n\nOficjalnie wchodzimy do play-offów, ruda małpo - ja jeszcze żyję! https://t.co/3KXDIrUUmC",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095912874128318464",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYtp4aWIAAF-y3.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2100270737139318980",
+      "lastSeenId": "2100556285011734892",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3767,7 +3758,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2098135242028601345",
+      "lastSeenId": "2100604812928659951",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3775,7 +3766,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2098030776977691003",
+      "lastSeenId": "2100602459848581140",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
