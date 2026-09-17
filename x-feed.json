@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-09-17T15:17:00Z",
+  "updatedAt": "2026-09-17T19:13:50Z",
   "posts": [
+    {
+      "id": "2100649781638889771",
+      "url": "https://x.com/RiftLegendsPL/status/2100649781638889771",
+      "createdAt": "2026-09-17T18:15:10.000Z",
+      "text": ".@NowyColor czy @frajgo? 👀\n\nKtóry z nich zwycięży walkę na wyspie? 🏆 https://t.co/LLRtq9AXAO",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100649775817265152",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HScB12UXkAATo40.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "NowyColor",
+        "playerHandle": "NowyColor",
+        "kda": null,
+        "kp": 55.5,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA,\n\n+ 7.\n\n& RIFT LEGENDS\n\nKDA\n\nMATCHUP\n\nKP:\n\n\"za\n\ni)\n\nKP:\n\n1\n\noy\n\n55.5\n\ncsm\n\n8.4\n\nSOLO\n\n.\n\naa\n\noI\n\n4 be\n\n24.9\n\nCOLOR\n\nFRAJGO\n\nzabka\n\non @ “@ oingio\n\nMISTRZOSTWA POLSKI\n\n+\n\n+ See #REKLAMA \\ + i\na & RIFT LEGENDS\nget j\ng a |\n7 i\n= \\ =\n\"ot aa\n: 3 2.E ae yy | i a\nang ae | 2\n| A21% er: | 55.5%\na S “f\nUe 4\nos ‘al I y 14\n219% 24.9%\nCOLOR FRAJGO\nCD teeta xe OQ Ph nso\n+ MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100626836510101915",
+      "url": "https://x.com/RiftLegendsPL/status/2100626836510101915",
+      "createdAt": "2026-09-17T16:44:00.000Z",
+      "text": "Leapmotor wjeżdża do grona partnerów wielkiego finału Rift Legends Mistrzostw Polski 🏎️\n\nIch wyjątkową strefę spotkacie nieopodal naszej sceny podczas 37. Międzynarodowego Festiwalu Komiksu i Gier 👏\nNa miejscu weźmiecie udział w licznych zabawach, zagracie o nagrody i przede https://t.co/ZSURFBfbWX",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2100611927109992448",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSbfaw5XAAAI0NI.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "FORWARD",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\nip\n\nLEAPMOTOR\n\nA\n\nLEAP\n\nFORWARD\n\nPARTNEREM FINALOW\n\n& RIFT LEGENDS\n\nMISTRZOSTWA POLSKI\n\n#REKLAMA +> :\n| LEAP MOTOR\nA LEAP FORWARD\nPARTNEREM FINALOW\n& RIFT LEGENDS\n+ MisTRzosTWA POLSK! +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2100606923405955454",
+      "url": "https://x.com/RiftLegendsPL/status/2100606923405955454",
+      "createdAt": "2026-09-17T15:24:52.000Z",
+      "text": "Za chwilę będzie eksplozja je-e!\nPragnienia wybuchnie bomba ło-o!\n\nNo właśnie, kto tu w sobotę wybuchnie… https://t.co/TyO7nMl445",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2100606631398473728",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100606631398473728/img/Ge2NTUXcsxxk3oyQ.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2100604812928659951",
       "url": "https://x.com/BombaTeamGG/status/2100604812928659951",
@@ -3644,108 +3740,12 @@
       },
       "ocrText": "K\n\nnN\n\n& RIFT LEGENDS\n\nbiuivaees\n\nal\n\nae\n\na\n\nfom\n\nee\n\noo\n\n—_\n\niGLoTeX\n\nE inStre\n\ny\n\nma\n\nPROS\n\nAs\n\nGORE,\n\nRon:\n\n\\\\'\n\n‘i\n\nwf\n\nBOMBA\n\ninStreamly\n\nGe\n\nALIOR\n\n\\\n\nzabka\n\n@ @ DIABLO «+=\n\nMISTRZOSTWA POLSKI\n\n+\n\n& RIFT LEGENDS\n- SR a) aoe gal\nma! | > a o- —\n| a ~~\nSt ayy, Se\nEinStrey 7) wate\ni\\\\4 Bi “ee Ae ~ KSOP=E, th!\n\"BN y 4 ; EE\nTTR ie S er ™\nwy\ninStreamly sii\nED to om DB rune\n+ MISTRZOSTWA POLSKI >",
       "ocrVersion": 4
-    },
-    {
-      "id": "2096184313582866896",
-      "url": "https://x.com/RiftLegendsPL/status/2096184313582866896",
-      "createdAt": "2026-09-05T10:31:00.000Z",
-      "text": "Szczerze? Ale tak szczerze?\n\nTo był naprawdę dobry split od @DOCISK_  🔥\n\nDzięki sigiemki, dobrze się to oglądało. https://t.co/3edYsGlhXH",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2096020902622490624",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRaP596bcAAs9tW.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "DOCISK",
-        "playerHandle": "DOCISK_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n& RIFT LEGENDS\n\nDZIEKUJEMIY!\n\nee\n\n=)\n\nSys\n\nVx\n\n2\n\nwre\n\ne\n\neo\"\n\n@\n\nQ\n\n@\n\nwis\n\niN\n\n‘*\n\n.\n\nP\n\nbk\n\nwien @ “DIABLO ==\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA >\n& RIFT LEGENDS\n_—sODZIEKUJEMY!\na DOCISK\n% rr P Axe », a\ny og ES EM» yy R\n/ . ; “i pa eS i\n8 y  SVe =, A\nBe ‘J 5 : nee\n7 ia sf 2S\nVim fs mw AD Be\n— PIV’: AND Py pe\n| & A ss\nPe gl\nmee i Le ae\nBe NN NE i ae Ua reer\nCaaS SCE a\ni.\nele il Mee ee\nes a Seal\n| a ht\nBae Bo me\n+> MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095935675400933428",
-      "url": "https://x.com/RiftLegendsPL/status/2095935675400933428",
-      "createdAt": "2026-09-04T18:03:00.000Z",
-      "text": "ZROBILI TO.\n\n@Lodis_LDS PO RAZ PIERWSZY WCHODZĄ DO FAZY PLAY-OFFS. \n\nLEGENDY. https://t.co/GIPIj3sp7g",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095915242261782530",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYvzuZXIAIRP9o.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": 7.0,
-        "gold": null
-      },
-      "ocrText": "9 @\n\nble |\n\n#REKLAMA\n\n1 w&\n\n+\n\n> r\n\nhs\n\n& RIFT LEGENDS\n\n2 on\n\nP|\n\n_ GRATULACJES.\n\na\n\n»\n\nG\n\n3\n\nje\n\norex\n\na\n\n“*ROSTE\n\nPR)\n\n\\)\n\nIGorey\n\nAB STORIE\n\nPRA\n\nPROSTE — As\n\nISTORIE\n\nGE\n\nSINMIVA,\n\naD ~ ZAMULEK | KASEKO\n\nzgbka\n\nwoe anata»\n\nMISTRZOSTWA POLSKI\n\nYet an ae 4 “aS rae\nt > X #REKLAMA r re > ‘\nPa ; a Ae\n2. 6 RIFT LEGENDS i\nB Bes s\nP r ©\n7% v\n= XN\n+ GRATYLACJES.:\n7\" -\n.. A ‘\nINES ee aN Ly ee )\n- PRAY” B\\\\28 boy % Laprorie ff:\n\\@, PRA A 2\nWE mots 2s\nee |e istoRIE ~~~\nSIMMIVAK | MIKUSIK l on  ZAMULEK | KASEKO\nOO odio\n+> MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2095923595914674585",
-      "url": "https://x.com/RiftLegendsPL/status/2095923595914674585",
-      "createdAt": "2026-09-04T17:15:00.000Z",
-      "text": "KOŃCZYMY FAZE GAUNTLET!\n\nW PLAYOFFACH ZOBACZYMY @Lodis_LDS, @devils1gg, @_ForsakenGG_, @BombaTeamGG! \n\nCHWILA PRZERWY I LECIMY DALEJ! https://t.co/E3mdIFtc0d",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2095914962472390656",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRYvjcGX0AAW0EP.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "FORMAT ROZGRYWEK\n\nBos\n\n1-4.09\n\ndenice\n\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n\ne109 7m\n\n03.09 /ms\n\n02.09 /m3\n\n-'§ —\n\nb\n\n04.09 / m7\n\n03.09 / m6\n\nt-- @- ©\n\n02.09 /ma\n\ne109 / ma\n\n- & —\n\nPLAYOFFY\n\nM1 / M3 / MS / 7\n\nKONIEC SEZONU\n\nPRZEGRANY M27 M4 / MG /\n\n_igbka\n\ncoat\n\naREt\n\nFax Do anato\n\n+ ee ee a\nSEEDY #1 - #8 NA PODSTAWIE WYNIKOW FAZY I\n® a us\nol ae\n@ = ae\na -@ { ve PEAYORRY,\n. Koniec sezonts\n7 BEE OD ee Re ® Pome i",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2100556285011734892",
+      "lastSeenId": "2100649781638889771",
       "initialized": true
     },
     "Lodis_LDS": {
