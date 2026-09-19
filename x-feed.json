@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-19T17:56:59Z",
+  "updatedAt": "2026-09-19T22:27:42Z",
   "posts": [
+    {
+      "id": "2101418577702350999",
+      "url": "https://x.com/RiftLegendsPL/status/2101418577702350999",
+      "createdAt": "2026-09-19T21:10:06.000Z",
+      "text": "Dziękujemy za dzisiejszą wspólną zabawę na strefie GIGABYTE i do zobaczenia jutro 👀 https://t.co/VzdRxqIax0",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2101418325012062208",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101418325012062208/img/dCAOeqXzTpHqJ-x7.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 3840
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2101357792556691509",
       "url": "https://x.com/RiftLegendsPL/status/2101357792556691509",
@@ -3749,44 +3781,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2097707664654409755",
-      "url": "https://x.com/RiftLegendsPL/status/2097707664654409755",
-      "createdAt": "2026-09-09T15:24:15.000Z",
-      "text": "Pierwsza krew dla @sinmivak 🔥 https://t.co/IQx4n05aS8",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097707555103334400",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097707555103334400/img/Vx7pkO1d9htmY2yi.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "sinmivak",
-        "playerHandle": "sinmivak",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2101357792556691509",
+      "lastSeenId": "2101418577702350999",
       "initialized": true
     },
     "Lodis_LDS": {
