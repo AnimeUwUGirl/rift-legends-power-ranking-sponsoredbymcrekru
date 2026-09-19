@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-19T14:44:17Z",
+  "updatedAt": "2026-09-19T17:56:59Z",
   "posts": [
+    {
+      "id": "2101357792556691509",
+      "url": "https://x.com/RiftLegendsPL/status/2101357792556691509",
+      "createdAt": "2026-09-19T17:08:33.000Z",
+      "text": "https://t.co/Wg092eLVKm https://t.co/az3h819RUQ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101357720272027648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSmFto7WwAAXn-z.jpg",
+          "altText": null,
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "extracted": {
+        "player": "St",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "2, Wo\n\n7\n\na\n\nomy\n\n%\n\n=\n\n®\n\na\n\nTZ\n\n(ee\n\nCy 4\n\ny\n\n=\n\n“7\n\nv\n\nSt\n\n> > ee\n\nSa Ye. Sw) <\nop 222“ ; . r =\n=> ? — .” Jae\n2 alCOl ee S\nZo ae - i.\ntf Le oe ae. ie\nCa ae ae y -\nOP Paate j  . es\n\\y Gis 2 i x\n\\ area 3\nbe > ma >%\n=> a a\nG RO\n7 ; . Pee, OO... A",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101323921358303420",
+      "url": "https://x.com/RiftLegendsPL/status/2101323921358303420",
+      "createdAt": "2026-09-19T14:53:58.000Z",
+      "text": "Walka o mistrzostwo LEC oraz seeding na worldsach trwa! \n\nMKOI vs KC już zaraz 👀 https://t.co/VhWUOpJbDU",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2101323872188383232",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101323872188383232/img/KGmMPJYkY_UkNUeQ.jpg",
+          "altText": null,
+          "width": 824,
+          "height": 1260
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2101300455598862745",
       "url": "https://x.com/RiftLegendsPL/status/2101300455598862745",
@@ -3717,67 +3781,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2097697990257283485",
-      "url": "https://x.com/RiftLegendsPL/status/2097697990257283485",
-      "createdAt": "2026-09-09T14:45:48.000Z",
-      "text": "WYGRANY - awans na EMEA Masters + walka o tytuł\nPRZEGRANY - koniec gry w tym sezonie\n\nbiorę z waszych kont po 300 golda i słucham państwa",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097671116730835112",
-      "url": "https://x.com/RiftLegendsPL/status/2097671116730835112",
-      "createdAt": "2026-09-09T12:59:01.000Z",
-      "text": "ALE TO BĘDZIE MECZ 🔥\n\nPo jednej stronie @Lodis_LDS , które po raz pierwszy dotarło do playoffów Rift Legends Mistrzostw Polski\n\nPo drugiej @devils1gg, które od samego początku myśli o mistrzostwie\n\nDziś, 17.00, BO5 - przegrany odpada z playoffów.\nTTV/Nervarien https://t.co/9PlfGzezzF",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2097670299596759041",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRxsBgdaIAE67qr.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\na\n\n»)\n\n|\n\nB inStr im\n\na RIFTLEGENDS 4\n\n17:00\n\nVS\n\ninStreamly\n\nBos\n\nHARMONOGRAM\n\nSRODA 9.09\n\n@ 2\n\nzobka 8\n\nBANK\n\n»\n\nDIABLO «+\n\nMISTRZOSTWA PO!\n\n+ #REKLAMA + é\nion A\n| ei N - B\n| E inStream “WS RIFTLEGENDS» © i\n| we 17:00 = Y \\;\nvs |\ninStreamly Bos\nnanmowneeam\nPLAC\nSRODA 9.09\nCD tere Bae Qh no\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2101300455598862745",
+      "lastSeenId": "2101357792556691509",
       "initialized": true
     },
     "Lodis_LDS": {
