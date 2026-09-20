@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-09-20T17:38:42Z",
+  "updatedAt": "2026-09-20T20:44:11Z",
   "posts": [
+    {
+      "id": "2101745709137457577",
+      "url": "https://x.com/RiftLegendsPL/status/2101745709137457577",
+      "createdAt": "2026-09-20T18:50:00.000Z",
+      "text": "REPREZENTANCI RIFT LEGENDS NA EMEA MASTERS SUMMER 2026! 😎\n\nJUŻ JUTRO SWOJĄ PRZYGODĘ OD PLAY-INÓW ZACZNIE @Lodis_LDS! https://t.co/ReyDlcwfxt",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101738031128416257",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSrfmpRWkAEG7j9.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "REZENTANCI\n\n\"%S RIFT LEGENDS\n\n+\n\nay\n\nCOLOR\n\nFRAJGO\n\nSINMIVAK\n\nMAXI\n\nADIT\n\nMIKUSIK\n\nDECAY\n\nMROZKU\n\nCZEKOLAD\n\nSVZVFEK\n\nODIT1\n\nZAMULEK\n\nTBD\n\nMINEMACIEK\n\nKASEKO\n\nKk\n\nzobko ce GQ ainsi\n\n+\n\nMEA MASTERS SUMMER 2026,\n\na ae — ‘\n REPREZENTANCI\ne\n| \"& RIFT LEGENDS\nA\npee\n' &\nson +\n@) uy ie\n£\nCoLoR FRAJGO SINMIVAK\nMAXI ADII MIKUSIK\nDECAY MROZKU CZEKOLAD\nSYZVFEK ODITI ZAMULEK\nTBD MINEMACIEK KASEHKO\nCOD tepko Se Qe ttt\n> EMEA MASTERS SUMMER 2026 +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101736958447768020",
+      "url": "https://x.com/RiftLegendsPL/status/2101736958447768020",
+      "createdAt": "2026-09-20T18:15:13.000Z",
+      "text": "KOLEJNE MISTRZOSTWO LEC DLA G2 ESPORTS! 🏆\n\nSzybkie 3:0 na MKOI i do domu. https://t.co/IRHfruTea6",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101736699214573568",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSreZHgWMAA44oT.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ee",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\nuN i\n\nLD |\n\n“G2\\ES\n\nen\n\nyi\n\nVINA\n\nR 20\n\n<..\n\nyi\n\n(fli $s,\n\n‘my\n\ney\n\n1]\n\ngt\n\nTee:\n\nSe A\n\na\n\nPA\n\nva\n\nw\n\nEJ\n\nbk\n\nDIABLO =»\n\nKe)\n\nee\n\nLEC SUMMER 2026\n\n-. — rae at /\niVYGRYUVA LEI\nSU Li ‘R Fd | ys\n4 = q PF\nFS Prat h gr bile\nVana 4 en zy\nug , | eg . | me ey\nwey BF} aE\n@ v\n% 3:0 &\nCD zadka ER ue Dd DIABLO =:\na sescunnmeeee? ve",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101730568769597675",
+      "url": "https://x.com/RiftLegendsPL/status/2101730568769597675",
+      "createdAt": "2026-09-20T17:49:50.000Z",
+      "text": "Kogo z tych goacików wiedzielibyście w Tier 1? 👀 https://t.co/OeryYt77wd",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2101727009906811070",
       "url": "https://x.com/RiftLegendsPL/status/2101727009906811070",
@@ -3709,108 +3796,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2097741073292407241",
-      "url": "https://x.com/RiftLegendsPL/status/2097741073292407241",
-      "createdAt": "2026-09-09T17:37:00.000Z",
-      "text": "STOMP NA TRZECIEJ MAPIE\nLODIS DALEJ W WALCE O MISTRZOSTWO POLSKI! https://t.co/BhKbRmydIe",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2097741029965447168",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRysWjnaQAA7-9W.jpg",
-          "altText": null,
-          "width": 1919,
-          "height": 1079
-        }
-      ],
-      "extracted": {
-        "player": "h4",
-        "playerHandle": null,
-        "kda": "14/33/30",
-        "kp": null,
-        "gold": 179
-      },
-      "ocrText": "LDS\n\n26:19\n\nDWV'1\n\n\"@\n\nWIN\n\nLOSE\n\nWW\n\nh4\n\n33/14/79\n\nKDA\n\n14/33/30\n\neS 201k\n\n16.4k Se\n\nGOLD\n\n17.9kK\n\n63.3k\n\n52.5K\n\ny,\n\nha\n\nes\n\n33.7K\n\n16.8k (_\n\n14.0k it\n\n10\n\nTOWERS\n\n2\n\n”\n\nonan\n\noe\n\nuN 34.3kK\n\n26.2k\n\nNd\n\nweet\n\noe &%\n\nDRAKES\n\n6\n\n5.2k\n\nroe\n\nvoip\n\nes\n\n10.3k\n\nELDERS\n\n1\n\nwe\n\nSPAS Tae; BANS ey ay by OF ot\n\no\n\n___ ili\n\nzabka\n\nBux @® © ona\n\nsaronren sous\n\nREI | uD\n\n+ +\n@ Ds 26:19 DV1 4\nWIN Lose W\n: 33/14/79 KDA 14/33/30\nPm 200k ——s cs ———————\ncee a a\na = BJ 6 10 TOWERS 2\neee Po oe % DRAKES °\n— a. ——_._\n2 mak 5.2k 7) ero vob\n| | ee SS Eee\n10.3k ae EE\nAS Tats; BANS Oy Va by DF ot\n= peseleeetinetieo BLU Asee tt\n> SREL | CP ko Bu OD & on- +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097739919082795199",
-      "url": "https://x.com/Lodis_LDS/status/2097739919082795199",
-      "createdAt": "2026-09-09T17:32:25.000Z",
-      "text": "LODIS WYCHODZI NA LEGAL - JEDZIEMY NA EMEA! 😎\n\nTo wszystko dzięki Wam @sinmivak, @mikusik11, @CzekoladLol, @zamuleklol, @KasekoEB, @TTobias_lol ❤️\n\nHonorable mention: @Inspiredlol, @nahovskylol za sesje coachingowe 🫶\n\nJutro walczymy o LAN'a z @BombaTeamGG 🫡 https://t.co/6sYuwRDuSL",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2097739802758012928",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRyrPH6W4AAS44h.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "sinmivak",
-        "playerHandle": "sinmivak",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097734564143653158",
-      "url": "https://x.com/Lodis_LDS/status/2097734564143653158",
-      "createdAt": "2026-09-09T17:11:08.000Z",
-      "text": "Double kill dla ZAMI king 👑 https://t.co/M0DF5LulHO",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097734396006817792",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097734396006817792/img/FGkTPkzMpPgtrEbS.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2101727009906811070",
+      "lastSeenId": "2101745709137457577",
       "initialized": true
     },
     "Lodis_LDS": {
