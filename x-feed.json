@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-19T22:27:42Z",
+  "updatedAt": "2026-09-20T10:03:44Z",
   "posts": [
+    {
+      "id": "2101610304052367469",
+      "url": "https://x.com/Lodis_LDS/status/2101610304052367469",
+      "createdAt": "2026-09-20T09:51:57.000Z",
+      "text": "Całe TOP 3 @RiftLegendsPL na jednym zdjęciu 😎 https://t.co/vIiBwZJZqk",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101610297702129664",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSprblLWoAAxrFN.jpg",
+          "altText": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2101418577702350999",
       "url": "https://x.com/RiftLegendsPL/status/2101418577702350999",
@@ -3749,38 +3781,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2097710045660135825",
-      "url": "https://x.com/Lodis_LDS/status/2097710045660135825",
-      "createdAt": "2026-09-09T15:33:43.000Z",
-      "text": "Clear na Heraldzie + lekka gra aktorska ze strony @TTobias_lol https://t.co/e0zd5upo9y",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097709933613506561",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097709933613506561/img/iZfneu7q04FYnfQS.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "TTobias",
-        "playerHandle": "TTobias_lol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3791,7 +3791,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2101289076062044352",
+      "lastSeenId": "2101610304052367469",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
