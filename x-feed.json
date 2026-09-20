@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-20T10:03:44Z",
+  "updatedAt": "2026-09-20T14:09:52Z",
   "posts": [
+    {
+      "id": "2101663123266556181",
+      "url": "https://x.com/Lodis_LDS/status/2101663123266556181",
+      "createdAt": "2026-09-20T13:21:50.000Z",
+      "text": "Kurak wjedzie jak zły przed EMEA Masters 😎\n\nTrzeba się porządnie naładować przed meczami, a tutaj Proste Historie robią robotę. Dzięki! 🫡\n\n#reklama https://t.co/8GEvNiVQEF",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2101661574049992704",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101661574049992704/img/3mgLGedss0LE5ixO.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101662499292491889",
+      "url": "https://x.com/RiftLegendsPL/status/2101662499292491889",
+      "createdAt": "2026-09-20T13:19:21.000Z",
+      "text": "Odwiedziny w Orientarium ZOO Łódź po finałach Rift Legends Mistrzostw Polski? \nDla nas brzmi jak znakomity plan - który możecie zrealizować ze zniżką 😼\n\nOdbierzcie specjalny voucher na naszym wydarzeniu i ułóżcie plany na kolejne dni wraz z partnerem naszego wydarzenia https://t.co/9vxO7In4r0",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101662486743195649",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSqa5YgXoAESXR4.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ORIENTARIUM",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "ee\n\nBre.\n\n—\n\n—\n\nVid\n\n<=\n\ny/\n\nKi\n\n==\n\nia\n\nPegs\n\nag\n\nODWIED2 FINALY\n\n65 RIFT LEGENDS\n\n1 ZGARNIJ ZNIZKE DO\n\nORIENTARIUM\n\nZOO LODZ\n\n‘ais\n\nMISTRZOSTWA POLSKI\n\n. i pet\n& eH =~ y A = aX\n| WA cians ie\n=|.’ “ ae er Po = 4\n| ee\nay Lae eo ——————\nwa i ee aS\nN\n— FP ODWIEDZ FINALY YS ws\nSee a ¥\nd ss ee\n65 RIFTLEGENDS \\”\nI ZGARNIJ ZNIZKE DO\nORIENTARIUM\nZOO tODZ\n+ MISTRZOSTWA POLSKI >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101655924536390136",
+      "url": "https://x.com/RiftLegendsPL/status/2101655924536390136",
+      "createdAt": "2026-09-20T12:53:13.000Z",
+      "text": "NIE ZWALNIAMY TEMPA - EMEA MASTERS SUMMER 2026 STARTUJE JUŻ JUTRO! 🔥\n\n*Pierwsze dni realizowane będą zdalnie 🎙️ https://t.co/sQTfewPu3d",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2101655016272531456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSqUGi1XkAAtA6N.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "MEA",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "WY\n\nMEA\n\na\n\nMASTERS\n\n_ STARTUJE JUZ JUTRO!\n\nKk)\n\nzobko ce QQ ost\n\n+\n\nMEA MASTERS SUMMER 2026,\n\ni\nEMEA _\n= MASTERS\nip f = I\n_ STARTUJE JUZ JUTRO!\nCOD tepko Se Qe atte\n> EMEA MASTERS SUMMER 2026 +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2101625799975575569",
+      "url": "https://x.com/RiftLegendsPL/status/2101625799975575569",
+      "createdAt": "2026-09-20T10:53:31.000Z",
+      "text": "Zawodnicy wielkiego finału @LegendsAC_ już rozgrzewają się na scenie - bądźcie z nami już za chwilę na TTV/Nervarien https://t.co/VKRW4hbkwY",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2101625698586701824",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101625698586701824/img/UnMLSK_7NaXWV9Ku.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": "LegendsAC",
+        "playerHandle": "LegendsAC_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2101610304052367469",
       "url": "https://x.com/Lodis_LDS/status/2101610304052367469",
@@ -3653,145 +3781,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2097727440135110908",
-      "url": "https://x.com/Lodis_LDS/status/2097727440135110908",
-      "createdAt": "2026-09-09T16:42:50.000Z",
-      "text": "Cytując klasyk: Shlatan wal... ✨\n\n2:0, utrzymujmy tę przewagę... 🙏 https://t.co/nxoRUHfacI",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097727221435871232",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097727221435871232/img/GbUMz_bSfHaF9-Eu.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097724682334015720",
-      "url": "https://x.com/RiftLegendsPL/status/2097724682334015720",
-      "createdAt": "2026-09-09T16:31:52.000Z",
-      "text": "CO ZA WJAZD OD ERDOTE I SHLATANA https://t.co/Gjz3m1EcwL",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097724614700871680",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097724614700871680/img/mtOqEw3I3FgtsHwA.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097720246224208315",
-      "url": "https://x.com/Lodis_LDS/status/2097720246224208315",
-      "createdAt": "2026-09-09T16:14:15.000Z",
-      "text": "Tasiemiec przejął kontrolę nad @zamuleklol w drugiej mapie niczym Venom 😎 https://t.co/HCXvbsgs90",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097720136178225152",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097720136178225152/img/Pq-Y40B_T3mWAIMh.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2097712985653317995",
-      "url": "https://x.com/Lodis_LDS/status/2097712985653317995",
-      "createdAt": "2026-09-09T15:45:24.000Z",
-      "text": "Shockwave od @CzekoladLol na miarę gierki? ✅\n\n1:0, utrzymajmy tę przewagę... https://t.co/u06L1GBQYZ",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2097712898605039616",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2097712898605039616/img/R0pDWXPBwj-1S0RR.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2101418577702350999",
+      "lastSeenId": "2101662499292491889",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2101610304052367469",
+      "lastSeenId": "2101663123266556181",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
