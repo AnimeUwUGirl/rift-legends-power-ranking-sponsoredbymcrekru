@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-21T19:19:26Z",
+  "updatedAt": "2026-09-21T22:47:38Z",
   "posts": [
+    {
+      "id": "2102116651940376744",
+      "url": "https://x.com/RiftLegendsPL/status/2102116651940376744",
+      "createdAt": "2026-09-21T19:23:59.000Z",
+      "text": "SZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥 https://t.co/55OafRMA6t",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2102115644074324144",
+      "url": "https://x.com/Lodis_LDS/status/2102115644074324144",
+      "createdAt": "2026-09-21T19:19:59.000Z",
+      "text": "Piramidy ograne, jutro Francja 😎\n\nFrancja? To przeszłość... https://t.co/jTpeLGBZLX",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102115126530789376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSw2kfHX0AADTrr.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2102114844530888902",
       "url": "https://x.com/Lodis_LDS/status/2102114844530888902",
@@ -3767,72 +3822,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098085632333459893",
-      "url": "https://x.com/BombaTeamGG/status/2098085632333459893",
-      "createdAt": "2026-09-10T16:26:09.000Z",
-      "text": "Double kill dla @Mrozku, który gra Akali? 👍 https://t.co/43hfOBdZ27",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2098085499034558464",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HR3lpS5aYAAioHp.jpg",
-          "altText": null,
-          "width": 220,
-          "height": 194
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098081330525249792",
-      "url": "https://x.com/RiftLegendsPL/status/2098081330525249792",
-      "createdAt": "2026-09-10T16:09:04.000Z",
-      "text": "Pograli trochę 1vs1, zrobili kilka wywiadów, ale...\n\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT\nZAMULEK JEST JUŻ ONLINE, TRWA DRAFT",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102091274564051191",
+      "lastSeenId": "2102116651940376744",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2102114844530888902",
+      "lastSeenId": "2102115644074324144",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
