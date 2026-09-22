@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-21T22:47:38Z",
+  "updatedAt": "2026-09-22T12:32:49Z",
   "posts": [
+    {
+      "id": "2102374166540259653",
+      "url": "https://x.com/RiftLegendsPL/status/2102374166540259653",
+      "createdAt": "2026-09-22T12:27:16.000Z",
+      "text": "REPREZENTANCI RL W WALCE O MAIN STAGE EMEA! 🔥\n\n17:00 - MECZ O AWANS\n🇵🇱 @Yetiilol1 🆚 @Lodis_LDS  🇵🇱\n\n20:00 - MECZ O SPADEK\nP4 🆚 AP\n\nNa transmisji usłyszycie dziś @Pedro_Paprzycki  &amp; @B4RN0_  🎙️ https://t.co/n8YsQlsTQx",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102372780742148096",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS0g572WAAAA6mk.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Yetiilol1",
+        "playerHandle": "Yetiilol1",
+        "kda": null,
+        "kp": null,
+        "gold": 2209
+      },
+      "ocrText": "#REKLAMA\n\nINOGR\n\n22.09\n\n+\n\nMASTERS\n\nSe\n\n17:00\n\nLDS\n\nWy s\n\nVs\n\n20:00\n\n4\n\nVS\n\nAP\n\n| PYRAMID IV\n\nDIABLO\n\nKeke)\n\nZobka cn\n\n»\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n————=———Srl ee\n#REKLAMA +\n-HARMONWOGRA\n[= | 2209 -\nA 7 EMEA =\n~ ( MASTERS ”\n. ~ a >\n¥\n;\n20:00 =\nWY Pa OSAP ‘oe\nCO ere unr DIABLO\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2102372348661772799",
+      "url": "https://x.com/RiftLegendsPL/status/2102372348661772799",
+      "createdAt": "2026-09-22T12:20:02.000Z",
+      "text": ".@FresskowyLoL GOACIK 🐐\n\nTak trzymaj szefie! https://t.co/XUmWAFqqpb https://t.co/JOcwhATd3Y",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102372221733806080",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS0gZZYXoAAlEmK.jpg",
+          "altText": null,
+          "width": 1200,
+          "height": 630
+        }
+      ],
+      "extracted": {
+        "player": "Fresskowy",
+        "playerHandle": "FresskowyLoL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "N\n\n$QGg>\n\nii\n\n‘|\n\n\\\n\nKX\n\n2\n\nA\n\nRAL\n\n7 : : ry\nGer.\n\\ ” as .\nyy 7\nx,\nBag / |W \\ .\n\\ “Shy\n” j ZN\nf { (0S\n\\ fy) A)\n} if Ye LRAT\n, a\n\\ /\n_ | \\ x",
+      "ocrVersion": 4
+    },
     {
       "id": "2102116651940376744",
       "url": "https://x.com/RiftLegendsPL/status/2102116651940376744",
@@ -3776,58 +3840,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098087292342595935",
-      "url": "https://x.com/BombaTeamGG/status/2098087292342595935",
-      "createdAt": "2026-09-10T16:32:45.000Z",
-      "text": "O lol, pamiętali o nas. https://t.co/xwMCCgJHWk",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098087262495858867",
-      "url": "https://x.com/Lodis_LDS/status/2098087262495858867",
-      "createdAt": "2026-09-10T16:32:38.000Z",
-      "text": "O lol, pamiętali o nas. https://t.co/6ANcXTTToz",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102116651940376744",
+      "lastSeenId": "2102374166540259653",
       "initialized": true
     },
     "Lodis_LDS": {
