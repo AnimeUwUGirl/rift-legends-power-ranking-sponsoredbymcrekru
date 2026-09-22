@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-22T17:14:17Z",
+  "updatedAt": "2026-09-22T20:27:14Z",
   "posts": [
+    {
+      "id": "2102459649660219588",
+      "url": "https://x.com/RiftLegendsPL/status/2102459649660219588",
+      "createdAt": "2026-09-22T18:06:56.000Z",
+      "text": "LODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥\nLODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥\nLODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥\nLODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥\nLODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥\nLODIS W GŁÓWNYM ETAPIE EMEA MASTERS 🔥",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2102459608136843469",
+      "url": "https://x.com/Lodis_LDS/status/2102459608136843469",
+      "createdAt": "2026-09-22T18:06:47.000Z",
+      "text": "Veni, vidi, vici\n\nAwansujemy do Swiss Stage EMEA MASTERS! https://t.co/7RG1CHY06E",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102459399264411648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS1vry_WIAA_sOv.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2102426117651227108",
       "url": "https://x.com/Lodis_LDS/status/2102426117651227108",
@@ -3767,72 +3822,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098109325692526595",
-      "url": "https://x.com/BombaTeamGG/status/2098109325692526595",
-      "createdAt": "2026-09-10T18:00:18.000Z",
-      "text": "Pora umierać... https://t.co/jLhIPFC6qh",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098109031848239104",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR37DFdaYAAp7FF.jpg",
-          "altText": null,
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098105373831950539",
-      "url": "https://x.com/Lodis_LDS/status/2098105373831950539",
-      "createdAt": "2026-09-10T17:44:36.000Z",
-      "text": "Foto source: @Dylan__LoL",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "Dylan",
-        "playerHandle": "Dylan__LoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102413195612766250",
+      "lastSeenId": "2102459649660219588",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2102426117651227108",
+      "lastSeenId": "2102459608136843469",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
