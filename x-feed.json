@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-22T20:27:14Z",
+  "updatedAt": "2026-09-23T13:35:15Z",
   "posts": [
+    {
+      "id": "2102747564630241401",
+      "url": "https://x.com/_ForsakenGG_/status/2102747564630241401",
+      "createdAt": "2026-09-23T13:11:01.000Z",
+      "text": "Najgorzej zachowany sekret w Polskim esporcie\nPowitajcie naszego nowego Supporta na EMEA Masters https://t.co/mIcQe1a7pB",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102745163978211328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS5zlfgXgAAa9Vn.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2102743721842553215",
+      "url": "https://x.com/RiftLegendsPL/status/2102743721842553215",
+      "createdAt": "2026-09-23T12:55:45.000Z",
+      "text": "DZIŚ KIBICUJEMY @Yetiilol1 W WALCE O WYJŚCIE Z GRUPY! 🇵🇱\n\n🕖 19:00\nP4 VS SC\n\nZa mikrofonami potężny duet @JaskierBB &amp; @Kr0piak 🎙️ https://t.co/fwysY8dSvn",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2102743257797070848",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS5x2ibXkAA-hGD.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Yetiilol1",
+        "playerHandle": "Yetiilol1",
+        "kda": null,
+        "kp": null,
+        "gold": 2309
+      },
+      "ocrText": "#REKLAMA\n\nWOGRAN\n\n23.09\n\nm_\n\n+\n\na\n\nMASTERS\n\ne/7\n\nN\n\nat\n\nee\n\n19:00\n\n4\n\nVs\n\nsc\n\nF |\n\n| PYRAMID IV\n\nDIABLO\n\nKika\n\nzabka ‘@\n\n»\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA . ‘ +\nHARMONOGR\n> Sw\n=\" EMEA\na MASTERS Al\n\\ @ ? 7 gp\n(\nWa ' Z-\n| (\na =\n19:00 a\n@ P4 vs sc 4\nCO ere unr DIABLO =\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
     {
       "id": "2102459649660219588",
       "url": "https://x.com/RiftLegendsPL/status/2102459649660219588",
@@ -3767,67 +3831,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098112491028988067",
-      "url": "https://x.com/Lodis_LDS/status/2098112491028988067",
-      "createdAt": "2026-09-10T18:12:53.000Z",
-      "text": "Dobranoc maluszku 🥹 https://t.co/Y0v6xA2Wkh",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098112414965489664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR3-IAja4AA7LPm.png",
-          "altText": null,
-          "width": 571,
-          "height": 352
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098110273982697922",
-      "url": "https://x.com/RiftLegendsPL/status/2098110273982697922",
-      "createdAt": "2026-09-10T18:04:04.000Z",
-      "text": "Mamy wynik BOOM 1-1 LDS - wszystko tak naprawdę sprowadza się do BO3 🔥\n\nKto wygra?",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102459649660219588",
+      "lastSeenId": "2102743721842553215",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3848,7 +3857,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2102388640059916718",
+      "lastSeenId": "2102747564630241401",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
