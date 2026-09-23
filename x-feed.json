@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-23T17:57:24Z",
+  "updatedAt": "2026-09-23T23:55:16Z",
   "posts": [
+    {
+      "id": "2102886818006065418",
+      "url": "https://x.com/RiftLegendsPL/status/2102886818006065418",
+      "createdAt": "2026-09-23T22:24:21.000Z",
+      "text": "PARY NA SWISSA WYLOSOWANE \n\nCo sądzimy? 👀 https://t.co/Sy7slOcskF",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2102800409509110228",
       "url": "https://x.com/RiftLegendsPL/status/2102800409509110228",
@@ -3763,44 +3786,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098137971119575460",
-      "url": "https://x.com/RiftLegendsPL/status/2098137971119575460",
-      "createdAt": "2026-09-10T19:54:08.000Z",
-      "text": "Fenomenalna seria od @BombaTeamGG  zabezpiecza ich udział w wielkim finale 🔥\n\nRewanż na @_ForsakenGG_ za ostatnią BO5 i finał wiosny - będzie się działo 😼 https://t.co/JWj9NpIBZ8",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098137583242915843",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR4VA_sXMAMnWDP.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n+ 7\n\n—_\n\nN\n\nSOPEEK\n\n@ RIFT LEGENDS\n\ni\n\nyi\n\nou\n\nBOMBA WW FINALE\n\nrefed\n\nzabka\n\nauc @ “© DIABLO\n\nMISTRZOSTWA PO!\n\n+\n\n+ #REKLAMA + 4\n: rf ,\n—_ sree tind om\n5\nOMB: =5n\nBOMBA WW FINALE\nRUAV GE!\nCD tere Bae Qh no\n+ ears +",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102800409509110228",
+      "lastSeenId": "2102886818006065418",
       "initialized": true
     },
     "Lodis_LDS": {
