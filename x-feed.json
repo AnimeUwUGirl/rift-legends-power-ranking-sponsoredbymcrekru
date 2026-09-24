@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-09-24T09:31:08Z",
+  "updatedAt": "2026-09-24T14:23:06Z",
   "posts": [
+    {
+      "id": "2103118572851536274",
+      "url": "https://x.com/_ForsakenGG_/status/2103118572851536274",
+      "createdAt": "2026-09-24T13:45:16.000Z",
+      "text": "@egopeekpl https://t.co/exFQcyw5Up",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": "egopeekpl",
+        "playerHandle": "egopeekpl",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103118569307259289",
+      "url": "https://x.com/_ForsakenGG_/status/2103118569307259289",
+      "createdAt": "2026-09-24T13:45:15.000Z",
+      "text": "Może i nie wygraliśmy LANA za to Wy możecie wygrać koszulkę od @egopeekpl\n\n📝 Co trzeba zrobic? Napisz jaki jest twój ulubiony przedmiot w lolu (może być usunięty z gry)\n⏲️ Na zgłoszenia czekamy do 01.10 godz 23:55\n📜Regulamin znajdziecie w komentarzu https://t.co/jbnhrSPhlB",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103118565272322048",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS_HMTuWAAAxOex.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": "egopeekpl",
+        "playerHandle": "egopeekpl",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103099018633216139",
+      "url": "https://x.com/RiftLegendsPL/status/2103099018633216139",
+      "createdAt": "2026-09-24T12:27:34.000Z",
+      "text": "Zadowoleni? 👀 https://t.co/Sy7slOcskF",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103075982240362877",
+      "url": "https://x.com/AnonymoEsports/status/2103075982240362877",
+      "createdAt": "2026-09-24T10:56:02.000Z",
+      "text": "The @Ondo stocks are available on @arc via circle CCTP bridge\n\nhttps://t.co/Eaney8ysQ0 https://t.co/cAVeqcfUAu",
+      "kind": "post",
+      "author": {
+        "username": "AnonymoEsports",
+        "name": "Anonymo Esports",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": "Ondo",
+        "playerHandle": "Ondo",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2103001234349150622",
       "url": "https://x.com/AnonymoEsports/status/2103001234349150622",
@@ -3641,148 +3742,12 @@
       },
       "ocrText": "= Pras,\n\n_\n\n«S\n\ni\n\nocd\n\n: ee\n\nbos\n\n(a\n\n>“\\\\ater\n\nF~\n\nal\n\naap\n\n——_=\n\n—_\n\n- @\n\ny 2,\nma, Ve=\n_ | a ’ + ,\nOC, i\na J ‘\naN - ‘wa\n5\nps -\no 6),\n¢ later —A va\nFx] wc c\nKu emt).\nSis aC\n| we @] @ go",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098337721680891969",
-      "url": "https://x.com/RiftLegendsPL/status/2098337721680891969",
-      "createdAt": "2026-09-11T09:07:52.000Z",
-      "text": "Rewanż za 1. rundę playoffów i wiosnę - w wielkim finale  zobaczymy @_ForsakenGG_ oraz @BombaTeamGG 🏆\n\n📅 19 września, sobota\n📍Łódź, Atlas Arena\n🕛 12:00\n🎟️ Link w bio\n\nTo będzie gorące spotkanie 🔥 https://t.co/NRXztrtTt8",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098336241498411008",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR7JsbXXUAAgXpP.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n+ i\n\nys)\n\now\n\n=_—\n\n%\n\nar RIFTLEGENDS' > ==\n\nRone!\n\n12:00\n\n@e\n\nVS\n\nCy\n\nTEL KY FINAL\n\nSOBOTA, 19.09\n\naK\n\nzabka\n\n@ © oiasto\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +> 7\n/ ae eS f : a | -\nF _,\n2 Gk @ g\n) pe i (fZ ‘@RIFTLEGENDS ==! thd\nil @) 12:00\nwe 4\nVS BOMBA,\nwneLAT Fina\nPLAVG\nSOBOTA, 19.09\nCD tere Bae Qh no\n+ MISTRZOSTWA POLSKI +>",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098336856916009197",
-      "url": "https://x.com/Lodis_LDS/status/2098336856916009197",
-      "createdAt": "2026-09-11T09:04:26.000Z",
-      "text": "Niby człowiek się przespał z tą porażką, ale teraz dodatkowo sobie uświadomiłem, że nie dostaniemy nowego tańca od @KasekoEB i @TTobias_lol na LANIE😭 https://t.co/8X3gT1xF3I",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2098336472692883456",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2098336472692883456/img/RmCOflDB3LcRo1oO.jpg",
-          "altText": null,
-          "width": 540,
-          "height": 960
-        },
-        {
-          "mediaKey": "13_2098336736279728128",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2098336736279728128/img/kxZGeVidqNOcokVO.jpg",
-          "altText": null,
-          "width": 576,
-          "height": 1024
-        }
-      ],
-      "extracted": {
-        "player": "KasekoEB",
-        "playerHandle": "KasekoEB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098161960147619942",
-      "url": "https://x.com/Lodis_LDS/status/2098161960147619942",
-      "createdAt": "2026-09-10T21:29:27.000Z",
-      "text": "Kulisy mieszkania, do którego trafił @zamuleklol na czas BO5. https://t.co/kGFDGtGNrK",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2098161768480505856",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2098161768480505856/img/J2ThbHDam9LFb05K.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098140482450723180",
-      "url": "https://x.com/Lodis_LDS/status/2098140482450723180",
-      "createdAt": "2026-09-10T20:04:07.000Z",
-      "text": "La casa de papel @CzekoladLol edition. \n\nZiomek stracił zmysły, a mama @TTobias_lol podnosi drużynkę na duchu oh 🥹 https://t.co/QAkpFIs2fe",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2098140225079799820",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2098140225079799820/img/Y3e-z6mYDOQgc_oL.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2102886818006065418",
+      "lastSeenId": "2103099018633216139",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3803,7 +3768,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2102747564630241401",
+      "lastSeenId": "2103118572851536274",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3819,7 +3784,7 @@
     },
     "AnonymoEsports": {
       "userId": "1128596869872082944",
-      "lastSeenId": "2103001234349150622",
+      "lastSeenId": "2103075982240362877",
       "initialized": true,
       "username": "AnonymoEsports",
       "name": "Anonymo Esports",
