@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-23T23:55:16Z",
+  "updatedAt": "2026-09-24T09:31:08Z",
   "posts": [
+    {
+      "id": "2103001234349150622",
+      "url": "https://x.com/AnonymoEsports/status/2103001234349150622",
+      "createdAt": "2026-09-24T05:59:00.000Z",
+      "text": "Interop on Arc: liquidity hub\n\n We’ve registered 34 Ethereum assets with the official @circle CCTP bridge for cross-chain transfers.\n\nRead more from official docs: https://t.co/xq6HrYgNO0…\n\nThe bridge is fully managed by @circle, just like USDC CCTP, with no dependence on our",
+      "kind": "post",
+      "author": {
+        "username": "AnonymoEsports",
+        "name": "Anonymo Esports",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
+        "type": "team"
+      },
+      "media": [],
+      "extracted": {
+        "player": "circle",
+        "playerHandle": "circle",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2102886818006065418",
       "url": "https://x.com/RiftLegendsPL/status/2102886818006065418",
@@ -3754,38 +3777,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098138116297007603",
-      "url": "https://x.com/Lodis_LDS/status/2098138116297007603",
-      "createdAt": "2026-09-10T19:54:43.000Z",
-      "text": "‼️Facet stał się popularny po wytatuowaniu sobie na ramieniu WSZYSTKICH FINAŁÓW LANOWYCH @KasekoEB W OSTATNICH 4 SPLITACH 👀 https://t.co/HKWrRsb3WX",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2098137628818464768",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2098137628818464768/img/ZiCSgwR7DdEyqO69.jpg",
-          "altText": null,
-          "width": 720,
-          "height": 1280
-        }
-      ],
-      "extracted": {
-        "player": "KasekoEB",
-        "playerHandle": "KasekoEB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3828,7 +3819,7 @@
     },
     "AnonymoEsports": {
       "userId": "1128596869872082944",
-      "lastSeenId": "2102777150768099691",
+      "lastSeenId": "2103001234349150622",
       "initialized": true,
       "username": "AnonymoEsports",
       "name": "Anonymo Esports",
