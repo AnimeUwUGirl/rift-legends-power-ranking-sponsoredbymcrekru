@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-24T14:23:06Z",
+  "updatedAt": "2026-09-25T11:45:06Z",
   "posts": [
+    {
+      "id": "2103443455632654801",
+      "url": "https://x.com/RiftLegendsPL/status/2103443455632654801",
+      "createdAt": "2026-09-25T11:16:14.000Z",
+      "text": "TAKI OTO SKĄDINĄD PRZYSTOJNIAK OBCHODZI DZIŚ URODZINY! 🥳\n\nWszystkiego najlepszego @Pedro_Paprzycki 🫶🏻 https://t.co/QyZHDkgJwL",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103443448086839296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTDuq-hWwAAwIgj.jpg",
+          "altText": null,
+          "width": 2048,
+          "height": 2037
+        }
+      ],
+      "extracted": {
+        "player": "Pedro_Paprzycki",
+        "playerHandle": "Pedro_Paprzycki",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": ")\n\nfj\n\nif,\n\nHf\n\ne\n\n\\\n\n»\n\n=\n\n(\n\nTh yl\n: @ |\n\\ .@ :",
+      "ocrVersion": 4
+    },
     {
       "id": "2103118572851536274",
       "url": "https://x.com/_ForsakenGG_/status/2103118572851536274",
@@ -3710,44 +3742,12 @@
       },
       "ocrText": "PP\n\n(\n\nea?\n\n*\n\nha\n\nay\n\npat\n\nMee)» og\n: ee 1 am oe\nba. i\n‘ ths”\n’ oY)\n4 “\nvi Ww \\\n7 A 1 A~e\ntd",
       "ocrVersion": 4
-    },
-    {
-      "id": "2098424582109540598",
-      "url": "https://x.com/RiftLegendsPL/status/2098424582109540598",
-      "createdAt": "2026-09-11T14:53:01.000Z",
-      "text": "Po emocjach na polskiej scenie wracamy na międzynarodowe wody - GX vs NAVI już za chwilę w LEC\n\nOglądajcie na TTV/Nervarien i w Polsat Games 😼 https://t.co/IhwF9c8Pet",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098424270682558465",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR8ZwZoXkAECITG.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "aap",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "= Pras,\n\n_\n\n«S\n\ni\n\nocd\n\n: ee\n\nbos\n\n(a\n\n>“\\\\ater\n\nF~\n\nal\n\naap\n\n——_=\n\n—_\n\n- @\n\ny 2,\nma, Ve=\n_ | a ’ + ,\nOC, i\na J ‘\naN - ‘wa\n5\nps -\no 6),\n¢ later —A va\nFx] wc c\nKu emt).\nSis aC\n| we @] @ go",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2103099018633216139",
+      "lastSeenId": "2103443455632654801",
       "initialized": true
     },
     "Lodis_LDS": {
