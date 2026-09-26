@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-25T11:45:06Z",
+  "updatedAt": "2026-09-26T16:43:26Z",
   "posts": [
+    {
+      "id": "2103884388538970385",
+      "url": "https://x.com/BombaTeamGG/status/2103884388538970385",
+      "createdAt": "2026-09-26T16:28:21.000Z",
+      "text": "MISTRZ POLSKI WKRACZA DO GRY NA EMEA MASTERS!\n\nZaczynamy około 21. https://t.co/znlaJmHdQ2",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103884237778612224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTJ_kUFWcAAhlVa.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103848696236646612",
+      "url": "https://x.com/Lodis_LDS/status/2103848696236646612",
+      "createdAt": "2026-09-26T14:06:31.000Z",
+      "text": "Rozpoczynamy Swiss Stage!\n\nPierwszy mecz planowo 18:00. https://t.co/Rr4oMTiUFk",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103848683141758977",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTJfOwvWgAERmqB.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103847166766669943",
+      "url": "https://x.com/RiftLegendsPL/status/2103847166766669943",
+      "createdAt": "2026-09-26T14:00:26.000Z",
+      "text": "ZACZYNAMY SWISS STAGE EMEA!\n\n🎙️ @Pedro_Paprzycki, @Majutek_lol, @Kr0piak 🎙️\n\nRozkład na dziś ⬇️ https://t.co/ickqaNuDJX",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103847161351856128",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTJd2LoXYAAMqtA.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Pedro_Paprzycki",
+        "playerHandle": "Pedro_Paprzycki",
+        "kda": null,
+        "kp": null,
+        "gold": 2609
+      },
+      "ocrText": "#REKLAMA,\n\n)NOGRAM\n\n26.09\n\n18:00\n\nVLR\n\nVs\n\nLDS\n\nVv\n\nje\n\n19:00\n\n\\/ ucam\n\nVs\n\nHMB <¢\n\n20:00\n\nVS\n\n® FSK\n\ncen Ww\n\n21:00\n\nVS\n\nBOOM\n\nGSMC =)\n\nDIABLO\n\nKhe)\n\ngobi i@ ae\n\nVe)\n\n+\n\nEMEA MASTERS SUMMER\n\n#REKLAMA +>\nIRMONOGRAM\ny y\n’ CPA 18:00 |\naoe“ vs 6's\n| 19:00 y 1)\nucam VS HMB YR\n20:00 \\ WW)\nFSK vs  Ge2N y |\naH oom\nBOOM vs GSMCG\nCD ere unr DIABLO =:\n> EMEA MASTERS SUMMER 2026 a",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2103832130602033496",
+      "url": "https://x.com/_ForsakenGG_/status/2103832130602033496",
+      "createdAt": "2026-09-26T13:00:41.000Z",
+      "text": "Pamiętajcie\nPierwsza rozgrzewkowa https://t.co/I4vp9WZs58",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2103832123320717312",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTJQK2mWUAATe7r.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2103443455632654801",
       "url": "https://x.com/RiftLegendsPL/status/2103443455632654801",
@@ -3614,145 +3742,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2099438015043039417",
-      "url": "https://x.com/Lodis_LDS/status/2099438015043039417",
-      "createdAt": "2026-09-14T10:00:03.000Z",
-      "text": "Wjeżdżamy, rozjeżdżamy 😎\n\n⏰ 19:00\n📺 ttv/WorldOfTanks https://t.co/V1baQ6N0vN",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2099418596438855682",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSKiFxuWUAIzgi4.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2099196688057479511",
-      "url": "https://x.com/Lodis_LDS/status/2099196688057479511",
-      "createdAt": "2026-09-13T18:01:06.000Z",
-      "text": "Dzisiaj ekspresowo, stompik jak ta lala 😎 https://t.co/HFGiQbEK3e",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2099196675050905607",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSHYQQIXIAcGJlH.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2099091929711423624",
-      "url": "https://x.com/Lodis_LDS/status/2099091929711423624",
-      "createdAt": "2026-09-13T11:04:49.000Z",
-      "text": "Ostatnio udało nam się odkuć, ale od dziś śrubujemy wynik w tabeli 😎 https://t.co/9ZH4XOStRk",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2099091296686125062",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSF4abIXMAYQhtI.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2098746996035121562",
-      "url": "https://x.com/RiftLegendsPL/status/2098746996035121562",
-      "createdAt": "2026-09-12T12:14:11.000Z",
-      "text": "Sobota i LEC to już chyba klasyczek, więc widzimy się o 17.00 🫡 https://t.co/eyEBw9In1p",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2098745872612016128",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSA-QGLbQAAgDlO.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "td",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "PP\n\n(\n\nea?\n\n*\n\nha\n\nay\n\npat\n\nMee)» og\n: ee 1 am oe\nba. i\n‘ ths”\n’ oY)\n4 “\nvi Ww \\\n7 A 1 A~e\ntd",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2103443455632654801",
+      "lastSeenId": "2103847166766669943",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2102798321073144037",
+      "lastSeenId": "2103848696236646612",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3760,7 +3760,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2101997873046958493",
+      "lastSeenId": "2103884388538970385",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3768,7 +3768,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2103118572851536274",
+      "lastSeenId": "2103832130602033496",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
