@@ -1,6 +1,189 @@
 {
-  "updatedAt": "2026-09-27T17:40:58Z",
+  "updatedAt": "2026-09-27T21:16:42Z",
   "posts": [
+    {
+      "id": "2104282489900675492",
+      "url": "https://x.com/_ForsakenGG_/status/2104282489900675492",
+      "createdAt": "2026-09-27T18:50:15.000Z",
+      "text": "Aktualnie 0-2 na EMEA\nAle to jeszcze nie koniec https://t.co/azmjBlEqRD",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104282392743616512",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTPpr-6XoAAaVyF.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104281815699837361",
+      "url": "https://x.com/RiftLegendsPL/status/2104281815699837361",
+      "createdAt": "2026-09-27T18:47:35.000Z",
+      "text": "Jutro będzie lepiej, prawda? 😢\n\nDzień 0-3 dla ekip Rift Legends, ale EMEA Masters jeszcze się nie kończy - od jutra lecimy po odbitkę 🔥",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104277991367024972",
+      "url": "https://x.com/_ForsakenGG_/status/2104277991367024972",
+      "createdAt": "2026-09-27T18:32:23.000Z",
+      "text": "Nigdy nie wątpiłem https://t.co/p8Lepi2to0",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2104277913365331968",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104277913365331968/img/3s8vHYmxFosg1JBX.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104276065963343965",
+      "url": "https://x.com/_ForsakenGG_/status/2104276065963343965",
+      "createdAt": "2026-09-27T18:24:44.000Z",
+      "text": "Czy wiedzieliście że wydry używają kamieni do rozbijania małży?\nNo to tak samo nam rozbijają early game https://t.co/RDsEydIFf9",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104275330387120129",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTPjQ5lXkAEd7bs.png",
+          "altText": null,
+          "width": 800,
+          "height": 527
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104272404742582294",
+      "url": "https://x.com/_ForsakenGG_/status/2104272404742582294",
+      "createdAt": "2026-09-27T18:10:11.000Z",
+      "text": "Ale żeby od razu wyłączać streama po zobaczeniu draftu?\nPrzesada https://t.co/BtFCC8q1Y7",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104272203734822912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTPga55XsAAdbOG.jpg",
+          "altText": null,
+          "width": 1332,
+          "height": 848
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104267458882281536",
+      "url": "https://x.com/Lodis_LDS/status/2104267458882281536",
+      "createdAt": "2026-09-27T17:50:32.000Z",
+      "text": "Unlucky... https://t.co/9slu9R5f0G",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104267421599059969",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTPcEjDW0AEuTRM.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2104251933632446683",
       "url": "https://x.com/BombaTeamGG/status/2104251933632446683",
@@ -3550,209 +3733,17 @@
       },
       "ocrText": "#REKLAMA\n\n47\n\nzabka\n\nSOBOTA\n\nOTWARCIE STREFY\n\n\\\n\nfF wc | CO TO ZA POSTAG\n\n1V1 ARAM\n\n<z\n\nea 1V1 2 NERVARIENEM\n\nGeen omurs ARTYSTYCZNY\n\ntaco | KONKURS O FOTEL\n\n= «\n\nKALAMBURY\n\nFREE2PLAY\n\nez\n\n& RIFT LEGENDS\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +> ii\ny£a]) a]\n—\n\n| SOBOTA\n\n{ OTWARCIE STREFY\n\nee\n\nNN fF wc | CO TO ZA POSTAG\nea V1 Z NERVARIENEM\nGeen omurs ARTYSTYCZNY\ntaco | KONKURS O FOTEL\n\n& RIFT LEGENDS\n+ MISTRZOSTWA POLSKI +\n\n#REKLAMA\n\nzabka\n\nNIEDZIELA\n\nOTWARCIE STREFY\n\nSN\n\nGee seorkane 2 SILVANEM\n\nea KTO TO POWIEDZIAL\n\nAv/1\n\n== «\n\nGeen omurs ARTYSTYCZNY\n\nLORE C2ZY BAJKA\n\n«= §\n\n= «\n\n1V1 ARAM\n\nFREE2PLAY\n\nez\n\n& RIFT LEGENDS\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +> a\ny y£a]) a]\n—\nNIEDZIELA\n; OTWARCIE STREFY\n‘,\nee\nNS Gee seorkane 2 SILVANEM\nGR <T0. 70 Powiewziae\nGeen omurs ARTYSTYCZNY\nface | LORE C2Y BAJKA\n& RIFT LEGENDS\n+ MISTRZOSTWA POLSKI +",
       "ocrVersion": 4
-    },
-    {
-      "id": "2100985952772788313",
-      "url": "https://x.com/RiftLegendsPL/status/2100985952772788313",
-      "createdAt": "2026-09-18T16:31:00.000Z",
-      "text": "WIELKI FINAŁ JUŻ JUTRO! \nWIELKI FINAŁ JUŻ JUTRO!\nWIELKI FINAŁ JUŻ JUTRO!\nWIELKI FINAŁ JUŻ JUTRO!\nWIELKI FINAŁ JUŻ JUTRO! https://t.co/4UlxUhVdYZ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2100930290818469888",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSgA9-IX0AA0eBO.jpg",
-          "altText": null,
-          "width": 960,
-          "height": 1200
-        }
-      ],
-      "extracted": {
-        "player": "iy",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n43 RIFT LEGENDS\n\nDZi\n\nDO\n\nWUTELKIEGO FINALU\n\ncK)\n\nzabka\n\nALIOR\n\nDIABLO «+»\n\n> #REKLAMA >\n6 RIFT LEGENDS\n| iy |\n DZEN DO\nVVIELKIEGO FINALU\nreeked zgbka tes DIABLO ==»\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2100977708779835842",
-      "url": "https://x.com/BombaTeamGG/status/2100977708779835842",
-      "createdAt": "2026-09-18T15:58:14.000Z",
-      "text": "Na nieszczęście siwego @Mrozku już dawno w hotelu 😎 https://t.co/c7rrIr4jtG https://t.co/MMCfeVST8M",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2100977370593132544",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSgryX9WgAAbcl8.png",
-          "altText": null,
-          "width": 229,
-          "height": 123
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2100968642175279316",
-      "url": "https://x.com/Lodis_LDS/status/2100968642175279316",
-      "createdAt": "2026-09-18T15:22:13.000Z",
-      "text": "Znowu człowiek musi obejść się smakiem, ale przynajmniej można pokibicować ziomkom z @BombaTeamGG 😎💣 https://t.co/nCH0wZWX35",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2100967677791531008",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSgi-LdXcAAvgzw.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2100957515286724976",
-      "url": "https://x.com/RiftLegendsPL/status/2100957515286724976",
-      "createdAt": "2026-09-18T14:38:00.000Z",
-      "text": "HARMONOGRAM TRANSMISJI NA NAJBLIŻSZE 3 DNI ROZGRYWKOWE!🔥\n\nW TYM 3 WIELKIE FINAŁY:\nRIFT LEGENDS &amp; LEGENDS ACADEMY &amp; LEC 🏆 https://t.co/EUnlBY6AnW",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2100930187642720256",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSgA39xW0AAAM29.jpg",
-          "altText": null,
-          "width": 960,
-          "height": 1200
-        }
-      ],
-      "extracted": {
-        "player": "Wi",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": 2009
-      },
-      "ocrText": "#REKLAMA,\n\n6 RIFT LEGENDS\n\n20.09\n\n18.09\n\n19.09\n\naan\n\nPam\n\n@\n\nme\n\nDIABLO «+\n\n+\n\nWi\n\n+\n\n+ REKLAMA +\n€ RIFT LEGENDS\ni ey 29.99\nA\nHARMONOGRAM \\\nCED tepko Hv ® vinsto =»\n+ MisrazosTwa POL Sic +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2100939181329383606",
-      "url": "https://x.com/_ForsakenGG_/status/2100939181329383606",
-      "createdAt": "2026-09-18T13:25:09.000Z",
-      "text": "Topowy sprzęt oraz topowa przestrzeń\n\nWłaśnie tym jest @BaseStackPolska który zostaje naszym sponsorem\n\nW ramach współpracy organizujemy strefę Forsaken w Łódzkim BaseStack w tę sobotę od godziny 20\n\nZnajdziecie tam naszych graczy oraz będziecie mogli zakupić nasz merch\n\nTo nie https://t.co/zbCwFpjK2x",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2100939173876191232",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSgJDCGX0AAV69T.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "BaseStackPolska",
-        "playerHandle": "BaseStackPolska",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2100938239020319192",
-      "url": "https://x.com/Lodis_LDS/status/2100938239020319192",
-      "createdAt": "2026-09-18T13:21:24.000Z",
-      "text": "Brat @CzekoladLol doczekał się kolejnego edita z serii na DV1 😎 https://t.co/f47UuaUp8a",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2100937988150603777",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2100937988150603777/img/yLOK3QU7xXUrGNCo.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2104249504031465603",
+      "lastSeenId": "2104281815699837361",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2104232294559223840",
+      "lastSeenId": "2104267458882281536",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3768,7 +3759,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2104197965623525518",
+      "lastSeenId": "2104282489900675492",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
