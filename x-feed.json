@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-28T19:37:00Z",
+  "updatedAt": "2026-09-28T23:55:50Z",
   "posts": [
+    {
+      "id": "2104691196169973954",
+      "url": "https://x.com/RiftLegendsPL/status/2104691196169973954",
+      "createdAt": "2026-09-28T21:54:19.000Z",
+      "text": "Się wylosowało… \nNiemcy, Grecja i Chorwacja 👀 https://t.co/rwc6Fd2KnB",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104656945567207722",
+      "url": "https://x.com/_ForsakenGG_/status/2104656945567207722",
+      "createdAt": "2026-09-28T19:38:13.000Z",
+      "text": "Kibice są wkurzeni, my sami jesteśmy wkurzeni, trener jest wkurzony i co jeszcze mam powiedzieć no ogólnie jedno wielkie wkurzenie https://t.co/b10FPROlAB",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104655740581351425",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTU9Pr_WkAExne0.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2104654760620232877",
       "url": "https://x.com/RiftLegendsPL/status/2104654760620232877",
@@ -3652,76 +3707,12 @@
       },
       "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\n®\n\nReon\n\n35:39\n\nFSK\n\nWIN\n\nLOSE\n\n\\\n\n© 31.9k\n\n16.4k Lay\n\n25/17/60\n\nKOA\n\n77/25/41\n\najo\n\nCy 31.7K\n\n22.3k ke\n\nGOLD\n\nit\n\nMAX\n\n=\n\n72.8K\n\n64.8k\n\n37.2k\n\n27.7k Ww\n\nMrozku\n\nDecay\n\n7\n\nTOWERS\n\n0\n\nmet\n\na1.3k\n\n23.7k a\n\n‘Odi\n\nSyaytek\n\n@ © © © DRAKES\n\n©\n\nRZ) 13.ak\n\n6.3k FC\n\nLucker\n\noe\n\n9 &\n\nVOID\n\noe\n\nS\n\nELDERS\n\nwe Ow & S BANS TD fy @ whe\n\n6.3K\n\nzabka\n\n2B non @ © DIABLO\n\nMISTRZOSTWA POLSKI\n\n+> #REKLAMA +>\n& RIFT LEGENDS\nwf,\nwD) ing Oy\n39:39\nBOOM vu: FSK\nwin Lose\nVS i mc’ 25/77/60 kon 17/25/01\nCa @ mms 728k co 648K\ni ma 7 Towers 0\n\\ a1.3k 23.7k La\nin i GS. © © © © DRAKES ©\nWw 13.ak 6.3k i ooo\nLim | Bic « © @ VOD o\nELDERS\n8 ae eB BANS Ty iy vy Le\n6.3K\n| allie ell\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
       "ocrVersion": 4
-    },
-    {
-      "id": "2101262920193597631",
-      "url": "https://x.com/BombaTeamGG/status/2101262920193597631",
-      "createdAt": "2026-09-19T10:51:34.000Z",
-      "text": "Adi coś niecoś potrafi na tym Lee Sinie 😎\n\n1:0 🫡 https://t.co/AyGzMszgTV",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101262850807181312",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101262850807181312/img/ZosFbtsmhTU9U2Ak.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101262593629249757",
-      "url": "https://x.com/RiftLegendsPL/status/2101262593629249757",
-      "createdAt": "2026-09-19T10:50:16.000Z",
-      "text": "ADI KIEDY TRAFI Z Q1\n\nTZW. SYNDROM LEE SINA. https://t.co/Z81J2ItNph",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101262306663370752",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSku71iWkAAA8xK.jpg",
-          "altText": null,
-          "width": 2020,
-          "height": 1415
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "™,\n*\n>,",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2104654760620232877",
+      "lastSeenId": "2104691196169973954",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3742,7 +3733,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2104653351845855716",
+      "lastSeenId": "2104656945567207722",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
