@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-09-29T16:59:41Z",
+  "updatedAt": "2026-09-29T21:21:56Z",
   "posts": [
+    {
+      "id": "2105033381474185703",
+      "url": "https://x.com/_ForsakenGG_/status/2105033381474185703",
+      "createdAt": "2026-09-29T20:34:02.000Z",
+      "text": "Koniec mistrzostw\nDo widzenia https://t.co/3zgKDhGcAA",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105032783269683200",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTaUKddXYAAgcdd.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105020554696962235",
+      "url": "https://x.com/RiftLegendsPL/status/2105020554696962235",
+      "createdAt": "2026-09-29T19:43:04.000Z",
+      "text": "Chyba każdy tak zareagował po tej mapie;d https://t.co/6FZyEQt8Yt",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105020188433244160",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTaItWCW4AAdiOo.png",
+          "altText": null,
+          "width": 757,
+          "height": 610
+        },
+        {
+          "mediaKey": "3_2105020245169549314",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTaIwpZWMAIqPcS.png",
+          "altText": null,
+          "width": 400,
+          "height": 415
+        }
+      ],
+      "extracted": {
+        "player": "WA",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "4!\n\nw\n\n&\n\n(a)\nCam».\n{ (Cee \\WS he\nea! sli\noni!\n\\\n\nat]\n\nip\n\nWm)\n\nWA\n\nJ . \\f\n; ‘\n; ip\nV5\nWA\nfad }\n-\na",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105013436992332027",
+      "url": "https://x.com/_ForsakenGG_/status/2105013436992332027",
+      "createdAt": "2026-09-29T19:14:47.000Z",
+      "text": "Kalista kontra robot https://t.co/oUoqrsacH1",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2105013369254141952",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HTaCganXYAANW4s.jpg",
+          "altText": null,
+          "width": 800,
+          "height": 450
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105010484726403398",
+      "url": "https://x.com/_ForsakenGG_/status/2105010484726403398",
+      "createdAt": "2026-09-29T19:03:03.000Z",
+      "text": "Pathing dnia = enemy red lvl1 https://t.co/JBCqHJ8ZH7",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105010385329815552",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZ_yuoXgAAUKGY.png",
+          "altText": null,
+          "width": 271,
+          "height": 124
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105006095605592525",
+      "url": "https://x.com/_ForsakenGG_/status/2105006095605592525",
+      "createdAt": "2026-09-29T18:45:36.000Z",
+      "text": "W końcu obudzeni https://t.co/3zpMx83HwY",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2105005592347623424",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105005592347623424/img/T4d7jy4tx8xdbXIj.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105004471373926659",
+      "url": "https://x.com/_ForsakenGG_/status/2105004471373926659",
+      "createdAt": "2026-09-29T18:39:09.000Z",
+      "text": "Niepowstrzymana siła napotyka nieruchomy obiekt https://t.co/JiqJyDd1uN",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2105004427341864960",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HTZ6X7ZWIAAZm3Y.jpg",
+          "altText": null,
+          "width": 800,
+          "height": 450
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104990124773978506",
+      "url": "https://x.com/RiftLegendsPL/status/2104990124773978506",
+      "createdAt": "2026-09-29T17:42:09.000Z",
+      "text": "GRECJA W STRACHU, ŁAAAAAAAAA\n\n@Lodis_LDS Z KOLEJNĄ WYGRANĄ NA EMEA! 💪🏻 https://t.co/sRJde78ZNu",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104989998013353984",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZtQB9WEAAimw0.png",
+          "altText": null,
+          "width": 600,
+          "height": 595
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "30\n\na]\n\nlf\n\n*\n\n)\n\nBo\n| ae\nLe 7 * Q",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104989522123694437",
+      "url": "https://x.com/Lodis_LDS/status/2104989522123694437",
+      "createdAt": "2026-09-29T17:39:45.000Z",
+      "text": "Nasi z zakazem wjazdu na Rodos 😎 https://t.co/tOcimfnBU0",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104989405400211456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZstiTXIAAgDoW.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104980792430768298",
+      "url": "https://x.com/Lodis_LDS/status/2104980792430768298",
+      "createdAt": "2026-09-29T17:05:04.000Z",
+      "text": "Draft ugotowany. https://t.co/lGQsSSg3kL",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104980695810494464",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZkykjW0AARqLU.jpg",
+          "altText": null,
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2104975986101998018",
       "url": "https://x.com/BombaTeamGG/status/2104975986101998018",
@@ -3395,329 +3691,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2101610304052367469",
-      "url": "https://x.com/Lodis_LDS/status/2101610304052367469",
-      "createdAt": "2026-09-20T09:51:57.000Z",
-      "text": "Całe TOP 3 @RiftLegendsPL na jednym zdjęciu 😎 https://t.co/vIiBwZJZqk",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101610297702129664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSprblLWoAAxrFN.jpg",
-          "altText": null,
-          "width": 1536,
-          "height": 2048
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101418577702350999",
-      "url": "https://x.com/RiftLegendsPL/status/2101418577702350999",
-      "createdAt": "2026-09-19T21:10:06.000Z",
-      "text": "Dziękujemy za dzisiejszą wspólną zabawę na strefie GIGABYTE i do zobaczenia jutro 👀 https://t.co/VzdRxqIax0",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101418325012062208",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101418325012062208/img/dCAOeqXzTpHqJ-x7.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 3840
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101357792556691509",
-      "url": "https://x.com/RiftLegendsPL/status/2101357792556691509",
-      "createdAt": "2026-09-19T17:08:33.000Z",
-      "text": "https://t.co/Wg092eLVKm https://t.co/az3h819RUQ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101357720272027648",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSmFto7WwAAXn-z.jpg",
-          "altText": null,
-          "width": 1024,
-          "height": 768
-        }
-      ],
-      "extracted": {
-        "player": "St",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "2, Wo\n\n7\n\na\n\nomy\n\n%\n\n=\n\n®\n\na\n\nTZ\n\n(ee\n\nCy 4\n\ny\n\n=\n\n“7\n\nv\n\nSt\n\n> > ee\n\nSa Ye. Sw) <\nop 222“ ; . r =\n=> ? — .” Jae\n2 alCOl ee S\nZo ae - i.\ntf Le oe ae. ie\nCa ae ae y -\nOP Paate j  . es\n\\y Gis 2 i x\n\\ area 3\nbe > ma >%\n=> a a\nG RO\n7 ; . Pee, OO... A",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101323921358303420",
-      "url": "https://x.com/RiftLegendsPL/status/2101323921358303420",
-      "createdAt": "2026-09-19T14:53:58.000Z",
-      "text": "Walka o mistrzostwo LEC oraz seeding na worldsach trwa! \n\nMKOI vs KC już zaraz 👀 https://t.co/VhWUOpJbDU",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101323872188383232",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101323872188383232/img/KGmMPJYkY_UkNUeQ.jpg",
-          "altText": null,
-          "width": 824,
-          "height": 1260
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101300455598862745",
-      "url": "https://x.com/RiftLegendsPL/status/2101300455598862745",
-      "createdAt": "2026-09-19T13:20:43.000Z",
-      "text": "PARE SŁÓW OD MVP SEZONU! - @Mrozku 🎙️ https://t.co/MLRwgQOpVq",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101300153638432769",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101300153638432769/img/lFSXXpTsfOeYue8e.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101297242770411987",
-      "url": "https://x.com/RiftLegendsPL/status/2101297242770411987",
-      "createdAt": "2026-09-19T13:07:57.000Z",
-      "text": "DZIĘKUJEMY ZA DZIŚ!\nDZIĘKUJEMY ZA SUMMER!\n\nSuper jesteście, do kolejnego! 😎 https://t.co/Mxo3fwu7JT",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101296716062273536",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlOOuiWMAAui4K.jpg",
-          "altText": null,
-          "width": 4096,
-          "height": 4096
-        },
-        {
-          "mediaKey": "3_2101296735783944192",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlOP4AXAAA42-U.jpg",
-          "altText": null,
-          "width": 4096,
-          "height": 4096
-        },
-        {
-          "mediaKey": "3_2101296776036683776",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlOSN9XEAAYmm8.jpg",
-          "altText": null,
-          "width": 4096,
-          "height": 4096
-        },
-        {
-          "mediaKey": "3_2101296794508328961",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlOTSxWAAEqxDl.jpg",
-          "altText": null,
-          "width": 4096,
-          "height": 4096
-        }
-      ],
-      "extracted": {
-        "player": "oe",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "[Px |\n\nAS, 2\n\nGer\n\no>\n\n| i Aw\n\n4 =\n\n“eu\n\nP* *.-\n\nSs\n\nRa\n\nNo\n\neU\n\nbs\n\nSa\n\nes\n\nad\n\n~y\n\n(ror\n\ny.\n\nTie\n\nie\n\nAn—a\n\n: - of <7;\n\n‘ve\n\nae\n\n“\n\na y\n\nrs\n\ni\n\nww\n\nW\n\nSh?\n\na\n\nBa\n\nAC\n\n*\n\naw Ss\n\ney\n\ni\n\nvg\n\nAG\n\ns\n\n-\n\nDPE\n\n¥en\n\n2\n\n2.\n\neS\n\naS\n\nCpe\n\nws\n\n4\n\nat” Ce\n\n=)\n\nigo £F\n\n¥\n\nbe S\n\n4\n\nAD\n\n\\EMACIEK\n\nB0TA\n\nTHEW HONORED |\n\ni)\n\nber\n\n&\n\n~\n\nom\n\n\\\n\n+o\n\nng:\n\n~~\n\n]\n\nA\n\n——\n\n\\ 4\n\n\\\n\n=\n\n<\n\nS\n\nu\n\n\\\n\n—en.&\n\nSN\n\nee\n\nee\n\nCOS | pace Oe ee a ae\n2 4 Z4 \" at ~~ Tamena ~~ se SiS\n1 eS Sa. (ds SEES Sap Toes\nJZ ‘@ AOE > SR BYE nee. hie gh\nCy mai t oo hy ww = pi Py 34 “wet aA s} € b\nirik Bi we, pee\nCir ik 6 baa so.\nRr ne hear eS.\nme a Se eet\nofan s he “ Ye\nABR a, Sag eee C\n; -e\\. S Z td wh ®) ois) IK = jw} Va\nor. pa 2 > A ( MINEMACIEK =) 1\n(= Se MINEHICIEK | i ld\n; mE 0ORED NT? NR /\n- Raaese lw CM\n. y \\ SES | a <i\nNS \\i) Je © Oe\n\\ fie \\ y yy “7 + 4]\nS .} / :\n¥ .\n| \\\n| aS i\n—— Wy ae\n\noe\n\nia\n\na\n\nS\n\nra\n\nrrr\n\nTrot\n\nPeg\n\nec at\n\n.\n\nfoul 3\n\ns\n\nis\n\nSa\n\n\"i\n\nVy\n\nMe\n\noy\n\nN\n\nW\n\nNees\n\nhue\n\nSuzuime\n\n‘ane\n\nNS\n\ni\n\nLWA, SUDO YATRA\n\nww\n\naos\n\noe\n\nSet\n\np> 2:\n\nyaa\n\nw\n\nii\n\nOREN\n\n— ll et\n\n=\n\nM\\O\n\ni\n\nc= u eu\n\nem Cs\n\n3\\\n\n=e — Sle «is\n\nae aa\n\n= 82 @ am»\n\nar\n\nO'Ba |e\n\n= = wo\n\nte) | ee\n\nSo\n\nCae\n\nR22 @ «\n\noe\n\n\"eter ean\n\nLy\n\nis\n\nete Cane\n\n4\n\ni\n\nPe\n\naie}\n\n- we\n\n|)\n\n&\n\nhee\"\n\nwy\n\nGong 0\n\niy\n\n‘4S\n\nSerer\n\ni\n\nWrorng\n\nrae.\n\nes\n\noe\n\nQi]\n\na\n\n1 8\n\nEe\n\nwe\n\n. ey\n\n7\n\nEAA\n\na.\n\n“\\\n\ni—\n\n‘”\n\nwep\n\n=.\n\n1\n\n—\n\n<4\n\n7\n\n4\n\na,\n\n| Sad\n\nS\n\né v\n\nlee i\n\na\n\ny 4\n\n———\n\not LM Waliae \\. Suentscsscsscieeeeey || A oe ne ¥ nS terre eerie\ni WN aoe a) Lh Tae Ee =\ncones aoa Seine Nhe Jivtein a GS eae a\nee ee ee ae ee OY Spas\nA \\ ee eee, La ty eT Gee ey fee\n, ee .i “ en\nobs ike wa eee % : kay Qa LWtAeL SOD VATA | SLAY\neae =o Mer\nQS Pee Re age oe eee de ORS ee [eye\ni Eh Se ie CER (ESN ty |. iO mene eS\nco ee\n= are 2s lr Roe\nSS Gaeg)s\\ Sa — Om @ m | Ome\nco | ae | Be @ io\nx rg | Sangre cee (Se — — oe\na ‘y ean | &. E Se = ole | ai > coe) ee\neee | aie oo ae = eS oc Ss\nec) ah Be || SP\nPz eRe A, \\\\ er he / = et |, me &\naq ah BVT ae we) [2 & wt SS\ned § Crorng ad a ser CL ie rT\n= anes a Ss \\| { ee a\nye ~ee ES ; a\n/ a g | pa , Sicaryre- i\na 4 so vA & 7\ni i Py ay — Corus tena\n‘ a y 7. ns — ~ > al\nx 3: eS . we f = at 4 =\n‘ #\\ ( G. Ve), ee it See 7 pete\n, a Se ee a 8 ere\nfa N ce 9 Soe\n5 a e- = =\nWy, Fie y ] ei, vie, ae a Sy 7 ‘\" =\n| 7 yi ‘ r iy Pwo y\ni ¢ \\ Ay I~\n. - \\ \\ fj a \\ | 4\n‘ Ml y re 2 > —~ ‘\n~— oe aT)\nSPRUE NSS SO a\nca aan Aid SA le “\nwee See ¥ a\", ee\n. Nona CN SNe RR py >\n\n2 nes\n\nG\n\nMISTRZOSTWA POLSKI\n\nZo\n\nRIFT\n\nBE4 LEGENDS\n\nIGABYTE\n\nCorus\n\nMISTRZOSTWA fo\n\nBLO™\n\nzobka\n\nGIGABYTE™\n\noO &\n\nf%,\n\né\n\ng\n\nnereznly\n\n(es\n\n\\)\n\nay\n\nS\n\nYOM\n\nRo\n\nRo\n\nvt PsN\n\nW\n\n&\n\nAASTE:\n\naa\n\nGg MasTES\n\nas RET “GIGA BYTE” “) Caorus\n-© Copies #gbka GIGABYTE\n“ e> —]\n: - “a. & “4 sae |\n‘ “ _- ~erazni\\\n_\\N y aX eas ay\nslp Re a LG\n“|Dar’>, SP OMp)\nRone = Cot La\nty = (VY ‘ <— (Nes =\nij a Loam | cw)\noe L ;\n} E © i “\nbed eo 1 a \\\n\nsae\n\nema\n\nTX\n\nzal\n\n¥ NY.\n\nI\\A\n\naoe\"\n\n7 I\\j\n\nSL\n\nBi\n\nB-\n\nSF\n\nZA)\n\ncs\n\nWy\n\nae,\n\nE\n\nav\n\ni\n\nFr\n\nat\n\na\n\nSi\n\nas\n\nnt\n\n%\n\n“\n\nreer\n\nme\n\nx\n\nanes\n\nby\n\ni”\n\nae\n\n&\n\nray rf\n\nie\n\nIN\n\nth\n\nwe\n\na\n\na\n\na)\n\na\n\nvy\n\nBeyasl\n\nre\n\ney\n\nHor\n\nix)\n\nAe\n\na\n\nsha\n\n‘e\n\nMh\n\n| ‘uc\n\nnie\n\n|\n\nHALL SOD ATTA,\n\nPL SWAG _YATIA.L\n\nus\n\n\"\n\nat\n\n22 & egy\n\n+\n\nim ce ® ge\n\n1 come Cee\n\no &\n\n®\n\niad\n\nBale\n\n= ££ ©\n\naa\n\ncaer\n\nees\n\ntcaByre\n\nCoe:\n\n, SS\n\n<r oer\n\nin\n\n[ole\n\nola\n\nCe\n\not\n\n==\n\n> gy\n\nau\n\naE eo\n\nseer\n\nBE | cere,\n\nCrom\n\n—45\n\nlcaerre\n\n\\y\n\naa\n\n$5) {\n\n}\n\n.\n\n|e\n\n“yan\n\nHl\n\n@ Forsaken\n\nae\n\n=\n\nRia.\n\na,\n\n|\n\n_\n\nmalt\n\na 4\n\nlt\n\n%\n\nt\n\na\n\nRe\n\n—\n\nam\n\n»®\n\nLG\n\na\n\ntoa\n\nOMBA,\n\nvs\n\n¥\n\nm “ae\n\n‘\"\n\n.\n\na\n\noe\n\nfw\n\nay”.\n\n4 &\n\na el\n\nPm \"ol\n\n—— ee\n\nSS\n\n—— | ee\n\ni\n\nyo\n\n} —\n\n‘eS\n\neee\n\noe\n\n2!\n\nDhl teali ay Dee é y XY\n= Sel Lay ee Me AL\nEEN { @ fj eee ss\nhy te, Oy hh ea at} soiearpccdancanecdecatnat conan, Lt\na * av hg he eee cruatecnendeneant! caiea Besenraceay\nah) \\ \\iiecees : an i. Piiceri acaannee’ need coast Bercy  iirercarmagla\n= = al ‘ TB gcc ecee ecco erececen a = aaa\nbry \"Bi Ge “AR ey cease) NY ae\n1h aN ie a ~% Pe kcreccrcerh cern teal anisms\n‘ : we ae Oy 3 Ro Bee sieaaetenama cece\n\\ 4 Wakes 7 Fee  setacraassesontaasensenasany a",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101294345408115132",
-      "url": "https://x.com/RiftLegendsPL/status/2101294345408115132",
-      "createdAt": "2026-09-19T12:56:26.000Z",
-      "text": "BOOOMBAAA \nBOMBA BOMBA BOOOMBAAAA! \n\nNA NA NA NAAAA 🏆 https://t.co/GgulOwzsiz",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101294032617938944",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101294032617938944/img/mw-FhHhjGaUu2fRR.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101293868490625241",
-      "url": "https://x.com/RiftLegendsPL/status/2101293868490625241",
-      "createdAt": "2026-09-19T12:54:33.000Z",
-      "text": "KRZYSZTOF @frajgo CHIBOWSKI WYBRANY NAJLEPSZYM ZAWODNIKIEM WIELKIEGO FINAŁU! 🏆 https://t.co/7uapBZ6Cf2",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101293658926411776",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlLcx0W8AAbE4c.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "frajgo",
-        "playerHandle": "frajgo",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n+ i\n\nPe dctok aa\n\nN\n\n‘a ee\n\nKR2ZYS2TOF CHIBOWSKI\n\nay\n\nzabka\n\naon @ “@ oineto\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA +> he\n| oll P\nom e wig\nRAJGO\nCD etka Bae Qo no\n+ MISTRZOSTWA POLSKI +>",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101293189181141169",
-      "url": "https://x.com/RiftLegendsPL/status/2101293189181141169",
-      "createdAt": "2026-09-19T12:51:51.000Z",
-      "text": "ADRIAN @Mrozku SKONIECZNY MVP SUMMER SPLITU!  🏆\n\nGOAT PERFORMANCE. 🐐 https://t.co/dNXIktrGSw",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101292946293166081",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlKzTDWkAE0iZt.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n+ 7\n\nSs\n\nbakit\n\nGOR:\n\n~~ J\n\nBOMBA,\n\nipa\n\neo\n\nzabka\n\naK\n\non etn\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA + A\nw/ VY\n\\ LY\nSs Vs\np Rah com aR Dy RONG!\n( es Nx BOMBA, / 7\nie a Sys j\nROZK\n\\ ia Brsee ER ge .\nCD eke ae OQ Pun\n+ MISTRZOSTWA POLSKI +>",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2104974632214245686",
+      "lastSeenId": "2105020554696962235",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2104943244803272736",
+      "lastSeenId": "2104989522123694437",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3733,7 +3717,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2104925713635672351",
+      "lastSeenId": "2105033381474185703",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
