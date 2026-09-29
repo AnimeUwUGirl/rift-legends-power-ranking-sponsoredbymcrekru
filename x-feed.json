@@ -1,6 +1,422 @@
 {
-  "updatedAt": "2026-09-28T23:55:50Z",
+  "updatedAt": "2026-09-29T16:59:41Z",
   "posts": [
+    {
+      "id": "2104975986101998018",
+      "url": "https://x.com/BombaTeamGG/status/2104975986101998018",
+      "createdAt": "2026-09-29T16:45:58.000Z",
+      "text": "Nie tym razem Panie Premierze. https://t.co/vWadTqqmX4",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104975759039250432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZgTNpXwAA0KGw.jpg",
+          "altText": null,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104974750254612641",
+      "url": "https://x.com/BombaTeamGG/status/2104974750254612641",
+      "createdAt": "2026-09-29T16:41:03.000Z",
+      "text": "No i skąd to zwątpienie? hehehe\n\nGG @BIGCLANgg https://t.co/kAVVyKmZIi",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104974625146802176",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZfRNkWEAAPZ1a.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": "BIGCLANgg",
+        "playerHandle": "BIGCLANgg",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104974632214245686",
+      "url": "https://x.com/RiftLegendsPL/status/2104974632214245686",
+      "createdAt": "2026-09-29T16:40:35.000Z",
+      "text": "WYGRYWAMY NA BIG, WYGRYWAMY NA #1 SEED NIEMIEC, @BombaTeamGG GWARANTUJE SOBIE BO3 O WEJŚCIE DO PLAYOFÓW\n\n@frajgo CO TY ZAGRAŁEŚ W TEJ GRZE TO NIE MAMY SŁÓW https://t.co/rn4ywBm91R",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104971215886532608",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZcKxFWwAAQ5lr.jpg",
+          "altText": null,
+          "width": 387,
+          "height": 387
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "\"CINEMAE\n\ny=\n‘CINEMA",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104974137576108197",
+      "url": "https://x.com/BombaTeamGG/status/2104974137576108197",
+      "createdAt": "2026-09-29T16:38:37.000Z",
+      "text": "Eee, @BIGCLANgg żyjesz??? https://t.co/8npEn9oIwq",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2104974126955778048",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104974126955778048/img/7CbVnrNPGeqLjEfI.jpg",
+          "altText": null,
+          "width": 128,
+          "height": 128
+        }
+      ],
+      "extracted": {
+        "player": "BIGCLANgg",
+        "playerHandle": "BIGCLANgg",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104970147962274144",
+      "url": "https://x.com/RiftLegendsPL/status/2104970147962274144",
+      "createdAt": "2026-09-29T16:22:46.000Z",
+      "text": "FRAAAAAAAJGOOOOOO 🔥 https://t.co/peZ0YP8fmq",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2104970046409785344",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104970046409785344/img/mJEPswk5Rio5eq5h.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104968872231309487",
+      "url": "https://x.com/RiftLegendsPL/status/2104968872231309487",
+      "createdAt": "2026-09-29T16:17:42.000Z",
+      "text": "Ważne pytania na dzień dzisiejszy. 👀 https://t.co/cRfGT2BODv",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2104968604630323200",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104968604630323200/img/jho2BVc5k5S_mmMM.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104967722073461051",
+      "url": "https://x.com/BombaTeamGG/status/2104967722073461051",
+      "createdAt": "2026-09-29T16:13:08.000Z",
+      "text": "Pierwszy złapany. https://t.co/uz4F2lOuOy",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2104967661599727617",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104967661599727617/img/3BBXTjY1VSD0TmbM.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104963951805235427",
+      "url": "https://x.com/RiftLegendsPL/status/2104963951805235427",
+      "createdAt": "2026-09-29T15:58:09.000Z",
+      "text": "WIECZÓR Z EMEA I DRUŻYNAMI Z RIFT LEGENDS\n\nJAZDA PANY @_ForsakenGG_, @Lodis_LDS, @BombaTeamGG GRAAAAAĆ \n\nLECIMY Z NIMI DZIŚ, TO JEST TEN DZIEŃ!!! 🔥 https://t.co/pQWgBRJi5D",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104963760582500352",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZVYz6XIAATj2o.png",
+          "altText": null,
+          "width": 236,
+          "height": 306
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "=\n\n7\n\n;\n\n4 7\nJ eo\n\n4 -",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104943244803272736",
+      "url": "https://x.com/Lodis_LDS/status/2104943244803272736",
+      "createdAt": "2026-09-29T14:35:52.000Z",
+      "text": "JAAAAAAAAZDA! https://t.co/T4dw38rEM3",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104943114188132352",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZCnCGWkAAFUoz.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104942975738671488",
+      "url": "https://x.com/BombaTeamGG/status/2104942975738671488",
+      "createdAt": "2026-09-29T14:34:48.000Z",
+      "text": "🇵🇱 ⚔️ 🇩🇪\n\nStart 18:00 https://t.co/gmpqpT06L5",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104942752349720576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZCR-JWkAA19XJ.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104934219134755016",
+      "url": "https://x.com/devils1gg/status/2104934219134755016",
+      "createdAt": "2026-09-29T14:00:00.000Z",
+      "text": "Nasz sezon League of Legends w tym roku dobiegł końca, ale granie oczywiście się nie kończy.\n\nJesienią warto zerknąć na Kinguina, a z kodem DV1 możecie klasyczniei zgarnąć dodatkowe 8% zniżki.\n\n#reklama https://t.co/ugY6bD0VxL",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104582452303863808",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTT6lv4XoAANdLj.jpg",
+          "altText": null,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104925713635672351",
+      "url": "https://x.com/_ForsakenGG_/status/2104925713635672351",
+      "createdAt": "2026-09-29T13:26:12.000Z",
+      "text": "Graj muzyko https://t.co/SxqFrCh8Wq",
+      "kind": "post",
+      "author": {
+        "username": "_ForsakenGG_",
+        "name": "Forsaken",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104921799318228992",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTYvOWBW0AAtK8i.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2104910158556213289",
+      "url": "https://x.com/RiftLegendsPL/status/2104910158556213289",
+      "createdAt": "2026-09-29T12:24:23.000Z",
+      "text": "Kontent zrobiony  @_ForsakenGG_ -  teraz czas zacząć wygrywać, bo chcemy Was jeszcze pooglądać! 👀\n\n🎙️ Goaty za majkiem - @Majutek_lol &amp; @JaskierBB &amp; @Pedro_Paprzycki https://t.co/P6b4nhUi2Q",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2104909578760491008",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTYkHA5WEAAySjy.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "ForsakenGG",
+        "playerHandle": "_ForsakenGG_",
+        "kda": null,
+        "kp": 8.0,
+        "gold": 2909
+      },
+      "ocrText": "#REKLAMA\n\n+>\n\nONOGRAM\n\n29.09\n\n17:00\n\nVs\n\nYY sc\n\n18:00\n\nBOOM\n\nith BIG\n\nVs\n\nBOMBA,\n\n19:00\n\ntA >\n\n> we\n\nVs\n\nLDS\n\n20:00\n\nO) FSK\n\n‘pe\n\nrso [|\n\nDIABLO\n\nKeke)\n\nzabka “&@ ALOR\n\n»\n\n>\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA +\nRaga SS * =\nfalitel\nIRMONOGRAM\n=.” 29.09 v\nWy sc we wre VW\ndisc 8% soom @)\n19:00 we\nBo we us @\n20:00 il\n® FSK vs TSC a\nCP wre ux BP DIABLO =\n+ EMEA MASTERS SUMMER 2026 aa",
+      "ocrVersion": 4
+    },
     {
       "id": "2104691196169973954",
       "url": "https://x.com/RiftLegendsPL/status/2104691196169973954",
@@ -3291,433 +3707,17 @@
       },
       "ocrText": "#REKLAMA,\n\n+ 7\n\nSs\n\nbakit\n\nGOR:\n\n~~ J\n\nBOMBA,\n\nipa\n\neo\n\nzabka\n\naK\n\non etn\n\nMISTRZOSTWA POLSKI\n\n+ #REKLAMA + A\nw/ VY\n\\ LY\nSs Vs\np Rah com aR Dy RONG!\n( es Nx BOMBA, / 7\nie a Sys j\nROZK\n\\ ia Brsee ER ge .\nCD eke ae OQ Pun\n+ MISTRZOSTWA POLSKI +>",
       "ocrVersion": 4
-    },
-    {
-      "id": "2101292293508448358",
-      "url": "https://x.com/BombaTeamGG/status/2101292293508448358",
-      "createdAt": "2026-09-19T12:48:17.000Z",
-      "text": "Drugie trofeum do gablotki 👌 https://t.co/y4yxIOrpGj",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101292122309632000",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101292122309632000/img/cUWEM-ekM18JraIT.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101291882613526869",
-      "url": "https://x.com/_ForsakenGG_/status/2101291882613526869",
-      "createdAt": "2026-09-19T12:46:39.000Z",
-      "text": "Mistrzostwo na lato nie było nam dane\nAle to nie koniec zmagań bo mamy jeszcze EMEA do rozegrania\nOraz widzimy się w łódzkim @BaseStackPolska od 20:00\nGG @BombaTeamGG https://t.co/MJ8LWWpV5F",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101291224019697664",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlJPDFXAAA2zcz.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "BaseStackPolska",
-        "playerHandle": "BaseStackPolska",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101291597186920864",
-      "url": "https://x.com/BombaTeamGG/status/2101291597186920864",
-      "createdAt": "2026-09-19T12:45:31.000Z",
-      "text": "Drugi tytuł mistrzowski w @RiftLegendsPL? To się może podobać 😎\n\nDziękujemy @Mrozku, @frajgo, @adi1lol, @minemaciek, @odi11_LOL, @behavelol 👏 https://t.co/J1o4b4so7u",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101291211009019904",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlJOSnX0AAyaRJ.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": "RiftLegendsPL",
-        "playerHandle": "RiftLegendsPL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101289076062044352",
-      "url": "https://x.com/Lodis_LDS/status/2101289076062044352",
-      "createdAt": "2026-09-19T12:35:30.000Z",
-      "text": "Delegacja z LODIS już kibicuje @BombaTeamGG na arenie 😎 https://t.co/SH61g71nAr",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101288471138557952",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSlGuzzWYAAQ3et.jpg",
-          "altText": null,
-          "width": 1536,
-          "height": 2048
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101278331974848859",
-      "url": "https://x.com/_ForsakenGG_/status/2101278331974848859",
-      "createdAt": "2026-09-19T11:52:48.000Z",
-      "text": "\"Pany. Macie teraz okazję na zrobienie najśmieszniej rzeczy\"\n0:2 i idziemy po reverse sweep co nie? https://t.co/1K6kW1YMJC",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101278066668421120",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSk9RMIXQAA6cSz.png",
-          "altText": null,
-          "width": 652,
-          "height": 358
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101276874244550972",
-      "url": "https://x.com/BombaTeamGG/status/2101276874244550972",
-      "createdAt": "2026-09-19T11:47:01.000Z",
-      "text": "Soul ✅\n2-0? 🔜 https://t.co/JycGXYPUFu",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101276763619725312",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101276763619725312/img/NTdLnUOrJNb2hcNm.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101275110527090935",
-      "url": "https://x.com/BombaTeamGG/status/2101275110527090935",
-      "createdAt": "2026-09-19T11:40:00.000Z",
-      "text": "Może i nie ma 40 mln Polaków na trybunach, ale czuć ten doping 😎❤️ https://t.co/PDRT89Don6",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101274984752558080",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101274984752558080/img/7D77Y9NhLEj-0Ryk.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101273889586254021",
-      "url": "https://x.com/BombaTeamGG/status/2101273889586254021",
-      "createdAt": "2026-09-19T11:35:09.000Z",
-      "text": "Mrozku 🗿 https://t.co/mCqxYCRZKr",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101273763538997248",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101273763538997248/img/qyqOtPcIus1ccsY7.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101273626309718327",
-      "url": "https://x.com/_ForsakenGG_/status/2101273626309718327",
-      "createdAt": "2026-09-19T11:34:06.000Z",
-      "text": "Na ostrzu noża https://t.co/x7Z3EjrUec",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101273535251439616",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101273535251439616/img/MEt7LUk51SUedyCH.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101268994015523262",
-      "url": "https://x.com/_ForsakenGG_/status/2101268994015523262",
-      "createdAt": "2026-09-19T11:15:42.000Z",
-      "text": "To że Aatrox ma dwa \"A\" nie znaczy że trzeba go dwa razy banować https://t.co/DFXmafVbYy",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101268746132205568",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSk0yqbXMAAjhQL.png",
-          "altText": null,
-          "width": 134,
-          "height": 55
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101267806603939910",
-      "url": "https://x.com/_ForsakenGG_/status/2101267806603939910",
-      "createdAt": "2026-09-19T11:10:59.000Z",
-      "text": "0:1 aktualnie go next https://t.co/E6nyCHUrEy",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101267727729987584",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101267727729987584/img/tJdMFH2BwhZHS4y1.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101266686720541006",
-      "url": "https://x.com/RiftLegendsPL/status/2101266686720541006",
-      "createdAt": "2026-09-19T11:06:32.000Z",
-      "text": "Pierwsza mapa dla @Mrozku, ale w tej serii zdecydowanie warto patrzeć na tych panów 👀 https://t.co/Wy70i3tz9r",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101266193617207296",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSkyeFkXQAAWv6v.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Mrozku",
-        "playerHandle": "Mrozku",
-        "kda": "8/3/3",
-        "kp": 24.0,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA,\n\n+ /\n\n& RIFT LEGENDS\n\nKDA\n\ngq\n\n13\n\nATONE\n\nM4\n\nKP:\n\nA\n\nos\n\n8\n\n70\n\n<—\n\na\n\nppm\n\n10\n\n+98\n\naA\n\n-98\n\nos\n\n70\n\n24\n\nDECAY\n\nMROZKU\n\nzabka\n\nee QD @omero-\n\nMISTRZOSTWA POLSKI\n\n+\n\nPes :\n+ @ #REKLAMA +)\na 62 RIFT LEGENDS\n: oA /\n| Be ictkcea\n8/3/3 ag Wr\n - ] Z, . VA, wr : =\n@rocz . . eas 7 Y-\nNS p70 ae OS f . é ia\nj a} 7 |\ni | 7 /-_ - 2 10 m\n+ BE ir et a\neS @ 7 a\n=o Ve =\n29°% 24% :\nDECAY MRO2ZKU\nCD etka OQ homo\n+ MISTRZOSTWA POLSKI +>",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101263164541141294",
-      "url": "https://x.com/RiftLegendsPL/status/2101263164541141294",
-      "createdAt": "2026-09-19T10:52:32.000Z",
-      "text": "BOOOOOOOMBA 1️⃣\nFORSAKEN 🅾️ https://t.co/JJUaU5o7ND",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101262942079434752",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSkvg0pWQAAsAx3.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "6.3K",
-        "playerHandle": null,
-        "kda": "25/17/60",
-        "kp": 6.0,
-        "gold": null
-      },
-      "ocrText": "#REKLAMA\n\n6% RIFT LEGENDS\n\n®\n\nReon\n\n35:39\n\nFSK\n\nWIN\n\nLOSE\n\n\\\n\n© 31.9k\n\n16.4k Lay\n\n25/17/60\n\nKOA\n\n77/25/41\n\najo\n\nCy 31.7K\n\n22.3k ke\n\nGOLD\n\nit\n\nMAX\n\n=\n\n72.8K\n\n64.8k\n\n37.2k\n\n27.7k Ww\n\nMrozku\n\nDecay\n\n7\n\nTOWERS\n\n0\n\nmet\n\na1.3k\n\n23.7k a\n\n‘Odi\n\nSyaytek\n\n@ © © © DRAKES\n\n©\n\nRZ) 13.ak\n\n6.3k FC\n\nLucker\n\noe\n\n9 &\n\nVOID\n\noe\n\nS\n\nELDERS\n\nwe Ow & S BANS TD fy @ whe\n\n6.3K\n\nzabka\n\n2B non @ © DIABLO\n\nMISTRZOSTWA POLSKI\n\n+> #REKLAMA +>\n& RIFT LEGENDS\nwf,\nwD) ing Oy\n39:39\nBOOM vu: FSK\nwin Lose\nVS i mc’ 25/77/60 kon 17/25/01\nCa @ mms 728k co 648K\ni ma 7 Towers 0\n\\ a1.3k 23.7k La\nin i GS. © © © © DRAKES ©\nWw 13.ak 6.3k i ooo\nLim | Bic « © @ VOD o\nELDERS\n8 ae eB BANS Ty iy vy Le\n6.3K\n| allie ell\nCD tke ae OQ atte\n+ MISTRZOSTWA POLSKI +",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2104691196169973954",
+      "lastSeenId": "2104974632214245686",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2104614488053792837",
+      "lastSeenId": "2104943244803272736",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3725,7 +3725,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2104630493278806418",
+      "lastSeenId": "2104975986101998018",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
@@ -3733,7 +3733,7 @@
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
-      "lastSeenId": "2104656945567207722",
+      "lastSeenId": "2104925713635672351",
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
@@ -3741,7 +3741,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2097743943043633388",
+      "lastSeenId": "2104934219134755016",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
