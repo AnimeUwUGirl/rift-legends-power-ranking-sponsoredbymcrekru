@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-29T21:21:56Z",
+  "updatedAt": "2026-09-30T13:36:25Z",
   "posts": [
+    {
+      "id": "2105286344264098271",
+      "url": "https://x.com/Lodis_LDS/status/2105286344264098271",
+      "createdAt": "2026-09-30T13:19:13.000Z",
+      "text": "Kto dzisiaj kibicuje LODIS? 🙌 https://t.co/tsfQphlwlw",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105286089351049216",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTd6i0JXMAAWOhx.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105281640486617172",
+      "url": "https://x.com/RiftLegendsPL/status/2105281640486617172",
+      "createdAt": "2026-09-30T13:00:31.000Z",
+      "text": "Nio i było ich dwóch...\n\nZaczynamy kolejny dzień z EMEA! 🔥 https://t.co/uleg3Z4YkY",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105281445174349824",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTd2UfPWkAAyvOb.png",
+          "altText": null,
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "extracted": {
+        "player": "lf",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "~*)y\n\nws\n\nA* a\n\nlf\n\nN\n\n“SMR,\n\nLa —\ni\n——\n\nSe RR:",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105260709793685759",
+      "url": "https://x.com/RiftLegendsPL/status/2105260709793685759",
+      "createdAt": "2026-09-30T11:37:21.000Z",
+      "text": "JUŻ DZIŚ WIELKA SZANSA @BombaTeamGG NA WEJŚCIE DO PLAYOFFÓW!\n\nBIG pokonane, więc jakieś dżi2en powinno się obawiać.\n\n🎙️ @Pedro_Paprzycki &amp; @Majutek_lol  &amp; @JaskierBB https://t.co/BqrbQEMmPG",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105260136419700736",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTdi8J8WMAAT6ny.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": 3009
+      },
+      "ocrText": "#REKLAMA\n\n+>\n\npe\n\n3\n\n7\n\n)NOGRAM\n\n30.09\n\n15:00\n\nFEC\n\nVS\n\n.\n\nBOI\n\n16:00\n\nCG\n\nat\n\nVS\n\nBO1\n\nLos (®\n\n17:00\n\nESB\n\nVS\n\nBOS\n\nUCAM\n\n20:00\n\nGen\n\nvs\n\nBOs\n\nBOOM\n\nBOMBA,\n\nW\n\nZobka cn\n\n»\n\nDIABLO\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA +\n= os os , =\n1IRMONOGRAM\nae 15:00 Zoo, )\nwe FEC vS_ OTS <i)!\nPs BO1 —— — |\n28 2\n16:00 sow |\ngh co Vs ws ©\nBO1 > 3)\n17:00 4 )\nESB VS UCAM \\/\nBOs - y\n\\ iy 20:00 fs j\nWy cen VS BOOM\nCO ere unr DIABLO =\n+ EMEA MASTERS SUMMER 2026 aa",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105221817669480842",
+      "url": "https://x.com/RiftLegendsPL/status/2105221817669480842",
+      "createdAt": "2026-09-30T09:02:49.000Z",
+      "text": "HARPOON ZACZYNA MECZ NA AKADEMIĘ T1\n\nWygrany awansuje do finału WSCI \n\nOglądamy na Twitchach @Nervarieno i @nahovskylol https://t.co/phXDiD7s8U",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105221456124690432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTc_wqnXwAAWWT2.png",
+          "altText": null,
+          "width": 701,
+          "height": 630
+        }
+      ],
+      "extracted": {
+        "player": "Nervarieno",
+        "playerHandle": "Nervarieno",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "=\n\noe\n\nSeva\n\nSPonr\n\nmost\n\nUe\n\n'\npe ~ ro\nN mex: fj\ne \\, 2\nBe i oA SEVarr,\nst! é oR Tis Oly\neno: We",
+      "ocrVersion": 4
+    },
     {
       "id": "2105033381474185703",
       "url": "https://x.com/_ForsakenGG_/status/2105033381474185703",
@@ -3563,145 +3691,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2101663123266556181",
-      "url": "https://x.com/Lodis_LDS/status/2101663123266556181",
-      "createdAt": "2026-09-20T13:21:50.000Z",
-      "text": "Kurak wjedzie jak zły przed EMEA Masters 😎\n\nTrzeba się porządnie naładować przed meczami, a tutaj Proste Historie robią robotę. Dzięki! 🫡\n\n#reklama https://t.co/8GEvNiVQEF",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101661574049992704",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101661574049992704/img/3mgLGedss0LE5ixO.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101662499292491889",
-      "url": "https://x.com/RiftLegendsPL/status/2101662499292491889",
-      "createdAt": "2026-09-20T13:19:21.000Z",
-      "text": "Odwiedziny w Orientarium ZOO Łódź po finałach Rift Legends Mistrzostw Polski? \nDla nas brzmi jak znakomity plan - który możecie zrealizować ze zniżką 😼\n\nOdbierzcie specjalny voucher na naszym wydarzeniu i ułóżcie plany na kolejne dni wraz z partnerem naszego wydarzenia https://t.co/9vxO7In4r0",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101662486743195649",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSqa5YgXoAESXR4.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "ORIENTARIUM",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ee\n\nBre.\n\n—\n\n—\n\nVid\n\n<=\n\ny/\n\nKi\n\n==\n\nia\n\nPegs\n\nag\n\nODWIED2 FINALY\n\n65 RIFT LEGENDS\n\n1 ZGARNIJ ZNIZKE DO\n\nORIENTARIUM\n\nZOO LODZ\n\n‘ais\n\nMISTRZOSTWA POLSKI\n\n. i pet\n& eH =~ y A = aX\n| WA cians ie\n=|.’ “ ae er Po = 4\n| ee\nay Lae eo ——————\nwa i ee aS\nN\n— FP ODWIEDZ FINALY YS ws\nSee a ¥\nd ss ee\n65 RIFTLEGENDS \\”\nI ZGARNIJ ZNIZKE DO\nORIENTARIUM\nZOO tODZ\n+ MISTRZOSTWA POLSKI >",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101655924536390136",
-      "url": "https://x.com/RiftLegendsPL/status/2101655924536390136",
-      "createdAt": "2026-09-20T12:53:13.000Z",
-      "text": "NIE ZWALNIAMY TEMPA - EMEA MASTERS SUMMER 2026 STARTUJE JUŻ JUTRO! 🔥\n\n*Pierwsze dni realizowane będą zdalnie 🎙️ https://t.co/sQTfewPu3d",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2101655016272531456",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSqUGi1XkAAtA6N.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "MEA",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "WY\n\nMEA\n\na\n\nMASTERS\n\n_ STARTUJE JUZ JUTRO!\n\nKk)\n\nzobko ce QQ ost\n\n+\n\nMEA MASTERS SUMMER 2026,\n\ni\nEMEA _\n= MASTERS\nip f = I\n_ STARTUJE JUZ JUTRO!\nCOD tepko Se Qe atte\n> EMEA MASTERS SUMMER 2026 +",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2101625799975575569",
-      "url": "https://x.com/RiftLegendsPL/status/2101625799975575569",
-      "createdAt": "2026-09-20T10:53:31.000Z",
-      "text": "Zawodnicy wielkiego finału @LegendsAC_ już rozgrzewają się na scenie - bądźcie z nami już za chwilę na TTV/Nervarien https://t.co/VKRW4hbkwY",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2101625698586701824",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2101625698586701824/img/UnMLSK_7NaXWV9Ku.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1920
-        }
-      ],
-      "extracted": {
-        "player": "LegendsAC",
-        "playerHandle": "LegendsAC_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2105020554696962235",
+      "lastSeenId": "2105281640486617172",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2104989522123694437",
+      "lastSeenId": "2105286344264098271",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
