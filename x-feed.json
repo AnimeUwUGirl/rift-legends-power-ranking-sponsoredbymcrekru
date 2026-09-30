@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-30T18:33:33Z",
+  "updatedAt": "2026-09-30T22:34:11Z",
   "posts": [
+    {
+      "id": "2105405492990291994",
+      "url": "https://x.com/RiftLegendsPL/status/2105405492990291994",
+      "createdAt": "2026-09-30T21:12:40.000Z",
+      "text": "🇵🇱 YETI VS @BombaTeamGG 🇵🇱\n\n🇹🇷 PCF VS @Lodis_LDS 🇵🇱 https://t.co/7TmZU2Bftf",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2105358258605064310",
       "url": "https://x.com/BombaTeamGG/status/2105358258605064310",
@@ -3644,44 +3667,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102035484134236401",
-      "url": "https://x.com/RiftLegendsPL/status/2102035484134236401",
-      "createdAt": "2026-09-21T14:01:28.000Z",
-      "text": "OPRÓCZ NASZYCH REPREZENTANTÓW JEST WIELU ZAWODNIKÓW WARTYCH KIBICOWANIA! 🇵🇱\n\nPrzed Wami lista Polaków na EMEA, którzy reprezentują drużyny spoza Rift Legends 👇 https://t.co/2rv1LYDzOW",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102034824433123328",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSvtiSfWQAAyOH2.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "EMEA",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "ESSKC\n\nScr\n\nee\n\nA\n\noon\n\nON\n\npedis\n\nEMEA\n\n| vi W eI\nSe eesKowy ESCIK SECR VASCO)WOLORZ\nne : é. M I . va 8 |\n37 & ap\n— SE: els\nat =\nr Spe\nRees eters yi\nEMEAN ASTER’ ae si isa ‘SUMMER SPI 226",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2105357919487426924",
+      "lastSeenId": "2105405492990291994",
       "initialized": true
     },
     "Lodis_LDS": {
