@@ -1,6 +1,430 @@
 {
-  "updatedAt": "2026-10-01T15:23:24Z",
+  "updatedAt": "2026-10-01T20:28:05Z",
   "posts": [
+    {
+      "id": "2105740238060425332",
+      "url": "https://x.com/RiftLegendsPL/status/2105740238060425332",
+      "createdAt": "2026-10-01T19:22:50.000Z",
+      "text": "Każdy Polak dzisiaj:\n\n@Majutek_lol, @Bialito_ przytulcie @Pedro_Paprzycki prosze... https://t.co/0LRvDadpT0",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105740096947310593",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkXdiPXUAEI36Z.png",
+          "altText": null,
+          "width": 427,
+          "height": 560
+        }
+      ],
+      "extracted": {
+        "player": "Majutek",
+        "playerHandle": "Majutek_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "A\n\nwo",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105739914922938736",
+      "url": "https://x.com/RiftLegendsPL/status/2105739914922938736",
+      "createdAt": "2026-10-01T19:21:33.000Z",
+      "text": "Niestety Wakacje.\n\n@Lodis_LDS ODPADA Z EMEA! 😪 https://t.co/DkVZ43oKg9",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105739804507828224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkXMg0W8AAlDmW.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Lodis_LDS",
+        "playerHandle": "Lodis_LDS",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "oh Ng\n\n3\n\n&\n\n= 2\n\nlo\n\nae \\ _\n\njuore®\n\nOSTE\n\n‘\n\noy. a\n\n>sTORI\n\ni\n\ni BERN.\n\n/PROSTE\n\nsy\n\nLODIS ODPADA 2 EMEA!\n\nPw\n\nzabka “@\n\nBANK\n\nDIABLO\n\ntwee\n\nEMEA MASTERS SUMMER 2026\n\nee aes eS\n— ae cae}\nSe <€ ® i # roste >) o\ndf Pp \\e PROS Ay sat\n.\\ “ PROSTE yy i J\noo: storie |\nLODIS ODPADA 2 EMEA!\nCOD txeke ae Qe nto\n+ See eee tierca +",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105739672307855524",
+      "url": "https://x.com/Lodis_LDS/status/2105739672307855524",
+      "createdAt": "2026-10-01T19:20:35.000Z",
+      "text": "I bądź tu teraz mądry człowieku...\n\nNiestety tu się kończy nasza przygoda na EMEA Masters. \n\nPrzepraszamy wszystkich kibiców 🙏 https://t.co/HQHJPPp0Of",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105739276507848704",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkWtx3WoAAuKAe.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105728518827217217",
+      "url": "https://x.com/Lodis_LDS/status/2105728518827217217",
+      "createdAt": "2026-10-01T18:36:16.000Z",
+      "text": "0:1 po 39 minutowej kopaninie po czołach. https://t.co/jhp2qDrLew",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105728424647995392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkM2HiWMAAL6yj.png",
+          "altText": null,
+          "width": 384,
+          "height": 343
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105721692106653810",
+      "url": "https://x.com/Lodis_LDS/status/2105721692106653810",
+      "createdAt": "2026-10-01T18:09:08.000Z",
+      "text": "Nie wygląda to dobrze póki co, ale MANDAT ufam Tobie 🙏 https://t.co/cT9NpoP8vV",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105721572153565184",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkGnQAXIAAF4fL.png",
+          "altText": null,
+          "width": 114,
+          "height": 33
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105718181327262025",
+      "url": "https://x.com/Lodis_LDS/status/2105718181327262025",
+      "createdAt": "2026-10-01T17:55:11.000Z",
+      "text": "First blood? ✅ https://t.co/rhR9V2JgBC",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2105718098540032001",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105718098540032001/img/Lteo-mYwED9hZY_y.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105714869269831804",
+      "url": "https://x.com/Lodis_LDS/status/2105714869269831804",
+      "createdAt": "2026-10-01T17:42:01.000Z",
+      "text": "Syndrolud dla @CzekoladLol? ✅\nLucian &amp; Milio? ✅ https://t.co/XbRpl9UyoN",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105714844523499520",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkAfpoXEAAgtC2.png",
+          "altText": null,
+          "width": 273,
+          "height": 597
+        }
+      ],
+      "extracted": {
+        "player": "Czekolad",
+        "playerHandle": "CzekoladLol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105709652684296279",
+      "url": "https://x.com/RiftLegendsPL/status/2105709652684296279",
+      "createdAt": "2026-10-01T17:21:18.000Z",
+      "text": "NIEEEEEEEEEEEEeeeeeeEeeeEeeEeeEeeeeeeeee Eeee ☠️☠️☠️\n\n@BombaTeamGG upada po raz kolejny… https://t.co/PMi0S82L3O",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105709646304456704",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTj7xEwXMAAIjhl.jpg",
+          "altText": null,
+          "width": 249,
+          "height": 288
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "a\n\nA,\n\na\n\nA\nVaz\nwe 4\na\n\\\n\\",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105709347321811191",
+      "url": "https://x.com/BombaTeamGG/status/2105709347321811191",
+      "createdAt": "2026-10-01T17:20:05.000Z",
+      "text": "Przepraszamy 🥀 https://t.co/CZ0CayftHo",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105709254845792256",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTj7aSdWAAAj2gh.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105694051164971514",
+      "url": "https://x.com/BombaTeamGG/status/2105694051164971514",
+      "createdAt": "2026-10-01T16:19:18.000Z",
+      "text": "Is that you @TTobias_lol? https://t.co/0N2DpcydM3",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105693802140770304",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTjtW0pXoAAkc3M.png",
+          "altText": null,
+          "width": 238,
+          "height": 37
+        },
+        {
+          "mediaKey": "13_2105693984416800768",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105693984416800768/img/BOz-WlOKNfXoC1w4.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "TTobias",
+        "playerHandle": "TTobias_lol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105691377216753784",
+      "url": "https://x.com/BombaTeamGG/status/2105691377216753784",
+      "createdAt": "2026-10-01T16:08:40.000Z",
+      "text": "Odbijamy 🕺💃 https://t.co/8gtfw9xZNy",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2105691254285545472",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105691254285545472/img/gvXdu-IABPmIOK2X.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105684561070080353",
+      "url": "https://x.com/RiftLegendsPL/status/2105684561070080353",
+      "createdAt": "2026-10-01T15:41:35.000Z",
+      "text": "Fory dane dla kontentu to teraz szybki reverse sweep co nie bombeczki? https://t.co/gOvLiuZVtj",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105684555587878912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTjk8mjXgAASzRJ.jpg",
+          "altText": null,
+          "width": 1206,
+          "height": 1212
+        }
+      ],
+      "extracted": {
+        "player": "BOMBA",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "C'mon,\n\ndo something...\n\nC’mon,\nee\new 4\nBOMBA",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105682031954866562",
+      "url": "https://x.com/BombaTeamGG/status/2105682031954866562",
+      "createdAt": "2026-10-01T15:31:32.000Z",
+      "text": "Ekhm... https://t.co/WmOJFmWCAq",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105681995749634049",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTjinmaXsAEDyBf.png",
+          "altText": null,
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2105677417394188724",
       "url": "https://x.com/BombaTeamGG/status/2105677417394188724",
@@ -3261,415 +3685,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102410086710997302",
-      "url": "https://x.com/RiftLegendsPL/status/2102410086710997302",
-      "createdAt": "2026-09-22T14:50:00.000Z",
-      "text": "TO CO @Lodis_LDS, @BombaTeamGG, @ForsakenGG - CZYJE LOGO ZOBACZYMY JAKO SUMMER 2026 WINNER? 👀 https://t.co/jdebDnnHKt",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102376794317897728",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0kjjlXwAAcTut.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": 2026
-      },
-      "ocrText": "v\n\n@:, TMI\n\nMASTERS\n\n2026\n\n20.\n\n2023\n\nwo)\n\na\n\nra\n\nae\n\nad\n\nra\n\nba\n\nfo\n\nTY\n\nB&B\n\nws\n\nfo\n\nra\n\nain\n\ngo\n\nGor\n\nPar\n\n29\n\n®\n\n$9\n\n®\n\n6°\n\nNy\n\nEMEA MASTERS\n\nSUMMER SPLIT- 2026\n\nLEAGUE OF LEGENDS\n\n. OSTATNI Zuly ZCY EM EMEA\nel\n2026 20es | 42024 ~~ 2023\n=\n‘ E é roy)\noe g S 3 Z s $ $\na Q\n7 |) ee =. 3\ng ™ parry\nFT 8 } a a) Be Ge\n$ é 8 io rey 88\nPe | ee cs\n5 ao zo \\' $ 26\nF © < zo\n3 38 3 \\ ae\n| ee | a ss ee",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102391715759829159",
-      "url": "https://x.com/RiftLegendsPL/status/2102391715759829159",
-      "createdAt": "2026-09-22T13:37:00.000Z",
-      "text": "POWSPOMINAJMY TE CHWILE… 🥹\n\n🇵🇱 Lista polskich zawodników, którzy sięgnęli po zwycięstwo w EMEA 👇🏻 https://t.co/QIzQYfbqna",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102375837664194561",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0jr3xWsAE-XrS.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "AS",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "v\n\nMASTERS\n\nPOLSCY 2Z2W/YCIEZCY EM\n\nSELFMADE\n\nGa MAD LIONS (2018 SUMMER)\n\nCZEKOLAD\n\n[Xf AGO ROGUE (2020 SUMMER)\n\nWOOLITE\n\nAGO ROGUE (2020 SUMMER)\n\nTRYMBI\n\nAGO ROGUE (2020 SUMMER)\n\nCINKROF\n\n2024 SUMME}\n\nRING\n\n® «armine corp (=:\n\n2023 SUMMER\n\nIBO\n\n(0) Team HERETICS (2022 SUMil\n\nZWYROO\n\n|\n\nO) ream HERETICS (2022S\n\niF,\n\nOn\n\nG)\n\n@ GALIONS (2026 SPR:\n\nAS\n\nEMEA MASTERS:\n\nSUMMER SPLIT- 2026\n\nLEAGUE OF LEGENDS:\n\nSK wy\nPOLSCY ZWYCIEZCY EM en\nSELFMADE Ga MAD LIONS (2048 SUMMER) “\nCZEKOLAD AGO ROGUE (2020 SUMMER) ;\nWOOLITE AGO ROGUE (2020 SUMMER)\n\nTRYMBI AGO ROGUE (2020 SUMMER) a y)\n\nCINKROF Q® karmrne corp ¢ Boot summer XN :\n_ IBO O) reamnenerzcs (2022 SUMMER) : fe\n\nsae) _ ZWYROO O) ream Hererzcs ~~ PP IER) Ee\n\n1 _HARPOOW %& earrons (2026 sprz ve) ‘ | i",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102389491323326919",
-      "url": "https://x.com/Lodis_LDS/status/2102389491323326919",
-      "createdAt": "2026-09-22T13:28:09.000Z",
-      "text": "Plan jest prosty - wygrać!🥵\n\nSłyszymy się od 17:00! https://t.co/GUhDLOTkuF",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102389133192687616",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0vxxeXcAAgoTI.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102388640059916718",
-      "url": "https://x.com/_ForsakenGG_/status/2102388640059916718",
-      "createdAt": "2026-09-22T13:24:46.000Z",
-      "text": "https://t.co/y4mODClwHt",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102388367141003613",
-      "url": "https://x.com/_ForsakenGG_/status/2102388367141003613",
-      "createdAt": "2026-09-22T13:23:41.000Z",
-      "text": "Na ogłoszenie musicie jeszcze chwilę poczekać\nW międzyczasie możecie zgarnąć nasz merch po promocyjnej cenie w naszym sklepie\n❗️Rabat jest naliczany w kasie❗️ https://t.co/eMz3NmTFTL",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102388194482257920",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0u7IgXAAAVeWH.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102374166540259653",
-      "url": "https://x.com/RiftLegendsPL/status/2102374166540259653",
-      "createdAt": "2026-09-22T12:27:16.000Z",
-      "text": "REPREZENTANCI RL W WALCE O MAIN STAGE EMEA! 🔥\n\n17:00 - MECZ O AWANS\n🇵🇱 @Yetiilol1 🆚 @Lodis_LDS  🇵🇱\n\n20:00 - MECZ O SPADEK\nP4 🆚 AP\n\nNa transmisji usłyszycie dziś @Pedro_Paprzycki  &amp; @B4RN0_  🎙️ https://t.co/n8YsQlsTQx",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102372780742148096",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0g572WAAAA6mk.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": "Yetiilol1",
-        "playerHandle": "Yetiilol1",
-        "kda": null,
-        "kp": null,
-        "gold": 2209
-      },
-      "ocrText": "#REKLAMA\n\nINOGR\n\n22.09\n\n+\n\nMASTERS\n\nSe\n\n17:00\n\nLDS\n\nWy s\n\nVs\n\n20:00\n\n4\n\nVS\n\nAP\n\n| PYRAMID IV\n\nDIABLO\n\nKeke)\n\nZobka cn\n\n»\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n————=———Srl ee\n#REKLAMA +\n-HARMONWOGRA\n[= | 2209 -\nA 7 EMEA =\n~ ( MASTERS ”\n. ~ a >\n¥\n;\n20:00 =\nWY Pa OSAP ‘oe\nCO ere unr DIABLO\n+ EMEA MASTERS SUMMER 2026 >",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102372348661772799",
-      "url": "https://x.com/RiftLegendsPL/status/2102372348661772799",
-      "createdAt": "2026-09-22T12:20:02.000Z",
-      "text": ".@FresskowyLoL GOACIK 🐐\n\nTak trzymaj szefie! https://t.co/XUmWAFqqpb https://t.co/JOcwhATd3Y",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102372221733806080",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS0gZZYXoAAlEmK.jpg",
-          "altText": null,
-          "width": 1200,
-          "height": 630
-        }
-      ],
-      "extracted": {
-        "player": "Fresskowy",
-        "playerHandle": "FresskowyLoL",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "N\n\n$QGg>\n\nii\n\n‘|\n\n\\\n\nKX\n\n2\n\nA\n\nRAL\n\n7 : : ry\nGer.\n\\ ” as .\nyy 7\nx,\nBag / |W \\ .\n\\ “Shy\n” j ZN\nf { (0S\n\\ fy) A)\n} if Ye LRAT\n, a\n\\ /\n_ | \\ x",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102116651940376744",
-      "url": "https://x.com/RiftLegendsPL/status/2102116651940376744",
-      "createdAt": "2026-09-21T19:23:59.000Z",
-      "text": "SZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥\nSZYBKIE 2:0 DLA MISI LODISI 🔥 https://t.co/55OafRMA6t",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102115644074324144",
-      "url": "https://x.com/Lodis_LDS/status/2102115644074324144",
-      "createdAt": "2026-09-21T19:19:59.000Z",
-      "text": "Piramidy ograne, jutro Francja 😎\n\nFrancja? To przeszłość... https://t.co/jTpeLGBZLX",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102115126530789376",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSw2kfHX0AADTrr.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102114844530888902",
-      "url": "https://x.com/Lodis_LDS/status/2102114844530888902",
-      "createdAt": "2026-09-21T19:16:48.000Z",
-      "text": "Luszyn @zamuleklol? 👌 https://t.co/95tsxGmh2p",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2102114705024159744",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2102114705024159744/img/7QGMrQu9j7CMCg-C.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "zamulek",
-        "playerHandle": "zamuleklol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102101971742163028",
-      "url": "https://x.com/Lodis_LDS/status/2102101971742163028",
-      "createdAt": "2026-09-21T18:25:39.000Z",
-      "text": "1:0 mimo drobnej wylewki od @CzekoladLol 😎 https://t.co/fFIYkY0Dtz",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2102101828108230656",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2102101828108230656/img/x9AeSTeMyKmPvbvB.jpg",
-          "altText": null,
-          "width": 720,
-          "height": 1280
-        }
-      ],
-      "extracted": {
-        "player": "Czekolad",
-        "playerHandle": "CzekoladLol",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102100390888010046",
-      "url": "https://x.com/Lodis_LDS/status/2102100390888010046",
-      "createdAt": "2026-09-21T18:19:22.000Z",
-      "text": "Nie pokażę co się wydarzyło chwilę później 💀 https://t.co/nPOuvr5dxu",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2102100239909896192",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2102100239909896192/img/jJ1iMy6emJTN6KVv.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102094992105742848",
-      "url": "https://x.com/Lodis_LDS/status/2102094992105742848",
-      "createdAt": "2026-09-21T17:57:55.000Z",
-      "text": "\"PREMIER SANG\" (tłumacząc na ludzki - first  blood) na konto @KasekoEB 😎 https://t.co/FvCgQ7TQXN",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2102094797523619840",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2102094797523619840/img/1jIjPlEWbHk6O9Hg.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "KasekoEB",
-        "playerHandle": "KasekoEB",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2105641643655487996",
+      "lastSeenId": "2105740238060425332",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2105641253312344472",
+      "lastSeenId": "2105739672307855524",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3677,7 +3703,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2105677417394188724",
+      "lastSeenId": "2105709347321811191",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
