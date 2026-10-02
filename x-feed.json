@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-10-01T20:28:05Z",
+  "updatedAt": "2026-10-02T00:08:43Z",
   "posts": [
+    {
+      "id": "2105788021068968130",
+      "url": "https://x.com/RiftLegendsPL/status/2105788021068968130",
+      "createdAt": "2026-10-01T22:32:42.000Z",
+      "text": "Dobrze że Robercik już nie gra w Barcy. \n\nJutro do or die dla Rift legends:\n@BombaTeamGG vs BARCELONA https://t.co/ezelkOqir0",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2105740238060425332",
       "url": "https://x.com/RiftLegendsPL/status/2105740238060425332",
@@ -3662,35 +3685,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102413195612766250",
-      "url": "https://x.com/RiftLegendsPL/status/2102413195612766250",
-      "createdAt": "2026-09-22T15:02:21.000Z",
-      "text": "LODIS GRAĆ! \nLODIS GRAĆ! \nLODIS GRAĆ! \nLODIS GRAĆ! \nLODIS GRAĆ! https://t.co/50XBL70Bgx",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2105740238060425332",
+      "lastSeenId": "2105788021068968130",
       "initialized": true
     },
     "Lodis_LDS": {
