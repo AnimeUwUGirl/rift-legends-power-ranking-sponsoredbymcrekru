@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-02T00:08:43Z",
+  "updatedAt": "2026-10-02T12:26:40Z",
   "posts": [
+    {
+      "id": "2105964985943818617",
+      "url": "https://x.com/RiftLegendsPL/status/2105964985943818617",
+      "createdAt": "2026-10-02T10:15:54.000Z",
+      "text": "WSTYD\nŻENADA\nKOMPROMITACJA\nHAŃBA...\n\nTO NIE DZIŚ! - OSTATNIA SZANSA @BombaTeamGG NA PLAYOFFY 🔥\n\n🎙️ @Kr0piak &amp; @Pedro_Paprzycki  &amp; @CzarnyPiotrus10 https://t.co/sFTXk2HrXQ",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105964332668293121",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTnjZxZWEAEJKRI.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "BombaTeamGG",
+        "playerHandle": "BombaTeamGG",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n+\n\nNOGRAM\n\n02.10\n\ny\n\n2\n\n2a\n\nay\n\n17:01\n\nLR NBS\n\nVS\n\n3\n\nUCAM\n\n10:00\n\nvs\n\n| BOOM\n\nBAR\n\nDIABLO\n\nKeke)\n\nzabka ‘@\n\n»\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA his +\nRMONOGRANM\n, a v\n< Sy\nx { 9 é , }\n17:00 - }\nty NBS VS UCAM W/\nBOOM VS _ BAR\nCO ere unr DIABLO =\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2105942276115480921",
+      "url": "https://x.com/BombaTeamGG/status/2105942276115480921",
+      "createdAt": "2026-10-02T08:45:39.000Z",
+      "text": "Piję, aby zapomnieć o wczoraj. https://t.co/cHfb1qGUOF",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2105942084024705024",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTnPKuvWoAAxZTv.png",
+          "altText": null,
+          "width": 163,
+          "height": 169
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2105788021068968130",
       "url": "https://x.com/RiftLegendsPL/status/2105788021068968130",
@@ -3621,76 +3685,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102459608136843469",
-      "url": "https://x.com/Lodis_LDS/status/2102459608136843469",
-      "createdAt": "2026-09-22T18:06:47.000Z",
-      "text": "Veni, vidi, vici\n\nAwansujemy do Swiss Stage EMEA MASTERS! https://t.co/7RG1CHY06E",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102459399264411648",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS1vry_WIAA_sOv.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102426117651227108",
-      "url": "https://x.com/Lodis_LDS/status/2102426117651227108",
-      "createdAt": "2026-09-22T15:53:42.000Z",
-      "text": "1-0 https://t.co/B5Zmaktftm",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102426039087435776",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS1RV-pWkAAyLZp.png",
-          "altText": null,
-          "width": 298,
-          "height": 283
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2105788021068968130",
+      "lastSeenId": "2105964985943818617",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3703,7 +3703,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2105709347321811191",
+      "lastSeenId": "2105942276115480921",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
