@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-02T18:00:13Z",
+  "updatedAt": "2026-10-02T22:07:14Z",
   "posts": [
+    {
+      "id": "2106084251410321766",
+      "url": "https://x.com/BombaTeamGG/status/2106084251410321766",
+      "createdAt": "2026-10-02T18:09:49.000Z",
+      "text": "No i koniec challenge'u... \n\nOdpadamy z EMEA i dołączamy do FSK &amp; LODIS 😞 https://t.co/GMHsaCKPjr",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106083550898319361",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTpP1L6WcAEAXF0.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2106083885322760609",
+      "url": "https://x.com/RiftLegendsPL/status/2106083885322760609",
+      "createdAt": "2026-10-02T18:08:22.000Z",
+      "text": "koniec EMEA dla RL\nbez komentarza. https://t.co/fcrjEqdT7P",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106083448557285376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTpPvOqWMAAWs8j.jpg",
+          "altText": null,
+          "width": 335,
+          "height": 335
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "The end",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2106082771643036097",
+      "url": "https://x.com/RiftLegendsPL/status/2106082771643036097",
+      "createdAt": "2026-10-02T18:03:56.000Z",
+      "text": "takie tam luźne ponad 8k golda ahead ☠️ https://t.co/4fZpaJVg1l",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106082716600999936",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTpPEn6XoAAv6S4.png",
+          "altText": null,
+          "width": 152,
+          "height": 80
+        }
+      ],
+      "extracted": {
+        "player": "ar",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "ar\n\ntd oe\n\n2 on\nws —\na",
+      "ocrVersion": 4
+    },
     {
       "id": "2106080734117052598",
       "url": "https://x.com/RiftLegendsPL/status/2106080734117052598",
@@ -3643,81 +3739,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102776443604476268",
-      "url": "https://x.com/AnonymoEsports/status/2102776443604476268",
-      "createdAt": "2026-09-23T15:05:46.000Z",
-      "text": "Long $CRCL on @arc \n\nOnly available at https://t.co/0e0XIWKCb5 https://t.co/tBTxmElfFJ",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "arc",
-        "playerHandle": "arc",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102776284824952950",
-      "url": "https://x.com/AnonymoEsports/status/2102776284824952950",
-      "createdAt": "2026-09-23T15:05:08.000Z",
-      "text": "We confirm there was no paid promotion from Long.\n\nHe genuinely took a position in $Long as the No. 1 platform at that time, with $2M bridge TVL and $20M+ volume before public mainnet.\n\nThis resulted in chain-wide FUD and attacks.\n\nBuild on @arc and raise above the hate\n\nLong arc https://t.co/ChmvNiQQbO",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "arc",
-        "playerHandle": "arc",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102776002908717132",
-      "url": "https://x.com/AnonymoEsports/status/2102776002908717132",
-      "createdAt": "2026-09-23T15:04:01.000Z",
-      "text": "We are developing a new factory that enables Memestocks paired with upcoming @xStocksFi (no official launch time from the team yet).\n\nMemestock is the meta on every chain, and the @arc community should not be left waiting.\n\nBuilt using @Uniswap v4 hook \n\nHow it will work:\n\n1) New https://t.co/sIePt3PlFP",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "xStocksFi",
-        "playerHandle": "xStocksFi",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2106080734117052598",
+      "lastSeenId": "2106083885322760609",
       "initialized": true
     },
     "Lodis_LDS": {
@@ -3730,7 +3757,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2106080647211094319",
+      "lastSeenId": "2106084251410321766",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
