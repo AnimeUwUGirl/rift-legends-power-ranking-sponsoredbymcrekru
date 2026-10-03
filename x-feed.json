@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-02T22:07:14Z",
+  "updatedAt": "2026-10-03T16:39:55Z",
   "posts": [
+    {
+      "id": "2106377016144544076",
+      "url": "https://x.com/Lodis_LDS/status/2106377016144544076",
+      "createdAt": "2026-10-03T13:33:09.000Z",
+      "text": "Może przynajmniej w czołgach play-offy pójdą po naszej myśli 🙏\n\nGramy po 17 🫡 https://t.co/9vx7VBi6u5",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106376353067028480",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTtaIg_X0AAMEwq.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2106084251410321766",
       "url": "https://x.com/BombaTeamGG/status/2106084251410321766",
@@ -3707,38 +3739,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102777150768099691",
-      "url": "https://x.com/AnonymoEsports/status/2102777150768099691",
-      "createdAt": "2026-09-23T15:08:35.000Z",
-      "text": "LongV2 is live on https://t.co/0e0XIWK4lx\n\nA major upgrade to the Long ecosystem.\n\nWhat’s New:\n• 🪙 Native USDC launches\n• 🔗 Custom trading pairs\n• 💰 Holder Reward Mode\n• 🔥 Automatic $LONG buybacks &amp; burns from fees\n• ♻️ Eco Flywheel for the Top 10 tokens\n• ⚡ Fees https://t.co/3u0sSjCho3",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102777138214567936",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS6Qqo0XgAAfUXT.jpg",
-          "altText": null,
-          "width": 1267,
-          "height": 777
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3749,7 +3749,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2106004735010468183",
+      "lastSeenId": "2106377016144544076",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
