@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-04T14:45:02Z",
+  "updatedAt": "2026-10-04T18:36:45Z",
   "posts": [
+    {
+      "id": "2106791514479182197",
+      "url": "https://x.com/Lodis_LDS/status/2106791514479182197",
+      "createdAt": "2026-10-04T17:00:14.000Z",
+      "text": "27K? Ktoś tam śledzi te czołgi jednak 😎 https://t.co/syNF49QCZX",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106791395797131264",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTzTnLpWYAAq3Qt.jpg",
+          "altText": null,
+          "width": 1336,
+          "height": 805
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2106772278633488592",
+      "url": "https://x.com/RiftLegendsPL/status/2106772278633488592",
+      "createdAt": "2026-10-04T15:43:47.000Z",
+      "text": "Hej @Kr0piak &amp; @B4RN0_ 🎙️",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": "Kr0piak",
+        "playerHandle": "Kr0piak",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2106768844954190010",
+      "url": "https://x.com/RiftLegendsPL/status/2106768844954190010",
+      "createdAt": "2026-10-04T15:30:09.000Z",
+      "text": "Wrócił z Korei by dalej podbijać Europę \n\n🇵🇱 @Harpoonlol rozpoczyna dziś walkę o kolejne mistrzostwo EMEA! 🏆\n\n18:00 \nGALIONS VS THE SECRET CLUB \n\nJAZDAAA FRANIUUU! https://t.co/UCQ4MVkffh",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2106768785680035840",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2106768785680035840/img/HuTBmt6S5kFRA3sQ.jpg",
+          "altText": null,
+          "width": 576,
+          "height": 1024
+        }
+      ],
+      "extracted": {
+        "player": "Harpoon",
+        "playerHandle": "Harpoonlol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2106751077550825941",
       "url": "https://x.com/Lodis_LDS/status/2106751077550825941",
@@ -3661,95 +3748,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103001234349150622",
-      "url": "https://x.com/AnonymoEsports/status/2103001234349150622",
-      "createdAt": "2026-09-24T05:59:00.000Z",
-      "text": "Interop on Arc: liquidity hub\n\n We’ve registered 34 Ethereum assets with the official @circle CCTP bridge for cross-chain transfers.\n\nRead more from official docs: https://t.co/xq6HrYgNO0…\n\nThe bridge is fully managed by @circle, just like USDC CCTP, with no dependence on our",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "circle",
-        "playerHandle": "circle",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102886818006065418",
-      "url": "https://x.com/RiftLegendsPL/status/2102886818006065418",
-      "createdAt": "2026-09-23T22:24:21.000Z",
-      "text": "PARY NA SWISSA WYLOSOWANE \n\nCo sądzimy? 👀 https://t.co/Sy7slOcskF",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2102800409509110228",
-      "url": "https://x.com/RiftLegendsPL/status/2102800409509110228",
-      "createdAt": "2026-09-23T16:41:00.000Z",
-      "text": "TAKI MŁODY, A TAKI DOŚWIADCZONY...\n\n(nie taka mała) historia @Yetiilol1 🔥 https://t.co/rXTrNGWsor",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102746014591463424",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS50XASXsAA7GXs.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "Yetiilol1",
-        "playerHandle": "Yetiilol1",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "We\n\nV\n\no*\n\nRS\n\n<<\n\nHISTORIA YETI°EGO\n\n£MEA\n\nMASTERS\n\noo®\n\na\n\no\n\ni\n\n4\n\n4\n\nALSACE VOSGE!\n\n2025 ~ TAN TESPORTS / BBL DARK PAS:\n\nTHE FORBIDDEN FIVE\n\nvars\n\n2026 - skiLicamp[LFt]\n\nrr\n\nEMEA MASTERS:\n\nSUMMER SPLIT- 2026\n\nLEAGUE OF LEGENDS:\n\nRye Wy\naA HISTORIA YETI°EGO EMEA\npees : < % fie oi\n‘ wo ow’),\nwan\n& se a ee\nCH 2024 - su: UCN ae TOI €\nALSACE VOSGES Sei i —\nYETI 2026 * tirronsiopeneive “9 \\—\nNOT evi ron ir ror | 2026 ~ sezuicamrjirt) ,",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2106083885322760609",
+      "lastSeenId": "2106772278633488592",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2106751077550825941",
+      "lastSeenId": "2106791514479182197",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
