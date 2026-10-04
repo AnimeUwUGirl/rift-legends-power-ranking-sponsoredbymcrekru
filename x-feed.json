@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-03T16:39:55Z",
+  "updatedAt": "2026-10-04T14:45:02Z",
   "posts": [
+    {
+      "id": "2106751077550825941",
+      "url": "https://x.com/Lodis_LDS/status/2106751077550825941",
+      "createdAt": "2026-10-04T14:19:33.000Z",
+      "text": "Mamy to! Wielki finał przed nami, a transmisję będziecie mogli śledzić na oficjalnych kanałach World of Tanks 🫡\n\nSeria odbędzie się o godzinie 19 😎 https://t.co/jRQZiAkOzE",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2106750992075128832",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTyu3YDXAAAILRk.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2106377016144544076",
       "url": "https://x.com/Lodis_LDS/status/2106377016144544076",
@@ -3707,38 +3739,6 @@
       },
       "ocrText": "We\n\nV\n\no*\n\nRS\n\n<<\n\nHISTORIA YETI°EGO\n\n£MEA\n\nMASTERS\n\noo®\n\na\n\no\n\ni\n\n4\n\n4\n\nALSACE VOSGE!\n\n2025 ~ TAN TESPORTS / BBL DARK PAS:\n\nTHE FORBIDDEN FIVE\n\nvars\n\n2026 - skiLicamp[LFt]\n\nrr\n\nEMEA MASTERS:\n\nSUMMER SPLIT- 2026\n\nLEAGUE OF LEGENDS:\n\nRye Wy\naA HISTORIA YETI°EGO EMEA\npees : < % fie oi\n‘ wo ow’),\nwan\n& se a ee\nCH 2024 - su: UCN ae TOI €\nALSACE VOSGES Sei i —\nYETI 2026 * tirronsiopeneive “9 \\—\nNOT evi ron ir ror | 2026 ~ sezuicamrjirt) ,",
       "ocrVersion": 4
-    },
-    {
-      "id": "2102798321073144037",
-      "url": "https://x.com/Lodis_LDS/status/2102798321073144037",
-      "createdAt": "2026-09-23T16:32:42.000Z",
-      "text": "Ostatni mecz fazy zasadniczej!\n\nRuszamy o 19! https://t.co/6btyj7NOn5",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2102798307147829248",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS6j61PW0AAZsE-.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3749,7 +3749,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2106377016144544076",
+      "lastSeenId": "2106751077550825941",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
