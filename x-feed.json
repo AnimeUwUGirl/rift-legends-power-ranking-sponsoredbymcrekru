@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-04T18:36:45Z",
+  "updatedAt": "2026-10-05T15:54:35Z",
   "posts": [
+    {
+      "id": "2107037449432306122",
+      "url": "https://x.com/Lodis_LDS/status/2107037449432306122",
+      "createdAt": "2026-10-05T09:17:29.000Z",
+      "text": "Posypaliśmy się w tym finale... \n\nAle wicemistrzostwo również przyjmiemy z pocałowaniem ręki 😎 https://t.co/TTiQNEyBSd",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2107037177913778176",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT2zJlYXoAAFwsT.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2106791514479182197",
       "url": "https://x.com/Lodis_LDS/status/2106791514479182197",
@@ -3725,29 +3757,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103075982240362877",
-      "url": "https://x.com/AnonymoEsports/status/2103075982240362877",
-      "createdAt": "2026-09-24T10:56:02.000Z",
-      "text": "The @Ondo stocks are available on @arc via circle CCTP bridge\n\nhttps://t.co/Eaney8ysQ0 https://t.co/cAVeqcfUAu",
-      "kind": "post",
-      "author": {
-        "username": "AnonymoEsports",
-        "name": "Anonymo Esports",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "Ondo",
-        "playerHandle": "Ondo",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3758,7 +3767,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2106791514479182197",
+      "lastSeenId": "2107037449432306122",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
