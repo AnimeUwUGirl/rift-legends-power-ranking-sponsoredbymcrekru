@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-05T15:54:35Z",
+  "updatedAt": "2026-10-06T16:14:12Z",
   "posts": [
+    {
+      "id": "2107445286981496983",
+      "url": "https://x.com/RiftLegendsPL/status/2107445286981496983",
+      "createdAt": "2026-10-06T12:18:05.000Z",
+      "text": "Wracamy do EMEA - Szykuje się niezłe meczycho 🔥\n\n🎙️ @JaskierBB &amp; @Bialito_  &amp; @AgaTrendsetter https://t.co/WtKGJXQ7qg",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2107445017664954368",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT8mE-2WIAApX4N.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\nNOGRAM\n\n06.10\n\nOe\n\ne\n\n~\n\n}\n\n18:00\n\n006\n\n‘he\n\nBIG\n\nBa\n\nIc\n\nKika\n\nZonk i@ ae\n\n»\n\nDIABLO =\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA oe +\nmoNocRAM\n— | f | / -\ni a ‘4 06.10\n~ =»\n—- re ‘\n= A x f 4\nen y 3 “ cy ae chen se\n, 4\nJ <a\n\\\ny\n4\n™= 18:00 f Ny,\nic] & VS BIG 340\na cic\nCO ere unr DIABLO =\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
     {
       "id": "2107037449432306122",
       "url": "https://x.com/Lodis_LDS/status/2107037449432306122",
@@ -3734,35 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103099018633216139",
-      "url": "https://x.com/RiftLegendsPL/status/2103099018633216139",
-      "createdAt": "2026-09-24T12:27:34.000Z",
-      "text": "Zadowoleni? 👀 https://t.co/Sy7slOcskF",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2106772278633488592",
+      "lastSeenId": "2107445286981496983",
       "initialized": true
     },
     "Lodis_LDS": {
