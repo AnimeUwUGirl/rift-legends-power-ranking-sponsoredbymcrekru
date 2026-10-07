@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-07T14:43:14Z",
+  "updatedAt": "2026-10-07T20:33:44Z",
   "posts": [
+    {
+      "id": "2107869155395264672",
+      "url": "https://x.com/RiftLegendsPL/status/2107869155395264672",
+      "createdAt": "2026-10-07T16:22:23.000Z",
+      "text": "Daaawaj @Yetiilol1 wycarruj tam chłopaków... https://t.co/MRYpi1GWqy",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2107869083597193216",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUCnw3jWwAAv3-3.jpg",
+          "altText": null,
+          "width": 1200,
+          "height": 1038
+        }
+      ],
+      "extracted": {
+        "player": "Yetiilol1",
+        "playerHandle": "Yetiilol1",
+        "kda": "2/0/0",
+        "kp": 9.0,
+        "gold": 1072
+      },
+      "ocrText": "S\n\n2\n\nfe\n\n‘\n\n2/0/0\n\n83\n\n.\n\n0.1K»\n\n105\n\n0/0/0\n\n-\n\nbul\n\neA®\n\n7 x\n\n\"ans\n\n2/1/3\n\noy @ Ge 82\n\n2/3/0\n\n7K 94\n\nser OFD\n\n1/0/3\n\n0/3/2\n\nOr gO\n\n99 Re\n\n107 2\n\nMe\n\n9K\n\nb «SF\n\nvd\n\n?\n\nNE\n\nN\n\n3/0/1\n\n—\n\n0/2/0\n\n-’\n\n10\n\n41.\n\n2/1/4\n\n—\n\n“oS 15\n\n0/2s/1\n\n2 hel id\n\n—\n\n9\n\nWa\n\nLe\n\n\\\n\nL\n\ndj\n\n_\n\nROR\n\n{i\n\nre Saal\n\nue\n\ny\n\nes)\n\nBy,\n\nwie\n\nby\n\n=|\n\n|\n\n|\n\nZL\n\nw/\n\n/|\n\nt=\n\n- ES\n\n% ®\n“ S an ,\nBSE oop 8 0 1k» 105 oy = eA Xe\n» a \"i x ‘\niP oF on oy @ Ge te 2/3/0 re\nBOF OFD ips * | a0 mf To on BOF 9%\naan ;\naon = re To.\nas BS 3 197 je oy. 0/2/0 bee $1\n* * - . a\nusa 2/1/4 10 st 1.4K  *® oan Bids\nsaeay ung | f/f \\ |\n| /\\Na al Ais we IN fy N\nBN xk DA . a a]\ni a\\a J, [mal ‘|| Ve Fe (re\nV ; aS at LI p j=, j y \\ oe / /\nEd Nee a | Theme oie\nPe : che | > — | Lae ~- aw ee ;\nVS 7 co ea:",
+      "ocrVersion": 4
+    },
     {
       "id": "2107806802012492012",
       "url": "https://x.com/RiftLegendsPL/status/2107806802012492012",
@@ -3743,35 +3775,12 @@
       },
       "ocrText": ")\n\nfj\n\nif,\n\nHf\n\ne\n\n\\\n\n»\n\n=\n\n(\n\nTh yl\n: @ |\n\\ .@ :",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103118572851536274",
-      "url": "https://x.com/_ForsakenGG_/status/2103118572851536274",
-      "createdAt": "2026-09-24T13:45:16.000Z",
-      "text": "@egopeekpl https://t.co/exFQcyw5Up",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": "egopeekpl",
-        "playerHandle": "egopeekpl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2107806802012492012",
+      "lastSeenId": "2107869155395264672",
       "initialized": true
     },
     "Lodis_LDS": {
