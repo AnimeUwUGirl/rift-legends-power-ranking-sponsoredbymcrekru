@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-06T16:14:12Z",
+  "updatedAt": "2026-10-07T14:43:14Z",
   "posts": [
+    {
+      "id": "2107806802012492012",
+      "url": "https://x.com/RiftLegendsPL/status/2107806802012492012",
+      "createdAt": "2026-10-07T12:14:37.000Z",
+      "text": "DZIŚ KIBICUJEMY @Yetiilol1 WE FRANCUSKIEJ BATALII!  \n\nZa mikrofonem Kielecki duet @Bialito_ &amp; @Majutek_lol\na z nimi @Kr0piak 🎙️ https://t.co/b8dgQfUU0a",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2107806673112846336",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUBvAGYW0AASt8T.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Yetiilol1",
+        "playerHandle": "Yetiilol1",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\n+\n\n| NOGRAM\n\n07.10\n\n2\n\ny\n\na= A)\n\ncs\n\nay\n\no\n\n=\n\n(\n\nay\n\nom.\n\n18:00\n\n®& KCB\n\nVs\n\nBOS\n\nsc ty)\n\nzabka\n\nDIABLO\n\nKika\n\noe\n\n»\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA te +\nee ] T > % ie _—_ |\nRMONOGRAM\n— ~~ 02770 v\n4 ae\n4 = a. ae\na “ ae? | > LIS E Zs Ze ae ~\n¢ 3 fy J ff ay Gs 4 5\n4>_\nre <“@ 2\neS |\n18:00 J j\n% «ce vs sc WY\nae by .\nCO ere unr DIABLO =\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
     {
       "id": "2107445286981496983",
       "url": "https://x.com/RiftLegendsPL/status/2107445286981496983",
@@ -3734,44 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103118569307259289",
-      "url": "https://x.com/_ForsakenGG_/status/2103118569307259289",
-      "createdAt": "2026-09-24T13:45:15.000Z",
-      "text": "Może i nie wygraliśmy LANA za to Wy możecie wygrać koszulkę od @egopeekpl\n\n📝 Co trzeba zrobic? Napisz jaki jest twój ulubiony przedmiot w lolu (może być usunięty z gry)\n⏲️ Na zgłoszenia czekamy do 01.10 godz 23:55\n📜Regulamin znajdziecie w komentarzu https://t.co/jbnhrSPhlB",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103118565272322048",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HS_HMTuWAAAxOex.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1440
-        }
-      ],
-      "extracted": {
-        "player": "egopeekpl",
-        "playerHandle": "egopeekpl",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2107445286981496983",
+      "lastSeenId": "2107806802012492012",
       "initialized": true
     },
     "Lodis_LDS": {
