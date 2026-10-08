@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-07T20:33:44Z",
+  "updatedAt": "2026-10-08T19:51:09Z",
   "posts": [
+    {
+      "id": "2108195721266532608",
+      "url": "https://x.com/devils1gg/status/2108195721266532608",
+      "createdAt": "2026-10-08T14:00:02.000Z",
+      "text": "Powodzenia wszystkim studentom 😎\n\nOby nowy semestr był udany zarówno na uczelni, jak i w rozgrywkach rankingowych.\n\nA jeśli chcecie rozwijać się również w kierunku esportu, sprawdźcie ofertę ANS w Pruszkowie.\n\n#reklama https://t.co/gv9hqBqdY3",
+      "kind": "post",
+      "author": {
+        "username": "devils1gg",
+        "name": "devils.one",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2107537048131252224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT95x3DWsAAWXCF.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2107869155395264672",
       "url": "https://x.com/RiftLegendsPL/status/2107869155395264672",
@@ -3743,38 +3775,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103443455632654801",
-      "url": "https://x.com/RiftLegendsPL/status/2103443455632654801",
-      "createdAt": "2026-09-25T11:16:14.000Z",
-      "text": "TAKI OTO SKĄDINĄD PRZYSTOJNIAK OBCHODZI DZIŚ URODZINY! 🥳\n\nWszystkiego najlepszego @Pedro_Paprzycki 🫶🏻 https://t.co/QyZHDkgJwL",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103443448086839296",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTDuq-hWwAAwIgj.jpg",
-          "altText": null,
-          "width": 2048,
-          "height": 2037
-        }
-      ],
-      "extracted": {
-        "player": "Pedro_Paprzycki",
-        "playerHandle": "Pedro_Paprzycki",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": ")\n\nfj\n\nif,\n\nHf\n\ne\n\n\\\n\n»\n\n=\n\n(\n\nTh yl\n: @ |\n\\ .@ :",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3809,7 +3809,7 @@
     },
     "devils1gg": {
       "userId": "3302474159",
-      "lastSeenId": "2104934219134755016",
+      "lastSeenId": "2108195721266532608",
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
