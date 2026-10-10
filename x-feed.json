@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-09T19:41:31Z",
+  "updatedAt": "2026-10-10T17:26:56Z",
   "posts": [
+    {
+      "id": "2108912519930892363",
+      "url": "https://x.com/RiftLegendsPL/status/2108912519930892363",
+      "createdAt": "2026-10-10T13:28:21.000Z",
+      "text": "POTĘŻNE SLY CZY AKADEMIA G2?\n\nPrzekonamy się już dziś wraz z @Kr0piak  &amp; @Bialito_  &amp; @Pedro_Paprzycki  🎙️ https://t.co/DmrJaaxKBd",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2108912353831997440",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HURcnMCW0AAJ2i6.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Kr0piak",
+        "playerHandle": "Kr0piak",
+        "kda": null,
+        "kp": null,
+        "gold": 1070
+      },
+      "ocrText": "#REKLAMA:\n\nAM\n\n10.70\n\nny\n\n>\n\nf\n\nae\n\nep\n\ned\n\n18:0\n\nSLY\n\nww)\n\nA\n\n‘he\n\ncan w\n\nDIABLO =\n\nsepi0 Gam\n\n»\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA G x % +\nMONOGRAM\n€ see e Sed,\n| a\nGrea\n18:00 a\nSS) sty vs Gen \\pg\ng BOS d\nCO ere unr DIABLO ~:\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
     {
       "id": "2108565304846761998",
       "url": "https://x.com/RiftLegendsPL/status/2108565304846761998",
@@ -3734,44 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103848696236646612",
-      "url": "https://x.com/Lodis_LDS/status/2103848696236646612",
-      "createdAt": "2026-09-26T14:06:31.000Z",
-      "text": "Rozpoczynamy Swiss Stage!\n\nPierwszy mecz planowo 18:00. https://t.co/Rr4oMTiUFk",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103848683141758977",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTJfOwvWgAERmqB.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2108565304846761998",
+      "lastSeenId": "2108912519930892363",
       "initialized": true
     },
     "Lodis_LDS": {
