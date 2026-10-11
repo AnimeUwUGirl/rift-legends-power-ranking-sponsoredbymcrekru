@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-10-11T13:26:30Z",
+  "updatedAt": "2026-10-11T18:25:01Z",
   "posts": [
+    {
+      "id": "2109343048538943543",
+      "url": "https://x.com/RiftLegendsPL/status/2109343048538943543",
+      "createdAt": "2026-10-11T17:59:07.000Z",
+      "text": "NA EMEA ZOSTAŁY 4 DRUŻYNY\n\nZ półfinałami wracamy już we wtorek 🔥 https://t.co/RS8Ng4IgPx",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2109271956117745907",
       "url": "https://x.com/barczacaesports/status/2109271956117745907",
@@ -3734,44 +3757,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103888825554542816",
-      "url": "https://x.com/RiftLegendsPL/status/2103888825554542816",
-      "createdAt": "2026-09-26T16:45:59.000Z",
-      "text": "Wszyscy kochamy Grecję, prawda? https://t.co/3oLwtjponH",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103888812560498689",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTKDumeWQAEHyHC.png",
-          "altText": null,
-          "width": 300,
-          "height": 207
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "«a 32",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2108912519930892363",
+      "lastSeenId": "2109343048538943543",
       "initialized": true
     },
     "Lodis_LDS": {
