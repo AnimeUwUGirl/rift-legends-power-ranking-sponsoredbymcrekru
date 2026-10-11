@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-10T17:26:56Z",
+  "updatedAt": "2026-10-11T13:26:30Z",
   "posts": [
+    {
+      "id": "2109271956117745907",
+      "url": "https://x.com/barczacaesports/status/2109271956117745907",
+      "createdAt": "2026-10-11T13:16:37.000Z",
+      "text": "MATCHDAY 💚\n\nCzas na starcie ćwierćfinałowe Barczącej Babylon w ramach @LoLGameChangers\n\n🆚 Barcząca Babylon vs Mental Rush\n📅 11.10.2026\n🕕 18:00 https://t.co/CSnvNfLHBP",
+      "kind": "post",
+      "author": {
+        "username": "barczacaesports",
+        "name": "Barcząca Esports by Yumisu",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2109271319527231489",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWjFvdXEAEuQQ-.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "LoLGameChangers",
+        "playerHandle": "LoLGameChangers",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2108912519930892363",
       "url": "https://x.com/RiftLegendsPL/status/2108912519930892363",
@@ -3734,38 +3766,6 @@
       },
       "ocrText": "«a 32",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103884388538970385",
-      "url": "https://x.com/BombaTeamGG/status/2103884388538970385",
-      "createdAt": "2026-09-26T16:28:21.000Z",
-      "text": "MISTRZ POLSKI WKRACZA DO GRY NA EMEA MASTERS!\n\nZaczynamy około 21. https://t.co/znlaJmHdQ2",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103884237778612224",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTJ_kUFWcAAhlVa.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3824,7 +3824,7 @@
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
-      "lastSeenId": "2095560337554567205",
+      "lastSeenId": "2109271956117745907",
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
