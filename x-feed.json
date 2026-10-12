@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-11T18:25:01Z",
+  "updatedAt": "2026-10-12T18:57:08Z",
   "posts": [
+    {
+      "id": "2109675027532751341",
+      "url": "https://x.com/Lodis_LDS/status/2109675027532751341",
+      "createdAt": "2026-10-12T15:58:17.000Z",
+      "text": "Rozpoczynamy relegacje Onslaught Legends Series S7! \n\nTrzymajcie kciuki za Misie Polarne! 😎 https://t.co/6TRjDHItY9",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2109674934796480512",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUcSLPgW8AAQBfA.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2109343048538943543",
       "url": "https://x.com/RiftLegendsPL/status/2109343048538943543",
@@ -3725,38 +3757,6 @@
       },
       "ocrText": "FSK\n\nLH\n\n® FSK\nRL 4",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103896043871940718",
-      "url": "https://x.com/Lodis_LDS/status/2103896043871940718",
-      "createdAt": "2026-09-26T17:14:40.000Z",
-      "text": "Pierwszy na rozgrzewkę. https://t.co/Fc8xjMQtQR",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103895994437918720",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTKKQpDW4AAX_B3.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3767,7 +3767,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2107037449432306122",
+      "lastSeenId": "2109675027532751341",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
