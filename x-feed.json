@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-12T18:57:08Z",
+  "updatedAt": "2026-10-13T16:22:54Z",
   "posts": [
+    {
+      "id": "2110040248826712072",
+      "url": "https://x.com/RiftLegendsPL/status/2110040248826712072",
+      "createdAt": "2026-10-13T16:09:32.000Z",
+      "text": "MISTRZOSTWA ŚWIATA WRACAJĄ! 🤠\n\n15.10 - 14.11 📆 https://t.co/aGENusC9xF",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110039707509755904",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUhd7zwWkAA4srQ.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "2b",
+        "playerHandle": null,
+        "kda": null,
+        "kp": 6.0,
+        "gold": null
+      },
+      "ocrText": "WORLDS‘ °26\n\n15.40 - 1\n\na\n\n=\n\nim\n\n“pie\n\nm\n\na\n\ni\n\nTHISIS\n\ney\n\nESPORTS\n\nWORLDS 2026\n\nOUR MOMENT\n\n2b\n\nWORLDS226\n= 2\n, ~- ‘6% ba\n— L J x ;\n° KoA —\n. aia “oe\nae ARS sk ~\n>. a\n: ~~ zx : = : a —\n— TAS Bauer we 2b",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2110015964523704488",
+      "url": "https://x.com/Lodis_LDS/status/2110015964523704488",
+      "createdAt": "2026-10-13T14:33:02.000Z",
+      "text": "Przed nami kolejne bitwy! https://t.co/jreGckjfan",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110015941564112898",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUhIUctXIAIeWEV.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2109989735842427224",
+      "url": "https://x.com/RiftLegendsPL/status/2109989735842427224",
+      "createdAt": "2026-10-13T12:48:49.000Z",
+      "text": "WALKA 🇵🇱 @Harpoonlol VS @FresskowyLoL 🇵🇱 O FINAŁ EMEA! \n\n🎙️ @JaskierBB  &amp; @AgaTrendsetter  &amp; @Bialito_ https://t.co/2P6Ys4KzW8",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2109989105320751104",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUgv6X6WcAAkzoh.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Harpoon",
+        "playerHandle": "Harpoonlol",
+        "kda": null,
+        "kp": null,
+        "gold": 7310
+      },
+      "ocrText": "#REKLAMA\n\n+>\n\novocRaM\n\n73.10\n\nCap\n\n\"G\n\n18:00\n\nwi-\n\n|\n\nGL\n\n‘he\n\nMKF\n\nS\n\n]\n\n—\n\nKika\n\nZobka cn\n\n»\n\nDIABLO =\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA g +\nRMONOGRAM\n»~ 13.10 ¥\n2, me\nA t Ps bag\n\"4 CEG 4 ——\n4 ; 7\n{\n— 18:00 Vv)\n(GJ GL VS MKF A]\n== =|\nCO ere unr DIABLO\n+ EMEA MASTERS SUMMER 2026 >",
+      "ocrVersion": 4
+    },
     {
       "id": "2109675027532751341",
       "url": "https://x.com/Lodis_LDS/status/2109675027532751341",
@@ -3661,113 +3757,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103915752344768863",
-      "url": "https://x.com/_ForsakenGG_/status/2103915752344768863",
-      "createdAt": "2026-09-26T18:32:58.000Z",
-      "text": "Nocturne pół sekundy po zakończeniu cooldownu ulta https://t.co/Opena80yzv",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2103915418494660608",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2103915418494660608/img/w0NwrwSet-Nlu0Ox.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2103912435375649269",
-      "url": "https://x.com/_ForsakenGG_/status/2103912435375649269",
-      "createdAt": "2026-09-26T18:19:48.000Z",
-      "text": "LETS GO DA SIĘ WYGRAĆ https://t.co/VF72C371jx",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2103912201958440961",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2103912201958440961/img/ND3WqRM64puhOBQS.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2103911480999518400",
-      "url": "https://x.com/RiftLegendsPL/status/2103911480999518400",
-      "createdAt": "2026-09-26T18:16:00.000Z",
-      "text": "dogadajcie się kto jest tym Mistrzem Polski, dobra? @_ForsakenGG_ @BombaTeamGG https://t.co/nnYGQYQBRW",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2103911422296027136",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTKYSqTXcAASZ4W.png",
-          "altText": null,
-          "width": 211,
-          "height": 68
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "FSK\n\nLH\n\n® FSK\nRL 4",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2109343048538943543",
+      "lastSeenId": "2110040248826712072",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2109675027532751341",
+      "lastSeenId": "2110015964523704488",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
