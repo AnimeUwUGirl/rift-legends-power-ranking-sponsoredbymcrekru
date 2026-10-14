@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-14T19:39:13Z",
+  "updatedAt": "2026-10-14T23:08:39Z",
   "posts": [
+    {
+      "id": "2110480617733509535",
+      "url": "https://x.com/RiftLegendsPL/status/2110480617733509535",
+      "createdAt": "2026-10-14T21:19:24.000Z",
+      "text": "Rok czekania minął!\n\nJuż jutro, późną porą zaczynamy MISTRZOSTWA ŚWIATA 2026! 🏆 https://t.co/ItGs3BYD4n",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110480327416135681",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUnurQ0WwAEJVHI.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "wonps",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "yf\n\nWoO\n\nLe\n\nUt)\n\n——\n\n~~ SS\n\n“=\n\nee ee\n\nDBEN\n\nNOVEMBER\n\nwonps\n\nS209 | Th Aig\nWORII ONS LD fi i i 4\nJ i\n—— =] | l il i aS ern eae\n——ar | * * ee\n“a \" ry\nm pueipo Mas\n. my WORLDS.\ncranes 2026",
+      "ocrVersion": 4
+    },
     {
       "id": "2110425653220868487",
       "url": "https://x.com/RiftLegendsPL/status/2110425653220868487",
@@ -3734,44 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104239072562860389",
-      "url": "https://x.com/RiftLegendsPL/status/2104239072562860389",
-      "createdAt": "2026-09-27T15:57:44.000Z",
-      "text": "Ile razy gracze @BombaTeamGG wystąpili na EMEA? 👀\n\nTrochę już tego jest… https://t.co/KDUI6FIYwD",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104239065960706048",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTPCSCEWcAA-Udx.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "Rae\n\nii\n\naii eae\n\n4\n\nADIi\n\nOprIi1a\n\ni314\n\nFRAIGO\n\n6x\n\n8x\n\n7\n\n-_\n\n| ananm a= oy wo G\n| 4 Oy yn = eS -\ny | \\ —_ i\n: 7 : y « = Dp\na FRAIJIGO ADI2 M U OpIia = EK\n5x, 6x 7 8x 7™\nmo |\n7, - |",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2110425653220868487",
+      "lastSeenId": "2110480617733509535",
       "initialized": true
     },
     "Lodis_LDS": {
