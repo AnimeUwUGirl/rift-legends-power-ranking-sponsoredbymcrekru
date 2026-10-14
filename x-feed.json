@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-13T21:30:14Z",
+  "updatedAt": "2026-10-14T10:32:56Z",
   "posts": [
+    {
+      "id": "2110283969703121204",
+      "url": "https://x.com/RiftLegendsPL/status/2110283969703121204",
+      "createdAt": "2026-10-14T08:18:00.000Z",
+      "text": "Oj taktak byczku, lecyymyy dalej z klasyczkami! 🔥\n\n🎙️ @Bialito_ kolejnym komentatorem WORLDS 2026! https://t.co/nANT5nHXnH",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110162868356136960",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjN8tqWQAABTNw.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Bialito",
+        "playerHandle": "Bialito_",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "LOLESPORTS\n\nWORLDS Y<°26\n\n9\n\ntl\n\na\n\nBIALITG\n\n\\il\n\nree\n\nG\n\n~ —\n\nva ma\n\n&\n\nva\n\n\"\n\nCAS\n\nTEREM -\n\nBERLDS 20\n\nOCTOBER —\n\nNOVEMBER\n\nWORLDS\n\nen LOLESPORTS-\nWORLDS*<226 yy\n| BIALITO\n—- Pee\nq = rc | :\n\\ a 4 a a\n» | CASTEREM * |\n. WORLDS 202604\neG NOe a ae a e",
+      "ocrVersion": 4
+    },
     {
       "id": "2110093715993735380",
       "url": "https://x.com/RiftLegendsPL/status/2110093715993735380",
@@ -3725,35 +3757,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2103939776206533044",
-      "url": "https://x.com/RiftLegendsPL/status/2103939776206533044",
-      "createdAt": "2026-09-26T20:08:26.000Z",
-      "text": "BOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI\nBOMBA POKONAŁA DRUŻYNĘ Z GRECJI",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2110093715993735380",
+      "lastSeenId": "2110283969703121204",
       "initialized": true
     },
     "Lodis_LDS": {
