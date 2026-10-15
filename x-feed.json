@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-15T21:17:18Z",
+  "updatedAt": "2026-10-15T23:48:18Z",
   "posts": [
+    {
+      "id": "2110869710959251954",
+      "url": "https://x.com/RiftLegendsPL/status/2110869710959251954",
+      "createdAt": "2026-10-15T23:05:31.000Z",
+      "text": "I TO SIE NAZYWA WEJŚCIE!\nIHAAAA @JaskierBB 🤠 https://t.co/ZIQDIvegEE",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2110869540494032896",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110869540494032896/img/0kEOOc1T9jReSnNe.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "JaskierBB",
+        "playerHandle": "JaskierBB",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2110865838660038672",
+      "url": "https://x.com/RiftLegendsPL/status/2110865838660038672",
+      "createdAt": "2026-10-15T22:50:08.000Z",
+      "text": "EU &gt; NA, ktoś wątpił? 🥴\n\nKC WYGRYWA 3:2 Z C9! https://t.co/lpI7Tl38mz",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110865530030579712",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUtNBAYW4AA3RdP.png",
+          "altText": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "extracted": {
+        "player": "SS",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Ps\n\nte\n\nmm, |\n\n17\n\n¥,\n\n\\\n\nEs\n\nay ¥\n\nJaa ie = a Bg\n1 f : 7 gi ae ae:\n> Fo. wee\n, my — a\nOg ba ee )\na . 4 “ el aa:\na ae\nVes — r\nSS\n¥ _ \\\n\\ 2\niy — oo | . Be",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2110857879519482052",
+      "url": "https://x.com/RiftLegendsPL/status/2110857879519482052",
+      "createdAt": "2026-10-15T22:18:30.000Z",
+      "text": "NIE ŚPIMY! 🔥\n\n5 MAPA KC VS C9 \n5 MAPA KC VS C9 \n5 MAPA KC VS C9 https://t.co/r6QHcQpCr6",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110857874180120576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUtGDYHXoAAruP2.jpg",
+          "altText": null,
+          "width": 1021,
+          "height": 990
+        }
+      ],
+      "extracted": {
+        "player": "Sal",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "Sal\n\na.\n\n* i\n\nos eo\n\n—_-. ¥ fe\nie b\n~ —_",
+      "ocrVersion": 4
+    },
     {
       "id": "2110806889302790403",
       "url": "https://x.com/RiftLegendsPL/status/2110806889302790403",
@@ -3670,99 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104547291205943384",
-      "url": "https://x.com/Lodis_LDS/status/2104547291205943384",
-      "createdAt": "2026-09-28T12:22:29.000Z",
-      "text": "Dzisiaj winek, okej? https://t.co/QysviR80AL",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104547111459045376",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTTaco-XQAAm65X.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104282489900675492",
-      "url": "https://x.com/_ForsakenGG_/status/2104282489900675492",
-      "createdAt": "2026-09-27T18:50:15.000Z",
-      "text": "Aktualnie 0-2 na EMEA\nAle to jeszcze nie koniec https://t.co/azmjBlEqRD",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104282392743616512",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTPpr-6XoAAaVyF.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104281815699837361",
-      "url": "https://x.com/RiftLegendsPL/status/2104281815699837361",
-      "createdAt": "2026-09-27T18:47:35.000Z",
-      "text": "Jutro będzie lepiej, prawda? 😢\n\nDzień 0-3 dla ekip Rift Legends, ale EMEA Masters jeszcze się nie kończy - od jutra lecimy po odbitkę 🔥",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2110806889302790403",
+      "lastSeenId": "2110869710959251954",
       "initialized": true
     },
     "Lodis_LDS": {
