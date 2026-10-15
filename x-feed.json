@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-14T23:08:39Z",
+  "updatedAt": "2026-10-15T12:49:40Z",
   "posts": [
+    {
+      "id": "2110711176275665333",
+      "url": "https://x.com/Lodis_LDS/status/2110711176275665333",
+      "createdAt": "2026-10-15T12:35:34.000Z",
+      "text": "Jeśli szukacie dobrego sosiwa do mieszkania, to dobrze się składa! 👀\n\nZ kodem 'LODIS10' zgarniecie zniżkę na cały asortyment Fanex w ich oficjalnym sklepie 😎🌶️\n\n#reklama https://t.co/5c0IaVXMK4",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2110705082048090112",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUq7FtEWkAAUib_.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2110480617733509535",
       "url": "https://x.com/RiftLegendsPL/status/2110480617733509535",
@@ -3734,38 +3766,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104249232165355910",
-      "url": "https://x.com/BombaTeamGG/status/2104249232165355910",
-      "createdAt": "2026-09-27T16:38:06.000Z",
-      "text": "Oporowo https://t.co/diBkJUpmvY",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104249156680269824",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104249156680269824/img/V7E9C48E7USMy9VH.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3776,7 +3776,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2110015964523704488",
+      "lastSeenId": "2110711176275665333",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
