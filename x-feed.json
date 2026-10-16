@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-16T14:11:11Z",
+  "updatedAt": "2026-10-16T18:18:49Z",
   "posts": [
+    {
+      "id": "2111138707176837477",
+      "url": "https://x.com/BombaTeamGG/status/2111138707176837477",
+      "createdAt": "2026-10-16T16:54:25.000Z",
+      "text": "GOATZKU in a nutshell. \n\nSummer w @RiftLegendsPL prezentuje się następująco 🗿 https://t.co/v5F40ndukH",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111138462686498816",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxFPxwX0AAvSKo.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": "RiftLegendsPL",
+        "playerHandle": "RiftLegendsPL",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2111092849404174592",
       "url": "https://x.com/Lodis_LDS/status/2111092849404174592",
@@ -3734,38 +3766,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104614440532631877",
-      "url": "https://x.com/RiftLegendsPL/status/2104614440532631877",
-      "createdAt": "2026-09-28T16:49:19.000Z",
-      "text": "ZAMIKING 🔥\n\nLODIS Z WYGRANYM MECZEM NA EMEA\nLODIS Z WYGRANYM MECZEM NA EMEA\nLODIS Z WYGRANYM MECZEM NA EMEA\nLODIS Z WYGRANYM MECZEM NA EMEA https://t.co/varOKtmcuu",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104614366515445760",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104614366515445760/img/J12SLGgOWDLTwmp5.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3784,7 +3784,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2110724050687349059",
+      "lastSeenId": "2111138707176837477",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
