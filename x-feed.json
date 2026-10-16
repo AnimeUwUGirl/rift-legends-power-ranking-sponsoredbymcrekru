@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-16T18:18:49Z",
+  "updatedAt": "2026-10-16T21:38:16Z",
   "posts": [
+    {
+      "id": "2111184321096888571",
+      "url": "https://x.com/RiftLegendsPL/status/2111184321096888571",
+      "createdAt": "2026-10-16T19:55:40.000Z",
+      "text": "Sto lat dla Nervarienusa🥳 https://t.co/YVZSNVui5n https://t.co/n55oSupSp5",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111184270261694465",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxu6IRXMAELXln.jpg",
+          "altText": null,
+          "width": 4096,
+          "height": 2731
+        }
+      ],
+      "extracted": {
+        "player": "Fy",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "~ 2\n\nay\n\nay\n\n\\\n\nd\n\n2\n\na ve\n\n~ sia\n\nsoged\n\nfe\n\nbk\n\nFy\n\n- jj\nff &e \\Q ’\n- RG\n\\ q 3 =e ay\nff, | Aan\ni \\ | 1 ACADEM\nved Pal Uae Sie) uN Z\n: ‘ 2\nis yoored",
+      "ocrVersion": 4
+    },
     {
       "id": "2111138707176837477",
       "url": "https://x.com/BombaTeamGG/status/2111138707176837477",
@@ -3734,44 +3766,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104614467611017383",
-      "url": "https://x.com/RiftLegendsPL/status/2104614467611017383",
-      "createdAt": "2026-09-28T16:49:25.000Z",
-      "text": "MAMY TO!\n\n@Lodis_LDS Z 1 WYGRANĄ NA EMEA 🔥 https://t.co/Q2yTbN2pqo",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2104614452263792641",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HTUXsZBWMAEtGiq.jpg",
-          "altText": null,
-          "width": 220,
-          "height": 124
-        }
-      ],
-      "extracted": {
-        "player": "Lodis_LDS",
-        "playerHandle": "Lodis_LDS",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2111065044444418541",
+      "lastSeenId": "2111184321096888571",
       "initialized": true
     },
     "Lodis_LDS": {
