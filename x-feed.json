@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-15T23:48:18Z",
+  "updatedAt": "2026-10-16T14:11:11Z",
   "posts": [
+    {
+      "id": "2111092849404174592",
+      "url": "https://x.com/Lodis_LDS/status/2111092849404174592",
+      "createdAt": "2026-10-16T13:52:12.000Z",
+      "text": "Zami king throwback 🐐 https://t.co/F10eQzBvWC",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2111092183897866240",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111092183897866240/img/alG6Uz5RPyB8A6ho.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2111074943475614044",
+      "url": "https://x.com/Lodis_LDS/status/2111074943475614044",
+      "createdAt": "2026-10-16T12:41:03.000Z",
+      "text": "Nasz miś założył zbroję i jest gotowy na wyzwania w The Blood of Dawnwalker! 😎\n\nChcecie dołączyć do walki? Zajrzyjcie na @KinguinNet - z kodem „LODIS” czeka na Was 8% zniżki!\n\n#reklama https://t.co/7vwV3IvNki",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111074281010434048",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUwK36YXEAAbKal.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "KinguinNet",
+        "playerHandle": "KinguinNet",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2111065044444418541",
+      "url": "https://x.com/RiftLegendsPL/status/2111065044444418541",
+      "createdAt": "2026-10-16T12:01:42.000Z",
+      "text": "Nie da się ukryć, Furia dostała niezły przekop, czy dziś to samo czeka KC? \n\n🎙️ @Pedro_Paprzycki &amp; @Veggie_LoL \n🎙️ @JaskierBB &amp; @Tabaskolol https://t.co/fTRLvAvntu",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111065030267469825",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUwCdcrXgAEn_o2.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Pedro_Paprzycki",
+        "playerHandle": "Pedro_Paprzycki",
+        "kda": null,
+        "kp": null,
+        "gold": 2026
+      },
+      "ocrText": "LOLESPORTS\n\nWORLDS ¢<°26\n\n=\n\n=\n\nSS\n\n‘SCHEDULE |\n\n=\n\n>—\n\ni\n\nse\n\ney\n\n1\n\n,\n\nTi\n\n»\n\n1s\n\nBOS\n\n20:00\n\nB xe\n\nc9 <& we (2 PUR\n\nOCTOBER —\n\nWORLDS\n\nNOVEMBER\n\n2026\n\nWORLDS 2226 a\naes 4 ¢@ a\nv. 6 ee oe di\n“ ‘i 4 dA. a in « “\n| \\ A\n) EE xe) | < $\n} y \"a ~~ vl Ay\ni a , {\nBOS\nMVK vs @& ke\n20:00\n= BOS, ¥\n€9 <Q vs (2 FUR\n01:00\nOCTOBER — WORLDS.\nNOVEMBER 2026",
+      "ocrVersion": 4
+    },
     {
       "id": "2110869710959251954",
       "url": "https://x.com/RiftLegendsPL/status/2110869710959251954",
@@ -3670,113 +3766,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104611990316425297",
-      "url": "https://x.com/BombaTeamGG/status/2104611990316425297",
-      "createdAt": "2026-09-28T16:39:34.000Z",
-      "text": "21:00 wchodzimy na RIFT'a. https://t.co/IDxU7aC6M1",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104611884787777536",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTUVW8bXQAA4uA_.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104601433689510301",
-      "url": "https://x.com/RiftLegendsPL/status/2104601433689510301",
-      "createdAt": "2026-09-28T15:57:38.000Z",
-      "text": "SIEEEEMAAA\n\nWielki powrót do studia! \nKIBICUJEMY DZIŚ NASZYM REPREZENTANTOM! 🔥 https://t.co/HTCDoKioCJ",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104601256119414784",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTULsRjWsAAPhwl.jpg",
-          "altText": null,
-          "width": 1910,
-          "height": 1075
-        }
-      ],
-      "extracted": {
-        "player": "ee",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "s\n\nof\n\n¢\n\noa\n\nes.\n\n4\n\ns\n\nloz, al\n\ny\n\nre® |\n\nee\n\n4\n\n—~\n\nf\n\n&\n\na\n\nc<\n\n_“\n\n»-\n\nx\n\n&\n\n——\n\no |\n\nae ‘ = +\n‘ ) 2 py p oe\nae ae (\"ae\nthe —— A’ 7 “ae\ni Es)\nas » \"’ ge GIR a |\ny \\ “a X ] a * ~_ y\\ =\nA + P te a\n4 \\ & 4)\n/ j 5\niN 2 Ag a\n. © ome So)\nG& ° =: eee",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104560053466419506",
-      "url": "https://x.com/_ForsakenGG_/status/2104560053466419506",
-      "createdAt": "2026-09-28T13:13:12.000Z",
-      "text": "Ja tam zawsze byłem fanem Realu https://t.co/o0pWcqXgad",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104560048953327616",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTTmNs5XgAAOW8g.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2110869710959251954",
+      "lastSeenId": "2111065044444418541",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2110711176275665333",
+      "lastSeenId": "2111092849404174592",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
