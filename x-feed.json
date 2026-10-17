@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-17T16:37:52Z",
+  "updatedAt": "2026-10-17T19:16:34Z",
   "posts": [
+    {
+      "id": "2111499985116119417",
+      "url": "https://x.com/RiftLegendsPL/status/2111499985116119417",
+      "createdAt": "2026-10-17T16:50:00.000Z",
+      "text": "Przed nami kolejna okazja do obserwowania najlepszego toplanera turnieju - widzimy się już o 20:00 🤠\n\nIlu mamy tutaj fanów Guigo? https://t.co/7QebiOsa5Y",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111499553954316288",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU2NqDjXwAAITGF.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Vs",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": 2026
+      },
+      "ocrText": "LOLESPORTS\n\nWORLDS ¢<?26\n\n‘SCHEDULE\n\nse\n\nSS\n\n3\n\new\n\n$s\n\ni\n\n‘ye\n\nBOS\n\n20:00\n\nC2 FOR\n\nOCTOBER—\n\nWORLDS\n\nNOVEMBER\n\n2026\n\nWORLDS 2226 a\nS ) => Si \"y\na /)) j\n\nBOS “}\nVs .\n\nMVK vs (2 FUR\nOCTOBER— WORLDS\nNOVEMBER 2026",
+      "ocrVersion": 4
+    },
     {
       "id": "2111478845903974639",
       "url": "https://x.com/Lodis_LDS/status/2111478845903974639",
@@ -3743,44 +3775,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104630493278806418",
-      "url": "https://x.com/BombaTeamGG/status/2104630493278806418",
-      "createdAt": "2026-09-28T17:53:06.000Z",
-      "text": "TURCJA POKONANA ✅ https://t.co/uujcjxqja4",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "16_2104630443270082560",
-          "type": "animated_gif",
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HTUmPMKWEAA_P8y.jpg",
-          "altText": null,
-          "width": 576,
-          "height": 574
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2111184321096888571",
+      "lastSeenId": "2111499985116119417",
       "initialized": true
     },
     "Lodis_LDS": {
