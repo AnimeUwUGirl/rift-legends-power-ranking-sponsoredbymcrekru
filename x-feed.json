@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-16T21:38:16Z",
+  "updatedAt": "2026-10-17T16:37:52Z",
   "posts": [
+    {
+      "id": "2111478845903974639",
+      "url": "https://x.com/Lodis_LDS/status/2111478845903974639",
+      "createdAt": "2026-10-17T15:26:00.000Z",
+      "text": "Ostoja górnej alejki, filar zespołu - @sinmivak 😎 https://t.co/tvNcwLZCT8",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111478475680821248",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU16fI3WsAAjf_w.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "sinmivak",
+        "playerHandle": "sinmivak",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2111472764494217431",
+      "url": "https://x.com/BombaTeamGG/status/2111472764494217431",
+      "createdAt": "2026-10-17T15:01:50.000Z",
+      "text": "Odi Atomówka 11 😎💣 https://t.co/oYYiaANZWE",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111471993371410432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU10l0YWwAAi3OI.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2111184321096888571",
       "url": "https://x.com/RiftLegendsPL/status/2111184321096888571",
@@ -3711,61 +3775,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104618878773186821",
-      "url": "https://x.com/BombaTeamGG/status/2104618878773186821",
-      "createdAt": "2026-09-28T17:06:57.000Z",
-      "text": "Zmiana planów - wchodzimy 19:00",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104614488053792837",
-      "url": "https://x.com/Lodis_LDS/status/2104614488053792837",
-      "createdAt": "2026-09-28T16:49:30.000Z",
-      "text": "No i to mi się podoba! https://t.co/NXdz4S7AsU",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104614270839197696",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTUXh1KWkAAcyo-.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3776,7 +3785,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2111092849404174592",
+      "lastSeenId": "2111478845903974639",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3784,7 +3793,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2111138707176837477",
+      "lastSeenId": "2111472764494217431",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
