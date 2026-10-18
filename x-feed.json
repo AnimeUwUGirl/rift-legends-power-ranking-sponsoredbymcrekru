@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-18T16:49:51Z",
+  "updatedAt": "2026-10-18T19:23:22Z",
   "posts": [
+    {
+      "id": "2111897289929146422",
+      "url": "https://x.com/RiftLegendsPL/status/2111897289929146422",
+      "createdAt": "2026-10-18T19:08:45.000Z",
+      "text": "Ale że ziomek pickuje skalniaka do lasu i nie abusuje 3x Zeal? ☠️ https://t.co/43IJjknsCi https://t.co/RCWg8AhrFj",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111897283679625216",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU73Y-PWIAA3ZP0.jpg",
+          "altText": null,
+          "width": 1206,
+          "height": 506
+        }
+      ],
+      "extracted": {
+        "player": "ML",
+        "playerHandle": null,
+        "kda": "0/0/0",
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "32\n\nmale 5 . i Oe\n\n0/0/0\n\n3\n\n27\n\no/1/0\n\n| ey FA\n\n30\n\nChika |\n\nA\n\n1/0/0\n\n——_\n\n=, pransa\n\n3\n\n22\n\nHarky\n\n0/0/0\n\nSa SNS | 8\n\n\\\n\n$28 &F\n\nKd\n\nML,\n\n3\n\no/o/1\n\ngo le 2.2 ee %\n\nHann “ale 3 ioe ame.\nFo Sedge SS\n\n_| wore e me a° OBS J 4 at\n\"07010 we 1G OI eNs a » \\e\nHoon “seed 52 oe yon t",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2111874476807958971",
+      "url": "https://x.com/RiftLegendsPL/status/2111874476807958971",
+      "createdAt": "2026-10-18T17:38:06.000Z",
+      "text": "Już za chwilę WIELKA EUROPA walczy o awans do main stage Worldsów 26\n\nZapraszamy na cast z dwoma Piotrkami 🤠 https://t.co/EAwyxmgWgC",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111874275732869121",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU7idu9X0AEOxTN.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "2g",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "LOLESPORTS\n\nWORLDS ¢<?26\n\n‘SCHEDULE\n\nSee\n\nSS\n\n;\n\nie\n\nBi\n\nYQ\n\ncing\n\nSe xe |\n\nTOBER —\n\nNOVEMBER\n\nworps\n\nWORLDS 2226 -\n\"ee = =\n‘her \\ yi!\n2g\n: =\n05 )\nMVK vs @& ke\nOCTOBER — WORLDS\nNOVEMBER 2026",
+      "ocrVersion": 4
+    },
     {
       "id": "2111839804795338805",
       "url": "https://x.com/BombaTeamGG/status/2111839804795338805",
@@ -3720,76 +3784,12 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104656945567207722",
-      "url": "https://x.com/_ForsakenGG_/status/2104656945567207722",
-      "createdAt": "2026-09-28T19:38:13.000Z",
-      "text": "Kibice są wkurzeni, my sami jesteśmy wkurzeni, trener jest wkurzony i co jeszcze mam powiedzieć no ogólnie jedno wielkie wkurzenie https://t.co/b10FPROlAB",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104655740581351425",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTU9Pr_WkAExne0.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104654760620232877",
-      "url": "https://x.com/RiftLegendsPL/status/2104654760620232877",
-      "createdAt": "2026-09-28T19:29:32.000Z",
-      "text": "Niszczyciel polskich marzeń, a to nawet nie jest on. \n\nKOŃCZYMY DZIEŃ 3 SWISSA Z WYNIKIEM 2-1\n\nSKALUJEMY. https://t.co/EPDMjOpGvC",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104654751967186944",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTU8WJHXkAAsf1S.jpg",
-          "altText": null,
-          "width": 1500,
-          "height": 1006
-        }
-      ],
-      "extracted": {
-        "player": "aN",
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "\\\n\nte\n\n~\n\n5\n\n4 A\n\n2\n\n©, \\\n\ny i\n\nwi\n\nbe \\\n\n»\n\nJ\n\nPAN\n\ni\n\neo\n\nWi\n\n&\n\naN\n\n‘ay\n\nBON , a 2 oak\nSS 4 \\ Ay t t ’\n. Eo ,\" ‘ a 3 , ee.\n\\ % € VS t\na> \\ ‘N ee SS ye\n' ~~ = ay AY\n\\ = Ae 7 \\ 4 _\n\\l Ye ta\nWhy 2 ij \\ ~ ak Nee\nowe et i, \\ ‘ “e\n‘4 = We j } SS S 5, » .\nlay) ‘ Ne .\nEY =e |e\nis . / / 7 a Se = 3\n\\ | ages oy \\ BRN?\noN 1 7 gay Si | 4 ,\n. W\\h \\ ie ee | Gas.\n| c",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2111499985116119417",
+      "lastSeenId": "2111897289929146422",
       "initialized": true
     },
     "Lodis_LDS": {
