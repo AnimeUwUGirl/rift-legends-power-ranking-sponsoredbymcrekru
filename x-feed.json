@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-17T19:16:34Z",
+  "updatedAt": "2026-10-18T16:49:51Z",
   "posts": [
+    {
+      "id": "2111839804795338805",
+      "url": "https://x.com/BombaTeamGG/status/2111839804795338805",
+      "createdAt": "2026-10-18T15:20:20.000Z",
+      "text": "Millio &amp; mineleona w gazie 😏 https://t.co/MoomjQHON5",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2111839445255110656",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU7CyVUWwAA18HJ.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2111812345286774976",
+      "url": "https://x.com/Lodis_LDS/status/2111812345286774976",
+      "createdAt": "2026-10-18T13:31:13.000Z",
+      "text": "Piramidkowy throwback z EMEA 😎 https://t.co/2jLUH50rEQ",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2111811875138596864",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111811875138596864/img/rgmlSlBaOGfXSb9r.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2111499985116119417",
       "url": "https://x.com/RiftLegendsPL/status/2111499985116119417",
@@ -3720,61 +3784,6 @@
       },
       "ocrText": "\\\n\nte\n\n~\n\n5\n\n4 A\n\n2\n\n©, \\\n\ny i\n\nwi\n\nbe \\\n\n»\n\nJ\n\nPAN\n\ni\n\neo\n\nWi\n\n&\n\naN\n\n‘ay\n\nBON , a 2 oak\nSS 4 \\ Ay t t ’\n. Eo ,\" ‘ a 3 , ee.\n\\ % € VS t\na> \\ ‘N ee SS ye\n' ~~ = ay AY\n\\ = Ae 7 \\ 4 _\n\\l Ye ta\nWhy 2 ij \\ ~ ak Nee\nowe et i, \\ ‘ “e\n‘4 = We j } SS S 5, » .\nlay) ‘ Ne .\nEY =e |e\nis . / / 7 a Se = 3\n\\ | ages oy \\ BRN?\noN 1 7 gay Si | 4 ,\n. W\\h \\ ie ee | Gas.\n| c",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104653351845855716",
-      "url": "https://x.com/_ForsakenGG_/status/2104653351845855716",
-      "createdAt": "2026-09-28T19:23:56.000Z",
-      "text": "Nie no nichuja człowieku\nNie idzie nic strzelić https://t.co/PR92kNswii",
-      "kind": "post",
-      "author": {
-        "username": "_ForsakenGG_",
-        "name": "Forsaken",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104653152700002304",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTU65DYW8AA4Fhv.jpg",
-          "altText": null,
-          "width": 1338,
-          "height": 756
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104647932066849097",
-      "url": "https://x.com/RiftLegendsPL/status/2104647932066849097",
-      "createdAt": "2026-09-28T19:02:24.000Z",
-      "text": "TO DZIAŁA.\n\nNie ma szans że @_ForsakenGG_ wygra i doprowadzi do 3-0 dnia dla RL. Jest to absolutnie niemożliwe i na pewno się nie stanie. 🙏🏻 https://t.co/DmBRIIHpHC",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3785,7 +3794,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2111478845903974639",
+      "lastSeenId": "2111812345286774976",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3793,7 +3802,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2111472764494217431",
+      "lastSeenId": "2111839804795338805",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
