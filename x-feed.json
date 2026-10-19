@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-18T21:47:48Z",
+  "updatedAt": "2026-10-19T11:11:23Z",
   "posts": [
+    {
+      "id": "2112111090767184033",
+      "url": "https://x.com/BombaTeamGG/status/2112111090767184033",
+      "createdAt": "2026-10-19T09:18:19.000Z",
+      "text": "Big vouch, @Mrozku lubi dominować 😈 https://t.co/rswypAMzDj https://t.co/DsLiqagRBY",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "16_2112110975046295552",
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HU-5vcnWoAAPdW9.jpg",
+          "altText": null,
+          "width": 220,
+          "height": 194
+        }
+      ],
+      "extracted": {
+        "player": "Mrozku",
+        "playerHandle": "Mrozku",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2111919350835757426",
       "url": "https://x.com/RiftLegendsPL/status/2111919350835757426",
@@ -3743,38 +3775,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104942975738671488",
-      "url": "https://x.com/BombaTeamGG/status/2104942975738671488",
-      "createdAt": "2026-09-29T14:34:48.000Z",
-      "text": "🇵🇱 ⚔️ 🇩🇪\n\nStart 18:00 https://t.co/gmpqpT06L5",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104942752349720576",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZCR-JWkAA19XJ.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3793,7 +3793,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2111839804795338805",
+      "lastSeenId": "2112111090767184033",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
