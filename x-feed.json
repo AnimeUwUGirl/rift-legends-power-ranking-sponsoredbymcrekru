@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-19T11:11:23Z",
+  "updatedAt": "2026-10-19T17:43:41Z",
   "posts": [
+    {
+      "id": "2112195328015274306",
+      "url": "https://x.com/Lodis_LDS/status/2112195328015274306",
+      "createdAt": "2026-10-19T14:53:03.000Z",
+      "text": "Jak sprawił się młody, gniewny @mikusik11 w tym splicie @RiftLegendsPL? Sprawdźcie sami 😎 https://t.co/ROhSSRh8Bu",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2112194979284025344",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVAGJIyWgAA4bHG.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "mikusik11",
+        "playerHandle": "mikusik11",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2112111090767184033",
       "url": "https://x.com/BombaTeamGG/status/2112111090767184033",
@@ -3743,38 +3775,6 @@
       },
       "ocrText": "=\n\n7\n\n;\n\n4 7\nJ eo\n\n4 -",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104943244803272736",
-      "url": "https://x.com/Lodis_LDS/status/2104943244803272736",
-      "createdAt": "2026-09-29T14:35:52.000Z",
-      "text": "JAAAAAAAAZDA! https://t.co/T4dw38rEM3",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104943114188132352",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZCnCGWkAAFUoz.jpg",
-          "altText": null,
-          "width": 1080,
-          "height": 1350
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3785,7 +3785,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2111812345286774976",
+      "lastSeenId": "2112195328015274306",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
