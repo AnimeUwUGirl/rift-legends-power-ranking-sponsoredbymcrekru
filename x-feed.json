@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-19T17:43:41Z",
+  "updatedAt": "2026-10-20T16:52:35Z",
   "posts": [
+    {
+      "id": "2112548207473696774",
+      "url": "https://x.com/BombaTeamGG/status/2112548207473696774",
+      "createdAt": "2026-10-20T14:15:16.000Z",
+      "text": "Coś niecoś szarpnął na tym TOPIE 😎 https://t.co/89Ref7ewaU",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2112547483989467136",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVFGvnJWYAARpl4.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2112543033770275001",
+      "url": "https://x.com/RiftLegendsPL/status/2112543033770275001",
+      "createdAt": "2026-10-20T13:54:43.000Z",
+      "text": "Dajcie już tego SWISSA 🥴 https://t.co/pkTUJmuRHa",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2112542981399945217",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVFCphsWoAE_fDW.png",
+          "altText": null,
+          "width": 457,
+          "height": 437
+        }
+      ],
+      "extracted": {
+        "player": "he",
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "(WT\n\nhe\n\n6 .\n\n4\n\niu  f&\n2 ee “\nye Lam\n+ a > : 4\nieee | et\nor i\nN o eee germ\n; =\n—_ , al y.",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2112530614612050392",
+      "url": "https://x.com/Lodis_LDS/status/2112530614612050392",
+      "createdAt": "2026-10-20T13:05:22.000Z",
+      "text": "Każdy znajdzie coś dla siebie z NORDIS 😎\n\n#reklama https://t.co/nSSj3Zr68o",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2112530126457966592",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112530126457966592/img/REcosjhfh3id8fTR.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2112195328015274306",
       "url": "https://x.com/Lodis_LDS/status/2112195328015274306",
@@ -3679,113 +3775,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104968872231309487",
-      "url": "https://x.com/RiftLegendsPL/status/2104968872231309487",
-      "createdAt": "2026-09-29T16:17:42.000Z",
-      "text": "Ważne pytania na dzień dzisiejszy. 👀 https://t.co/cRfGT2BODv",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104968604630323200",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104968604630323200/img/jho2BVc5k5S_mmMM.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104967722073461051",
-      "url": "https://x.com/BombaTeamGG/status/2104967722073461051",
-      "createdAt": "2026-09-29T16:13:08.000Z",
-      "text": "Pierwszy złapany. https://t.co/uz4F2lOuOy",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104967661599727617",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104967661599727617/img/3BBXTjY1VSD0TmbM.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104963951805235427",
-      "url": "https://x.com/RiftLegendsPL/status/2104963951805235427",
-      "createdAt": "2026-09-29T15:58:09.000Z",
-      "text": "WIECZÓR Z EMEA I DRUŻYNAMI Z RIFT LEGENDS\n\nJAZDA PANY @_ForsakenGG_, @Lodis_LDS, @BombaTeamGG GRAAAAAĆ \n\nLECIMY Z NIMI DZIŚ, TO JEST TEN DZIEŃ!!! 🔥 https://t.co/pQWgBRJi5D",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104963760582500352",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZVYz6XIAATj2o.png",
-          "altText": null,
-          "width": 236,
-          "height": 306
-        }
-      ],
-      "extracted": {
-        "player": "ForsakenGG",
-        "playerHandle": "_ForsakenGG_",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "=\n\n7\n\n;\n\n4 7\nJ eo\n\n4 -",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2111919350835757426",
+      "lastSeenId": "2112543033770275001",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2112195328015274306",
+      "lastSeenId": "2112530614612050392",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3793,7 +3793,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2112111090767184033",
+      "lastSeenId": "2112548207473696774",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
