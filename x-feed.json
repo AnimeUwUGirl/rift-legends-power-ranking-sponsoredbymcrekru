@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-21T13:10:55Z",
+  "updatedAt": "2026-10-21T18:14:07Z",
   "posts": [
+    {
+      "id": "2112933583761322076",
+      "url": "https://x.com/BombaTeamGG/status/2112933583761322076",
+      "createdAt": "2026-10-21T15:46:37.000Z",
+      "text": "Lee Sin był całkiem świeży w tym splicie ngl. https://t.co/fwVOUaa3Wz",
+      "kind": "post",
+      "author": {
+        "username": "BombaTeamGG",
+        "name": "Bomba Team",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2112933348649652225",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKlr5BW0AEZPdV.jpg",
+          "altText": null,
+          "width": 2160,
+          "height": 2700
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2112891904568504431",
       "url": "https://x.com/Lodis_LDS/status/2112891904568504431",
@@ -3743,38 +3775,6 @@
       },
       "ocrText": "\"CINEMAE\n\ny=\n‘CINEMA",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104974137576108197",
-      "url": "https://x.com/BombaTeamGG/status/2104974137576108197",
-      "createdAt": "2026-09-29T16:38:37.000Z",
-      "text": "Eee, @BIGCLANgg żyjesz??? https://t.co/8npEn9oIwq",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104974126955778048",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104974126955778048/img/7CbVnrNPGeqLjEfI.jpg",
-          "altText": null,
-          "width": 128,
-          "height": 128
-        }
-      ],
-      "extracted": {
-        "player": "BIGCLANgg",
-        "playerHandle": "BIGCLANgg",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3793,7 +3793,7 @@
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
-      "lastSeenId": "2112548207473696774",
+      "lastSeenId": "2112933583761322076",
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
