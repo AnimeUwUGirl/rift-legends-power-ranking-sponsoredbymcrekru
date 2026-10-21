@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-20T16:52:35Z",
+  "updatedAt": "2026-10-21T13:10:55Z",
   "posts": [
+    {
+      "id": "2112891904568504431",
+      "url": "https://x.com/Lodis_LDS/status/2112891904568504431",
+      "createdAt": "2026-10-21T13:01:00.000Z",
+      "text": "Nowy buff odblokowany: LODIS x Sokołów! 🐻‍❄️🤝🥩 Stale podnosimy poprzeczkę, a żeby progresować, potrzebujemy mocniejszego zawodnika.\n\nDziś oficjalnie łączymy siły z marką Sokołów, która od teraz będzie wspierać naszych zawodników 🫡\n\nCieszymy się, że tak doświadczony partner https://t.co/I8Mpc0y033",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2112861296206950400",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVJkJ4wWMAAvxDI.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
     {
       "id": "2112548207473696774",
       "url": "https://x.com/BombaTeamGG/status/2112548207473696774",
@@ -3743,38 +3775,6 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104970147962274144",
-      "url": "https://x.com/RiftLegendsPL/status/2104970147962274144",
-      "createdAt": "2026-09-29T16:22:46.000Z",
-      "text": "FRAAAAAAAJGOOOOOO 🔥 https://t.co/peZ0YP8fmq",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "13_2104970046409785344",
-          "type": "video",
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2104970046409785344/img/mJEPswk5Rio5eq5h.jpg",
-          "altText": null,
-          "width": 1920,
-          "height": 1080
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
@@ -3785,7 +3785,7 @@
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2112530614612050392",
+      "lastSeenId": "2112891904568504431",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
