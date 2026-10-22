@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-10-21T18:14:07Z",
+  "updatedAt": "2026-10-22T15:36:51Z",
   "posts": [
+    {
+      "id": "2113245913724666296",
+      "url": "https://x.com/RiftLegendsPL/status/2113245913724666296",
+      "createdAt": "2026-10-22T12:27:42.000Z",
+      "text": "Ależ on się prezentuje 🥰\n\nDAAAWAJ FRANIU @Harpoonlol 🏆 https://t.co/rqU8xH2oqE",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "13_2113245767536160768",
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113245767536160768/img/q1K72kAupZQ1Y9kp.jpg",
+          "altText": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "extracted": {
+        "player": "Harpoon",
+        "playerHandle": "Harpoonlol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2113233328707190804",
+      "url": "https://x.com/Lodis_LDS/status/2113233328707190804",
+      "createdAt": "2026-10-22T11:37:42.000Z",
+      "text": "Taka sytuacja. https://t.co/eaI2ajHgK8",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2113233292409315328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVO2e6mWIAAWTRF.png",
+          "altText": null,
+          "width": 647,
+          "height": 479
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2113233324219249086",
+      "url": "https://x.com/Lodis_LDS/status/2113233324219249086",
+      "createdAt": "2026-10-22T11:37:41.000Z",
+      "text": "Mamo, możemy mieć team LODIS w domu?\nMama: Przecież masz LODIS w domu...\n\nLODIS w domu: https://t.co/oJm10mtZWY",
+      "kind": "post",
+      "author": {
+        "username": "Lodis_LDS",
+        "name": "LODIS",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+        "type": "team"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2113233063941431296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVO2RnfW4AAHI5p.jpg",
+          "altText": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "extracted": {
+        "player": null,
+        "playerHandle": null,
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "",
+      "ocrVersion": 4
+    },
+    {
+      "id": "2113227635182489978",
+      "url": "https://x.com/RiftLegendsPL/status/2113227635182489978",
+      "createdAt": "2026-10-22T11:15:04.000Z",
+      "text": "KOLEJNY FINAŁ I KOLEJNE STARCIE SOLARY Z GALIONS O MISTRZOSTWO EMEA! 🔥\n\n🇵🇱 @Harpoonlol MAKE US PROUD (again) 🏆 https://t.co/57THd7vHsL",
+      "kind": "post",
+      "author": {
+        "username": "RiftLegendsPL",
+        "name": "Rift Legends",
+        "profileImageUrl": "",
+        "type": "league"
+      },
+      "media": [
+        {
+          "mediaKey": "3_2113227168645775360",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVOw6dzWAAAEjPe.jpg",
+          "altText": null,
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "extracted": {
+        "player": "Harpoon",
+        "playerHandle": "Harpoonlol",
+        "kda": null,
+        "kp": null,
+        "gold": null
+      },
+      "ocrText": "#REKLAMA\n\nELKI FINAL\n\naS\n\n=o)\n\n\"G\n\nN\n\n14:00\n\nSLY\n\n‘he\n\nKeke)\n\nzabka & AUIOR\n\n»\n\nDIABLO\n\n+\n\nEMEA MASTERS SUMMER 2026\n\n#REKLAMA +\n~ WVIELHKI FINAL\n=\ni 2 |\n! 4 p r a\nE9,\n\\ s\n| ~ &\n| :\n14:00 = >\nSS) sty vs— GL a\nCP wre ux BP DIABLO =\n+ EMEA MASTERS SUMMER 2026 aa",
+      "ocrVersion": 4
+    },
     {
       "id": "2112933583761322076",
       "url": "https://x.com/BombaTeamGG/status/2112933583761322076",
@@ -3647,145 +3775,17 @@
       },
       "ocrText": "",
       "ocrVersion": 4
-    },
-    {
-      "id": "2104980792430768298",
-      "url": "https://x.com/Lodis_LDS/status/2104980792430768298",
-      "createdAt": "2026-09-29T17:05:04.000Z",
-      "text": "Draft ugotowany. https://t.co/lGQsSSg3kL",
-      "kind": "post",
-      "author": {
-        "username": "Lodis_LDS",
-        "name": "LODIS",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104980695810494464",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZkykjW0AARqLU.jpg",
-          "altText": null,
-          "width": 1672,
-          "height": 941
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104975986101998018",
-      "url": "https://x.com/BombaTeamGG/status/2104975986101998018",
-      "createdAt": "2026-09-29T16:45:58.000Z",
-      "text": "Nie tym razem Panie Premierze. https://t.co/vWadTqqmX4",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104975759039250432",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZgTNpXwAA0KGw.jpg",
-          "altText": null,
-          "width": 1254,
-          "height": 1254
-        }
-      ],
-      "extracted": {
-        "player": null,
-        "playerHandle": null,
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104974750254612641",
-      "url": "https://x.com/BombaTeamGG/status/2104974750254612641",
-      "createdAt": "2026-09-29T16:41:03.000Z",
-      "text": "No i skąd to zwątpienie? hehehe\n\nGG @BIGCLANgg https://t.co/kAVVyKmZIi",
-      "kind": "post",
-      "author": {
-        "username": "BombaTeamGG",
-        "name": "Bomba Team",
-        "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
-        "type": "team"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104974625146802176",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZfRNkWEAAPZ1a.jpg",
-          "altText": null,
-          "width": 2160,
-          "height": 2700
-        }
-      ],
-      "extracted": {
-        "player": "BIGCLANgg",
-        "playerHandle": "BIGCLANgg",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "",
-      "ocrVersion": 4
-    },
-    {
-      "id": "2104974632214245686",
-      "url": "https://x.com/RiftLegendsPL/status/2104974632214245686",
-      "createdAt": "2026-09-29T16:40:35.000Z",
-      "text": "WYGRYWAMY NA BIG, WYGRYWAMY NA #1 SEED NIEMIEC, @BombaTeamGG GWARANTUJE SOBIE BO3 O WEJŚCIE DO PLAYOFÓW\n\n@frajgo CO TY ZAGRAŁEŚ W TEJ GRZE TO NIE MAMY SŁÓW https://t.co/rn4ywBm91R",
-      "kind": "post",
-      "author": {
-        "username": "RiftLegendsPL",
-        "name": "Rift Legends",
-        "profileImageUrl": "",
-        "type": "league"
-      },
-      "media": [
-        {
-          "mediaKey": "3_2104971215886532608",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTZcKxFWwAAQ5lr.jpg",
-          "altText": null,
-          "width": 387,
-          "height": 387
-        }
-      ],
-      "extracted": {
-        "player": "BombaTeamGG",
-        "playerHandle": "BombaTeamGG",
-        "kda": null,
-        "kp": null,
-        "gold": null
-      },
-      "ocrText": "\"CINEMAE\n\ny=\n‘CINEMA",
-      "ocrVersion": 4
     }
   ],
   "accounts": {
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
-      "lastSeenId": "2112543033770275001",
+      "lastSeenId": "2113245913724666296",
       "initialized": true
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
-      "lastSeenId": "2112891904568504431",
+      "lastSeenId": "2113233328707190804",
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
@@ -3797,7 +3797,8 @@
       "initialized": true,
       "username": "BombaTeamGG",
       "name": "Bomba Team",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021627541056819200/_TMft35S_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "_ForsakenGG_": {
       "userId": "1170987738398674944",
@@ -3805,7 +3806,8 @@
       "initialized": true,
       "username": "_ForsakenGG_",
       "name": "Forsaken",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977883555289034752/JC-eobQP_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "devils1gg": {
       "userId": "3302474159",
@@ -3813,7 +3815,8 @@
       "initialized": true,
       "username": "devils1gg",
       "name": "devils.one",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902272230395949056/paOLvC0n_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "AnonymoEsports": {
       "userId": "1128596869872082944",
@@ -3821,7 +3824,8 @@
       "initialized": true,
       "username": "AnonymoEsports",
       "name": "Anonymo Esports",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784532242343006208/gszfacrY_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "DOCISK_": {
       "userId": "1692642128554278912",
@@ -3829,7 +3833,8 @@
       "initialized": true,
       "username": "DOCISK_",
       "name": "DOCISK",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1988766193734307840/_3KTh5ZF_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "barczacaesports": {
       "userId": "1941625168306241536",
@@ -3837,7 +3842,8 @@
       "initialized": true,
       "username": "barczacaesports",
       "name": "Barcząca Esports by Yumisu",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000687670498865154/Xlk1Co31_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "UP2UMEDIApl": {
       "userId": "1892686526880051200",
@@ -3845,7 +3851,8 @@
       "initialized": true,
       "username": "UP2UMEDIApl",
       "name": "UP2UMEDIA",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930947930740916224/tVQdD6-G_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930947930740916224/tVQdD6-G_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     }
   }
 }
