@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:36:51Z",
+  "updatedAt": "2026-10-22T19:33:43Z",
   "posts": [
     {
       "id": "2113245913724666296",
@@ -3781,7 +3781,8 @@
     "RiftLegendsPL": {
       "userId": "1851662981429362691",
       "lastSeenId": "2113245913724666296",
-      "initialized": true
+      "initialized": true,
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "Lodis_LDS": {
       "userId": "1349456781894950913",
@@ -3789,7 +3790,8 @@
       "initialized": true,
       "username": "Lodis_LDS",
       "name": "LODIS",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg"
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2084364302715064320/NSlx91_z_normal.jpg",
+      "error": "X API zwróciło HTTP 402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
     },
     "BombaTeamGG": {
       "userId": "2012992455033999360",
